@@ -9,9 +9,105 @@
 
 **Black Text:** Text unchanged from 2026 FIA F1 Regulations – Section D \[Financial – F1 Teams] – Iss 04 <mark>Pink Text:</mark> Changes relatives to 2026 FIA F1 Regulations – Section D \[Financial – F1 Teams] – Iss 04, approved by the WMSC on 27/02/2026 <mark>\[Red Text]:</mark> Information on applicable Governance and relevant Advisory Committee <mark>\[Orange Text]:</mark> Reference information on relevant FIA F1 Document(s) <mark>\[Green Text]:</mark> Comments / explanations / indication of further work: non-binding and non-regulatory
 
+
+### Section D > Article D6: ADJUSTMENTS 14 > D6.1 Adjustments 14 > D6.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 2
+
+**D6.1** Adjustments 14
+
+
+### Section D > Article D7: REPORTING REQUIREMENTS 19 > D7.1 Full Year Reporting Documentation 19 > D7.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 2
+
+**D7.1** Full Year Reporting Documentation 19
+D7.2 Interim Reporting Documentation 19
+
+
+### Section D > Article D8: COST CAP ADMINISTRATION 20 > D8.1 General 20 > D8.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 2
+
+**D8.1** General 20
+D8.2 Determinations, guidance, and clarifications 20
+D8.3 Ongoing compliance monitoring 20
+D8.4 Requests for information/access and Demands 21
+D8.5 Notification of apparent or alleged breaches 22
+D8.6 Review of Reporting Documentation 22
+D8.7 General provisions relating to investigations 23
+D8.8 Investigations commenced following a complaint by another F1 Team 23
+D8.9 Immunity 23
+D8.10 Accepted Breach Agreement (ABA) – F1 Teams 23
+D8.11 Accepted Breach Agreement (ABA) – Individual F1 Team Member 24
+D8.12 Public reporting 25
+
+
+### Section D > Article D9: COST CAP ADJUDICATION PANEL 26 > D9.1 Cost Cap Adjudication Panel 26 > D9.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 2
+
+**D9.1** Cost Cap Adjudication Panel 26
+D9.2 Referral to the Cost Cap Adjudication Panel 26
+D9.3 Limitation period 26
+D9.4 Composition of the Cost Cap Adjudication Panel 27
+D9.5 Powers of the Cost Cap Adjudication Panel 27
+D9.6 Hearings before the Cost Cap Adjudication Panel 28
+D9.7 Decision 30
+D9.8 Confidentiality of proceedings 31
+D9.9 Appeals 31
+
+
+### Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS 32 > D10.1 Procedural Breaches 32 > D10.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 2
+
+**D10.1** Procedural Breaches 32
+D10.2 Late and Non-Submission Breaches 33
+D10.3 Overspend Breaches 33
+
+
+### Section D > Article D11: BREACHES APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS 35 > D11.1 Breaches applicable to individuals F1 Team Members 35 > D11.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 2
+
+**D11.1** Breaches applicable to individuals F1 Team Members 35
+
+
+### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS 36 > D12.1 Sanctions applicable to F1 Teams 36 > D12.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 3
+
+**D12.1** Sanctions applicable to F1 Teams 36
+D12.2 Enhanced monitoring 37
+D12.3 Aggravating or mitigating factors 37
+D12.4 Suspended sanctions 37
+D12.5 Payment of a Financial Penalty 37
+
+
+### Section D > Article D13: SANCTIONS APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS 38 > D13.1 Sanctions applicable to individual F1 Team Members 38 > D13.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 3
+
+**D13.1** Sanctions applicable to individual F1 Team Members 38
+
+
+### Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS 39 > D14.1 Arrangements for new entrants 39 > D14.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 3
+
+**D14.1** Arrangements for new entrants 39
+
 **APPENDIX D1: DEFINITIONS AND INTERPRETATION 40**
 
 **APPENDIX D2: APPROVED CHANGES TO SECTION D FOR SUBSEQUENT YEARS 60**
+
+
+### Section D > Article D1: GENERAL PRINCIPLES > D1.1 Scope > D1.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 4
+
+**D1.1** ##  Scope
 
 
 ### Section D > Article D1: GENERAL PRINCIPLES > D1.1 Scope > D1.1.1
@@ -26,6 +122,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 4
 
 **D1.1.2** By participating in the Championship, each F1 Team and each Individual F1 Team Member agrees to be bound by and undertakes to comply with these Financial Regulations, and acknowledges the sanctions set out below that may be applied in case of failure to comply.
+
+
+### Section D > Article D1: GENERAL PRINCIPLES > D1.2 Objectives > D1.2
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 4
+
+**D1.2** ##  Objectives
 
 
 ### Section D > Article D1: GENERAL PRINCIPLES > D1.2 Objectives > D1.2.1
@@ -48,6 +151,13 @@ b. to promote the sporting fairness of the Championship; and
 c. to ensure the long-term financial stability and sustainability of the F1 Teams,
 
 while preserving the unique technology and engineering challenge of Formula 1.
+
+
+### Section D > Article D1: GENERAL PRINCIPLES > D1.3 Interpretation > D1.3
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 4
+
+**D1.3** ##  Interpretation
 
 
 ### Section D > Article D1: GENERAL PRINCIPLES > D1.3 Interpretation > D1.3.1
@@ -80,6 +190,13 @@ SOURCE_PAGE: 4
 © 2024 Fédération Internationale de l'Automobile
 
 
+### Section D > Article D1: GENERAL PRINCIPLES > D1.4 Transitional provisions > D1.4
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 5
+
+**D1.4** ##  Transitional provisions
+
+
 ### Section D > Article D1: GENERAL PRINCIPLES > D1.4 Transitional provisions > D1.4.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 5
@@ -101,6 +218,13 @@ SOURCE_PAGE: 5
 **D1.4.3** \[Replaced by Article A9.8.3]
 
 
+### Section D > Article D1: GENERAL PRINCIPLES > D1.5 Amendment > D1.5
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 5
+
+**D1.5** ##  Amendment
+
+
 ### Section D > Article D1: GENERAL PRINCIPLES > D1.5 Amendment > D1.5.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 5
@@ -108,11 +232,25 @@ SOURCE_PAGE: 5
 **D1.5.1** The Cost Cap Administration shall periodically review these Financial Regulations. These Financial Regulations may be amended and/or supplemented by the FIA World Motor Sport Council from time to time.
 
 
+### Section D > Article D1: GENERAL PRINCIPLES > D1.6 Other financial regulations > D1.6
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 5
+
+**D1.6** ##  Other financial regulations
+
+
 ### Section D > Article D1: GENERAL PRINCIPLES > D1.6 Other financial regulations > D1.6.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 5
 
 **D1.6.1** The requirements of these Financial Regulations and the requirements of the FIA Formula One Financial Regulations for F1 Power Unit Manufacturers are distinct from and independent of each other, and the two sets of regulations will operate and be applied accordingly. Where an F1 Team is also a Power Unit Manufacturer, it must comply separately with both sets of regulations, including complying with both sets of reporting requirements and demonstrating compliance with both Cost Caps.
+
+
+### Section D > Article D1: GENERAL PRINCIPLES > D1.7 Sharing of information > D1.7
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 5
+
+**D1.7** ##  Sharing of information
 
 
 ### Section D > Article D1: GENERAL PRINCIPLES > D1.7 Sharing of information > D1.7.1
@@ -129,11 +267,25 @@ SOURCE_PAGE: 5
 **D1.7.2** \[Replaced by Article A8.3]
 
 
+### Section D > Article D1: GENERAL PRINCIPLES > D1.8 Confidential Information > D1.8
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 5
+
+**D1.8** ##  Confidential Information
+
+
 ### Section D > Article D1: GENERAL PRINCIPLES > D1.8 Confidential Information > D1.8.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 5
 
 **D1.8.1** \[Replaced by Article A8.1.2]
+
+
+### Section D > Article D2: OBLIGATIONS OF F1 TEAMS > D2.1 Obligations of F1 Teams > D2.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 6
+
+**D2.1** ##  Obligations of F1 Teams
 
 
 ### Section D > Article D2: OBLIGATIONS OF F1 TEAMS > D2.1 Obligations of F1 Teams > D2.1.1
@@ -177,6 +329,13 @@ SOURCE_PAGE: 6
 **D2.1.3** The F1 Team is strictly liable for any non-compliance with these Financial Regulations resulting from the actions of others, including its F1 Activities Personnel, any Individual F1 Team Member, and/or any other person or entity acting on its behalf or on behalf of any entity in its Legal Group. Without limiting the generality of the foregoing, the F1 Team is bound by (and strictly liable for) any Declaration signed on its behalf or on behalf of its Ultimate Controlling Party.
 
 
+### Section D > Article D3: OBLIGATIONS OF INDIVIDUAL F1 TEAM MEMBERS > D3.1 Obligations of individual F1 Team members > D3.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 7
+
+**D3.1** ##  Obligations of individual F1 Team members
+
+
 ### Section D > Article D3: OBLIGATIONS OF INDIVIDUAL F1 TEAM MEMBERS > D3.1 Obligations of individual F1 Team members > D3.1.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 7
@@ -207,6 +366,13 @@ c. comply by the specified deadline with any requests for information and Demand
 d. comply with the terms of any provisional suspension or sanction(s) imposed on them pursuant to Article D13; and
 
 e. perform all of their respective obligations under these Financial Regulations in Good Faith, acting at all times with honesty and integrity, and in a spirit of transparency and cooperation.
+
+
+### Section D > Article D4: THE COST CAP > D4.1 Compliance with the Cost Cap > D4.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 8
+
+**D4.1** ##  Compliance with the Cost Cap
 
 
 ### Section D > Article D4: THE COST CAP > D4.1 Compliance with the Cost Cap > D4.1.1
@@ -241,6 +407,13 @@ SOURCE_PAGE: 8
 |-|-|-|-|
 |215’000|170’090|198’663|189’992|
 
+
+
+### Section D > Article D4: THE COST CAP > D4.2 Reporting Group > D4.2
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 8
+
+**D4.2** ##  Reporting Group
 
 
 ### Section D > Article D4: THE COST CAP > D4.2 Reporting Group > D4.2.1
@@ -289,6 +462,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 9
 
 **D4.2.5** The F1 Team should seek clarification from the Cost Cap Administration if it is uncertain whether an entity should be included in its Reporting Group.
+
+
+### Section D > Article D5: EXCLUSIONS > D5.1 Exclusions > D5.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 10
+
+**D5.1** ##  Exclusions
 
 
 ### Section D > Article D5: EXCLUSIONS > D5.1 Exclusions > D5.1.1
@@ -428,6 +608,13 @@ SOURCE_PAGE: 13
 **D5.1.3** For the purposes of this Article D5, where an F1 Team has a Presentation Currency other than US Dollars, amounts expressed in US Dollars shall be converted into that F1 Team's Presentation Currency at the Initial Applicable Rate.
 
 
+### Section D > Article D6: ADJUSTMENTS > D6.1 Adjustments > D6.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 14
+
+**D6.1** ##  Adjustments
+
+
 ### Section D > Article D6: ADJUSTMENTS > D6.1 Adjustments > D6.1.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 14
@@ -547,6 +734,13 @@ SOURCE_PAGE: 18
 **D6.1.3** For the purposes of this Article D6, where an F1 Team has a Presentation Currency other than US Dollars, amounts expressed in US Dollars shall be converted into that F1 Team’s Presentation Currency at the Initial Applicable Rate.
 
 
+### Section D > Article D7: REPORTING REQUIREMENTS > D7.1 Full Year Reporting Documentation > D7.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 19
+
+**D7.1** ##  Full Year Reporting Documentation
+
+
 ### Section D > Article D7: REPORTING REQUIREMENTS > D7.1 Full Year Reporting Documentation > D7.1.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 19
@@ -562,6 +756,13 @@ c. the Declarations; and
 d. an assessment report provided by the same Independent Audit Firm that signs the F1 Team’s Audited Annual Financial Statements, in the format prescribed by the Cost Cap Administration from time to time via a Determination, in respect of the completeness and accuracy of the Full Year Reporting Documentation submitted by the F1 Team.
 
 
+### Section D > Article D7: REPORTING REQUIREMENTS > D7.2 Interim Reporting Documentation > D7.2
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 19
+
+**D7.2** ##  Interim Reporting Documentation
+
+
 ### Section D > Article D7: REPORTING REQUIREMENTS > D7.2 Interim Reporting Documentation > D7.2.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 19
@@ -573,6 +774,13 @@ a. the Reporting Group Documentation;
 b. the Interim Financial Reporting Documentation; and
 
 c the Declarations.
+
+
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.1 General > D8.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 20
+
+**D8.1** ##  General
 
 
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.1 General > D8.1.1
@@ -601,6 +809,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 20
 
 **D8.1.4** <mark>\[Replaced by Article A9.6]</mark>
+
+
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.2 Determinations, guidance, and clarifications > D8.2
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 20
+
+**D8.2** ##  Determinations, guidance, and clarifications
 
 
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.2 Determinations, guidance, and clarifications > D8.2.1
@@ -645,6 +860,13 @@ SOURCE_PAGE: 20
 **D8.2.6** The Cost Cap Adjudication Panel and ultimately the ICA have final authority in determining the proper interpretation and application of these Financial Regulations.
 
 
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.3 Ongoing compliance monitoring > D8.3
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 20
+
+**D8.3** ##  Ongoing compliance monitoring
+
+
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.3 Ongoing compliance monitoring > D8.3.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 20
@@ -662,6 +884,13 @@ c. assisting in identifying any part of these Financial Regulations that might r
 d. mitigating the risk of an F1 Team submitting incomplete, inaccurate, misleading, or otherwise non-compliant Reporting Documentation.
 
 For the avoidance of doubt, the primary purpose of in-season compliance monitoring is to assist F1 Teams in managing their risk of breaching the Financial Regulations, rather than to investigate potential instances of non-compliance. In-season compliance monitoring will typically result in the issuance of non-binding feedback pursuant to Article D8.2.4.
+
+
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.4 Requests for information/access and Demands > D8.4
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 21
+
+**D8.4** #  Requests for information/access and Demands
 
 
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.4 Requests for information/access and Demands > D8.4.1
@@ -797,6 +1026,13 @@ SOURCE_PAGE: 21
 **D8.4.5** .7 <mark>\* \[Replaced by Art.4.7 in Section A, Appendix A3] \*</mark>
 
 
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.5 Notification of apparent or alleged breaches > D8.5
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 22
+
+**D8.5** # ** Notification of apparent or alleged breaches
+
+
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.5 Notification of apparent or alleged breaches > D8.5.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 22
@@ -809,6 +1045,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 22
 
 **D8.5.2** <mark>\* \[Replaced by Art.A6.4.2] \*</mark>
+
+
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.6 Review of Reporting Documentation > D8.6
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 22
+
+**D8.6** # ** Review of Reporting Documentation
 
 
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.6 Review of Reporting Documentation > D8.6.1
@@ -865,6 +1108,13 @@ SOURCE_PAGE: 23
 **D8.6.6** There shall be no right of appeal against any decision by the Cost Cap Administration finding that an F1 Team has complied with the Financial Regulations, to offer/enter into (or not to offer/enter into) an ABA, or to refer (or not to refer) a case to the Cost Cap Adjudication Panel.
 
 
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.7 General provisions relating to investigations > D8.7
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 23
+
+**D8.7** General provisions relating to investigations
+
+
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.7 General provisions relating to investigations > D8.7.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 23
@@ -893,6 +1143,13 @@ SOURCE_PAGE: 23
 **D8.7.4** <mark>*\[Replaced by Art.A6.1.8.a)]*</mark>
 
 
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.8 Investigations commenced following a complaint by another F1 Team > D8.8
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 23
+
+**D8.8** Investigations commenced following a complaint by another F1 Team
+
+
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.8 Investigations commenced following a complaint by another F1 Team > D8.8.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 23
@@ -912,6 +1169,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 23
 
 **D8.8.3** <mark>*\[Replaced by Art.A6.1.3.b)]*</mark>
+
+
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.9 Immunity > D8.9
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 23
+
+**D8.9** Immunity
 
 
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.9 Immunity > D8.9.1
@@ -954,6 +1218,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 23
 
 **D8.9.6** <mark>*\[Replaced by Art.A7.14.6]*</mark>
+
+
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.10 Accepted Breach Agreement (ABA) – F1 Teams > D8.10
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 23
+
+**D8.10** Accepted Breach Agreement (ABA) – F1 Teams
 
 
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.10 Accepted Breach Agreement (ABA) – F1 Teams > D8.10.1
@@ -1018,6 +1289,13 @@ SOURCE_PAGE: 24
 **D8.10.6** Nothing in the ABA may be construed or will be deemed to vary or impact in any way the F1 Team’s ongoing obligation to comply in full with the Financial Regulations.
 
 
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.11 Accepted Breach Agreement (ABA) – Individual F1 Team Member > D8.11
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 24
+
+**D8.11** Accepted Breach Agreement (ABA) – Individual F1 Team Member
+
+
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.11 Accepted Breach Agreement (ABA) – Individual F1 Team Member > D8.11.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 24
@@ -1074,6 +1352,13 @@ SOURCE_PAGE: 25
 **D8.11.6** Nothing in the ABA may be construed or will be deemed to vary or impact in any way the Individual F1 Team Member's ongoing obligation to comply in full with the Financial Regulations.
 
 
+### Section D > Article D8: COST CAP ADMINISTRATION > D8.12 Public reporting > D8.12
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 25
+
+**D8.12** #  Public reporting
+
+
 ### Section D > Article D8: COST CAP ADMINISTRATION > D8.12 Public reporting > D8.12.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 25
@@ -1102,11 +1387,25 @@ SOURCE_PAGE: 25
 **D8.12.4** <mark>*\[Replaced by Art.A8.2.8]*</mark>
 
 
+### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.1 Cost Cap Adjudication Panel > D9.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 26
+
+**D9.1** ##  Cost Cap Adjudication Panel
+
+
 ### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.1 Cost Cap Adjudication Panel > D9.1.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 26
 
 **D9.1.1** The Cost Cap Adjudication Panel will comprise a panel of independent judges who will hear and determine cases that are referred to it by the Cost Cap Administration, in accordance with these Financial Regulations. Unless specified otherwise, decisions of the Cost Cap Adjudication Panel may be appealed to the ICA. The Cost Cap Adjudication Panel and, ultimately, the ICA have final authority in determining whether or not any F1 Team or Individual F1 Team Member has complied with these Financial Regulations.
+
+
+### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.2 Referral to the Cost Cap Adjudication Panel > D9.2
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 26
+
+**D9.2** ##  Referral to the Cost Cap Adjudication Panel
 
 
 ### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.2 Referral to the Cost Cap Adjudication Panel > D9.2.1
@@ -1142,11 +1441,25 @@ SOURCE_PAGE: 26
 **D9.2.3** Where the Cost Cap Administration refers a case to the Cost Cap Adjudication Panel, FIA Legal shall take over conduct of the matter on behalf of the FIA, assisted as necessary by the Cost Cap Administration.
 
 
+### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.3 Limitation period > D9.3
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 26
+
+**D9.3** ##  Limitation period
+
+
 ### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.3 Limitation period > D9.3.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 26
 
 **D9.3.1** <mark>\* \[Replaced by Art.A7.9]\* </mark>
+
+
+### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.4 Composition of the Cost Cap Adjudication Panel > D9.4
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 27
+
+**D9.4** ##  Composition of the Cost Cap Adjudication Panel
 
 
 ### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.4 Composition of the Cost Cap Adjudication Panel > D9.4.1
@@ -1208,6 +1521,13 @@ SOURCE_PAGE: 27
 **D9.4.8** If a member of the relevant judging panel is unable, unwilling, or unfit to hear the matter (whether because of a conflict of interest or otherwise), the President of the Cost Cap Adjudication Panel shall appoint a replacement member to the judging panel.
 
 
+### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.5 Powers of the Cost Cap Adjudication Panel > D9.5
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 27
+
+**D9.5** ##  Powers of the Cost Cap Adjudication Panel
+
+
 ### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.5 Powers of the Cost Cap Adjudication Panel > D9.5.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 27
@@ -1228,6 +1548,13 @@ g. expedite, adjourn, postpone, or suspend its proceedings, upon such terms as i
 h. award interim relief or other conservatory measures on a provisional basis subject to final determination; and/or
 
 i. any other order as it sees fit.
+
+
+### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.6 Hearings before the Cost Cap Adjudication Panel > D9.6
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 28
+
+**D9.6** #  Hearings before the Cost Cap Adjudication Panel
 
 
 ### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.6 Hearings before the Cost Cap Adjudication Panel > D9.6.1
@@ -1431,6 +1758,13 @@ SOURCE_PAGE: 30
 **D9.6.6** .2** <mark>\[Replaced by Art.A7.10.3]</mark>
 
 
+### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.7 Decision > D9.7
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 30
+
+**D9.7** # ** Decision
+
+
 ### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.7 Decision > D9.7.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 30
@@ -1470,11 +1804,25 @@ SOURCE_PAGE: 30
 **D9.7.3** If, within three months of the date of notification of a decision by the Cost Cap Adjudication Panel, any important new evidence is discovered which was unknown during the case before the Cost Cap Adjudication Panel and which could call into question, or cause the Cost Cap Adjudication Panel to modify, its decision, the Cost Cap Adjudication Panel may, within three months from the date of it being notified of such important new evidence, choose to re-examine its decision, following a process that respects both the rights of the parties and the terms of these Financial Regulations.
 
 
+### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.8 Confidentiality of proceedings > D9.8
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 31
+
+**D9.8** # ** Confidentiality of proceedings
+
+
 ### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.8 Confidentiality of proceedings > D9.8.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 31
 
 **D9.8.1** Subject to Articles D9.7.2, A8.2.1 and A8.2.2, the proceedings before the Cost Cap Adjudication Panel shall be confidential and no party may disclose any facts or other information (including Confidential Information) relating to the proceedings either before, during, or after the proceedings, except on a confidential basis to their representatives and advisors.
+
+
+### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.9 Appeals > D9.9
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 31
+
+**D9.9** # ** Appeals
 
 
 ### Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.9 Appeals > D9.9.1
@@ -1503,6 +1851,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 31
 
 **D9.9.4** \[Replaced by Art.A7.5.6]
+
+
+### Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.1 Procedural Breaches > D10.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 32
+
+**D10.1** ##  Procedural Breaches
 
 
 ### Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.1 Procedural Breaches > D10.1.1
@@ -1561,6 +1916,13 @@ a. the Cost Cap Adjudication Panel determines that sufficient mitigating factor(
 b. the Cost Cap Adjudication Panel determines that sufficient aggravating factor(s) exist, in which case it shall impose a Minor Sporting Penalty in addition to the Financial Penalty, or in lieu of the Financial Penalty.
 
 
+### Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.2 Late and Non-Submission Breaches > D10.2
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 33
+
+**D10.2** #  Late and Non-Submission Breaches
+
+
 ### Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.2 Late and Non-Submission Breaches > D10.2.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 33
@@ -1611,6 +1973,13 @@ SOURCE_PAGE: 33
 **D10.2.6** In the event the Cost Cap Adjudication Panel determines that an F1 Team has committed a Non-Submission Breach, the Cost Cap Adjudication Panel shall impose a Constructors' Championship points deduction in accordance with Article D12.1.1.c.i and additionally may impose a Financial Penalty and/or any other appropriate Material Sporting Penalties.
 
 
+### Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.3 Overspend Breaches > D10.3
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 33
+
+**D10.3** #  Overspend Breaches
+
+
 ### Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.3 Overspend Breaches > D10.3.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 33
@@ -1647,6 +2016,13 @@ SOURCE_PAGE: 34
 **D10.3.4** In the event the Cost Cap Adjudication Panel determines that an F1 Team has committed a Material Overspend Breach, the Cost Cap Adjudication Panel shall impose a Constructors' Championship points deduction in accordance with Article D12.1.1.c.i and additionally shall impose a Financial Penalty and any other appropriate Material Sporting Penalties.
 
 
+### Section D > Article D11: BREACHES APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS > D11.1 Breaches applicable to individuals F1 Team Members > D11.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 35
+
+**D11.1** ##  Breaches applicable to individuals F1 Team Members
+
+
 ### Section D > Article D11: BREACHES APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS > D11.1 Breaches applicable to individuals F1 Team Members > D11.1.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 35
@@ -1659,6 +2035,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 35
 
 **D11.1.2** The categories of breach applicable to F1 Teams do not apply to Individual F1 Team Members. However, F1 Teams are strictly responsible for any actions of their F1 Activities Personnel, which include Individual F1 Team Members.
+
+
+### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.1 Sanctions applicable to F1 Teams > D12.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 36
+
+**D12.1** ##  Sanctions applicable to F1 Teams
 
 
 ### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.1 Sanctions applicable to F1 Teams > D12.1.1
@@ -1689,11 +2072,25 @@ SOURCE_PAGE: 36
 The FIA may from time to time publish guidelines on sanctions for each category of breach.
 
 
+### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.2 Enhanced monitoring > D12.2
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 37
+
+**D12.2** #  Enhanced monitoring
+
+
 ### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.2 Enhanced monitoring > D12.2.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 37
 
 **D12.2.1** In addition to any of the sanctions listed in Article D.12.1.1, the Cost Cap Adjudication Panel has the power to impose enhanced monitoring in respect of an F1 Team.
+
+
+### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.3 Aggravating or mitigating factors > D12.3
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 37
+
+**D12.3** #  Aggravating or mitigating factors
 
 
 ### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.3 Aggravating or mitigating factors > D12.3.1
@@ -1717,6 +2114,13 @@ SOURCE_PAGE: 37
 **D12.3.3** \[Replaced by Art.A7.12.7]
 
 
+### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.4 Suspended sanctions > D12.4
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 37
+
+**D12.4** #  Suspended sanctions
+
+
 ### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.4 Suspended sanctions > D12.4.1
 SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 37
@@ -1729,6 +2133,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 37
 
 **D12.4.2** \[Replaced by Art.A7.5.5]
+
+
+### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.5 Payment of a Financial Penalty > D12.5
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 37
+
+**D12.5** #  Payment of a Financial Penalty
 
 
 ### Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.5 Payment of a Financial Penalty > D12.5.1
@@ -1750,6 +2161,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 37
 
 **D12.5.3** Without prejudice to Article D12.5.2, interest shall be payable by the F1 Team to the FIA in respect of any fines not paid by the due date, accruing daily on the principal amount outstanding from the due date until the date of actual payment, at a rate of 2% above the US Federal Reserve System federal funds rate on the relevant due date.
+
+
+### Section D > Article D13: SANCTIONS APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS > D13.1 Sanctions applicable to individual F1 Team Members > D13.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 38
+
+**D13.1** ##  Sanctions applicable to individual F1 Team Members
 
 
 ### Section D > Article D13: SANCTIONS APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS > D13.1 Sanctions applicable to individual F1 Team Members > D13.1.1
@@ -1788,6 +2206,13 @@ SOURCE_FILE: 2026_f1_regulations_section_d.pdf
 SOURCE_PAGE: 38
 
 **D13.1.4** \[Replaced by Art.A7.12.4]
+
+
+### Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D14.1 Arrangements for new entrants > D14.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 39
+
+**D14.1** ##  Arrangements for new entrants
 
 
 ### Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D14.1 Arrangements for new entrants > D14.1.1
@@ -2495,6 +2920,13 @@ l. cost of charges levied by the Commercial Right Holder for the purpose of deve
 
 **Approved Changes for Financial Regulations Reporting Periods starting from 1 January 2027 onwards**
 
+
+### Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D5.1 Exclusions > D5.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 60
+
+**D5.1** ##  Exclusions
+
 h. with respect to Non-F1 Activities:
 
 * i. all costs of Consideration provided to, and associated employer’s social security contributions incurred in respect of any F1 Activities Personnel where such costs are Directly Attributable to Non-F1 Activities, if the F1 Team can prove that such Non-F1 Activities are undertaken within a separate physical location and using separate IT systems from those used to undertake F1 Team’s F1 Activities in compliance with all the requirements set out in Article F6 of the Operational Regulations, other than if the physical location and/or the IT systems is shared only with members of the Non-Restricted Workforce
@@ -2534,11 +2966,25 @@ m. Provision of catering services at the site of a Competition or Testing of Cur
 
 such cost shall be an Excluded Cost.
 
+
+### Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D6.1 Adjustments > D6.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 61
+
+**D6.1** #  Adjustments
+
 q. Non-compliance with Article F6 of Operational Regulations
 
 In the event that in the Full Year Financial Regulations Reporting Period any of the Workforce engaged by an Entity Subject To Segregation Requirements is not fully complying with the requirements set out in Article F6 of the Operational Regulations in force during the applicable Financial Regulations Reporting Period, the F1 Team must make an upward adjustment in the calculation of the Relevant Costs equal to three time the value of the total Consideration incurred in the Full Year Financial Regulations Reporting Period for the Workforce that have not fully complied with the requirement set out in Article F6 of the Operational Regulations in force during the applicable Financial Regulations Reporting Period.
 
 <mark>e. Inventories:</mark>
+
+
+### Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D14.1 Arrangements for new entrants > D14.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 61
+
+**D14.1** #  Arrangements for new entrants
 
 
 ### Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D14.1 Arrangements for new entrants > D14.1.1
@@ -2564,6 +3010,13 @@ SOURCE_PAGE: 61
 **“Workforce”** has the meaning set out in the Operational Regulations in force during the applicable Financial Regulations Reporting Period.
 
 # Approved Changes for Financial Regulations Reporting Periods starting from 1 January 2028 onwards
+
+
+### Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D6.1 Adjustments > D6.1
+SOURCE_FILE: 2026_f1_regulations_section_d.pdf
+SOURCE_PAGE: 62
+
+**D6.1** ##  Adjustments
 
 q. Non-compliance with Article F6 of Operational Regulations
 

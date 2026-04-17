@@ -46,6 +46,177 @@
 |C5.16|Stall prevention systems|77|
 
 
+
+### Section C > Article C5: POWER UNIT 62 > C5.17 Energy Recovery System (ERS) 77 > C5.17
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 3
+
+**C5.17** Energy Recovery System (ERS) 77
+C5.18 MGU-K 79
+C5.19 Energy Store 80
+C5.20 ES design and installation 80
+C5.21 ERS General electrical safety 82
+C5.22 Oil and coolant systems and charge air cooling 84
+C5.23 Single ICE Mode 84
+
+
+### Section C > Article C6: FUEL SYSTEM 85 > C6.1 Fuel tanks 85 > C6.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 3
+
+**C6.1** Fuel tanks 85
+C6.2 Fittings and piping 85
+C6.3 Fuel tank fillers 86
+C6.4 Refuelling 86
+C6.5 Fuel draining and sampling 87
+C6.6 Fuel System Hydraulic Layout 87
+
+
+### Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING 90 > C7.1 Location of lubricating oil tanks 90 > C7.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 3
+
+**C7.1** Location of lubricating oil tanks 90
+C7.2 Location of lubricating oil system 90
+C7.3 Oil and coolant lines 90
+C7.4 Heat exchangers 90
+
+
+### Section C > Article C8: ELECTRICAL SYSTEMS 91 > C8.1 Software and electronics inspection 91 > C8.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 3
+
+**C8.1** Software and electronics inspection 91
+C8.2 Control electronics 92
+C8.3 Start systems 92
+C8.4 Data acquisition 92
+C8.5 Telemetry 93
+C8.6 Driver inputs and information 94
+C8.7 Master switch 95
+C8.8 Driver radio 95
+C8.9 Accident analysis 95
+C8.10 Accident data 97
+C8.11 FIA Marshalling system 97
+C8.12 Track signal information display 97
+C8.13 Impact warning system 98
+C8.14 Installation of electrical systems or components 98
+C8.15 Timing transponders 98
+C8.16 Cameras and camera housings 98
+C8.17 Electromagnetic radiation 100
+C8.18 Sensor signals 100
+
+
+### Section C > Article C9: TRANSMISSION SYSTEM 101 > C9.1 Fundamental provisions 101 > C9.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 4
+
+**C9.1** Fundamental provisions **101**
+* C9.2 Clutch control **101**
+* C9.3 Clutch Disengagement System (CDS) **103**
+* C9.4 Homologated Gearbox and Component Classification **103**
+* C9.5 Gearbox Dimensions **104**
+* C9.6 Gear ratios **104**
+* C9.7 Reverse gear **105**
+* C9.8 Gear changing **105**
+* C9.9 Torque transfer systems **106**
+* C9.10 Driveshafts **106**
+* C9.11 Structural Connection to Survival Cell **106
+
+
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES 107 > C10.1 Legality Setup 107 > C10.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 4
+
+**C10.1** Legality Setup **107**
+* C10.2 Sprung suspension **107**
+* C10.3 Outboard suspension **108**
+* C10.4 Inboard suspension **110**
+* C10.5 Steering **111**
+* C10.6 Suspension Uprights **111**
+* C10.7 Wheel rims **112**
+* C10.8 Tyres **114**
+* C10.9 Wheel attachment and retention **116**
+* C10.10 Dimensions **116
+
+
+### Section C > Article C11: BRAKE SYSTEM 117 > C11.1 Brake circuits and pressure distribution 117 > C11.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 4
+
+**C11.1** Brake circuits and pressure distribution **117**
+* C11.2 Brake callipers **117**
+* C11.3 Brake discs and pads **118**
+* C11.4 Brake pressure modulation **118**
+* C11.5 Liquid cooling **118**
+* C11.6 Rear brake control system **118**
+* C11.7 Supply of Brake Friction and Brake System Hydraulic components **118
+
+
+### Section C > Article C12: SURVIVAL CELL 119 > C12.1 General Requirements 119 > C12.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 4
+
+**C12.1** General Requirements **119**
+* C12.2 Survival cell specifications **119**
+* C12.3 Intrusion Protection **122**
+* C12.4 Roll Structures **123**
+* C12.5 Cockpit Specification **125
+
+
+### Section C > Article C12: SURVIVAL CELL 119 > C12.6 Cockpit Padding 126 > C12.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 5
+
+**C12.6** Cockpit Padding 126
+C12.7 Front Floor Structure 128
+C12.8 Seat fixing and removal 129
+C12.9 Driver Fit Information 129
+
+
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION 130 > C13.1 General Principles 130 > C13.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 5
+
+**C13.1** General Principles 130
+C13.2 Survival Cell Frontal Impact Test 130
+C13.3 Roll Structure Testing 132
+C13.4 Survival Cell Load Tests 134
+C13.5 Side Impact Structure 138
+C13.6 Front Impact Structure 142
+C13.7 Rear Impact Structure 145
+C13.8 Steering Column Impact Test 146
+C13.9 Headrest Load Test 147
+C13.10 Wheel Rim Impact Test 147
+
+
+### Section C > Article C14: SAFETY EQUIPMENT 149 > C14.1 Fire Extinguishers 149 > C14.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 5
+
+**C14.1** Fire Extinguishers 149
+C14.2 Rear view mirrors 149
+C14.3 Rear lights 150
+C14.4 Safety Tethers 151
+C14.5 Safety Harnesses 152
+C14.6 Driver Cooling System 152
+C14.7 Lateral Safety lights 153
+C14.8 Driver’s Drink System 153
+
+
+### Section C > Article C15: MATERIALS 154 > C15.1 General Principles 154 > C15.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 5
+
+**C15.1** General Principles 154
+C15.2 Permitted Materials (Components Outside the PU Perimeter) 154
+C15.3 Specific Prohibitions and Restrictions (Components Outside the PU Perimeter) 157
+C15.4 Specific Exceptions (Components Outside the PU Perimeter) 158
+C15.5 Prescribed and Homologated Laminates (Components Outside the PU Perimeter) 159
+C15.6 Materials, processes and construction – General (Components inside the PU Perimeter) 160
+C15.7 Materials and construction – Components (Components inside the PU Perimeter) 161
+C15.8 Materials and construction – Pressure charging and exhaust systems (Components inside the PU Perimeter) 163
+C15.9 Materials and construction – ERS and electronic systems (Components inside the PU Perimeter) 164
+
 7
 
 
@@ -106,6 +277,13 @@
 *Governance: F1 Commission / PU Manufacturers’ Governance Agreement / WMSC*
 
 
+### Section C > Article C1: GENERAL PRINCIPLES > C1.1 Formula One World Championship > C1.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 7
+
+**C1.1** ##  Formula One World Championship
+
+
 ### Section C > Article C1: GENERAL PRINCIPLES > C1.1 Formula One World Championship > C1.1.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 7
@@ -118,6 +296,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 7
 
 **C1.1.2** The Championship and each of its Competitions are governed by the FIA in accordance with the Regulations, as defined below.
+
+
+### Section C > Article C1: GENERAL PRINCIPLES > C1.2 Regulatory Framework > C1.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 7
+
+**C1.2** ##  Regulatory Framework
 
 
 ### Section C > Article C1: GENERAL PRINCIPLES > C1.2 Regulatory Framework > C1.2.1
@@ -139,6 +324,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 7
 
 **C1.2.3** These Technical Regulations regard the FIA Formula One World Championship starting from 2026, and additionally outline various requirements that the PU Manufacturers and their Suppliers must satisfy in the period 2022−2025 to be able to homologate a Power Unit for the 2026 FIA Formula One World Championship.
+
+
+### Section C > Article C1: GENERAL PRINCIPLES > C1.3 Interpretation of and amendments to these Technical Regulations > C1.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 7
+
+**C1.3** ##  Interpretation of and amendments to these Technical Regulations
 
 
 ### Section C > Article C1: GENERAL PRINCIPLES > C1.3 Interpretation of and amendments to these Technical Regulations > C1.3.1
@@ -175,7 +367,21 @@ SOURCE_PAGE: 8
 
 **C1.3.5** Any amendments to these Technical Regulations that do not relate specifically to the Power Unit or that relate to matters of form rather than substance (such as re−numbering, reference corrections, etc.) will not be subject to the approval of the PU Manufacturers. Any amendments to these Technical Regulations that relate to substantive matters concerning the Power Unit will be subject to the prior approval of the PU Manufacturers in accordance with the 2026 F1 PU Governance Agreement, as referenced in Article 1.1 of Appendix C8.
 
+
+### Section C > Article C1: GENERAL PRINCIPLES > C1.4 Dangerous construction > C1.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 8
+
+**C1.4** ##  Dangerous construction
+
 The stewards may prohibit the participation of a vehicle whose construction is deemed to be dangerous. Should the relevant information become apparent during a session, such a decision may apply with immediate effect.
+
+
+### Section C > Article C1: GENERAL PRINCIPLES > C1.5 Compliance with the regulations > C1.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 8
+
+**C1.5** ##  Compliance with the regulations
 
 Formula 1 Cars must comply with these regulations in their entirety at all times during a Competition.
 
@@ -191,7 +397,21 @@ d. The Competitor or PU Manufacturer's opinion concerning any possible long−te
 
 e. The precise way or ways in which the Competitor or PU Manufacturer feels the new design or system will enhance the performance of the car.
 
+
+### Section C > Article C1: GENERAL PRINCIPLES > C1.6 New systems or technologies > C1.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 8
+
+**C1.6** ##  New systems or technologies
+
 Any new system, procedure or technology not specifically covered by these Technical Regulations, but which is deemed permissible by the FIA, will only be admitted until the end of the Championship during which it is introduced. Following this the Formula One Commission will be asked to review the technology concerned and, if they consider (in their sole discretion) that such new system, procedure, or technology adds no value to Formula One in general, it may be specifically prohibited by the FIA.
+
+
+### Section C > Article C1: GENERAL PRINCIPLES > C1.7 Duty of Competitor and PU Manufacturer > C1.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 8
+
+**C1.7** ##  Duty of Competitor and PU Manufacturer
 
 It is the duty of each Competitor to satisfy the FIA and the stewards that its Formula 1 Car complies with these regulations in their entirety at all times during a Competition. With regard to PUs used on a Formula 1 Car, this duty and responsibility also extends to the PU Manufacturer.
 
@@ -212,6 +432,13 @@ Each Competitor and each PU Manufacturer must ensure that the FIA ethics and com
 <mark>*Advisory Committee: TAC*</mark>
 
 <mark>*Governance: F1 Commission / WMSC*</mark>
+
+
+### Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.1 Coordinate systems and conventions > C2.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 10
+
+**C2.1** ##  Coordinate systems and conventions
 
 
 ### Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.1 Coordinate systems and conventions > C2.1.1
@@ -278,6 +505,13 @@ d. The Z<sub>W</sub> axis lies in the inboard plane of the Wheel Rim and increas
 
 e. Once the Wheel Coordinate System is defined as above, then it maintains a fixed orientation relative to the suspension upright at all other suspension articulations.
 
+
+### Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.2 Principal Planes > C2.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 11
+
+**C2.2** ##  Principal Planes
+
 a. The Plane Z = 0 is defined as a horizontal plane sitting at the bottom of the sprung part of the car, except for the Plank Assembly defined in Article C3.6.
 
 b. The Plane Y = 0 is defined as the plane of symmetry of the car.
@@ -293,6 +527,13 @@ f. The plane X<sub>DIF</sub> = 0 is defined as the X-Plane containing the axis o
 g. The plane X<sub>PU</sub> = 0 is defined as the X-Plane which passes through the mounting face of the connections between the ICE and the Survival Cell, as defined in Article C5.4.17.
 
 h. The plane X<sub>FIS</sub> = 0 is defined as the X-plane passing through the forward most point of the Front Impact Structure.
+
+
+### Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.3 Fundamental Dimensions > C2.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 11
+
+**C2.3** ##  Fundamental Dimensions
 
 
 ### Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.3 Fundamental Dimensions > C2.3.1
@@ -358,13 +599,34 @@ SOURCE_PAGE: 12
 
 The distance between $X_C = 0$ and $X_{PU} = 0$ must be greater than or equal to 360mm
 
+
+### Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.4 Reference Volumes and Surfaces > C2.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 12
+
+**C2.4** ##  Reference Volumes and Surfaces
+
 **“Reference Volumes”** and **“Reference Surfaces”** and their position in space are defined in Appendix C2 using the Car Coordinate System and are used throughout the Regulations for geometrical constraints. For convenience, Reference Volumes are preceded by the prefix **“RV−”** and Reference Surfaces by the prefix **“RS−”**.
+
+
+### Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.5 Precision of Numerical Values > C2.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 12
+
+**C2.5** ##  Precision of Numerical Values
 
 Any numerical values specified in these Regulations as limits (maxima or minima), will be considered to be the limits regardless of the decimals quoted.
 
 *Advisory Committee: TAC*
 
 *Governance: F1 Commission / WMSC*
+
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.1 Aerodynamic Components or Bodywork > C3.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 13
+
+**C3.1** ##  Aerodynamic Components or Bodywork
 
 “Aerodynamic Components” or “Bodywork” are parts of the car in contact with the External Air Stream.
 
@@ -393,6 +655,13 @@ b. The following components are not Bodywork:
 * vi brake disc assemblies, calipers, and pads.
 
 * vii CCU Antenna
+
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.2 General Principles > C3.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 13
+
+**C3.2** ##  General Principles
 
 
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.2 General Principles > C3.2.1
@@ -520,6 +789,13 @@ SOURCE_PAGE: 15
 Section and Article Titles within Article C3 have no regulatory value.
 
 
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.3 Legality Checking > C3.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 15
+
+**C3.3** Legality Checking
+
+
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.3 Legality Checking > C3.3.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 15
@@ -617,6 +893,13 @@ ii. two positioned symmetrically about Y = 0 at the same X-plane as the centre o
 
 Details of the mounting requirements are given in the document <mark>FIA-F1-DOC-007</mark>.
 
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.4 Component Definition > C3.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 18
+
+**C3.4** #  Component Definition
+
 The permitted bodywork and relevant Frame of Reference for each group is defined in the following Articles.
 
 
@@ -671,6 +954,13 @@ a. lie in its entirety within an individual, freely positioned instance of RV-HA
 b. be rigidly fixed to any bodywork it intersects.
 
 c. within a plane, connect two non-intersecting bodywork sections.
+
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.5 Floor Bodywork > C3.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 19
+
+**C3.5** #  Floor Bodywork
 
 
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.5 Floor Bodywork > C3.5.1
@@ -1027,6 +1317,13 @@ f. they must be Trimmed and Combined with any Bodywork they intersect.
 g. a Fillet Radius no greater than 20mm, may be applied along the intersections between Floor Auxiliary Components and any other Bodywork.
 
 
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.6 Plank and Skids > C3.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 24
+
+**C3.6** ##  Plank and Skids
+
+
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.6 Plank and Skids > C3.6.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 24
@@ -1138,6 +1435,13 @@ The following provisions apply to each single fastener
 h. the shanks of the fasteners (which may be no less than 6mm diameter) must be the weakest point in the attachment of the Skids to the car.
 
 i. no part of any fastener may be below Z = −7.5.
+
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.7 Front Bodywork > C3.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 27
+
+**C3.7** #  Front Bodywork
 
 
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.7 Front Bodywork > C3.7.1
@@ -1319,6 +1623,13 @@ SOURCE_PAGE: 29
 Once the components defined in Articles C3.7.1 to C3.7.7 have been constructed in accordance with these provisions, including any sub-assembly operations, the resulting union is defined as **“Front Bodywork”**.
 
 
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.8 Rear Bodywork > C3.8
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 29
+
+**C3.8** #  Rear Bodywork
+
+
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.8 Rear Bodywork > C3.8.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 29
@@ -1407,6 +1718,13 @@ SOURCE_PAGE: 30
 Once the components defined in Articles C3.8.1 to C3.8.3 have been constructed in accordance with these provisions, including any sub-assembly operations, the resulting union is defined as **“Rear Bodywork”**.
 
 
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.9 Tail and Exhaust Tailpipe > C3.9
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 30
+
+**C3.9** ##  Tail and Exhaust Tailpipe
+
+
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.9 Tail and Exhaust Tailpipe > C3.9.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 30
@@ -1459,6 +1777,13 @@ h. have an internal surface which is a right circular cylinder and has a single 
 * i. lies on Y = 0.
 
 * ii. forms an angle between 0.0 and 2.5° to the X-Axis (tail up).
+
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.10 Front Wing (FW) > C3.10
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 31
+
+**C3.10** #  Front Wing (FW)
 
 
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.10 Front Wing (FW) > C3.10.1
@@ -1847,6 +2172,13 @@ SOURCE_PAGE: 38
 Once the components defined in Articles C3.10.1 to C3.10.11 have been constructed in accordance with these provisions, including any subassembly operations, the resulting union is defined as **“Front Wing Bodywork”**.
 
 
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.11 Rear Wing (RW) > C3.11
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 39
+
+**C3.11** #  Rear Wing (RW)
+
+
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.11 Rear Wing (RW) > C3.11.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 39
@@ -2073,6 +2405,13 @@ SOURCE_PAGE: 42
 
 Once the components defined in Articles C3.11.1 to C3.11.7 have been constructed in accordance with these provisions, including any sub-assembly operations, the resulting union is defined as **“Rear Wing Bodywork”**.
 
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.12 Final Assembly > C3.12
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 43
+
+**C3.12** #  Final Assembly
+
 Prior to “Final Assembly”, all bodywork groups described in these Articles must be fully defined. Furthermore, each proceeding Final Assembly sub-section must be complete before moving onto the next.
 
 
@@ -2131,6 +2470,13 @@ SOURCE_PAGE: 43
 
 The Rear Wing Bodywork and the Tail Bodywork must be trimmed to each other. A Fillet Radius, no greater than 10mm, may be applied along the intersections between these volumes.
 
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.13 Bodywork not defined in Articles C3.5 to C3.12 > C3.13
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 43
+
+**C3.13** #  Bodywork not defined in Articles C3.5 to C3.12
+
 In addition to the Bodywork defined and regulated by Articles C3.5 to C3.12, the following components are permitted:
 
 
@@ -2172,6 +2518,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 44
 
 **C3.13.5** A slip sensor and its fairing may be mounted underneath the Forward Chassis provided it lies within RV-SLIP. The surface of the combined slip sensor and fairings in contact with the External Air Stream must form a single curve when intersected by any Z plane.
+
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.14 Wheel Components > C3.14
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 44
+
+**C3.14** #  Wheel Components
 
 
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.14 Wheel Components > C3.14.1
@@ -2401,6 +2754,13 @@ b. To protect the Scoop inlet from debris ingestion, a **“Front Debris Guard�
 * i. lie in their entirety within RV-FWH-SCO and the union of RV-RWH-SCO and RV-RWH-LIP respectively.
 * ii. when assessing each Debris Guard individually, form one or more sections, each with a cross-sectional area no greater than 8mm<sup>2</sup> when intersected by any Y<sub>W</sub>-plane.
 
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.15 Wheel Bodywork Assembly > C3.15
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 48
+
+**C3.15** ###  Wheel Bodywork Assembly
+
 Prior to **“Wheel Bodywork Assembly”**, all Bodywork components described in Article C3.14 must be fully defined. Furthermore, each proceeding Wheel Bodywork Assembly sub-section must be completed before moving on to the next.
 
 
@@ -2470,6 +2830,13 @@ Furthermore, any flow which enters the Scooped Drum must:
 
 b. not have any resultant flux across a circular section 155mm in diameter with its centre lying on the Y<sub>W</sub> axis in the plane Y<sub>W</sub> = -182 and Y<sub>W</sub> = -211 for the Front and Rear respectively.
 
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.16 Apertures > C3.16
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 49
+
+**C3.16** ##  Apertures
+
 Once the Final Assembly and Wheel Bodywork Assembly have been fully defined, the apertures listed in the following table may be applied. **“Apertures”** shall be interpreted as mathematical surfaces bound by their peripheries and can only be defined after their respective Reference Volume has been translated and rotated. Unless otherwise stated, each aperture may only be applied once, and must:
 
 a. lie in its entirety within the stated Aperture RV. Unless otherwise stated, each individual **“Aperture RV”**:
@@ -2533,6 +2900,13 @@ h. except for <mark>regions of zero or incidental flows</mark>, which the FIA ma
 |*C3.16.19<br/>RIS Light*|*Tail*|*\[35, 30, 10]<br/>\[0°, ±20°, 0°]*|*1000*|*Below*|*i. Must lie in its entirety behind XDIF = 350 for the purpose of cooling RIS mounted electronics.*|*Influx*|
 |C3.16.20<br/>Cockpit Cooling|Forward Chassis|\[100, 100, 10]<br/>\[0°, ±10°, 0°]|3000|Below|i. Must lie in its entirety between XA300 < X < XC-950.<br/>ii. All air entering the aperture must exit into the Survival Cell.|Influx|
 
+
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.17 Suspension and Driveshaft Fairings > C3.17
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 52
+
+**C3.17** #  Suspension and Driveshaft Fairings
 
 
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.17 Suspension and Driveshaft Fairings > C3.17.1
@@ -2659,6 +3033,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 54
 
 **C3.17.8** Suspension Fairings may be united with the Driveshaft Fairing to form a solitary fairing. Such a fairing will be considered by a virtual dissection into discrete Suspension or Driveshaft Fairings. Furthermore, the discrete Suspension and Driveshaft Fairings which form the solitary fairing, may have minimally necessary exceptions to Article C3.17.3 (b), (c.ii), (d) and (e), Article C3.17.5 (a.iii) and Article C3.17.6, close to a single junction where these fairings transition from virtually discrete to physically discrete.
+
+
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.18 Aerodynamic Component Flexibility > C3.18
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 54
+
+**C3.18** #  Aerodynamic Component Flexibility
 
 
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.18 Aerodynamic Component Flexibility > C3.18.1
@@ -2912,6 +3293,13 @@ provided by the FIA. Details and positions of these markers and additional Camer
 An F1 Team may be required by the FIA to run additional cameras specified by the FIA in Position 2 RHS (C8.16.7) and/or Position 3 (as defined in C8.16) in any free practice session. Such a camera will not be considered as Bodywork.
 
 
+### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.19 Aerodynamic Component construction > C3.19
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 59
+
+**C3.19** #  Aerodynamic Component construction
+
+
 ### Section C > Article C3: AERODYNAMIC COMPONENTS > C3.19 Aerodynamic Component construction > C3.19.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 59
@@ -2955,6 +3343,13 @@ Floor Bodywork or geometry within RV-BIB-STAY that lies within the plan view are
 
 *Governance: F1 Commission / WMSC*
 
+
+### Section C > Article C4: MASS > C4.1 Minimum mass > C4.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 60
+
+**C4.1** ##  Minimum mass
+
 During the Sprint Qualifying and Qualifying sessions, The Minimum Mass is 726kg plus the Nominal Tyre Mass. In all other sessions, the Minimum Mass is 724kg plus the Nominal Tyre Mass.
 
 At all times during the Competition, Car Mass must not be less than the Minimum Mass.
@@ -2962,6 +3357,13 @@ At all times during the Competition, Car Mass must not be less than the Minimum 
 When a Heat Hazard is declared, the Minimum Mass will be increased by the Heat Hazard Mass Increase.
 
 If, when required for checking, a car is not already fitted with dry-weather tyres, its mass will be determined using a set of dry-weather tyres selected by the FIA technical delegate.
+
+
+### Section C > Article C4: MASS > C4.2 Mass distribution > C4.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 60
+
+**C4.2** ##  Mass distribution
 
 At all times during the Qualifying and Sprint Qualifying Sessions, with the car resting on a horizontal plane:
 
@@ -2972,6 +3374,13 @@ ii. the mass measured at the rear axle must not be less than the Minimum Mass sp
 If, when required for checking, a car is not already fitted with dry-weather tyres, its mass will be determined using a set of dry-weather tyres selected by the FIA technical delegate.
 
 If, when required for checking, a Heat Hazard has been declared, the increase in mass will not be considered.
+
+
+### Section C > Article C4: MASS > C4.3 Ballast > C4.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 60
+
+**C4.3** ##  Ballast
 
 
 ### Section C > Article C4: MASS > C4.3 Ballast > C4.3.1
@@ -3014,7 +3423,21 @@ SOURCE_PAGE: 61
 
 Any Ballast mounted ahead of X<sub>A</sub>=0, that is not mounted within the forward-most profile of Front Wing Profiles, must be present during the Front Impact Structure Dynamic Test defined in Article C13.6.3.
 
+
+### Section C > Article C4: MASS > C4.4 Adding during the Race or Sprint Session > C4.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 61
+
+**C4.4** ##  Adding during the Race or Sprint Session
+
 With the exception of compressed gases, no substance may be added to the car during the Race or Sprint Session. If it becomes necessary to replace any part of the car during the Race or Sprint Session, the mass of the new part must not be more than that of the original part.
+
+
+### Section C > Article C4: MASS > C4.5 Reference Mass of the driver and Driver Ballast > C4.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 61
+
+**C4.5** ##  Reference Mass of the driver and Driver Ballast
 
 
 ### Section C > Article C4: MASS > C4.5 Reference Mass of the driver and Driver Ballast > C4.5.1
@@ -3029,6 +3452,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 61
 
 **C4.5.2** The reference Mass of the Driver plus the mass of any Driver Ballast must not be less than 82kg at any time during the Competition.
+
+
+### Section C > Article C4: MASS > C4.6 Heat Hazard Mass Increase > C4.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 61
+
+**C4.6** ##  Heat Hazard Mass Increase
 
 <mark>During a **TTCS** for which a Heat Hazard has been declared:</mark>
 
@@ -3045,6 +3475,13 @@ b. The sum of the masses of the following items must be no less than 5kg;
 
 <mark>d. The mass of the driver cooling system must be no less than 2kg.</mark>
 
+
+### Section C > Article C4: MASS > C4.7 Determination of Nominal Tyre Mass > C4.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 61
+
+**C4.7** ##  Determination of Nominal Tyre Mass
+
 To determine the Nominal Tyre Mass, the masses of new, production, dry weather, tyres will be measured by the tyre provider and published after the final day of TCC opportunity (as defined in Article B11.2.7.b) prior to the start of the Championship and will be the mean mass of sample of 50 tyres per axle.
 
 In the case of a change in tyre specification during the Championship, the Nominal Tyre Mass will be adjusted if required.
@@ -3052,6 +3489,13 @@ In the case of a change in tyre specification during the Championship, the Nomin
 *Advisory Committee: PUAC*
 
 *Governance: PU Manufacturers’ Governance Agreement / WMSC*
+
+
+### Section C > Article C5: POWER UNIT > C5.1 Engine specification > C5.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 62
+
+**C5.1** ##  Engine specification
 
 
 ### Section C > Article C5: POWER UNIT > C5.1 Engine specification > C5.1.1
@@ -3199,6 +3643,13 @@ SOURCE_PAGE: 63
 **C5.1.18** <mark>Treatment of Numerical Values</mark>
 
 <mark>Unless stated otherwise any numerical values specified in Article C5 will be static values at ambient temperature</mark>
+
+
+### Section C > Article C5: POWER UNIT > C5.2 Power Unit Energy Flow > C5.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 63
+
+**C5.2** Power Unit Energy Flow
 
 
 ### Section C > Article C5: POWER UNIT > C5.2 Power Unit Energy Flow > C5.2.1
@@ -3450,6 +3901,13 @@ SOURCE_PAGE: 67
 **C5.2.22** ERS-K efficiency maps, accurately reflecting the ERS-K losses, must be submitted and updated according to the requirements detailed in the <mark>FIA-F1-DOC-096</mark> document. These maps will only be used in the ADUO ICE Performance Index calculation.
 
 
+### Section C > Article C5: POWER UNIT > C5.3 Turbo Charger > C5.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 67
+
+**C5.3** ##  Turbo Charger
+
+
 ### Section C > Article C5: POWER UNIT > C5.3 Turbo Charger > C5.3.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 67
@@ -3512,6 +3970,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 68
 
 **C5.3.7** The Compressor Inlet must extend upstream of any part of any variable geometry device permitted by Article C5.7.
+
+
+### Section C > Article C5: POWER UNIT > C5.4 Power unit geometrical constraints and dimensions > C5.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 68
+
+**C5.4** ##  Power unit geometrical constraints and dimensions
 
 
 ### Section C > Article C5: POWER UNIT > C5.4 Power unit geometrical constraints and dimensions > C5.4.1
@@ -3676,6 +4141,13 @@ The four mounting faces of the studs for connection to the Gearbox Case must lie
 Any part which provides additional load path, aside from the path through the studs defined above, from the Survival Cell to the ICE or from the ICE to the Gearbox Case, is prohibited unless this is incidental to its principal purpose. Furthermore, any such part may provide no greater structural connection between these pairs of assemblies than is reasonable for the safe and reliable fulfilment of its purposes.
 
 
+### Section C > Article C5: POWER UNIT > C5.5 Mass and centre of gravity > C5.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 71
+
+**C5.5** #  Mass and centre of gravity
+
+
 ### Section C > Article C5: POWER UNIT > C5.5 Mass and centre of gravity > C5.5.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 71
@@ -3746,6 +4218,13 @@ c. ICE Ballast must be secured in such a way that tools are required for its rem
 d. Have a density greater than 7500Kg/m3.
 
 
+### Section C > Article C5: POWER UNIT > C5.6 Engine intake air > C5.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 72
+
+**C5.6** #  Engine intake air
+
+
 ### Section C > Article C5: POWER UNIT > C5.6 Engine intake air > C5.6.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 72
@@ -3776,6 +4255,13 @@ SOURCE_PAGE: 72
 **C5.6.4** Any component of the ICE intake air system forming a volume whose surface area, measured perpendicular to the geometrical path of the air directed to any cylinder, is at least 10000mm² per bank or 3400mm² per cylinder supplied, shall be defined as Engine Plenum.
 
 
+### Section C > Article C5: POWER UNIT > C5.7 Variable geometry systems > C5.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 72
+
+**C5.7** #  Variable geometry systems
+
+
 ### Section C > Article C5: POWER UNIT > C5.7 Variable geometry systems > C5.7.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 72
@@ -3804,6 +4290,13 @@ SOURCE_PAGE: 72
 **C5.7.4** Variable geometry intake device(s) are permitted in the compressor housing.
 
 
+### Section C > Article C5: POWER UNIT > C5.8 Exhausts > C5.8
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 72
+
+**C5.8** #  Exhausts
+
+
 ### Section C > Article C5: POWER UNIT > C5.8 Exhausts > C5.8.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 72
@@ -3830,6 +4323,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 73
 
 **C5.8.4** The engine must be equipped with lambda sensors either fitted into each exhaust secondary, one per cylinder bank, or a single lambda sensor fitted into the Exhaust Tailpipe. These lambda sensors must be connected to the FIA Standard ECU in a manner specified by the FIA and their measurement must be supplied to the FIA at all times.
+
+
+### Section C > Article C5: POWER UNIT > C5.9 Fuel systems > C5.9
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 73
+
+**C5.9** #  Fuel systems
 
 
 ### Section C > Article C5: POWER UNIT > C5.9 Fuel systems > C5.9.1
@@ -3885,6 +4385,13 @@ SOURCE_PAGE: 73
 **C5.9.7** The High Pressure Fuel Pump may only be driven by one of the camshafts actuating the intake or exhaust valves
 
 
+### Section C > Article C5: POWER UNIT > C5.10 Ignition systems > C5.10
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 73
+
+**C5.10** #  Ignition systems
+
+
 ### Section C > Article C5: POWER UNIT > C5.10 Ignition systems > C5.10.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 73
@@ -3906,6 +4413,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 74
 
 **C5.10.3** The spark energy per ignition is limited to a maximum of 120.0mJ.
+
+
+### Section C > Article C5: POWER UNIT > C5.11 Ancillaries > C5.11
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 74
+
+**C5.11** ##  Ancillaries
 
 
 ### Section C > Article C5: POWER UNIT > C5.11 Ancillaries > C5.11.1
@@ -3934,6 +4448,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 74
 
 **C5.11.4** For the ESME, the MGU-K and the PU-CE, all Ancillaries (including pumps) may be mechanically or electrically driven
+
+
+### Section C > Article C5: POWER UNIT > C5.12 Power unit torque or power demand > C5.12
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 74
+
+**C5.12** ##  Power unit torque or power demand
 
 
 ### Section C > Article C5: POWER UNIT > C5.12 Power unit torque or power demand > C5.12.1
@@ -4003,6 +4524,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 75
 
 **C5.12.8** Specification of power limited pending, power limited,  <mark>Boost</mark> mode and details of the implementation in the FIA Standard ECU of the application and monitoring of Article C5.12 may be found in the document <mark>FIA-F1-DOC-058</mark>.
+
+
+### Section C > Article C5: POWER UNIT > C5.13 Power unit control > C5.13
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 75
+
+**C5.13** #  Power unit control
 
 
 ### Section C > Article C5: POWER UNIT > C5.13 Power unit control > C5.13.1
@@ -4110,6 +4638,13 @@ SOURCE_PAGE: 76
 
 **C5.13.13** The ICE coolant pressure must be measured by a sensor positioned next to the pressure relief valve defined in Article C5.22.1. This sensor is classified as a regulatory sensor (reference item 23 Appendix C4), and its installation and connectivity to the FIA SECU must be approved by the FIA.
 
+
+### Section C > Article C5: POWER UNIT > C5.14 Engine high rev limits > C5.14
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 76
+
+**C5.14** Engine high rev limits
+
 Engine high rev limits may vary for differing conditions provided all are contained within a band of 750rpm. However, a lower rev limit may be used when:
 
 a. The Gearbox is in neutral.
@@ -4126,13 +4661,34 @@ f. The safety car is deployed or during the formation lap.
 
 Except for the above conditions, Power Unit actuators may not be used to artificially control the Power Unit speed or alter the Power Unit response in a rev range more than 750rpm below the final rev limit.
 
+
+### Section C > Article C5: POWER UNIT > C5.15 Starting the engine > C5.15
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 77
+
+**C5.15** #  Starting the engine
+
 The car must be fired up with its on-board system (MGU-K) at any time.
+
+
+### Section C > Article C5: POWER UNIT > C5.16 Stall prevention systems > C5.16
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 77
+
+**C5.16** #  Stall prevention systems
 
 If a car is equipped with a stall prevention system, and in order to avoid the possibility of a car involved in an accident being left with the engine running, all such systems must be configured to stop the engine no more than ten seconds after activation.
 
 The sole purpose of such systems is to prevent the engine stalling when a driver loses control of the car. If the car is in second gear or above when the system is activated multiple gear changes may be made to either first gear or neutral, under all other circumstances the Clutch alone may be activated.
 
 Each time such a system is activated the Clutch must be fully disengaged and must remain so until the driver de-activates the system by manually operating the Clutch with a request greater than 95% of the total available travel of the drivers Clutch actuation device.
+
+
+### Section C > Article C5: POWER UNIT > C5.17 Energy Recovery System (ERS) > C5.17
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 77
+
+**C5.17** #  Energy Recovery System (ERS)
 
 
 ### Section C > Article C5: POWER UNIT > C5.17 Energy Recovery System (ERS) > C5.17.1
@@ -4234,6 +4790,13 @@ SOURCE_PAGE: 79
 **C5.17.10** Any significant debris resulting from a failure of the elements located inside the RV-PU-ERS and defined in Appendix 3 items 26 (MGU-K) and 27 (MGU-K Mechanical Transmission) must be contained by and within the housing(s) hosting those parts. Documents demonstrating compliance with this requirement must be part of the PU Manufacturer homologation dossier. Additional guidance may be found in the document <mark>FIA-F1-DOC-044</mark>.
 
 
+### Section C > Article C5: POWER UNIT > C5.18 MGU-K > C5.18
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 79
+
+**C5.18** #  MGU-K
+
+
 ### Section C > Article C5: POWER UNIT > C5.18 MGU-K > C5.18.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 79
@@ -4305,6 +4868,13 @@ SOURCE_PAGE: 80
 **C5.18.9** The elements defined in item 31 (MGU-K torque sensor shaft) of Appendix C4 must be dismountable from their respective PU elements without breaking any FIA permanent seal.
 
 
+### Section C > Article C5: POWER UNIT > C5.19 Energy Store > C5.19
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 80
+
+**C5.19** #  Energy Store
+
+
 ### Section C > Article C5: POWER UNIT > C5.19 Energy Store > C5.19.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 80
@@ -4359,6 +4929,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 80
 
 **C5.19.6** With the exception of the ES safety systems, the ES Cells defined in C5.2.25 are the only energy storage source allowed in the ES.
+
+
+### Section C > Article C5: POWER UNIT > C5.20 ES design and installation > C5.20
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 80
+
+**C5.20** #  ES design and installation
 
 
 ### Section C > Article C5: POWER UNIT > C5.20 ES design and installation > C5.20.1
@@ -4466,6 +5043,13 @@ SOURCE_PAGE: 82
 **C5.20.11** The ES must have only two poles, the ES HV DC+ and ES HV DC-, that are connected to the HV DC Bus. Additionally, the CU-K, the DC-DC Unit and any other PU-CE may only be connected to the HV DC bus via the ES HV DC+ and ES HV DC- poles.
 
 
+### Section C > Article C5: POWER UNIT > C5.21 ERS General electrical safety > C5.21
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 82
+
+**C5.21** # ** ERS General electrical safety
+
+
 ### Section C > Article C5: POWER UNIT > C5.21 ERS General electrical safety > C5.21.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 82
@@ -4551,6 +5135,13 @@ SOURCE_PAGE: 84
 **C5.21.7** The UN38.3 Energy Store transportation certification must be shared with the FIA during the homologation of each Energy recovery system specification.
 
 
+### Section C > Article C5: POWER UNIT > C5.22 Oil and coolant systems and charge air cooling > C5.22
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 84
+
+**C5.22** ##  Oil and coolant systems and charge air cooling
+
+
 ### Section C > Article C5: POWER UNIT > C5.22 Oil and coolant systems and charge air cooling > C5.22.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 84
@@ -4597,9 +5188,24 @@ SOURCE_PAGE: 84
 
 **C5.22.6** The use of an Auxiliary Oil Tank, or other forms of oil storage other than the single oil tank defined in C5.22.3 is not permitted. Accumulation of oil in other volumes (such as catch tanks) may be deemed acceptable only if incidental.
 
+
+### Section C > Article C5: POWER UNIT > C5.23 Single ICE Mode > C5.23
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 84
+
+**C5.23** Single ICE Mode**
+The Power Unit must be operated in a single ICE mode during each competitive lap in all sessions of a Competition, with the exception of free practice sessions. All details concerning policing of this article may be found in the document <mark>FIA-F1-DOC-054</mark>.
+
 *Advisory Committee: TAC*
 
 *Governance: F1 Commission / WMSC*
+
+
+### Section C > Article C6: FUEL SYSTEM > C6.1 Fuel tanks > C6.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 85
+
+**C6.1** ##  Fuel tanks
 
 
 ### Section C > Article C6: FUEL SYSTEM > C6.1 Fuel tanks > C6.1.1
@@ -4641,6 +5247,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 85
 
 **C6.1.5** The maximum internal pressure exerted on the fuel bladder must not exceed 1.0 barG.
+
+
+### Section C > Article C6: FUEL SYSTEM > C6.2 Fittings and piping > C6.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 85
+
+**C6.2** ##  Fittings and piping
 
 
 ### Section C > Article C6: FUEL SYSTEM > C6.2 Fittings and piping > C6.2.1
@@ -4696,9 +5309,23 @@ SOURCE_PAGE: 86
 
 **C6.2.6** All components containing fuel at a pressure greater than 10barG must be located outside the fuel tank.
 
+
+### Section C > Article C6: FUEL SYSTEM > C6.3 Fuel tank fillers > C6.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 86
+
+**C6.3** #  Fuel tank fillers
+
 Fuel tank fillers must not protrude beyond the bodywork. Any breather pipe connecting the fuel tank to the atmosphere must be designed to avoid liquid leakage when the car is running, and its outlet must not be less than 250mm from the Cockpit opening.
 
 All fuel tank fillers and breathers must be designed to ensure an efficient locking action which reduces the risk of an accidental opening following a crash impact or incomplete locking after refuelling.
+
+
+### Section C > Article C6: FUEL SYSTEM > C6.4 Refuelling > C6.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 86
+
+**C6.4** #  Refuelling
 
 
 ### Section C > Article C6: FUEL SYSTEM > C6.4 Refuelling > C6.4.1
@@ -4744,6 +5371,13 @@ SOURCE_PAGE: 87
 **C6.4.5** Any refuelling procedure must respect the provisions of Article B.1.6.9.
 
 
+### Section C > Article C6: FUEL SYSTEM > C6.5 Fuel draining and sampling > C6.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 87
+
+**C6.5** Fuel draining and sampling
+
+
 ### Section C > Article C6: FUEL SYSTEM > C6.5 Fuel draining and sampling > C6.5.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 87
@@ -4772,6 +5406,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 87
 
 **C6.5.4** The sampling procedure must not necessitate starting the engine or the removal of bodywork (other than the nosebox assembly and the cover over any refuelling connector).
+
+
+### Section C > Article C6: FUEL SYSTEM > C6.6 Fuel System Hydraulic Layout > C6.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 87
+
+**C6.6** Fuel System Hydraulic Layout
 
 
 ### Section C > Article C6: FUEL SYSTEM > C6.6 Fuel System Hydraulic Layout > C6.6.1
@@ -4874,9 +5515,30 @@ satisfaction of the FIA that any fluid used for this purpose cannot be used to c
 *Advisory Committee: TAC*
 *Governance: F1 Commission / WMSC*
 
+
+### Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.1 Location of lubricating oil tanks > C7.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 90
+
+**C7.1** ##  Location of lubricating oil tanks
+
 All oil storage tanks must be situated between X<sub>F</sub>=0 and X<sub>DIF</sub>=150, and must be no further outboard than the lateral extremities of the Survival Cell.
 
+
+### Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.2 Location of lubricating oil system > C7.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 90
+
+**C7.2** ##  Location of lubricating oil system
+
 No other part of the car containing lubricating oil may be situated behind X<sub>DIF</sub> = 150 or outboard of Y=750.
+
+
+### Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.3 Oil and coolant lines > C7.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 90
+
+**C7.3** ##  Oil and coolant lines
 
 
 ### Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.3 Oil and coolant lines > C7.3.1
@@ -4898,6 +5560,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 90
 
 **C7.3.3** No hydraulic fluid lines may have removable connectors inside the cockpit.
+
+
+### Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.4 Heat exchangers > C7.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 90
+
+**C7.4** ##  Heat exchangers
 
 
 ### Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.4 Heat exchangers > C7.4.1
@@ -4929,6 +5598,13 @@ Secondary Heat Exchangers must be constructed from metallic materials with the e
 
 *Advisory Committee: TAC*
 *Governance: F1 Commission / WMSC*
+
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.1 Software and electronics inspection > C8.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 91
+
+**C8.1** ##  Software and electronics inspection
 
 
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.1 Software and electronics inspection > C8.1.1
@@ -5006,6 +5682,13 @@ Changes made solely for reliability, bug fix, compatibility with standard or oth
 Note 1: for the 2026 Championship season only, the limits defined in the above table will apply starting from the fifth Competition.
 
 
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.2 Control electronics > C8.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 92
+
+**C8.2** ## **** **Control electronics
+
+
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.2 Control electronics > C8.2.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 92
@@ -5055,6 +5738,13 @@ SOURCE_PAGE: 92
 **C8.2.5** Pneumatic valve pressure may only be controlled via a passive mechanical regulator or from the FIA Standard ECU and its operation will be monitored by the FIA Standard ECU.
 
 
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.3 Start systems > C8.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 92
+
+**C8.3** ## **** **Start systems
+
+
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.3 Start systems > C8.3.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 92
@@ -5067,6 +5757,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 92
 
 **C8.3.2** The FIA Standard ECU will implement a "lockout" period after each race start or pit stop during which a number of Power Unit and transmission related functions will be frozen or disabled.
+
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.4 Data acquisition > C8.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 92
+
+**C8.4** ## **** **Data acquisition
 
 
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.4 Data acquisition > C8.4.1
@@ -5119,6 +5816,13 @@ Unless approved by the FIA, no junction box or break-out box may be shared betwe
 Standard ECU system and an F1 Team data acquisition system. The use of any coupling, be it hard wired, magnetic, optical or other such link which allows the
 
 transmission of signals will not be considered as adequate isolation in the context of this Article.
+
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.5 Telemetry > C8.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 93
+
+**C8.5** ##  Telemetry
 
 
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.5 Telemetry > C8.5.1
@@ -5175,6 +5879,13 @@ f. above a plane coincident with “Surface Z”.
 g. behind an X-plane lying 100mm ahead of “Point X”.
 
 
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.6 Driver inputs and information > C8.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 94
+
+**C8.6** #  Driver inputs and information
+
+
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.6 Driver inputs and information > C8.6.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 94
@@ -5225,6 +5936,13 @@ The design or installation of any component, surface finish, or feature, the pur
 pedal travel range to be identified by the driver or to assist the driver to hold a position are not permitted.
 
 
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.7 Master switch > C8.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 95
+
+**C8.7** ##  Master switch
+
+
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.7 Master switch > C8.7.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 95
@@ -5245,6 +5963,13 @@ The handles must enclose a circle of diameter 40mm and be red or yellow if the s
 The handles must be marked with a letter "E" in red at least 80mm tall, with a line thickness of at least 8mm, inside a white disc of at least 100mm diameter with a red edge with a line thickness of at least 4mm.
 
 
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.8 Driver radio > C8.8
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 95
+
+**C8.8** ##  Driver radio
+
+
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.8 Driver radio > C8.8.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 95
@@ -5257,6 +5982,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 95
 
 **C8.8.2** Other than authorised connections to the FIA Standard ECU, any voice radio communication system between car and pits must be stand alone and must not transmit or receive other data. All such communications must be open and accessible to both the FIA and broadcasters.
+
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.9 Accident analysis > C8.9
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 95
+
+**C8.9** ##  Accident analysis
 
 For the purpose of accident analysis and driver rescue, during each Competition and all tests which are attended by more than one F1 Team, each car must be fitted with:
 
@@ -5363,9 +6095,23 @@ SOURCE_PAGE: 97
 
 For the purpose of aiding driver rescue, the FIA may define biometric devices, to be worn by each driver and which have been manufactured by the FIA designated supplier to a specification determined by the FIA.
 
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.10 Accident data > C8.10
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 97
+
+**C8.10** #  Accident data
+
 At any time following an accident or incident F1 Teams must make the FIA ADR available and accessible to the FIA. A representative of the F1 Team concerned may be present when data relevant to an accident or incident is being uploaded from the recorder. A copy of the data will be made available to the F1 Team.
 
 Any conclusions as to the cause of an accident, or any data relevant to an accident, may only be published in the form of a report which has been agreed between the F1 Team concerned and the FIA.
+
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.11 FIA Marshalling system > C8.11
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 97
+
+**C8.11** #  FIA Marshalling system
 
 
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.11 FIA Marshalling system > C8.11.1
@@ -5392,13 +6138,34 @@ SOURCE_PAGE: 97
 
 **C8.11.3** ##  Details of the marshalling system may be found in the document <mark>FIA-F1-DOC-023</mark>.
 
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.12 Track signal information display > C8.12
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 97
+
+**C8.12** #  Track signal information display
+
 All cars must be fitted with red, blue and yellow Cockpit lights, supplied as part of the FIA Standard ECU, the purpose of which are to give drivers information concerning track signals or conditions. The lights must be fitted directly in the driver’s normal line of sight.
+
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.13 Impact warning system > C8.13
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 98
+
+**C8.13** ##  Impact warning system
 
 In order to give rescue crews an immediate indication of accident severity each car must be fitted with a warning light which is connected to the FIA ADR.
 
 The light must face upwards and be recessed into the top of the Survival Cell and be positioned according to Drawing 10 of Appendix C3.
 
 Details of the light and its control system may be found in the document <mark>FIA-F1-DOC-031</mark>.
+
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.14 Installation of electrical systems or components > C8.14
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 98
+
+**C8.14** ##  Installation of electrical systems or components
 
 
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.14 Installation of electrical systems or components > C8.14.1
@@ -5435,7 +6202,21 @@ SOURCE_PAGE: 98
 
 **C8.14.3** Notwithstanding the provisions of Article C8.14.1, the use in testing of any system designed to adjust the ride height of the car in a way that is not compliant with Article C10 is prohibited.
 
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.15 Timing transponders > C8.15
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 98
+
+**C8.15** ##  Timing transponders
+
 All cars must be fitted with two timing transponders supplied by the officially appointed timekeepers. These transponders must be fitted in strict accordance with the instructions detailed in the document <mark>FIA-F1-DOC-022</mark>. F1 Teams must use their best endeavours to ensure that the transponders are in working order at all times.
+
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.16 Cameras and camera housings > C8.16
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 98
+
+**C8.16** ##  Cameras and camera housings
 
 
 ### Section C > Article C8: ELECTRICAL SYSTEMS > C8.16 Cameras and camera housings > C8.16.1
@@ -5551,13 +6332,34 @@ SOURCE_PAGE: 100
 
 The camera fitted in position 6 must be mounted within the Rear Impact Structure with the face of the lens pointing rearwards at an angle no greater than 1° to the plane X=0.
 
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.17 Electromagnetic radiation > C8.17
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 100
+
+**C8.17** #  Electromagnetic radiation
+
 Electromagnetic radiation between 2.0 and 2.7GHz is forbidden save with the written consent of the FIA.
+
+
+### Section C > Article C8: ELECTRICAL SYSTEMS > C8.18 Sensor signals > C8.18
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 100
+
+**C8.18** #  Sensor signals
 
 Any system, device or installation which is contrived or operated in a way to alter the measurement or the signal of a sensor used by the FIA to establish compliance with the Regulations is forbidden.
 
 <mark>Advisory Committee: TAC</mark>
 
 <mark>Governance: F1 Commission / WMSC</mark>
+
+
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.1 Fundamental provisions > C9.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 101
+
+**C9.1** ##  Fundamental provisions
 
 
 ### Section C > Article C9: TRANSMISSION SYSTEM > C9.1 Fundamental provisions > C9.1.1
@@ -5578,6 +6380,13 @@ SOURCE_PAGE: 101
 No car may be equipped with a system or device which is capable of preventing the driven wheels from spinning under power or of compensating for excessive torque demand by the driver.
 
 Any device or system which notifies the driver of the onset of wheel spin is not permitted.
+
+
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.2 Clutch control > C9.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 101
+
+**C9.2** ##  Clutch control
 
 
 ### Section C > Article C9: TRANSMISSION SYSTEM > C9.2 Clutch control > C9.2.1
@@ -5670,7 +6479,12 @@ SOURCE_PAGE: 103
 
 **C9.2.7** Any device or system which notifies the driver of the amount of Clutch slip or engagement is not permitted.
 
-**C9.3 Clutch Disengagement System (CDS)**
+
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.2 Clutch control > C9.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 103
+
+**C9.3** Clutch Disengagement System (CDS)**
 All cars must be fitted with a means of disengaging the Clutch for a minimum of fifteen minutes in the event of the car coming to rest with the engine stopped. This system must be in working order throughout the Competition even if the main hydraulic, pneumatic or electrical systems on the car have failed. This system must also shut down the ERS, as required by article C5.17.1.
 
 In order that the driver or a marshal may activate the system in less than five seconds, the button which operates it must :
@@ -5680,6 +6494,13 @@ a. Face upwards and be recessed into the top of the Survival Cell and be positio
 b. Be designed in order that a marshal is unable to accidentally re-engage the Clutch.
 
 c. Be marked according to Drawing 10 of Appendix C3.
+
+
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.4 Homologated Gearbox and Component Classification > C9.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 103
+
+**C9.4** Homologated Gearbox and Component Classification
 
 The design of the Driveline Components (with the exception of the gear ratios, for which the provisions of Article C9.6.2 apply), Gear-Change Components and Auxiliary Components must be homologated by each gearbox supplier before the start of the season following the season when they first supplied a Gearbox under these Regulations. The design must not be modified, except in exceptional circumstances, in subsequent seasons.
 
@@ -5698,6 +6519,13 @@ c. In the case of materials, processes or proprietary parts becoming unavailable
 In all cases; clear documentation justifying the change must be provided, prior approval must be obtained from the FIA, and the modification must not give any performance advantage. A summary of the modification will be circulated to all F1 Teams by the FIA.
 
 The Gearbox, as defined in Appendix C1, is classified as TRC.
+
+
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.5 Gearbox Dimensions > C9.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 104
+
+**C9.5** #  Gearbox Dimensions
 
 
 ### Section C > Article C9: TRANSMISSION SYSTEM > C9.5 Gearbox Dimensions > C9.5.1
@@ -5724,6 +6552,13 @@ SOURCE_PAGE: 104
 **C9.5.2** ##  Mass
 
 The combined mass of driveline and gear-change components must be at least 22kg.
+
+
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.6 Gear ratios > C9.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 104
+
+**C9.6** #  Gear ratios
 
 
 ### Section C > Article C9: TRANSMISSION SYSTEM > C9.6 Gear ratios > C9.6.1
@@ -5765,7 +6600,21 @@ SOURCE_PAGE: 105
 
 **C9.6.4** Gear ratio pairs must be made from steel.
 
+
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.7 Reverse gear > C9.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 105
+
+**C9.7** ##  Reverse gear
+
 All cars must be able to be driven in reverse by the driver at any time during the Competition.
+
+
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.8 Gear changing > C9.8
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 105
+
+**C9.8** ##  Gear changing
 
 
 ### Section C > Article C9: TRANSMISSION SYSTEM > C9.8 Gear changing > C9.8.1
@@ -5817,6 +6666,13 @@ SOURCE_PAGE: 105
 **C9.8.5** Distance channel or track position is not considered an acceptable input to gearbox control.
 
 
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.9 Torque transfer systems > C9.9
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 106
+
+**C9.9** #  **Torque transfer systems
+
+
 ### Section C > Article C9: TRANSMISSION SYSTEM > C9.9 Torque transfer systems > C9.9.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 106
@@ -5830,7 +6686,21 @@ SOURCE_PAGE: 106
 
 **C9.9.2** Any device which is capable of transferring torque between the principal axes of rotation of the two front wheels is prohibited.
 
+
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.10 Driveshafts > C9.10
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 106
+
+**C9.10** #  **Driveshafts
+
 Driveshafts must be made from steel. The bore, more than 150mm from the ends, must be of constant diameter. At one of the ends, the internal diameter of the final 150mm must be equal to or greater than the diameter of the bore of the constant diameter section.
+
+
+### Section C > Article C9: TRANSMISSION SYSTEM > C9.11 Structural Connection to Survival Cell > C9.11
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 106
+
+**C9.11** #  **Structural Connection to Survival Cell
 
 Any part which provides an additional load path, aside from the path through the studs defined under Art. C5.4.17, from the Survival Cell to the Gearbox Case is prohibited unless this is incidental to its principal purpose.
 
@@ -5840,6 +6710,13 @@ Furthermore, any such part must not provide a structural connection between this
 
 *Governance: F1 Commission / WMSC*
 
+
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.1 Legality Setup > C10.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 107
+
+**C10.1** ##  Legality Setup
+
 The attitude of the Unsprung Mass, in relation to the Sprung Mass, for the assessment of its compliance to the Regulations.
 
 An F1 Team must define a unique “Legality Setup” for the front axle and for the rear axle. These setups must have:
@@ -5847,6 +6724,13 @@ An F1 Team must define a unique “Legality Setup” for the front axle and for 
 a. The Y<sub>W</sub> axis parallel to the X=0 plane.
 b. The Y<sub>W</sub> axis subtending an angle of −3 and −1 degrees to the Z=0 plane for the front and rear axles respectively
 c. The origin of the Wheel Coordinate System lying between Z=290 and Z=320 for the front axle and between Z=225 and Z=285 for the rear axle.
+
+
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.2 Sprung suspension > C10.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 107
+
+**C10.2** ##  Sprung suspension
 
 
 ### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.2 Sprung suspension > C10.2.1
@@ -5917,6 +6801,13 @@ f. Coupling between suspension elements, such that the state of an element(s) is
 g. Any system such as spool valves, switches, ratchets, etc. intended to change the suspension elements’ characteristics between different states. Valves within a suspension damper element are acceptable as long as the only function is to provide a passive change in the damper force response whilst conforming to Article C10.4.3(b).
 
 h. Mass Dampers, as defined in Appendix C1.
+
+
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.3 Outboard suspension > C10.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 108
+
+**C10.3** #  Outboard suspension
 
 
 ### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.3 Outboard suspension > C10.3.1
@@ -6037,6 +6928,13 @@ SOURCE_PAGE: 110
 **C10.3.10** No rear suspension member may be attached to the Power Unit.
 
 
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.4 Inboard suspension > C10.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 110
+
+**C10.4** ##  Inboard suspension
+
+
 ### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.4 Inboard suspension > C10.4.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 110
@@ -6080,6 +6978,13 @@ to utilise any inherent hysteresis to alter the response of the element relative
 medium are not permitted.
 
 
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.5 Steering > C10.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 111
+
+**C10.5** ##  Steering
+
+
 ### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.5 Steering > C10.5.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 111
@@ -6115,6 +7020,13 @@ SOURCE_PAGE: 111
 **C10.5.5** The steering wheel, steering column and steering rack assembly must pass an impact test, details of the test procedure may be found in Article C13.8.
 
 
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.6 Suspension Uprights > C10.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 111
+
+**C10.6** ##  Suspension Uprights
+
+
 ### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.6 Suspension Uprights > C10.6.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 111
@@ -6136,6 +7048,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 112
 
 **C10.6.3** No part of the upright assembly may be inboard of Y<sub>W</sub>=0 except for parts solely for the attachment and fixing of a suspension member outboard attachment point, conforming to Article C10.3.4 (a) to (c), to the upright which may encroach no more inboard than a sphere of radius 25mm about the attachment point.
+
+
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.7 Wheel rims > C10.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 112
+
+**C10.7** #  Wheel rims
 
 
 ### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.7 Wheel rims > C10.7.1
@@ -6269,6 +7188,13 @@ The only parts which may be physically attached to the wheel in addition to the 
 
 
 
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.8 Tyres > C10.8
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 114
+
+**C10.8** ##  Tyres
+
+
 ### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.8 Tyres > C10.8.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 114
@@ -6344,6 +7270,13 @@ f. All software, hardware and wiring must:
 Additional details may be found in the document <mark>FIA-F1-DOC-032</mark>.
 
 
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.9 Wheel attachment and retention > C10.9
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 116
+
+**C10.9** #  Wheel attachment and retention
+
+
 ### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.9 Wheel attachment and retention > C10.9.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 116
@@ -6384,6 +7317,13 @@ SOURCE_PAGE: 116
 **C10.9.5** Furthermore, the dual stage retaining systems must incorporate a means of allowing the wheel operator/fitter to visually identify an incorrectly fitted fastener.
 
 
+### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.10 Dimensions > C10.10
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 116
+
+**C10.10** #  Dimensions
+
+
 ### Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.10 Dimensions > C10.10.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 116
@@ -6397,6 +7337,13 @@ The origin of the rear Wheel Coordinate System may not lie outboard of Y=525 whe
 Advisory Committee: TAC
 
 Governance: F1 Commission / WMSC
+
+
+### Section C > Article C11: BRAKE SYSTEM > C11.1 Brake circuits and pressure distribution > C11.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 117
+
+**C11.1** ##  Brake circuits and pressure distribution
 
 
 ### Section C > Article C11: BRAKE SYSTEM > C11.1 Brake circuits and pressure distribution > C11.1.1
@@ -6431,6 +7378,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 117
 
 **C11.1.4** Any change to, or modulation of, the brake system, whilst the car is on the track must be made by the driver's direct physical input or by the system referred to in Article C11.6, and may not be pre−set.
+
+
+### Section C > Article C11: BRAKE SYSTEM > C11.2 Brake callipers > C11.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 117
+
+**C11.2** ##  Brake callipers
 
 
 ### Section C > Article C11: BRAKE SYSTEM > C11.2 Brake callipers > C11.2.1
@@ -6468,6 +7422,13 @@ SOURCE_PAGE: 117
 **C11.2.5** The section of each calliper piston must be circular.
 
 
+### Section C > Article C11: BRAKE SYSTEM > C11.3 Brake discs and pads > C11.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 118
+
+**C11.3** # ** Brake discs and pads
+
+
 ### Section C > Article C11: BRAKE SYSTEM > C11.3 Brake discs and pads > C11.3.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 118
@@ -6503,6 +7464,13 @@ SOURCE_PAGE: 118
 **C11.3.5** Each wheel must be equipped with one or two opposing pairs of brake pads.
 
 
+### Section C > Article C11: BRAKE SYSTEM > C11.4 Brake pressure modulation > C11.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 118
+
+**C11.4** # ** Brake pressure modulation
+
+
 ### Section C > Article C11: BRAKE SYSTEM > C11.4 Brake pressure modulation > C11.4.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 118
@@ -6516,7 +7484,21 @@ SOURCE_PAGE: 118
 
 **C11.4.2** No braking system may be designed to increase the pressure in the brake callipers above that achieved by the driver applied force to the pedal under all conditions except for the system referred to in C11.6.
 
+
+### Section C > Article C11: BRAKE SYSTEM > C11.5 Liquid cooling > C11.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 118
+
+**C11.5** # ** Liquid cooling
+
 Liquid cooling of the brakes is forbidden.
+
+
+### Section C > Article C11: BRAKE SYSTEM > C11.6 Rear brake control system > C11.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 118
+
+**C11.6** # ** Rear brake control system
 
 The pressure in the rear braking circuit may be provided by a powered control system provided that:
 
@@ -6526,11 +7508,25 @@ b. It does not exceed 1.2 times the pressure concurrently generated by the drive
 
 c. The powered system is controlled by the Control Electronics described in Article C8.2.
 
+
+### Section C > Article C11: BRAKE SYSTEM > C11.7 Supply of Brake Friction and Brake System Hydraulic components > C11.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 118
+
+**C11.7** # ** Supply of Brake Friction and Brake System Hydraulic components
+
 The Brake Disks and Pads described in Article C11.3, the Brake Calliper described in Article C11.2, the Master Cylinder described in Article C11.1 and Rear brake control system described in Article C11.6 are classified as OSC, in accordance with the provisions of Article C17.5.
 
 <mark>*Advisory Committee: TAC*</mark>
 
 <mark>*Governance: F1 Commission / WMSC*</mark>
+
+
+### Section C > Article C12: SURVIVAL CELL > C12.1 General Requirements > C12.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 119
+
+**C12.1** ##  General Requirements
 
 
 ### Section C > Article C12: SURVIVAL CELL > C12.1 General Requirements > C12.1.2
@@ -6551,6 +7547,13 @@ SOURCE_PAGE: 119
 Where the regulations require an F1 Team to demonstrate the strength of a component or structure by calculation, a reserve factor of 1.0 at ultimate failure should be used for metallic components and first-ply failure for composites.
 
 The FIA may request F1 Teams to submit models and material properties used in these calculations for inspection.
+
+
+### Section C > Article C12: SURVIVAL CELL > C12.2 Survival cell specifications > C12.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 119
+
+**C12.2** ##  Survival cell specifications
 
 
 ### Section C > Article C12: SURVIVAL CELL > C12.2 Survival cell specifications > C12.2.1
@@ -6694,6 +7697,13 @@ SOURCE_PAGE: 122
 No part of RV-PU-ERS that lies above Z=51 may lie forwards of RS-FWD-FUEL-LIMIT.
 
 
+### Section C > Article C12: SURVIVAL CELL > C12.3 Intrusion Protection > C12.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 122
+
+**C12.3** #  Intrusion Protection
+
+
 ### Section C > Article C12: SURVIVAL CELL > C12.3 Intrusion Protection > C12.3.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 122
@@ -6778,6 +7788,13 @@ SOURCE_PAGE: 123
 
 The Survival Cell visible from the side that covers RV−CH−MID−MIN must be designed to resist the force of an impacting Front Impact Structure, at up to 380kN. This should be demonstrated by the tests and calculations defined in Article C13.4.7
 
+
+### Section C > Article C12: SURVIVAL CELL > C12.4 Roll Structures > C12.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 123
+
+**C12.4** ###  Roll Structures
+
 All cars must have two roll structures that are designed to help prevent injury to the driver in the event of the car becoming inverted.
 
 
@@ -6821,6 +7838,13 @@ The Secondary Roll Structure, which is not considered part of the Survival Cell,
 The Secondary Roll Structure must be made to standard FIA8869-2018 and supplied by an FIA designated manufacturer. Details of the structure and its mountings may be found in the document <mark>FIA-F1-DOC-115</mark>.
 
 The FIA will take the appropriate measures to ensure that Secondary Roll Structures supplied by different FIA designated manufacturers are of similar mass.
+
+
+### Section C > Article C12: SURVIVAL CELL > C12.5 Cockpit Specification > C12.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 125
+
+**C12.5** #  Cockpit Specification
 
 
 ### Section C > Article C12: SURVIVAL CELL > C12.5 Cockpit Specification > C12.5.1
@@ -6890,6 +7914,13 @@ SOURCE_PAGE: 126
 The face of the foremost pedal, when in the inoperative position, must be no further forward than X<sub>A</sub>=315.
 
 It must be possible to mount the pedals with the face of the brake pedal as far forward as X<sub>C</sub>= −1515. When mounted in the forward most position, the brake pedal, through the full pedal sweep, must maintain at least 10mm longitudinal clearance from any structure or component that could limit further movement.
+
+
+### Section C > Article C12: SURVIVAL CELL > C12.6 Cockpit Padding > C12.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 126
+
+**C12.6** ##  Cockpit Padding
 
 
 ### Section C > Article C12: SURVIVAL CELL > C12.6 Cockpit Padding > C12.6.1
@@ -6976,6 +8007,13 @@ ii. It can be detached without tools.
 
 iii. It is present when compliance with Articles C12.5.1 and C12.5.4.d is assessed.
 
+
+### Section C > Article C12: SURVIVAL CELL > C12.7 Front Floor Structure > C12.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 128
+
+**C12.7** ##  Front Floor Structure
+
 Below the Survival Cell, a structure, called Front Floor Structure must be fitted.
 
 The Front Floor Structure:
@@ -6998,6 +8036,13 @@ f. Must be enclosed by the union of the Floor Bodywork and the fairing defined i
 
 If the single device permitted above already conforms to the requirements of Article C3.5.14.d i and ii without the need of a fairing, over its parts in contact with the External Air Stream, then it will be considered that the device is its own fitted fairing.
 
+
+### Section C > Article C12: SURVIVAL CELL > C12.8 Seat fixing and removal > C12.8
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 129
+
+**C12.8** #  Seat fixing and removal
+
 All cars must be fitted with a removable seat which, if it is secured, must be done so with no more than two fastenings. If fastenings are used, they must be:
 
 a. Clearly indicated and easily accessible when the driver is seated and with the headrest removed.
@@ -7010,6 +8055,13 @@ The seat must be equipped with receptacles which permit the fitting of belts to 
 
 The seat must be removable without the need to cut or remove any part of the safety harness.
 
+
+### Section C > Article C12: SURVIVAL CELL > C12.9 Driver Fit Information > C12.9
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 129
+
+**C12.9** #  Driver Fit Information
+
 Driver−fit information may be transferred between teams. Such information may include CAD geometries and measurements directly relating to driver−fit but must not include construction details.
 
 Information that can be transferred includes: seat geometry, helmet position, steering wheel position, safety harness installation, elbow and knee clearance, pedal position, pedal−pad geometry, and heel−rest geometry.
@@ -7018,6 +8070,13 @@ In all cases, the content of the information to be transferred must be approved 
 
 *Advisory Committee: TAC*
 *Governance: F1 Commission / WMSC*
+
+
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.1 General Principles > C13.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 130
+
+**C13.1** ##  General Principles
 
 
 ### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.1 General Principles > C13.1.1
@@ -7070,6 +8129,13 @@ SOURCE_PAGE: 130
 
 **C13.1.7** One Survival Cell must pass all the tests described in C13.2, C13.3, C13.4, and C13.5.
 
+
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.2 Survival Cell Frontal Impact Test > C13.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 130
+
+**C13.2** ##  Survival Cell Frontal Impact Test
+
 A 50mm (±1mm) thick aluminium plate should be attached to the front bulkhead of the Survival Cell through the mounting points of the frontal impact absorbing structure. The plate should:
 
 a. Measure 430mm (±1mm) wide x 430mm (±1mm) high.
@@ -7111,6 +8177,13 @@ This test may only be carried out on a Survival Cell that has been subjected to 
 The peak Survival Cell acceleration from T=30ms must be at least 52g.
 
 The maximum Survival Cell displacement from T=Zero is 425mm.
+
+
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.3 Roll Structure Testing > C13.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 132
+
+**C13.3** #  Roll Structure Testing
 
 
 ### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.3 Roll Structure Testing > C13.3.1
@@ -7206,6 +8279,13 @@ In addition to the static load tests described above, each team must supply deta
 a. The Survival Cell will sustain a load of 75kN vertically upward on each rear attachment of the Secondary Roll Structure.
 
 b. The Survival Cell and bracket will sustain a load equivalent to 99kN vertically upward and 99kN longitudinally rearward on the axis of the front attachment of the Secondary Roll Structure.
+
+
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.4 Survival Cell Load Tests > C13.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 134
+
+**C13.4** #  Survival Cell Load Tests
 
 
 ### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.4 Survival Cell Load Tests > C13.4.1
@@ -7415,6 +8495,13 @@ A constant load of 30kN will be applied through a ball joint to the centre of th
 A cradle may be used on the opposite side of the Survival Cell to react the load.
 
 
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.5 Side Impact Structure > C13.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 138
+
+**C13.5** #  **Side Impact Structure
+
+
 ### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.5 Side Impact Structure > C13.5.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 138
@@ -7544,6 +8631,13 @@ Loads of 100kN and 150kN must be applied simultaneously to the dummy upper and l
 After five seconds of application, there must be no failure of the Survival Cell or the attachments between the structures and the Survival Cell.
 
 Each team must supply detailed calculations which clearly show that the mountings of the upper and lower side impact structures satisfy the requirement of C13.5.1.(c).(i).
+
+
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.6 Front Impact Structure > C13.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 142
+
+**C13.6** #  Front Impact Structure
 
 
 ### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.6 Front Impact Structure > C13.6.1
@@ -7693,6 +8787,13 @@ This test may only be carried out on the FIS which was subjected to the test des
 As well as the general requirements defined in Article C13.6.4, the impact velocity must exceed 14ms⁻¹.
 
 
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.7 Rear Impact Structure > C13.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 145
+
+**C13.7** #  Rear Impact Structure
+
+
 ### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.7 Rear Impact Structure > C13.7.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 145
@@ -7756,6 +8857,13 @@ c. For X>0.225m, the maximum deceleration may exceed the limits defined in (a) a
 
 Furthermore, all structural damage must be contained within the area behind X<sub>R</sub>=0. This test must be carried out on the rear impact absorbing structure which was subjected to the test described in Article C13.7.2.
 
+
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.8 Steering Column Impact Test > C13.8
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 146
+
+**C13.8** ##  Steering Column Impact Test
+
 The parts referred to in Article C10.5.5 must be fitted to a representative test structure; any other parts which could materially affect the outcome of the test must also be fitted. The test structure
 
 must be solidly fixed to the ground and a solid object, having a mass of 8kg (+1%/−0) and travelling at a velocity of not less than 7metres/second, will be projected into it. The object used for this test must be hemispherical with a diameter of 165mm (±1mm).
@@ -7763,6 +8871,13 @@ must be solidly fixed to the ground and a solid object, having a mass of 8kg (+1
 For the test, the centre of the hemisphere must strike the structure at the centre of the steering wheel along the same axis as the main part of the steering column.
 
 During the test the striking object may not pivot in any axis and the test structure may be supported in any way provided this does not increase the impact resistance of the parts being tested. The resistance of the test structure must be such that during the impact the peak deceleration of the object does not exceed 80g for more than a cumulative 3ms, this being measured only in the direction of impact. After the test, all substantial deformation must be within the steering column and the steering wheel quick release mechanism must still function normally.
+
+
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.9 Headrest Load Test > C13.9
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 147
+
+**C13.9** ##  Headrest Load Test
 
 The headrest must pass a load test. The load applied will be $P = (700 \times m_{HR})N$, where $m_{HR}$ is the mass of the complete headrest in kg fitted with ‘pink’ Confor foam. The load may be applied either:
 
@@ -7775,6 +8890,13 @@ b. With the headrest mounted in the car, a force of \[−P, 0, 0] will be applie
 At the test load, the pegs at the rear of the headrest must remain engaged in the holes in the chassis or dummy chassis, and there must be no failure of the headrest backing structure or the quick release mountings.
 
 Load spreader plates may be used to apply the load to the back of the headrest provided that each load spreader is more than 80mm and less than 180mm from the car centre−plane.
+
+
+### Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.10 Wheel Rim Impact Test > C13.10
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 147
+
+**C13.10** ##  Wheel Rim Impact Test
 
 All Wheel Rim designs must pass an impact test, derived from the standard ISO 7141:2022, to the outer flange.
 
@@ -7799,6 +8921,13 @@ Details of the equipment, calibration and test procedure are given in <mark>FIA-
 
 <mark>Governance: F1 Commission / WMSC</mark>
 
+
+### Section C > Article C14: SAFETY EQUIPMENT > C14.1 Fire Extinguishers > C14.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 149
+
+**C14.1** ##  Fire Extinguishers
+
 All cars must be fitted with a fire extinguishing system which:
 
 a. Will discharge into the Cockpit only.
@@ -7822,6 +8951,13 @@ The driver must be able to trigger the extinguishing system manually when seated
 Furthermore, a means of triggering from the outside must be combined with the circuit breaker switches described in Article C8.7.
 
 All extinguisher nozzles must be included in the homologation of the fire extinguishing system. At least one nozzle must be aimed at the driver's midriff.
+
+
+### Section C > Article C14: SAFETY EQUIPMENT > C14.2 Rear view mirrors > C14.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 149
+
+**C14.2** ##  Rear view mirrors
 
 
 ### Section C > Article C14: SAFETY EQUIPMENT > C14.2 Rear view mirrors > C14.2.1
@@ -7866,6 +9002,13 @@ SOURCE_PAGE: 150
 **C14.2.3** F1 Teams will be required on request to supply the FIA with CAD data with regard to the visibility of their mirror arrangement, and the FIA will retain the right to modify the position of the volume defined in Article C3.6.4 (a) should it become apparent that the mirror position does not meet the safety requirements.
 
 
+### Section C > Article C14: SAFETY EQUIPMENT > C14.3 Rear lights > C14.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 150
+
+**C14.3** ##  Rear lights
+
+
 ### Section C > Article C14: SAFETY EQUIPMENT > C14.3 Rear lights > C14.3.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 150
@@ -7904,6 +9047,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 151
 
 **C14.3.4** Both types of rear light are classed as SSC, and all the relevant details can be found in the Document <mark>FIA-F1-DOC-025</mark> Appendix to the Technical and Sporting Regulations.
+
+
+### Section C > Article C14: SAFETY EQUIPMENT > C14.4 Safety Tethers > C14.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 151
+
+**C14.4** # ** Safety Tethers
 
 
 ### Section C > Article C14: SAFETY EQUIPMENT > C14.4 Safety Tethers > C14.4.1
@@ -7949,9 +9099,23 @@ SOURCE_PAGE: 151
 
 The rear impact structure must be attached to the Gearbox Case with a tether with a cross sectional area of at least 20mm², a minimum breaking strength of 24kN and a length of at least 600mm. The attachment to the Gearbox Case must be ahead of X<sub>DIF</sub>=300 and must not bend the tether round a radius of less than 3mm at the specified load. This fixing should withstand a load of 24kN in a rearward direction at up to 22.5° from the X−axis. The attachment to the RIS should be behind X<sub>DIF</sub>=650, and must not bend the tether round a radius of less than 3mm at the specified load. This fixing should withstand a load of 24kN in a forward direction.
 
+
+### Section C > Article C14: SAFETY EQUIPMENT > C14.5 Safety Harnesses > C14.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 152
+
+**C14.5** ##  Safety Harnesses
+
 It is mandatory to wear a safety harness that has been homologated to FIA Standard 8853−2016.
 
 The safety harness must be used in accordance with the safety harness manufacturer's instructions and must be securely fixed to the car. Approved harnesses are listed in Technical List n°57.
+
+
+### Section C > Article C14: SAFETY EQUIPMENT > C14.6 Driver Cooling System > C14.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 152
+
+**C14.6** ##  Driver Cooling System
 
 
 ### Section C > Article C14: SAFETY EQUIPMENT > C14.6 Driver Cooling System > C14.6.1
@@ -8041,6 +9205,13 @@ SOURCE_PAGE: 153
 **C14.6.9** 
 
 
+### Section C > Article C14: SAFETY EQUIPMENT > C14.7 Lateral Safety lights > C14.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 153
+
+**C14.7** ##  Lateral Safety lights
+
+
 ### Section C > Article C14: SAFETY EQUIPMENT > C14.7 Lateral Safety lights > C14.7.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 153
@@ -8060,7 +9231,21 @@ SOURCE_PAGE: 153
 
 **C14.7.2** This lateral safety light is classed as SSC, and all the relevant details can be found in the Document <mark>FIA-F1-DOC-026</mark>.
 
+
+### Section C > Article C14: SAFETY EQUIPMENT > C14.8 Driver’s Drink System > C14.8
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 153
+
+**C14.8** ##  Driver’s Drink System
+
 All cars must be fitted with a system for providing the driver with drink. The system must have a capacity of between 1 litre and 1.5 litres and must be located between X<sub>C</sub>=−1400 and X<sub>C</sub>=0.
+
+
+### Section C > Article C15: MATERIALS > C15.1 General Principles > C15.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 154
+
+**C15.1** ##  General Principles
 
 *Advisory Committee: TAC and PUAC*
 *Governance: F1 Commission / PU Manufacturers’ Governance Agreement / WMSC*
@@ -8127,6 +9312,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 154
 
 **C15.1.9** The whole percentage range of an element, as declared in the applicable international standard for a specific alloy, shall be inside all the limits set in these Regulations.
+
+
+### Section C > Article C15: MATERIALS > C15.2 Permitted Materials (Components Outside the PU Perimeter) > C15.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 154
+
+**C15.2** ##  Permitted Materials (Components Outside the PU Perimeter)
 
 *Advisory Committee: TAC*
 *Governance: F1 Commission / WMSC*
@@ -8264,6 +9456,13 @@ In addition to materials permitted in C15.2.3, the following polymer materials a
 a. Thermoplastics – monolithic or particulate filled.
 b. Thermosets – monolithic or particulate filled.
 
+
+### Section C > Article C15: MATERIALS > C15.3 Specific Prohibitions and Restrictions (Components Outside the PU Perimeter) > C15.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 157
+
+**C15.3** #  Specific Prohibitions and Restrictions (Components Outside the PU Perimeter)
+
 *Advisory Committee: TAC*
 *Governance: F1 Commission / WMSC*
 
@@ -8314,6 +9513,13 @@ SOURCE_PAGE: 158
 
 **C15.3.4** The Primary Roll Structure may not be made from materials with particulate reinforcing (Articles C15.2.1.h or C15.2.2.b).
 
+
+### Section C > Article C15: MATERIALS > C15.4 Specific Exceptions (Components Outside the PU Perimeter) > C15.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 158
+
+**C15.4** Specific Exceptions (Components Outside the PU Perimeter)
+
 <mark>*Advisory Committee: TAC*</mark> <mark>*Governance: F1 Commission / WMSC*</mark>
 
 The following materials, components or processes do not have to comply with articles C15.2 or C15.2 but may be subject to restrictions elsewhere in these regulations:
@@ -8351,6 +9557,13 @@ o. Nano particles are permitted when part of a commercially available polymer or
 p. UNS R30006 (Stellite 6 − Cast), UNS R30106 (Stellite 6 − Sintered), UNS R30016 (Stellite 6 − Wrought) and UNSR30012 (Stellite 12) may be used on or above Z=0 (i.e. not in RV−PLANK).
 
 q. Materials used for windows in bodywork for optical sensors.
+
+
+### Section C > Article C15: MATERIALS > C15.5 Prescribed and Homologated Laminates (Components Outside the PU Perimeter) > C15.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 159
+
+**C15.5** #  Prescribed and Homologated Laminates (Components Outside the PU Perimeter)
 
 <span style="color: red">*Advisory Committee: TAC*</span> <span style="color: red">*Governance: F1 Commission / WMSC*</span>
 
@@ -8423,6 +9636,13 @@ A representative test panel must resist an intrusion load of 325kN.
 
 d. HL-FC-SIDE:
 A laminate of sandwich construction. A representative test panel must resist an intrusion load of 325kN.
+
+
+### Section C > Article C15: MATERIALS > C15.6 Materials, processes and construction – General (Components inside the PU Perimeter) > C15.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 160
+
+**C15.6** #  Materials, processes and construction – General (Components inside the PU Perimeter)
 
 *Advisory Committee: PUAC*
 *Governance: PU Manufacturers’ Governance Agreement / WMSC*
@@ -8505,6 +9725,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 161
 
 **C15.6.7** An approach aiming to respect the REACH and ROHS standards shall be actively pursued by the manufacturers.
+
+
+### Section C > Article C15: MATERIALS > C15.7 Materials and construction – Components (Components inside the PU Perimeter) > C15.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 161
+
+**C15.7** #  Materials and construction – Components (Components inside the PU Perimeter)
 
 <mark>Advisory Committee: PUAC</mark> <mark>Governance: PU Manufacturers’ Governance Agreement / WMSC</mark>
 
@@ -8605,6 +9832,13 @@ f. Only one Cylinder Head is permitted for each bank and each Cylinder Head must
 
 g. The plenum must be made from polymer composite material, steel, aluminium or titanium alloys with the exception of Inserts.
 
+
+### Section C > Article C15: MATERIALS > C15.8 Materials and construction – Pressure charging and exhaust systems (Components inside the PU Perimeter) > C15.8
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 163
+
+**C15.8** #  Materials and construction – Pressure charging and exhaust systems (Components inside the PU Perimeter)
+
 <mark>Advisory Committee: PUAC</mark>
 
 <mark>Governance: PU Manufacturers’ Governance Agreement / WMSC</mark>
@@ -8678,6 +9912,13 @@ SOURCE_PAGE: 164
 
 **C15.8.9** Variable Geometry intake device(s) (Article C5.7.4) components necessary to modify the intake section must respect Article C15.6.
 
+
+### Section C > Article C15: MATERIALS > C15.9 Materials and construction – and electronic systems (Components inside the PU Perimeter) > C15.9
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 164
+
+**C15.9** # ** Materials and construction – and electronic systems (Components inside the PU Perimeter)
+
 *Advisory Committee: PUAC*
 
 *Governance: PU Manufacturers’ Governance Agreement / WMSC*
@@ -8736,6 +9977,13 @@ SOURCE_PAGE: 164
 *Advisory Committee: PUAC*
 
 *Governance: PU Manufacturers’ Governance Agreement / WMSC*
+
+
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.1 Basic principles > C16.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 165
+
+**C16.1** ##  Basic principles
 
 
 ### Section C > Article C16: FUEL AND ENGINE OIL > C16.1 Basic principles > C16.1.1
@@ -8825,6 +10073,13 @@ SOURCE_PAGE: 166
 
 **C16.1.10** Excluding fuel, hydraulic fluid, ERS fluid and engine oil as defined in C16.1.5, any other liquid inside the PU perimeter can only have the function of coolant/thermal exchange, and cannot act as a lubricant, with the only possible exception of lubricating its own pump(s) and valve(s).
 
+
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.2 Fuel properties > C16.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 166
+
+**C16.2** Fuel properties
+
 The only fuel permitted is petrol having the following characteristics:
 
 
@@ -8863,6 +10118,13 @@ A correction factor of 0.2 for MON and RON shall be subtracted for the calculati
 A stabilising agent must be added
 
 The fuel will be accepted or rejected according to ASTM D 3244 with a confidence limit of 95%.
+
+
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.3 Composition of the fuel > C16.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 167
+
+**C16.3** ##  Composition of the fuel
 
 
 ### Section C > Article C16: FUEL AND ENGINE OIL > C16.3 Composition of the fuel > C16.3.1
@@ -8907,6 +10169,13 @@ SOURCE_PAGE: 168
 **C16.3.4** An additive package from non-sustainable sources, comprising Additives (as defined in Appendix C1 Part B), and Denaturants (as defined in Appendix C1 Part B) from non-sustainable sources may be used, at a total combined concentration of no more than 1.0% m/m of the blended fuel. The presence of any non-sustainable component that cannot be rationally associated with the defined functions of the additive package or the denaturant will be deemed unacceptable.
 
 
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.4 Fuel approval > C16.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 168
+
+**C16.4** ##  Fuel approval
+
+
 ### Section C > Article C16: FUEL AND ENGINE OIL > C16.4 Fuel approval > C16.4.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 168
@@ -8927,6 +10196,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 168
 
 **C16.4.2** No fuel may be used in a Competition without the prior written approval of the FIA.
+
+
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.5 Fuel sampling and testing at a Competition > C16.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 168
+
+**C16.5** ##  Fuel sampling and testing at a Competition
 
 
 ### Section C > Article C16: FUEL AND ENGINE OIL > C16.5 Fuel sampling and testing at a Competition > C16.5.1
@@ -8957,6 +10233,13 @@ SOURCE_PAGE: 169
 **C16.5.4** GC normalised peak areas of the sample will be compared with those obtained from the reference fuel.  Variations in any given normalised peak area (relative to those of adjacent peaks of a similar size) which are greater than 12%, or an absolute amount greater than 0.10% for compounds present at concentrations below 0.8%, will be deemed not to comply.
 
 If a peak is detected in a fuel sample that was absent in the corresponding reference fuel, and its peak area represents more than 0.10% of the summed peak areas of the fuel, the fuel will be deemed not to comply. If the deviations observed (above) by GC indicate that they are due to mixing with another Formula One fuel, which has been approved by the FIA for use by the team, the fuel sample will be deemed  to comply, provided that the adulterant fuel is present at no more than 10% in the sample. Any systematic abuse of mixed fuels will be deemed not to comply.
+
+
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.6 Engine oil definitions > C16.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 169
+
+**C16.6** #  Engine oil definitions
 
 Engine oil (serving the purpose stated in Article C16.1.5) must comprise base oils and additives as defined below.
 
@@ -8996,6 +10279,13 @@ The Analytical Methods for Base Stock are defined below:
 
 Additives are defined as the chemical compounds added to the base oil in small concentrations in order to improve the performance characteristics of the engine oil.
 
+
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.7 Engine oil properties > C16.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 170
+
+**C16.7** ##  Engine oil properties
+
 The engine oil must comply with the following characteristics:
 
 
@@ -9011,6 +10301,13 @@ The engine oil must comply with the following characteristics:
 The oil will be accepted or rejected according to ASTM D 3244 with a confidence limit of 95%.
 
 
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.8 Composition of the engine oil > C16.8
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 170
+
+**C16.8** ##  Composition of the engine oil
+
+
 ### Section C > Article C16: FUEL AND ENGINE OIL > C16.8 Composition of the engine oil > C16.8.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 170
@@ -9023,6 +10320,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 170
 
 **C16.8.2** The engine oil must not contain any organometallic petrol additives or other octane boosting petrol additives.
+
+
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.9 Engine oil approval > C16.9
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 170
+
+**C16.9** ##  Engine oil approval
 
 
 ### Section C > Article C16: FUEL AND ENGINE OIL > C16.9 Engine oil approval > C16.9.1
@@ -9050,6 +10354,13 @@ SOURCE_PAGE: 170
 **C16.9.3** In addition to the engine oils approved for use in a Competition, one type of dyno engine oil may be approved by the FIA.
 
 
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.10 Sampling and testing at a Competition > C16.10
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 170
+
+**C16.10** ##  Sampling and testing at a Competition
+
+
 ### Section C > Article C16: FUEL AND ENGINE OIL > C16.10 Sampling and testing at a Competition > C16.10.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 170
@@ -9071,6 +10382,13 @@ SOURCE_PAGE: 171
 **C16.10.3** Engine oil samples taken during a Competition will be checked for conformity by using a Fourier transform infrared (FTIR) technique, which will compare the sample taken with that submitted at the start of the Competition. Samples which differ from the reference engine oil in a manner consistent with fuel dilution, engine fluids contamination and oil ageing as a result of normal engine operation, will be considered to conform. Samples which differ from the reference engine oil in a manner consistent with the mixing with other engine oils, which have been approved by the FIA for use by the team at a Competition, will be deemed to comply, provided that the adulterant oils are in total present at no more than 10% in the sample. This tolerance will also be applicable for the mixing with the approved dyno engine oil but only for a new engine during the Competition at which it is first used. However, the FIA retains the right to subject the oil sample to further testing at an FIA approved laboratory.
 
 
+### Section C > Article C16: FUEL AND ENGINE OIL > C16.11 Recycling of Engine Oil > C16.11
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 171
+
+**C16.11** Recycling of Engine Oil
+
+
 ### Section C > Article C16: FUEL AND ENGINE OIL > C16.11 Recycling of Engine Oil > C16.11.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 171
@@ -9080,6 +10398,13 @@ SOURCE_PAGE: 171
 *Advisory Committee: TAC*
 
 *Governance: F1 Commission / WMSC*
+
+
+### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.1 General Principles > C17.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 172
+
+**C17.1** General Principles
 
 
 ### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.1 General Principles > C17.1.1
@@ -9184,6 +10509,13 @@ A Technical Partner;
 The F1 Team is responsible for the compliance of its Technical Partner with the Regulations.
 
 
+### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.2 Listed Team Components (LTC) > C17.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 174
+
+**C17.2** #  Listed Team Components (LTC)
+
+
 ### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.2 Listed Team Components (LTC) > C17.2.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 174
@@ -9257,6 +10589,13 @@ a. the use of specialist Intellectual Property or technology belonging to third 
 b. Similarly, it is permitted to use commercially available sub−components or sub−assemblies in respect of LTC, provided these are commercially available to all F1 Teams. This provision applies if these components or sub−assemblies are not specifically listed as LTC. The FIA may request F1 Teams to provide a list of such sub−components and their technical specification. The FIA may classify such sub−components or sub−assemblies as LTC if it deems that they are being contrived to circumvent the purpose of this Article C17.
 
 
+### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.3 Standard Supply Components (SSC) > C17.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 175
+
+**C17.3** ##  Standard Supply Components (SSC)
+
+
 ### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.3 Standard Supply Components (SSC) > C17.3.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 175
@@ -9290,6 +10629,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 176
 
 **C17.3.5** No F1 Team may, either directly or via a third party pass any information (including but not limited to data, know how, operating procedures, properties and calibrations) or methodology (including but not limited to simulation software, analysis tools, etc.) which can be used to enhance the performance of a SSC to another F1 Team, or receive any such methodology from another F1 Team.
+
+
+### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.4 Transferable Components (TRC) and Free Supply Components (FSC) > C17.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 176
+
+**C17.4** Transferable Components (TRC) and Free Supply Components (FSC)
 
 
 ### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.4 Transferable Components (TRC) and Free Supply Components (FSC) > C17.4.1
@@ -9363,6 +10709,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 178
 
 **C17.4.9** In respect of the compliance by the Customer Team with Section D \[Financial] of the Regulations, the Supplying Team is mandated to provide the Customer Team all financial information that may be necessary to allow the Customer Team to demonstrate compliance with all FIA Regulations in force.
+
+
+### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.5 Open Source Components (OSC and OSCNT) > C17.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 178
+
+**C17.5** ##  Open Source Components (OSC and OSCNT)
 
 
 ### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.5 Open Source Components (OSC and OSCNT) > C17.5.1
@@ -9454,6 +10807,13 @@ SOURCE_PAGE: 179
 
 **C17.5.12** No F1 Team may, either directly or via a third party pass any information (including but not limited to data, know how, operating procedures, properties and calibrations) or methodology (including but not limited to simulation software, analysis tools, etc.) which can be used to enhance the performance of an OSC or OSCNT to another F1 Team, or receive any such information or methodology from another F1 Team.
 
+
+### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.6 Defined Specification Components (DSC) > C17.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 179
+
+**C17.6** #  Defined Specification Components (DSC)
+
 Further information concerning implementation is given in the document <mark>FIA-F1-DOC-039</mark>.
 
 
@@ -9514,6 +10874,13 @@ SOURCE_PAGE: 180
 
 **C17.6.8** Should a selection process fail to approve sufficient suppliers to cover the requirements of all F1 Teams, the FIA reserves the right to re−classify the DSC as an LTC, TRC, OSCNT, or OSC and to introduce appropriate technical rules in the relevant Article of these Regulations in order to control the technical specification and cost of this component.
 
+
+### Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.7 List of LTC, SSC, TRC, OSC, OSCNT, and DSC > C17.7
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 181
+
+**C17.7** #  **List of LTC, SSC, TRC, OSC, OSCNT, and DSC
+
 A complete list of the parts’ classification, as well as a definition of the perimeter of each assembly can be found in Appendix C6.
 
 Components which are part of an assembly will assume the classification status of that assembly unless otherwise specified.
@@ -9521,6 +10888,13 @@ Components which are part of an assembly will assume the classification status o
 *Advisory Committee: PUAC*
 
 *Governance: PU Manufacturers’ Governance Agreement / WMSC*
+
+
+### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.1 General Principles > C18.1
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 182
+
+**C18.1** ##  General Principles
 
 
 ### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.1 General Principles > C18.1.1
@@ -9638,6 +11012,13 @@ SOURCE_PAGE: 183
 **C18.1.10** This Article C18 and these Regulations shall not restrict the normal business as usual including but not limited to mergers or acquisitions by *Associates* of PU Manufacturers, or investments, that are not relevant to Formula 1.
 
 
+### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.2 Listed Power Unit Components (LPUC) > C18.2
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 184
+
+**C18.2** # ** Listed Power Unit Components (LPUC)
+
+
 ### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.2 Listed Power Unit Components (LPUC) > C18.2.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 184
@@ -9691,6 +11072,13 @@ b. Similarly, the use of commercially available sub-components or sub-assemblies
 c. Similarly, the use of services from a third-party supplier which assist the PU Manufacturer in the design or development of its LPUCs is permitted, provided such services are commercially available to all PU Manufacturers on similar commercial terms. When two or more PU Manufacturers use the services from a given third-party supplier, full details must be made available to the FIA to demonstrate that such activity does not constitute a means to transfer, directly or indirectly, information from one PU Manufacturer to another. The services covered by this Article include but are not limited to: the use of test facilities, and the use of software.
 
 
+### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.3 Standard Supply Power Unit Components (SSPUC) > C18.3
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 185
+
+**C18.3** ##  Standard Supply Power Unit Components (SSPUC)
+
+
 ### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.3 Standard Supply Power Unit Components (SSPUC) > C18.3.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 185
@@ -9731,6 +11119,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 186
 
 **C18.3.6** A PU Manufacturer must not, either directly or indirectly via a third party or otherwise pass to another PU Manufacturer, any information (including but not limited to data, know how, operating procedures, properties and calibrations) or methodology (including but not limited to simulation software, analysis tools, etc.) that could be used by another PU Manufacturer to enhance the performance of a SSPUC, or receive any such information or methodology from another PU Manufacturer.
+
+
+### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.4 Open-Source Power Unit Components (OSPUC) > C18.4
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 186
+
+**C18.4** #  Open-Source Power Unit Components (OSPUC)
 
 
 ### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.4 Open-Source Power Unit Components (OSPUC) > C18.4.1
@@ -9816,6 +11211,13 @@ SOURCE_PAGE: 188
 **C18.4.11** A PU Manufacturer must not, either directly or indirectly via a third party or otherwise pass to another PU Manufacturer any information (including but not limited to data, know how, operating procedures, properties and calibrations) or methodology (including but not limited to simulation software, analysis tools, etc.) that could be used to by another PU Manufacturer enhance the performance of an OSPUC, or receive any such information or methodology from another PU Manufacturer.
 
 
+### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 188
+
+**C18.5** # ** Defined Specification Power Unit Components (DSPUC)
+
+
 ### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.1
 SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 188
@@ -9856,6 +11258,13 @@ SOURCE_FILE: 2026_f1_regulations_section_c.pdf
 SOURCE_PAGE: 189
 
 **C18.5.6** A PU Manufacturer must not, either directly or indirectly via a third party or otherwise pass to another PU Manufacturer any information (including but not limited to data, know how, operating procedures, properties and calibrations) or methodology (including but not limited to simulation software, analysis tools, etc.) that could be used by another PU Manufacturer to enhance the performance of a DSPUC, or receive any such information or methodology from another PU Manufacturer.
+
+
+### Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6
+SOURCE_FILE: 2026_f1_regulations_section_c.pdf
+SOURCE_PAGE: 189
+
+**C18.6** List of LPUC, SSPUC, OSPUC and DSPUC
 
 A complete list of the PU components’ classification, as well as a definition of the perimeter of each assembly can be found in Appendix C4.
 

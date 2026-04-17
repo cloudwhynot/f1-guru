@@ -55,6 +55,344 @@
 |C5.15|Starting the engine|77|
 |C5.16|Stall prevention systems|77|
 
+---
+
+## CHUNK 2
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "C5.17",
+  "breadcrumb": "Section C > Article C5: POWER UNIT 62 > C5.17 Energy Recovery System (ERS) 77 > C5.17",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT 62",
+  "sub_article": "C5.17 Energy Recovery System (ERS) 77"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT 62 > C5.17 Energy Recovery System (ERS) 77 > C5.17]
+**C5.17** Energy Recovery System (ERS) 77
+C5.18 MGU-K 79
+C5.19 Energy Store 80
+C5.20 ES design and installation 80
+C5.21 ERS General electrical safety 82
+C5.22 Oil and coolant systems and charge air cooling 84
+C5.23 Single ICE Mode 84
+
+---
+
+## CHUNK 3
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "C6.1",
+  "breadcrumb": "Section C > Article C6: FUEL SYSTEM 85 > C6.1 Fuel tanks 85 > C6.1",
+  "section": "Section C",
+  "article": "Article C6: FUEL SYSTEM 85",
+  "sub_article": "C6.1 Fuel tanks 85"
+}
+```
+
+**Content:**
+[Section C > Article C6: FUEL SYSTEM 85 > C6.1 Fuel tanks 85 > C6.1]
+**C6.1** Fuel tanks 85
+C6.2 Fittings and piping 85
+C6.3 Fuel tank fillers 86
+C6.4 Refuelling 86
+C6.5 Fuel draining and sampling 87
+C6.6 Fuel System Hydraulic Layout 87
+
+---
+
+## CHUNK 4
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "C7.1",
+  "breadcrumb": "Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING 90 > C7.1 Location of lubricating oil tanks 90 > C7.1",
+  "section": "Section C",
+  "article": "Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING 90",
+  "sub_article": "C7.1 Location of lubricating oil tanks 90"
+}
+```
+
+**Content:**
+[Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING 90 > C7.1 Location of lubricating oil tanks 90 > C7.1]
+**C7.1** Location of lubricating oil tanks 90
+C7.2 Location of lubricating oil system 90
+C7.3 Oil and coolant lines 90
+C7.4 Heat exchangers 90
+
+---
+
+## CHUNK 5
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "C8.1",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS 91 > C8.1 Software and electronics inspection 91 > C8.1",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS 91",
+  "sub_article": "C8.1 Software and electronics inspection 91"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS 91 > C8.1 Software and electronics inspection 91 > C8.1]
+**C8.1** Software and electronics inspection 91
+C8.2 Control electronics 92
+C8.3 Start systems 92
+C8.4 Data acquisition 92
+C8.5 Telemetry 93
+C8.6 Driver inputs and information 94
+C8.7 Master switch 95
+C8.8 Driver radio 95
+C8.9 Accident analysis 95
+C8.10 Accident data 97
+C8.11 FIA Marshalling system 97
+C8.12 Track signal information display 97
+C8.13 Impact warning system 98
+C8.14 Installation of electrical systems or components 98
+C8.15 Timing transponders 98
+C8.16 Cameras and camera housings 98
+C8.17 Electromagnetic radiation 100
+C8.18 Sensor signals 100
+
+---
+
+## CHUNK 6
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 4,
+  "rule_id": "C9.1",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM 101 > C9.1 Fundamental provisions 101 > C9.1",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM 101",
+  "sub_article": "C9.1 Fundamental provisions 101"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM 101 > C9.1 Fundamental provisions 101 > C9.1]
+**C9.1** Fundamental provisions **101**
+* C9.2 Clutch control **101**
+* C9.3 Clutch Disengagement System (CDS) **103**
+* C9.4 Homologated Gearbox and Component Classification **103**
+* C9.5 Gearbox Dimensions **104**
+* C9.6 Gear ratios **104**
+* C9.7 Reverse gear **105**
+* C9.8 Gear changing **105**
+* C9.9 Torque transfer systems **106**
+* C9.10 Driveshafts **106**
+* C9.11 Structural Connection to Survival Cell **106
+
+---
+
+## CHUNK 7
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 4,
+  "rule_id": "C10.1",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES 107 > C10.1 Legality Setup 107 > C10.1",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES 107",
+  "sub_article": "C10.1 Legality Setup 107"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES 107 > C10.1 Legality Setup 107 > C10.1]
+**C10.1** Legality Setup **107**
+* C10.2 Sprung suspension **107**
+* C10.3 Outboard suspension **108**
+* C10.4 Inboard suspension **110**
+* C10.5 Steering **111**
+* C10.6 Suspension Uprights **111**
+* C10.7 Wheel rims **112**
+* C10.8 Tyres **114**
+* C10.9 Wheel attachment and retention **116**
+* C10.10 Dimensions **116
+
+---
+
+## CHUNK 8
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 4,
+  "rule_id": "C11.1",
+  "breadcrumb": "Section C > Article C11: BRAKE SYSTEM 117 > C11.1 Brake circuits and pressure distribution 117 > C11.1",
+  "section": "Section C",
+  "article": "Article C11: BRAKE SYSTEM 117",
+  "sub_article": "C11.1 Brake circuits and pressure distribution 117"
+}
+```
+
+**Content:**
+[Section C > Article C11: BRAKE SYSTEM 117 > C11.1 Brake circuits and pressure distribution 117 > C11.1]
+**C11.1** Brake circuits and pressure distribution **117**
+* C11.2 Brake callipers **117**
+* C11.3 Brake discs and pads **118**
+* C11.4 Brake pressure modulation **118**
+* C11.5 Liquid cooling **118**
+* C11.6 Rear brake control system **118**
+* C11.7 Supply of Brake Friction and Brake System Hydraulic components **118
+
+---
+
+## CHUNK 9
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 4,
+  "rule_id": "C12.1",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL 119 > C12.1 General Requirements 119 > C12.1",
+  "section": "Section C",
+  "article": "Article C12: SURVIVAL CELL 119",
+  "sub_article": "C12.1 General Requirements 119"
+}
+```
+
+**Content:**
+[Section C > Article C12: SURVIVAL CELL 119 > C12.1 General Requirements 119 > C12.1]
+**C12.1** General Requirements **119**
+* C12.2 Survival cell specifications **119**
+* C12.3 Intrusion Protection **122**
+* C12.4 Roll Structures **123**
+* C12.5 Cockpit Specification **125
+
+---
+
+## CHUNK 10
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "C12.6",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL 119 > C12.6 Cockpit Padding 126 > C12.6",
+  "section": "Section C",
+  "article": "Article C12: SURVIVAL CELL 119",
+  "sub_article": "C12.6 Cockpit Padding 126"
+}
+```
+
+**Content:**
+[Section C > Article C12: SURVIVAL CELL 119 > C12.6 Cockpit Padding 126 > C12.6]
+**C12.6** Cockpit Padding 126
+C12.7 Front Floor Structure 128
+C12.8 Seat fixing and removal 129
+C12.9 Driver Fit Information 129
+
+---
+
+## CHUNK 11
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "C13.1",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION 130 > C13.1 General Principles 130 > C13.1",
+  "section": "Section C",
+  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION 130",
+  "sub_article": "C13.1 General Principles 130"
+}
+```
+
+**Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION 130 > C13.1 General Principles 130 > C13.1]
+**C13.1** General Principles 130
+C13.2 Survival Cell Frontal Impact Test 130
+C13.3 Roll Structure Testing 132
+C13.4 Survival Cell Load Tests 134
+C13.5 Side Impact Structure 138
+C13.6 Front Impact Structure 142
+C13.7 Rear Impact Structure 145
+C13.8 Steering Column Impact Test 146
+C13.9 Headrest Load Test 147
+C13.10 Wheel Rim Impact Test 147
+
+---
+
+## CHUNK 12
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "C14.1",
+  "breadcrumb": "Section C > Article C14: SAFETY EQUIPMENT 149 > C14.1 Fire Extinguishers 149 > C14.1",
+  "section": "Section C",
+  "article": "Article C14: SAFETY EQUIPMENT 149",
+  "sub_article": "C14.1 Fire Extinguishers 149"
+}
+```
+
+**Content:**
+[Section C > Article C14: SAFETY EQUIPMENT 149 > C14.1 Fire Extinguishers 149 > C14.1]
+**C14.1** Fire Extinguishers 149
+C14.2 Rear view mirrors 149
+C14.3 Rear lights 150
+C14.4 Safety Tethers 151
+C14.5 Safety Harnesses 152
+C14.6 Driver Cooling System 152
+C14.7 Lateral Safety lights 153
+C14.8 Driver’s Drink System 153
+
+---
+
+## CHUNK 13
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "C15.1",
+  "breadcrumb": "Section C > Article C15: MATERIALS 154 > C15.1 General Principles 154 > C15.1",
+  "section": "Section C",
+  "article": "Article C15: MATERIALS 154",
+  "sub_article": "C15.1 General Principles 154"
+}
+```
+
+**Content:**
+[Section C > Article C15: MATERIALS 154 > C15.1 General Principles 154 > C15.1]
+**C15.1** General Principles 154
+C15.2 Permitted Materials (Components Outside the PU Perimeter) 154
+C15.3 Specific Prohibitions and Restrictions (Components Outside the PU Perimeter) 157
+C15.4 Specific Exceptions (Components Outside the PU Perimeter) 158
+C15.5 Prescribed and Homologated Laminates (Components Outside the PU Perimeter) 159
+C15.6 Materials, processes and construction – General (Components inside the PU Perimeter) 160
+C15.7 Materials and construction – Components (Components inside the PU Perimeter) 161
+C15.8 Materials and construction – Pressure charging and exhaust systems (Components inside the PU Perimeter) 163
+C15.9 Materials and construction – ERS and electronic systems (Components inside the PU Perimeter) 164
 
 7
 
@@ -109,29 +447,6 @@
 
 **APPENDIX C6: COMPONENTS’ CLASSIFICATION AND PERIMETER** **244**
 
----
-
-## CHUNK 2
-**Metadata:**
-```json
-{
-  "source_pdf": "2026_f1_regulations_section_c_processed.md",
-  "regulatory_year": 2026,
-  "page_number": null,
-  "rule_id": "Unknown",
-  "breadcrumb": "# SECTION C: TECHNICAL REGULATIONS"
-}
-```
-
-**Content:**
-**APPENDIX C3: DRAWINGS** **220**
-
-**APPENDIX C4: POWER UNIT SYSTEMS, FUNCTIONS, COMPONENTS AND SUPPLY PERIMETER** **225**
-
-**APPENDIX C5: HOMOLOGATION AND DEVELOPMENT OF POWER UNITS, FUEL AND OIL FOR 2026-2030** **237**
-
-**APPENDIX C6: COMPONENTS’ CLASSIFICATION AND PERIMETER** **244**
-
 **APPENDIX C7: APPROVED CHANGES FOR FUTURE YEARS** **256**
 
 *Advisory Committee: TAC and PUAC*
@@ -140,7 +455,28 @@
 
 ---
 
-## CHUNK 3
+## CHUNK 14
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 7,
+  "rule_id": "C1.1",
+  "breadcrumb": "Section C > Article C1: GENERAL PRINCIPLES > C1.1 Formula One World Championship > C1.1",
+  "section": "Section C",
+  "article": "Article C1: GENERAL PRINCIPLES",
+  "sub_article": "C1.1 Formula One World Championship"
+}
+```
+
+**Content:**
+[Section C > Article C1: GENERAL PRINCIPLES > C1.1 Formula One World Championship > C1.1]
+**C1.1** ##  Formula One World Championship
+
+---
+
+## CHUNK 15
 **Metadata:**
 ```json
 {
@@ -161,7 +497,7 @@
 
 ---
 
-## CHUNK 4
+## CHUNK 16
 **Metadata:**
 ```json
 {
@@ -182,7 +518,28 @@
 
 ---
 
-## CHUNK 5
+## CHUNK 17
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 7,
+  "rule_id": "C1.2",
+  "breadcrumb": "Section C > Article C1: GENERAL PRINCIPLES > C1.2 Regulatory Framework > C1.2",
+  "section": "Section C",
+  "article": "Article C1: GENERAL PRINCIPLES",
+  "sub_article": "C1.2 Regulatory Framework"
+}
+```
+
+**Content:**
+[Section C > Article C1: GENERAL PRINCIPLES > C1.2 Regulatory Framework > C1.2]
+**C1.2** ##  Regulatory Framework
+
+---
+
+## CHUNK 18
 **Metadata:**
 ```json
 {
@@ -203,7 +560,7 @@
 
 ---
 
-## CHUNK 6
+## CHUNK 19
 **Metadata:**
 ```json
 {
@@ -224,7 +581,7 @@
 
 ---
 
-## CHUNK 7
+## CHUNK 20
 **Metadata:**
 ```json
 {
@@ -245,7 +602,28 @@
 
 ---
 
-## CHUNK 8
+## CHUNK 21
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 7,
+  "rule_id": "C1.3",
+  "breadcrumb": "Section C > Article C1: GENERAL PRINCIPLES > C1.3 Interpretation of and amendments to these Technical Regulations > C1.3",
+  "section": "Section C",
+  "article": "Article C1: GENERAL PRINCIPLES",
+  "sub_article": "C1.3 Interpretation of and amendments to these Technical Regulations"
+}
+```
+
+**Content:**
+[Section C > Article C1: GENERAL PRINCIPLES > C1.3 Interpretation of and amendments to these Technical Regulations > C1.3]
+**C1.3** ##  Interpretation of and amendments to these Technical Regulations
+
+---
+
+## CHUNK 22
 **Metadata:**
 ```json
 {
@@ -266,7 +644,7 @@
 
 ---
 
-## CHUNK 9
+## CHUNK 23
 **Metadata:**
 ```json
 {
@@ -287,7 +665,7 @@
 
 ---
 
-## CHUNK 10
+## CHUNK 24
 **Metadata:**
 ```json
 {
@@ -308,7 +686,7 @@
 
 ---
 
-## CHUNK 11
+## CHUNK 25
 **Metadata:**
 ```json
 {
@@ -329,7 +707,7 @@
 
 ---
 
-## CHUNK 12
+## CHUNK 26
 **Metadata:**
 ```json
 {
@@ -348,7 +726,49 @@
 [Section C > Article C1: GENERAL PRINCIPLES > C1.3 Interpretation of and amendments to these Technical Regulations > C1.3.5]
 **C1.3.5** Any amendments to these Technical Regulations that do not relate specifically to the Power Unit or that relate to matters of form rather than substance (such as re−numbering, reference corrections, etc.) will not be subject to the approval of the PU Manufacturers. Any amendments to these Technical Regulations that relate to substantive matters concerning the Power Unit will be subject to the prior approval of the PU Manufacturers in accordance with the 2026 F1 PU Governance Agreement, as referenced in Article 1.1 of Appendix C8.
 
+---
+
+## CHUNK 27
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 8,
+  "rule_id": "C1.4",
+  "breadcrumb": "Section C > Article C1: GENERAL PRINCIPLES > C1.4 Dangerous construction > C1.4",
+  "section": "Section C",
+  "article": "Article C1: GENERAL PRINCIPLES",
+  "sub_article": "C1.4 Dangerous construction"
+}
+```
+
+**Content:**
+[Section C > Article C1: GENERAL PRINCIPLES > C1.4 Dangerous construction > C1.4]
+**C1.4** ##  Dangerous construction
+
 The stewards may prohibit the participation of a vehicle whose construction is deemed to be dangerous. Should the relevant information become apparent during a session, such a decision may apply with immediate effect.
+
+---
+
+## CHUNK 28
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 8,
+  "rule_id": "C1.5",
+  "breadcrumb": "Section C > Article C1: GENERAL PRINCIPLES > C1.5 Compliance with the regulations > C1.5",
+  "section": "Section C",
+  "article": "Article C1: GENERAL PRINCIPLES",
+  "sub_article": "C1.5 Compliance with the regulations"
+}
+```
+
+**Content:**
+[Section C > Article C1: GENERAL PRINCIPLES > C1.5 Compliance with the regulations > C1.5]
+**C1.5** ##  Compliance with the regulations
 
 Formula 1 Cars must comply with these regulations in their entirety at all times during a Competition.
 
@@ -364,32 +784,54 @@ d. The Competitor or PU Manufacturer's opinion concerning any possible long−te
 
 e. The precise way or ways in which the Competitor or PU Manufacturer feels the new design or system will enhance the performance of the car.
 
-Any new system, procedure or technology not specifically covered by these Technical Regulations, but which is deemed permissible by the FIA, will only be admitted until the end of the Championship during which it is introduced. Following this the Formula One Commission will be asked to review the technology concerned and, if they consider (in their sole discretion) that such new system, procedure, or technology adds no value to Formula One in general, it may be specifically prohibited by the FIA.
-
-It is the duty of each Competitor to satisfy the FIA and the stewards that its Formula 1 Car complies with these regulations in their entirety at all times during a Competition. With regard to PUs used on a Formula 1 Car, this duty and responsibility also extends to the PU Manufacturer.
-
-The design of the car, its components and systems shall, except for safety features, demonstrate their compliance with these regulations by means of physical inspection of hardware or materials.
-
-Unless explicitly requested by an Article, no mechanical design may rely upon software inspection as a means of assessing compliance.
-
 ---
 
-## CHUNK 13
+## CHUNK 29
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 8,
-  "rule_id": "C1.3.5",
-  "breadcrumb": "Section C > Article C1: GENERAL PRINCIPLES > C1.3 Interpretation of and amendments to these Technical Regulations > C1.3.5",
+  "rule_id": "C1.6",
+  "breadcrumb": "Section C > Article C1: GENERAL PRINCIPLES > C1.6 New systems or technologies > C1.6",
   "section": "Section C",
   "article": "Article C1: GENERAL PRINCIPLES",
-  "sub_article": "C1.3 Interpretation of and amendments to these Technical Regulations"
+  "sub_article": "C1.6 New systems or technologies"
 }
 ```
 
 **Content:**
+[Section C > Article C1: GENERAL PRINCIPLES > C1.6 New systems or technologies > C1.6]
+**C1.6** ##  New systems or technologies
+
+Any new system, procedure or technology not specifically covered by these Technical Regulations, but which is deemed permissible by the FIA, will only be admitted until the end of the Championship during which it is introduced. Following this the Formula One Commission will be asked to review the technology concerned and, if they consider (in their sole discretion) that such new system, procedure, or technology adds no value to Formula One in general, it may be specifically prohibited by the FIA.
+
+---
+
+## CHUNK 30
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 8,
+  "rule_id": "C1.7",
+  "breadcrumb": "Section C > Article C1: GENERAL PRINCIPLES > C1.7 Duty of Competitor and PU Manufacturer > C1.7",
+  "section": "Section C",
+  "article": "Article C1: GENERAL PRINCIPLES",
+  "sub_article": "C1.7 Duty of Competitor and PU Manufacturer"
+}
+```
+
+**Content:**
+[Section C > Article C1: GENERAL PRINCIPLES > C1.7 Duty of Competitor and PU Manufacturer > C1.7]
+**C1.7** ##  Duty of Competitor and PU Manufacturer
+
+It is the duty of each Competitor to satisfy the FIA and the stewards that its Formula 1 Car complies with these regulations in their entirety at all times during a Competition. With regard to PUs used on a Formula 1 Car, this duty and responsibility also extends to the PU Manufacturer.
+
+The design of the car, its components and systems shall, except for safety features, demonstrate their compliance with these regulations by means of physical inspection of hardware or materials.
+
 Unless explicitly requested by an Article, no mechanical design may rely upon software inspection as a means of assessing compliance.
 
 To further demonstrate compliance with Articles C3.2.2 and C3.18.1, Competitors may be required to submit calculations, or to run with analytic devices specified by the FIA.
@@ -408,7 +850,28 @@ Each Competitor and each PU Manufacturer must ensure that the FIA ethics and com
 
 ---
 
-## CHUNK 14
+## CHUNK 31
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 10,
+  "rule_id": "C2.1",
+  "breadcrumb": "Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.1 Coordinate systems and conventions > C2.1",
+  "section": "Section C",
+  "article": "Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS",
+  "sub_article": "C2.1 Coordinate systems and conventions"
+}
+```
+
+**Content:**
+[Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.1 Coordinate systems and conventions > C2.1]
+**C2.1** ##  Coordinate systems and conventions
+
+---
+
+## CHUNK 32
 **Metadata:**
 ```json
 {
@@ -437,7 +900,7 @@ c. The Z axis is the vertical direction and increases upwards.
 
 ---
 
-## CHUNK 15
+## CHUNK 33
 **Metadata:**
 ```json
 {
@@ -482,7 +945,7 @@ k. a load vector ( \[x, y, z]kN ) will have components parallel to the axes of t
 
 ---
 
-## CHUNK 16
+## CHUNK 34
 **Metadata:**
 ```json
 {
@@ -513,6 +976,27 @@ d. The Z<sub>W</sub> axis lies in the inboard plane of the Wheel Rim and increas
 
 e. Once the Wheel Coordinate System is defined as above, then it maintains a fixed orientation relative to the suspension upright at all other suspension articulations.
 
+---
+
+## CHUNK 35
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 11,
+  "rule_id": "C2.2",
+  "breadcrumb": "Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.2 Principal Planes > C2.2",
+  "section": "Section C",
+  "article": "Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS",
+  "sub_article": "C2.2 Principal Planes"
+}
+```
+
+**Content:**
+[Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.2 Principal Planes > C2.2]
+**C2.2** ##  Principal Planes
+
 a. The Plane Z = 0 is defined as a horizontal plane sitting at the bottom of the sprung part of the car, except for the Plank Assembly defined in Article C3.6.
 
 b. The Plane Y = 0 is defined as the plane of symmetry of the car.
@@ -531,7 +1015,28 @@ h. The plane X<sub>FIS</sub> = 0 is defined as the X-plane passing through the f
 
 ---
 
-## CHUNK 17
+## CHUNK 36
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 11,
+  "rule_id": "C2.3",
+  "breadcrumb": "Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.3 Fundamental Dimensions > C2.3",
+  "section": "Section C",
+  "article": "Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS",
+  "sub_article": "C2.3 Fundamental Dimensions"
+}
+```
+
+**Content:**
+[Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.3 Fundamental Dimensions > C2.3]
+**C2.3** ##  Fundamental Dimensions
+
+---
+
+## CHUNK 37
 **Metadata:**
 ```json
 {
@@ -554,7 +1059,7 @@ Except for the tyres, the Wheel Rims, and parts attached to the Wheel Rims as de
 
 ---
 
-## CHUNK 18
+## CHUNK 38
 **Metadata:**
 ```json
 {
@@ -587,7 +1092,7 @@ e. RV-FLOOR-FENCE.
 
 ---
 
-## CHUNK 19
+## CHUNK 39
 **Metadata:**
 ```json
 {
@@ -610,7 +1115,7 @@ The distance between the planes $X_F = 0$ and $X_R = 0$ must be less than or equ
 
 ---
 
-## CHUNK 20
+## CHUNK 40
 **Metadata:**
 ```json
 {
@@ -633,7 +1138,7 @@ The plane $X_F = 0$ must lie between $X_A = 0$ and $X_A = 150$ inclusive.
 
 ---
 
-## CHUNK 21
+## CHUNK 41
 **Metadata:**
 ```json
 {
@@ -656,7 +1161,7 @@ The distance between $X_A = 0$ and $X_C = 0$ must be greater than or equal to 18
 
 ---
 
-## CHUNK 22
+## CHUNK 42
 **Metadata:**
 ```json
 {
@@ -677,13 +1182,76 @@ The distance between $X_A = 0$ and $X_C = 0$ must be greater than or equal to 18
 
 The distance between $X_C = 0$ and $X_{PU} = 0$ must be greater than or equal to 360mm
 
+---
+
+## CHUNK 43
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 12,
+  "rule_id": "C2.4",
+  "breadcrumb": "Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.4 Reference Volumes and Surfaces > C2.4",
+  "section": "Section C",
+  "article": "Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS",
+  "sub_article": "C2.4 Reference Volumes and Surfaces"
+}
+```
+
+**Content:**
+[Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.4 Reference Volumes and Surfaces > C2.4]
+**C2.4** ##  Reference Volumes and Surfaces
+
 **“Reference Volumes”** and **“Reference Surfaces”** and their position in space are defined in Appendix C2 using the Car Coordinate System and are used throughout the Regulations for geometrical constraints. For convenience, Reference Volumes are preceded by the prefix **“RV−”** and Reference Surfaces by the prefix **“RS−”**.
+
+---
+
+## CHUNK 44
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 12,
+  "rule_id": "C2.5",
+  "breadcrumb": "Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.5 Precision of Numerical Values > C2.5",
+  "section": "Section C",
+  "article": "Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS",
+  "sub_article": "C2.5 Precision of Numerical Values"
+}
+```
+
+**Content:**
+[Section C > Article C2: CONVENTIONS AND FUNDAMENTAL DIMENSIONS > C2.5 Precision of Numerical Values > C2.5]
+**C2.5** ##  Precision of Numerical Values
 
 Any numerical values specified in these Regulations as limits (maxima or minima), will be considered to be the limits regardless of the decimals quoted.
 
 *Advisory Committee: TAC*
 
 *Governance: F1 Commission / WMSC*
+
+---
+
+## CHUNK 45
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 13,
+  "rule_id": "C3.1",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.1 Aerodynamic Components or Bodywork > C3.1",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.1 Aerodynamic Components or Bodywork"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.1 Aerodynamic Components or Bodywork > C3.1]
+**C3.1** ##  Aerodynamic Components or Bodywork
 
 “Aerodynamic Components” or “Bodywork” are parts of the car in contact with the External Air Stream.
 
@@ -715,7 +1283,28 @@ b. The following components are not Bodywork:
 
 ---
 
-## CHUNK 23
+## CHUNK 46
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 13,
+  "rule_id": "C3.2",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.2 General Principles > C3.2",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.2 General Principles"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.2 General Principles > C3.2]
+**C3.2** ##  General Principles
+
+---
+
+## CHUNK 47
 **Metadata:**
 ```json
 {
@@ -746,7 +1335,7 @@ The Intellectual Property of this information remains with the F1 Team, will be 
 
 ---
 
-## CHUNK 24
+## CHUNK 48
 **Metadata:**
 ```json
 {
@@ -781,7 +1370,7 @@ the aerodynamic characteristics of the car through driver movement is forbidden.
 
 ---
 
-## CHUNK 25
+## CHUNK 49
 **Metadata:**
 ```json
 {
@@ -808,7 +1397,7 @@ Bodywork on the Unsprung Mass must respect this Article when the suspension posi
 
 ---
 
-## CHUNK 26
+## CHUNK 50
 **Metadata:**
 ```json
 {
@@ -835,7 +1424,7 @@ b. in any X, Y and Z plane, or any X<sub>W</sub>, Y<sub>W</sub> and Z<sub>W</sub
 
 ---
 
-## CHUNK 27
+## CHUNK 51
 **Metadata:**
 ```json
 {
@@ -863,7 +1452,7 @@ b. Trim and Combination operations must result in a single volume.
 
 ---
 
-## CHUNK 28
+## CHUNK 52
 **Metadata:**
 ```json
 {
@@ -900,7 +1489,7 @@ c. comply with Article C3.2.4 (a).
 
 ---
 
-## CHUNK 29
+## CHUNK 53
 **Metadata:**
 ```json
 {
@@ -929,7 +1518,7 @@ c. are only connected to pressure sensors or are completely blanked.
 
 ---
 
-## CHUNK 30
+## CHUNK 54
 **Metadata:**
 ```json
 {
@@ -952,7 +1541,28 @@ Section and Article Titles within Article C3 have no regulatory value.
 
 ---
 
-## CHUNK 31
+## CHUNK 55
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 15,
+  "rule_id": "C3.3",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.3 Legality Checking > C3.3",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.3 Legality Checking"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.3 Legality Checking > C3.3]
+**C3.3** Legality Checking
+
+---
+
+## CHUNK 56
 **Metadata:**
 ```json
 {
@@ -983,7 +1593,7 @@ c. Bodywork required to be visible from a prescribed direction may include surfa
 
 ---
 
-## CHUNK 32
+## CHUNK 57
 **Metadata:**
 ```json
 {
@@ -1024,7 +1634,7 @@ iv. Local Bodywork fixing details.
 
 ---
 
-## CHUNK 33
+## CHUNK 58
 **Metadata:**
 ```json
 {
@@ -1069,7 +1679,7 @@ Full details of the requirements are given in the document <mark>FIA-F1-DOC-007<
 
 ---
 
-## CHUNK 34
+## CHUNK 59
 **Metadata:**
 ```json
 {
@@ -1104,11 +1714,32 @@ ii. two positioned symmetrically about Y = 0 at the same X-plane as the centre o
 
 Details of the mounting requirements are given in the document <mark>FIA-F1-DOC-007</mark>.
 
+---
+
+## CHUNK 60
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 18,
+  "rule_id": "C3.4",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.4 Component Definition > C3.4",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.4 Component Definition"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.4 Component Definition > C3.4]
+**C3.4** #  Component Definition
+
 The permitted bodywork and relevant Frame of Reference for each group is defined in the following Articles.
 
 ---
 
-## CHUNK 35
+## CHUNK 61
 **Metadata:**
 ```json
 {
@@ -1142,7 +1773,7 @@ b. Non-Aerodynamic Surfaces.
 
 ---
 
-## CHUNK 36
+## CHUNK 62
 **Metadata:**
 ```json
 {
@@ -1165,7 +1796,7 @@ The only permissible Wheel Bodywork is defined in Articles C3.14 and C3.15. The 
 
 ---
 
-## CHUNK 37
+## CHUNK 63
 **Metadata:**
 ```json
 {
@@ -1188,7 +1819,7 @@ The only permissible Suspension Fairings are defined in Article C3.17. To assess
 
 ---
 
-## CHUNK 38
+## CHUNK 64
 **Metadata:**
 ```json
 {
@@ -1217,7 +1848,28 @@ c. within a plane, connect two non-intersecting bodywork sections.
 
 ---
 
-## CHUNK 39
+## CHUNK 65
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 19,
+  "rule_id": "C3.5",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.5 Floor Bodywork > C3.5",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.5 Floor Bodywork"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.5 Floor Bodywork > C3.5]
+**C3.5** #  Floor Bodywork
+
+---
+
+## CHUNK 66
 **Metadata:**
 ```json
 {
@@ -1250,7 +1902,7 @@ c. have up to two sections in any Z-Plane.
 
 ---
 
-## CHUNK 40
+## CHUNK 67
 **Metadata:**
 ```json
 {
@@ -1279,7 +1931,7 @@ c. have up to two sections in any Z-Plane.
 
 ---
 
-## CHUNK 41
+## CHUNK 68
 **Metadata:**
 ```json
 {
@@ -1308,7 +1960,7 @@ c. above Z = 100, have up to two sections in any Z-Plane.
 
 ---
 
-## CHUNK 42
+## CHUNK 69
 **Metadata:**
 ```json
 {
@@ -1359,7 +2011,7 @@ iv. within 5mm of the Fillet Radii permitted as part of the Main Floor Trim and 
 
 ---
 
-## CHUNK 43
+## CHUNK 70
 **Metadata:**
 ```json
 {
@@ -1400,7 +2052,7 @@ e. compliance with (c) and (d) is not required within 35mm of up to three points
 
 ---
 
-## CHUNK 44
+## CHUNK 71
 **Metadata:**
 ```json
 {
@@ -1435,7 +2087,7 @@ ii. less than 50mm, if visible from above.
 
 ---
 
-## CHUNK 45
+## CHUNK 72
 **Metadata:**
 ```json
 {
@@ -1468,7 +2120,7 @@ d. contain no convex radius of curvature less than 2mm
 
 ---
 
-## CHUNK 46
+## CHUNK 73
 **Metadata:**
 ```json
 {
@@ -1522,7 +2174,7 @@ i. except for C3.5.8(c), lie in its entirety within RV-FLOOR-WINGLET-ENVELOPE.
 
 ---
 
-## CHUNK 47
+## CHUNK 74
 **Metadata:**
 ```json
 {
@@ -1558,7 +2210,7 @@ d. when considering a section formed by the intersection with any Z-Plane, withi
 
 ---
 
-## CHUNK 48
+## CHUNK 75
 **Metadata:**
 ```json
 {
@@ -1596,7 +2248,7 @@ e. contain no radius of curvature less than 20mm.</mark>
 
 ---
 
-## CHUNK 49
+## CHUNK 76
 **Metadata:**
 ```json
 {
@@ -1664,7 +2316,7 @@ p. when viewed from the side, fully obscure RS-FLOOR-BOARD.
 
 ---
 
-## CHUNK 50
+## CHUNK 77
 **Metadata:**
 ```json
 {
@@ -1687,7 +2339,7 @@ Once the components defined in Articles C3.5.1 to C3.5.12 have been constructed 
 
 ---
 
-## CHUNK 51
+## CHUNK 78
 **Metadata:**
 ```json
 {
@@ -1753,7 +2405,28 @@ g. a Fillet Radius no greater than 20mm, may be applied along the intersections 
 
 ---
 
-## CHUNK 52
+## CHUNK 79
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 24,
+  "rule_id": "C3.6",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.6 Plank and Skids > C3.6",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.6 Plank and Skids"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.6 Plank and Skids > C3.6]
+**C3.6** ##  Plank and Skids
+
+---
+
+## CHUNK 80
 **Metadata:**
 ```json
 {
@@ -1790,7 +2463,7 @@ Four additional 10mm diameter holes are permitted provided their sole purpose is
 
 ---
 
-## CHUNK 53
+## CHUNK 81
 **Metadata:**
 ```json
 {
@@ -1819,7 +2492,7 @@ c. Between X<sub>F</sub> = 630 and X<sub>C</sub> = −800 and behind X<sub>C</su
 
 ---
 
-## CHUNK 54
+## CHUNK 82
 **Metadata:**
 ```json
 {
@@ -1875,7 +2548,7 @@ The only permitted deviation from the specified geometry is the removal of minim
 
 ---
 
-## CHUNK 55
+## CHUNK 83
 **Metadata:**
 ```json
 {
@@ -1922,7 +2595,28 @@ i. no part of any fastener may be below Z = −7.5.
 
 ---
 
-## CHUNK 56
+## CHUNK 84
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 27,
+  "rule_id": "C3.7",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.7 Front Bodywork > C3.7",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.7 Front Bodywork"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.7 Front Bodywork > C3.7]
+**C3.7** #  Front Bodywork
+
+---
+
+## CHUNK 85
 **Metadata:**
 ```json
 {
@@ -1965,7 +2659,7 @@ f. Mounting brackets defined in Article C8.16.7.
 
 ---
 
-## CHUNK 57
+## CHUNK 86
 **Metadata:**
 ```json
 {
@@ -2000,7 +2694,7 @@ e. no concave radius less than 500mm.
 
 ---
 
-## CHUNK 58
+## CHUNK 87
 **Metadata:**
 ```json
 {
@@ -2036,7 +2730,7 @@ d. no convex radius of curvature less than 25mm below Z = 200.
 
 ---
 
-## CHUNK 59
+## CHUNK 88
 **Metadata:**
 ```json
 {
@@ -2061,7 +2755,7 @@ a. lie in its entirety within RV-ROLL-HOOP.
 
 ---
 
-## CHUNK 60
+## CHUNK 89
 **Metadata:**
 ```json
 {
@@ -2122,7 +2816,7 @@ l. be a single volume with no overlapping regions.
 
 ---
 
-## CHUNK 61
+## CHUNK 90
 **Metadata:**
 ```json
 {
@@ -2153,7 +2847,7 @@ c. contain no radius of curvature less than 10mm.
 
 ---
 
-## CHUNK 62
+## CHUNK 91
 **Metadata:**
 ```json
 {
@@ -2190,7 +2884,7 @@ g. be a single volume, with no overlapping regions.
 
 ---
 
-## CHUNK 63
+## CHUNK 92
 **Metadata:**
 ```json
 {
@@ -2213,7 +2907,28 @@ Once the components defined in Articles C3.7.1 to C3.7.7 have been constructed i
 
 ---
 
-## CHUNK 64
+## CHUNK 93
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 29,
+  "rule_id": "C3.8",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.8 Rear Bodywork > C3.8",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.8 Rear Bodywork"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.8 Rear Bodywork > C3.8]
+**C3.8** #  Rear Bodywork
+
+---
+
+## CHUNK 94
 **Metadata:**
 ```json
 {
@@ -2254,7 +2969,7 @@ e. (b) is not required within 25mm of the Aperture C3.16.9, where the convex rad
 
 ---
 
-## CHUNK 65
+## CHUNK 95
 **Metadata:**
 ```json
 {
@@ -2303,7 +3018,7 @@ h. there must be no surface parallel to an X-Plane ahead of X<sub>R</sub> = −5
 
 ---
 
-## CHUNK 66
+## CHUNK 96
 **Metadata:**
 ```json
 {
@@ -2334,7 +3049,7 @@ c. be a single, simply connected volume, with no overlapping regions.
 
 ---
 
-## CHUNK 67
+## CHUNK 97
 **Metadata:**
 ```json
 {
@@ -2357,7 +3072,28 @@ Once the components defined in Articles C3.8.1 to C3.8.3 have been constructed i
 
 ---
 
-## CHUNK 68
+## CHUNK 98
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 30,
+  "rule_id": "C3.9",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.9 Tail and Exhaust Tailpipe > C3.9",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.9 Tail and Exhaust Tailpipe"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.9 Tail and Exhaust Tailpipe > C3.9]
+**C3.9** ##  Tail and Exhaust Tailpipe
+
+---
+
+## CHUNK 99
 **Metadata:**
 ```json
 {
@@ -2386,7 +3122,7 @@ c. below Z = 450, have up to three sections in any Z-Plane.
 
 ---
 
-## CHUNK 69
+## CHUNK 100
 **Metadata:**
 ```json
 {
@@ -2439,7 +3175,28 @@ h. have an internal surface which is a right circular cylinder and has a single 
 
 ---
 
-## CHUNK 70
+## CHUNK 101
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 31,
+  "rule_id": "C3.10",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.10 Front Wing (FW) > C3.10",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.10 Front Wing (FW)"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.10 Front Wing (FW) > C3.10]
+**C3.10** #  Front Wing (FW)
+
+---
+
+## CHUNK 102
 **Metadata:**
 ```json
 {
@@ -2498,7 +3255,7 @@ Once the Front Wing Profiles bodywork is fully defined, Gurneys up to 10mm in he
 
 ---
 
-## CHUNK 71
+## CHUNK 103
 **Metadata:**
 ```json
 {
@@ -2529,7 +3286,7 @@ d. no concave radius of curvature less than 100mm.
 
 ---
 
-## CHUNK 72
+## CHUNK 104
 **Metadata:**
 ```json
 {
@@ -2565,7 +3322,7 @@ f. no concave radius of curvature less than 50mm outboard of Y = 825mm.
 
 ---
 
-## CHUNK 73
+## CHUNK 105
 **Metadata:**
 ```json
 {
@@ -2589,7 +3346,7 @@ a. lie in its entirety within RV-FWEP-IFP.
 
 ---
 
-## CHUNK 74
+## CHUNK 106
 **Metadata:**
 ```json
 {
@@ -2623,7 +3380,7 @@ c. no concave radius of curvature less than 50mm.
 
 ---
 
-## CHUNK 75
+## CHUNK 107
 **Metadata:**
 ```json
 {
@@ -2667,7 +3424,7 @@ h. when viewed parallel to the Y-Axis from inboard, fully obscure RS-FWEP-SIDE a
 
 ---
 
-## CHUNK 76
+## CHUNK 108
 **Metadata:**
 ```json
 {
@@ -2694,7 +3451,7 @@ ii. have a section thickness no more than 35mm when measured in the Y direction.
 
 ---
 
-## CHUNK 77
+## CHUNK 109
 **Metadata:**
 ```json
 {
@@ -2721,7 +3478,7 @@ b. have up to two sections in any Y or Z-Plane.
 
 ---
 
-## CHUNK 78
+## CHUNK 110
 **Metadata:**
 ```json
 {
@@ -2759,7 +3516,7 @@ g. when viewed from above, fully obscure Front Wing Strake forward of X<sub>F</s
 
 ---
 
-## CHUNK 79
+## CHUNK 111
 **Metadata:**
 ```json
 {
@@ -2836,7 +3593,7 @@ Any adjustment of Front Wing Profiles controlled by the FIA Standard ECU must:
 
 ---
 
-## CHUNK 80
+## CHUNK 112
 **Metadata:**
 ```json
 {
@@ -2897,7 +3654,7 @@ w. FW Primary Flap and FW Secondary Flap may only be in a State of Deployment wh
 
 ---
 
-## CHUNK 81
+## CHUNK 113
 **Metadata:**
 ```json
 {
@@ -2977,7 +3734,7 @@ i. A single **“Tyre Temperature Fairing”** which must:
 
 ---
 
-## CHUNK 82
+## CHUNK 114
 **Metadata:**
 ```json
 {
@@ -3017,7 +3774,7 @@ n. flexible seals may be fitted between the adjustable and non-adjustable parts 
 
 ---
 
-## CHUNK 83
+## CHUNK 115
 **Metadata:**
 ```json
 {
@@ -3040,7 +3797,28 @@ Once the components defined in Articles C3.10.1 to C3.10.11 have been constructe
 
 ---
 
-## CHUNK 84
+## CHUNK 116
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 39,
+  "rule_id": "C3.11",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.11 Rear Wing (RW) > C3.11",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.11 Rear Wing (RW)"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.11 Rear Wing (RW) > C3.11]
+**C3.11** #  Rear Wing (RW)
+
+---
+
+## CHUNK 117
 **Metadata:**
 ```json
 {
@@ -3087,7 +3865,7 @@ Once the Rear Wing Profiles bodywork is fully defined, a Gurney of up to 10mm ma
 
 ---
 
-## CHUNK 85
+## CHUNK 118
 **Metadata:**
 ```json
 {
@@ -3119,7 +3897,7 @@ d. contain no concave radius of curvature less than 100mm.
 
 ---
 
-## CHUNK 86
+## CHUNK 119
 **Metadata:**
 ```json
 {
@@ -3151,7 +3929,7 @@ a. lie in its entirety within:
 
 ---
 
-## CHUNK 87
+## CHUNK 120
 **Metadata:**
 ```json
 {
@@ -3184,7 +3962,7 @@ c. no part of Rear Wing Profiles may be obscured by Rear Wing Pylon when viewed 
 
 ---
 
-## CHUNK 88
+## CHUNK 121
 **Metadata:**
 ```json
 {
@@ -3220,7 +3998,7 @@ e. be a single volume, with no overlapping regions.
 
 ---
 
-## CHUNK 89
+## CHUNK 122
 **Metadata:**
 ```json
 {
@@ -3295,7 +4073,7 @@ k. Physical stops must be provided to prevent RW Flap from being rotated beyond 
 
 ---
 
-## CHUNK 90
+## CHUNK 123
 **Metadata:**
 ```json
 {
@@ -3356,7 +4134,7 @@ h. flexible seals may be fitted between the adjustable and non-adjustable parts 
 
 ---
 
-## CHUNK 91
+## CHUNK 124
 **Metadata:**
 ```json
 {
@@ -3377,11 +4155,32 @@ h. flexible seals may be fitted between the adjustable and non-adjustable parts 
 
 Once the components defined in Articles C3.11.1 to C3.11.7 have been constructed in accordance with these provisions, including any sub-assembly operations, the resulting union is defined as **“Rear Wing Bodywork”**.
 
+---
+
+## CHUNK 125
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 43,
+  "rule_id": "C3.12",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.12 Final Assembly > C3.12",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.12 Final Assembly"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.12 Final Assembly > C3.12]
+**C3.12** #  Final Assembly
+
 Prior to “Final Assembly”, all bodywork groups described in these Articles must be fully defined. Furthermore, each proceeding Final Assembly sub-section must be complete before moving onto the next.
 
 ---
 
-## CHUNK 92
+## CHUNK 126
 **Metadata:**
 ```json
 {
@@ -3404,7 +4203,7 @@ The Front Bodywork and the Rear Bodywork must be trimmed to each other. The resu
 
 ---
 
-## CHUNK 93
+## CHUNK 127
 **Metadata:**
 ```json
 {
@@ -3434,7 +4233,7 @@ d. once all volumes are trimmed and filleted, no part of Engine Cover, the Fille
 
 ---
 
-## CHUNK 94
+## CHUNK 128
 **Metadata:**
 ```json
 {
@@ -3457,7 +4256,7 @@ The Tail and the Upper Bodywork to Floor Assembly must be trimmed to each other.
 
 ---
 
-## CHUNK 95
+## CHUNK 129
 **Metadata:**
 ```json
 {
@@ -3484,7 +4283,7 @@ b. except for Front Wing Pylon, FW  Linkage and FW  CL Fairing, no part of Front
 
 ---
 
-## CHUNK 96
+## CHUNK 130
 **Metadata:**
 ```json
 {
@@ -3505,11 +4304,32 @@ b. except for Front Wing Pylon, FW  Linkage and FW  CL Fairing, no part of Front
 
 The Rear Wing Bodywork and the Tail Bodywork must be trimmed to each other. A Fillet Radius, no greater than 10mm, may be applied along the intersections between these volumes.
 
+---
+
+## CHUNK 131
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 43,
+  "rule_id": "C3.13",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.13 Bodywork not defined in Articles C3.5 to C3.12 > C3.13",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.13 Bodywork not defined in Articles C3.5 to C3.12"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.13 Bodywork not defined in Articles C3.5 to C3.12 > C3.13]
+**C3.13** #  Bodywork not defined in Articles C3.5 to C3.12
+
 In addition to the Bodywork defined and regulated by Articles C3.5 to C3.12, the following components are permitted:
 
 ---
 
-## CHUNK 97
+## CHUNK 132
 **Metadata:**
 ```json
 {
@@ -3530,7 +4350,7 @@ In addition to the Bodywork defined and regulated by Articles C3.5 to C3.12, the
 
 ---
 
-## CHUNK 98
+## CHUNK 133
 **Metadata:**
 ```json
 {
@@ -3551,7 +4371,7 @@ In addition to the Bodywork defined and regulated by Articles C3.5 to C3.12, the
 
 ---
 
-## CHUNK 99
+## CHUNK 134
 **Metadata:**
 ```json
 {
@@ -3577,7 +4397,7 @@ c. may be joined to Front Bodywork with a Fillet Radius no greater than 10mm.
 
 ---
 
-## CHUNK 100
+## CHUNK 135
 **Metadata:**
 ```json
 {
@@ -3598,7 +4418,7 @@ c. may be joined to Front Bodywork with a Fillet Radius no greater than 10mm.
 
 ---
 
-## CHUNK 101
+## CHUNK 136
 **Metadata:**
 ```json
 {
@@ -3619,7 +4439,28 @@ c. may be joined to Front Bodywork with a Fillet Radius no greater than 10mm.
 
 ---
 
-## CHUNK 102
+## CHUNK 137
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 44,
+  "rule_id": "C3.14",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.14 Wheel Components > C3.14",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.14 Wheel Components"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.14 Wheel Components > C3.14]
+**C3.14** #  Wheel Components
+
+---
+
+## CHUNK 138
 **Metadata:**
 ```json
 {
@@ -3662,7 +4503,7 @@ Rigidly secured means not having any degree of freedom.
 
 ---
 
-## CHUNK 103
+## CHUNK 139
 **Metadata:**
 ```json
 {
@@ -3693,7 +4534,7 @@ c. Drum Bodywork may be fitted with a flexible seal or seals, in the inboard of 
 
 ---
 
-## CHUNK 104
+## CHUNK 140
 **Metadata:**
 ```json
 {
@@ -3742,7 +4583,7 @@ j. compliance with (g) and (h) is not required on the Rear Lip within a single t
 
 ---
 
-## CHUNK 105
+## CHUNK 141
 **Metadata:**
 ```json
 {
@@ -3777,7 +4618,7 @@ d. contain no radius of curvature less than 20mm, except for regions of the Rear
 
 ---
 
-## CHUNK 106
+## CHUNK 142
 **Metadata:**
 ```json
 {
@@ -3821,7 +4662,7 @@ f. compliance with (e) is not required within a single transition between one an
 
 ---
 
-## CHUNK 107
+## CHUNK 143
 **Metadata:**
 ```json
 {
@@ -3859,7 +4700,7 @@ e. Front Drum Front Deflector Bodywork is optionally fitted and exempt from Arti
 
 ---
 
-## CHUNK 108
+## CHUNK 144
 **Metadata:**
 ```json
 {
@@ -3899,7 +4740,7 @@ f. in any $X_W$-Plane rearward of $X_W = 150$, contain no concave radius of curv
 
 ---
 
-## CHUNK 109
+## CHUNK 145
 **Metadata:**
 ```json
 {
@@ -3937,7 +4778,7 @@ f. is optionally fitted and exempt from Article C3.14.1 (b).
 
 ---
 
-## CHUNK 110
+## CHUNK 146
 **Metadata:**
 ```json
 {
@@ -3971,11 +4812,32 @@ b. To protect the Scoop inlet from debris ingestion, a **“Front Debris Guard�
 * i. lie in their entirety within RV-FWH-SCO and the union of RV-RWH-SCO and RV-RWH-LIP respectively.
 * ii. when assessing each Debris Guard individually, form one or more sections, each with a cross-sectional area no greater than 8mm<sup>2</sup> when intersected by any Y<sub>W</sub>-plane.
 
+---
+
+## CHUNK 147
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 48,
+  "rule_id": "C3.15",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.15 Wheel Bodywork Assembly > C3.15",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.15 Wheel Bodywork Assembly"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.15 Wheel Bodywork Assembly > C3.15]
+**C3.15** ###  Wheel Bodywork Assembly
+
 Prior to **“Wheel Bodywork Assembly”**, all Bodywork components described in Article C3.14 must be fully defined. Furthermore, each proceeding Wheel Bodywork Assembly sub-section must be completed before moving on to the next.
 
 ---
 
-## CHUNK 111
+## CHUNK 148
 **Metadata:**
 ```json
 {
@@ -3998,7 +4860,7 @@ Prior to **“Wheel Bodywork Assembly”**, all Bodywork components described in
 
 ---
 
-## CHUNK 112
+## CHUNK 149
 **Metadata:**
 ```json
 {
@@ -4029,7 +4891,7 @@ c. if present, the Debris Guard, defined in Article C3.14.9 (b), must be Trimmed
 
 ---
 
-## CHUNK 113
+## CHUNK 150
 **Metadata:**
 ```json
 {
@@ -4056,7 +4918,7 @@ The result of this union will be known as **“Rear Wheel Bodywork Assembly”**
 
 ---
 
-## CHUNK 114
+## CHUNK 151
 **Metadata:**
 ```json
 {
@@ -4083,7 +4945,7 @@ The result of this union will be known as Front Wheel Bodywork Assembly.
 
 ---
 
-## CHUNK 115
+## CHUNK 152
 **Metadata:**
 ```json
 {
@@ -4109,6 +4971,27 @@ a. pass through the plane Y<sub>W</sub> = -50, except for ducts that cool electr
 Furthermore, any flow which enters the Scooped Drum must:
 
 b. not have any resultant flux across a circular section 155mm in diameter with its centre lying on the Y<sub>W</sub> axis in the plane Y<sub>W</sub> = -182 and Y<sub>W</sub> = -211 for the Front and Rear respectively.
+
+---
+
+## CHUNK 153
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 49,
+  "rule_id": "C3.16",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.16 Apertures > C3.16",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.16 Apertures"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.16 Apertures > C3.16]
+**C3.16** ##  Apertures
 
 Once the Final Assembly and Wheel Bodywork Assembly have been fully defined, the apertures listed in the following table may be applied. **“Apertures”** shall be interpreted as mathematical surfaces bound by their peripheries and can only be defined after their respective Reference Volume has been translated and rotated. Unless otherwise stated, each aperture may only be applied once, and must:
 
@@ -4138,18 +5021,18 @@ h. except for <mark>regions of zero or incidental flows</mark>, which the FIA ma
 
 ---
 
-## CHUNK 116
+## CHUNK 154
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 49,
-  "rule_id": "C3.15.5",
-  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.15 Wheel Bodywork Assembly > C3.15.5",
+  "rule_id": "C3.16",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.16 Apertures > C3.16",
   "section": "Section C",
   "article": "Article C3: AERODYNAMIC COMPONENTS",
-  "sub_article": "C3.15 Wheel Bodywork Assembly"
+  "sub_article": "C3.16 Apertures"
 }
 ```
 
@@ -4169,18 +5052,18 @@ h. except for <mark>regions of zero or incidental flows</mark>, which the FIA ma
 
 ---
 
-## CHUNK 117
+## CHUNK 155
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 49,
-  "rule_id": "C3.15.5",
-  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.15 Wheel Bodywork Assembly > C3.15.5",
+  "rule_id": "C3.16",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.16 Apertures > C3.16",
   "section": "Section C",
   "article": "Article C3: AERODYNAMIC COMPONENTS",
-  "sub_article": "C3.15 Wheel Bodywork Assembly"
+  "sub_article": "C3.16 Apertures"
 }
 ```
 
@@ -4200,18 +5083,18 @@ h. except for <mark>regions of zero or incidental flows</mark>, which the FIA ma
 
 ---
 
-## CHUNK 118
+## CHUNK 156
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 49,
-  "rule_id": "C3.15.5",
-  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.15 Wheel Bodywork Assembly > C3.15.5",
+  "rule_id": "C3.16",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.16 Apertures > C3.16",
   "section": "Section C",
   "article": "Article C3: AERODYNAMIC COMPONENTS",
-  "sub_article": "C3.15 Wheel Bodywork Assembly"
+  "sub_article": "C3.16 Apertures"
 }
 ```
 
@@ -4225,7 +5108,28 @@ h. except for <mark>regions of zero or incidental flows</mark>, which the FIA ma
 
 ---
 
-## CHUNK 119
+## CHUNK 157
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 52,
+  "rule_id": "C3.17",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.17 Suspension and Driveshaft Fairings > C3.17",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.17 Suspension and Driveshaft Fairings"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.17 Suspension and Driveshaft Fairings > C3.17]
+**C3.17** #  Suspension and Driveshaft Fairings
+
+---
+
+## CHUNK 158
 **Metadata:**
 ```json
 {
@@ -4246,7 +5150,7 @@ h. except for <mark>regions of zero or incidental flows</mark>, which the FIA ma
 
 ---
 
-## CHUNK 120
+## CHUNK 159
 **Metadata:**
 ```json
 {
@@ -4273,7 +5177,7 @@ c. lie entirely ahead of X<sub>R</sub> = 300.
 
 ---
 
-## CHUNK 121
+## CHUNK 160
 **Metadata:**
 ```json
 {
@@ -4311,7 +5215,7 @@ ii For Rear Suspension Fairings, between 10deg (nose down) and –10deg (nose up
 
 ---
 
-## CHUNK 122
+## CHUNK 161
 **Metadata:**
 ```json
 {
@@ -4332,7 +5236,7 @@ ii For Rear Suspension Fairings, between 10deg (nose down) and –10deg (nose up
 
 ---
 
-## CHUNK 123
+## CHUNK 162
 **Metadata:**
 ```json
 {
@@ -4365,7 +5269,7 @@ Furthermore, this fairing must not vary the angle subtended by the major axis of
 
 ---
 
-## CHUNK 124
+## CHUNK 163
 **Metadata:**
 ```json
 {
@@ -4394,7 +5298,7 @@ Treating the Suspension or Driveshaft Fairing as a solid volume bound by its Bod
 
 ---
 
-## CHUNK 125
+## CHUNK 164
 **Metadata:**
 ```json
 {
@@ -4442,7 +5346,7 @@ l. the Front Trackrod Suspension Fairing and Front Bodywork.
 
 ---
 
-## CHUNK 126
+## CHUNK 165
 **Metadata:**
 ```json
 {
@@ -4463,7 +5367,28 @@ l. the Front Trackrod Suspension Fairing and Front Bodywork.
 
 ---
 
-## CHUNK 127
+## CHUNK 166
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 54,
+  "rule_id": "C3.18",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.18 Aerodynamic Component Flexibility > C3.18",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.18 Aerodynamic Component Flexibility"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.18 Aerodynamic Component Flexibility > C3.18]
+**C3.18** #  Aerodynamic Component Flexibility
+
+---
+
+## CHUNK 167
 **Metadata:**
 ```json
 {
@@ -4492,7 +5417,7 @@ Further details about the implementation of each test are given in <mark>FIA-F1-
 
 ---
 
-## CHUNK 128
+## CHUNK 168
 **Metadata:**
 ```json
 {
@@ -4535,7 +5460,7 @@ When the load is applied to only one side of the car the vertical deflection mus
 
 ---
 
-## CHUNK 129
+## CHUNK 169
 **Metadata:**
 ```json
 {
@@ -4566,7 +5491,7 @@ Deflection will be measured relative to the forward-most element of Front Wing P
 
 ---
 
-## CHUNK 130
+## CHUNK 170
 **Metadata:**
 ```json
 {
@@ -4595,7 +5520,7 @@ Deflection will be measured relative to the forward-most element of Front Wing P
 
 ---
 
-## CHUNK 131
+## CHUNK 171
 **Metadata:**
 ```json
 {
@@ -4626,7 +5551,7 @@ The load deflection relationship must be strictly monotonic with both increasing
 
 ---
 
-## CHUNK 132
+## CHUNK 172
 **Metadata:**
 ```json
 {
@@ -4653,7 +5578,7 @@ Deflection will be measured relative to the rear scrutineering supports defined 
 
 ---
 
-## CHUNK 133
+## CHUNK 173
 **Metadata:**
 ```json
 {
@@ -4686,7 +5611,7 @@ will be performed to 10kN. Deflection will be measured relative to the scrutinee
 
 ---
 
-## CHUNK 134
+## CHUNK 174
 **Metadata:**
 ```json
 {
@@ -4719,7 +5644,7 @@ Deflection will be measured relative to the front scrutineering supports defined
 
 ---
 
-## CHUNK 135
+## CHUNK 175
 **Metadata:**
 ```json
 {
@@ -4752,7 +5677,7 @@ Deflection will be measured relative to the RIS.
 
 ---
 
-## CHUNK 136
+## CHUNK 176
 **Metadata:**
 ```json
 {
@@ -4781,7 +5706,7 @@ The angular deflection will be measured on the rear wing profiles, at \[X<sub>R<
 
 ---
 
-## CHUNK 137
+## CHUNK 177
 **Metadata:**
 ```json
 {
@@ -4811,7 +5736,7 @@ Wing Mainplane at the same Y-station.
 
 ---
 
-## CHUNK 138
+## CHUNK 178
 **Metadata:**
 ```json
 {
@@ -4846,7 +5771,7 @@ c. incorporates an 8mm female thread in the underside.
 
 ---
 
-## CHUNK 139
+## CHUNK 179
 **Metadata:**
 ```json
 {
@@ -4871,7 +5796,7 @@ measured along the loading axis, when a 50N point load is applied in an inward d
 
 ---
 
-## CHUNK 140
+## CHUNK 180
 **Metadata:**
 ```json
 {
@@ -4897,7 +5822,7 @@ X-Station, at least 300mm away.
 
 ---
 
-## CHUNK 141
+## CHUNK 181
 **Metadata:**
 ```json
 {
@@ -4924,7 +5849,28 @@ An F1 Team may be required by the FIA to run additional cameras specified by the
 
 ---
 
-## CHUNK 142
+## CHUNK 182
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 59,
+  "rule_id": "C3.19",
+  "breadcrumb": "Section C > Article C3: AERODYNAMIC COMPONENTS > C3.19 Aerodynamic Component construction > C3.19",
+  "section": "Section C",
+  "article": "Article C3: AERODYNAMIC COMPONENTS",
+  "sub_article": "C3.19 Aerodynamic Component construction"
+}
+```
+
+**Content:**
+[Section C > Article C3: AERODYNAMIC COMPONENTS > C3.19 Aerodynamic Component construction > C3.19]
+**C3.19** #  Aerodynamic Component construction
+
+---
+
+## CHUNK 183
 **Metadata:**
 ```json
 {
@@ -4951,7 +5897,7 @@ Metallic components are allowed but must not cause a risk to other competitors. 
 
 ---
 
-## CHUNK 143
+## CHUNK 184
 **Metadata:**
 ```json
 {
@@ -4972,7 +5918,7 @@ Metallic components are allowed but must not cause a risk to other competitors. 
 
 ---
 
-## CHUNK 144
+## CHUNK 185
 **Metadata:**
 ```json
 {
@@ -4997,7 +5943,7 @@ The Technical Delegate may ask an F1 Team to modify or remove metallic component
 
 ---
 
-## CHUNK 145
+## CHUNK 186
 **Metadata:**
 ```json
 {
@@ -5022,6 +5968,27 @@ Floor Bodywork or geometry within RV-BIB-STAY that lies within the plan view are
 
 *Governance: F1 Commission / WMSC*
 
+---
+
+## CHUNK 187
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 60,
+  "rule_id": "C4.1",
+  "breadcrumb": "Section C > Article C4: MASS > C4.1 Minimum mass > C4.1",
+  "section": "Section C",
+  "article": "Article C4: MASS",
+  "sub_article": "C4.1 Minimum mass"
+}
+```
+
+**Content:**
+[Section C > Article C4: MASS > C4.1 Minimum mass > C4.1]
+**C4.1** ##  Minimum mass
+
 During the Sprint Qualifying and Qualifying sessions, The Minimum Mass is 726kg plus the Nominal Tyre Mass. In all other sessions, the Minimum Mass is 724kg plus the Nominal Tyre Mass.
 
 At all times during the Competition, Car Mass must not be less than the Minimum Mass.
@@ -5029,6 +5996,27 @@ At all times during the Competition, Car Mass must not be less than the Minimum 
 When a Heat Hazard is declared, the Minimum Mass will be increased by the Heat Hazard Mass Increase.
 
 If, when required for checking, a car is not already fitted with dry-weather tyres, its mass will be determined using a set of dry-weather tyres selected by the FIA technical delegate.
+
+---
+
+## CHUNK 188
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 60,
+  "rule_id": "C4.2",
+  "breadcrumb": "Section C > Article C4: MASS > C4.2 Mass distribution > C4.2",
+  "section": "Section C",
+  "article": "Article C4: MASS",
+  "sub_article": "C4.2 Mass distribution"
+}
+```
+
+**Content:**
+[Section C > Article C4: MASS > C4.2 Mass distribution > C4.2]
+**C4.2** ##  Mass distribution
 
 At all times during the Qualifying and Sprint Qualifying Sessions, with the car resting on a horizontal plane:
 
@@ -5042,7 +6030,28 @@ If, when required for checking, a Heat Hazard has been declared, the increase in
 
 ---
 
-## CHUNK 146
+## CHUNK 189
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 60,
+  "rule_id": "C4.3",
+  "breadcrumb": "Section C > Article C4: MASS > C4.3 Ballast > C4.3",
+  "section": "Section C",
+  "article": "Article C4: MASS",
+  "sub_article": "C4.3 Ballast"
+}
+```
+
+**Content:**
+[Section C > Article C4: MASS > C4.3 Ballast > C4.3]
+**C4.3** ##  Ballast
+
+---
+
+## CHUNK 190
 **Metadata:**
 ```json
 {
@@ -5067,7 +6076,7 @@ F1 Teams must show by calculation that any ballast fitted within the cockpit wou
 
 ---
 
-## CHUNK 147
+## CHUNK 191
 **Metadata:**
 ```json
 {
@@ -5102,7 +6111,7 @@ A nominal such mass of 12kg should be present for the impact test described in A
 
 ---
 
-## CHUNK 148
+## CHUNK 192
 **Metadata:**
 ```json
 {
@@ -5123,11 +6132,53 @@ A nominal such mass of 12kg should be present for the impact test described in A
 
 Any Ballast mounted ahead of X<sub>A</sub>=0, that is not mounted within the forward-most profile of Front Wing Profiles, must be present during the Front Impact Structure Dynamic Test defined in Article C13.6.3.
 
+---
+
+## CHUNK 193
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 61,
+  "rule_id": "C4.4",
+  "breadcrumb": "Section C > Article C4: MASS > C4.4 Adding during the Race or Sprint Session > C4.4",
+  "section": "Section C",
+  "article": "Article C4: MASS",
+  "sub_article": "C4.4 Adding during the Race or Sprint Session"
+}
+```
+
+**Content:**
+[Section C > Article C4: MASS > C4.4 Adding during the Race or Sprint Session > C4.4]
+**C4.4** ##  Adding during the Race or Sprint Session
+
 With the exception of compressed gases, no substance may be added to the car during the Race or Sprint Session. If it becomes necessary to replace any part of the car during the Race or Sprint Session, the mass of the new part must not be more than that of the original part.
 
 ---
 
-## CHUNK 149
+## CHUNK 194
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 61,
+  "rule_id": "C4.5",
+  "breadcrumb": "Section C > Article C4: MASS > C4.5 Reference Mass of the driver and Driver Ballast > C4.5",
+  "section": "Section C",
+  "article": "Article C4: MASS",
+  "sub_article": "C4.5 Reference Mass of the driver and Driver Ballast"
+}
+```
+
+**Content:**
+[Section C > Article C4: MASS > C4.5 Reference Mass of the driver and Driver Ballast > C4.5]
+**C4.5** ##  Reference Mass of the driver and Driver Ballast
+
+---
+
+## CHUNK 195
 **Metadata:**
 ```json
 {
@@ -5148,7 +6199,7 @@ With the exception of compressed gases, no substance may be added to the car dur
 
 ---
 
-## CHUNK 150
+## CHUNK 196
 **Metadata:**
 ```json
 {
@@ -5167,6 +6218,27 @@ With the exception of compressed gases, no substance may be added to the car dur
 [Section C > Article C4: MASS > C4.5 Reference Mass of the driver and Driver Ballast > C4.5.2]
 **C4.5.2** The reference Mass of the Driver plus the mass of any Driver Ballast must not be less than 82kg at any time during the Competition.
 
+---
+
+## CHUNK 197
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 61,
+  "rule_id": "C4.6",
+  "breadcrumb": "Section C > Article C4: MASS > C4.6 Heat Hazard Mass Increase > C4.6",
+  "section": "Section C",
+  "article": "Article C4: MASS",
+  "sub_article": "C4.6 Heat Hazard Mass Increase"
+}
+```
+
+**Content:**
+[Section C > Article C4: MASS > C4.6 Heat Hazard Mass Increase > C4.6]
+**C4.6** ##  Heat Hazard Mass Increase
+
 <mark>During a **TTCS** for which a Heat Hazard has been declared:</mark>
 
 a. The Heat Hazard Mass Increase is 5kg.
@@ -5182,6 +6254,27 @@ b. The sum of the masses of the following items must be no less than 5kg;
 
 <mark>d. The mass of the driver cooling system must be no less than 2kg.</mark>
 
+---
+
+## CHUNK 198
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 61,
+  "rule_id": "C4.7",
+  "breadcrumb": "Section C > Article C4: MASS > C4.7 Determination of Nominal Tyre Mass > C4.7",
+  "section": "Section C",
+  "article": "Article C4: MASS",
+  "sub_article": "C4.7 Determination of Nominal Tyre Mass"
+}
+```
+
+**Content:**
+[Section C > Article C4: MASS > C4.7 Determination of Nominal Tyre Mass > C4.7]
+**C4.7** ##  Determination of Nominal Tyre Mass
+
 To determine the Nominal Tyre Mass, the masses of new, production, dry weather, tyres will be measured by the tyre provider and published after the final day of TCC opportunity (as defined in Article B11.2.7.b) prior to the start of the Championship and will be the mean mass of sample of 50 tyres per axle.
 
 In the case of a change in tyre specification during the Championship, the Nominal Tyre Mass will be adjusted if required.
@@ -5192,7 +6285,28 @@ In the case of a change in tyre specification during the Championship, the Nomin
 
 ---
 
-## CHUNK 151
+## CHUNK 199
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 62,
+  "rule_id": "C5.1",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.1 Engine specification > C5.1",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.1 Engine specification"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.1 Engine specification > C5.1]
+**C5.1** ##  Engine specification
+
+---
+
+## CHUNK 200
 **Metadata:**
 ```json
 {
@@ -5213,7 +6327,7 @@ In the case of a change in tyre specification during the Championship, the Nomin
 
 ---
 
-## CHUNK 152
+## CHUNK 201
 **Metadata:**
 ```json
 {
@@ -5234,7 +6348,7 @@ In the case of a change in tyre specification during the Championship, the Nomin
 
 ---
 
-## CHUNK 153
+## CHUNK 202
 **Metadata:**
 ```json
 {
@@ -5256,7 +6370,7 @@ All six cylinders must be of equal capacity.
 
 ---
 
-## CHUNK 154
+## CHUNK 203
 **Metadata:**
 ```json
 {
@@ -5279,7 +6393,7 @@ The sealing interface between the moving valve component and the stationary engi
 
 ---
 
-## CHUNK 155
+## CHUNK 204
 **Metadata:**
 ```json
 {
@@ -5300,7 +6414,7 @@ The sealing interface between the moving valve component and the stationary engi
 
 ---
 
-## CHUNK 156
+## CHUNK 205
 **Metadata:**
 ```json
 {
@@ -5321,7 +6435,7 @@ The sealing interface between the moving valve component and the stationary engi
 
 ---
 
-## CHUNK 157
+## CHUNK 206
 **Metadata:**
 ```json
 {
@@ -5349,7 +6463,7 @@ An additional allowance of 1% of the total volume (including all Inserts) of eac
 
 ---
 
-## CHUNK 158
+## CHUNK 207
 **Metadata:**
 ```json
 {
@@ -5370,7 +6484,7 @@ An additional allowance of 1% of the total volume (including all Inserts) of eac
 
 ---
 
-## CHUNK 159
+## CHUNK 208
 **Metadata:**
 ```json
 {
@@ -5400,7 +6514,7 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 160
+## CHUNK 209
 **Metadata:**
 ```json
 {
@@ -5421,7 +6535,7 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 161
+## CHUNK 210
 **Metadata:**
 ```json
 {
@@ -5442,7 +6556,7 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 162
+## CHUNK 211
 **Metadata:**
 ```json
 {
@@ -5463,7 +6577,7 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 163
+## CHUNK 212
 **Metadata:**
 ```json
 {
@@ -5484,7 +6598,7 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 164
+## CHUNK 213
 **Metadata:**
 ```json
 {
@@ -5505,7 +6619,7 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 165
+## CHUNK 214
 **Metadata:**
 ```json
 {
@@ -5526,7 +6640,7 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 166
+## CHUNK 215
 **Metadata:**
 ```json
 {
@@ -5547,7 +6661,7 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 167
+## CHUNK 216
 **Metadata:**
 ```json
 {
@@ -5568,7 +6682,7 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 168
+## CHUNK 217
 **Metadata:**
 ```json
 {
@@ -5591,7 +6705,28 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 169
+## CHUNK 218
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 63,
+  "rule_id": "C5.2",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.2 Power Unit Energy Flow > C5.2",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.2 Power Unit Energy Flow"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.2 Power Unit Energy Flow > C5.2]
+**C5.2** Power Unit Energy Flow
+
+---
+
+## CHUNK 219
 **Metadata:**
 ```json
 {
@@ -5612,7 +6747,7 @@ e. A component whose part residing in the cylinder head is wholly contained in a
 
 ---
 
-## CHUNK 170
+## CHUNK 220
 **Metadata:**
 ```json
 {
@@ -5680,7 +6815,7 @@ graph TD
 
 ---
 
-## CHUNK 171
+## CHUNK 221
 **Metadata:**
 ```json
 {
@@ -5701,7 +6836,7 @@ graph TD
 
 ---
 
-## CHUNK 172
+## CHUNK 222
 **Metadata:**
 ```json
 {
@@ -5722,7 +6857,7 @@ graph TD
 
 ---
 
-## CHUNK 173
+## CHUNK 223
 **Metadata:**
 ```json
 {
@@ -5749,7 +6884,7 @@ EF (MJ/h) = 9.78 x engine power (kW) + 869 when the engine power is above −50k
 
 ---
 
-## CHUNK 174
+## CHUNK 224
 **Metadata:**
 ```json
 {
@@ -5770,7 +6905,7 @@ EF (MJ/h) = 9.78 x engine power (kW) + 869 when the engine power is above −50k
 
 ---
 
-## CHUNK 175
+## CHUNK 225
 **Metadata:**
 ```json
 {
@@ -5791,7 +6926,7 @@ EF (MJ/h) = 9.78 x engine power (kW) + 869 when the engine power is above −50k
 
 ---
 
-## CHUNK 176
+## CHUNK 226
 **Metadata:**
 ```json
 {
@@ -5826,7 +6961,7 @@ P(kW) = 0 when the car speed is equal to or above 355kph.
 
 ---
 
-## CHUNK 177
+## CHUNK 227
 **Metadata:**
 ```json
 {
@@ -5847,7 +6982,7 @@ P(kW) = 0 when the car speed is equal to or above 355kph.
 
 ---
 
-## CHUNK 178
+## CHUNK 228
 **Metadata:**
 ```json
 {
@@ -5876,7 +7011,7 @@ The vehicle fundamentals used to determine the above limits will be provided in 
 
 ---
 
-## CHUNK 179
+## CHUNK 229
 **Metadata:**
 ```json
 {
@@ -5897,7 +7032,7 @@ The vehicle fundamentals used to determine the above limits will be provided in 
 
 ---
 
-## CHUNK 180
+## CHUNK 230
 **Metadata:**
 ```json
 {
@@ -5918,7 +7053,7 @@ The vehicle fundamentals used to determine the above limits will be provided in 
 
 ---
 
-## CHUNK 181
+## CHUNK 231
 **Metadata:**
 ```json
 {
@@ -5939,7 +7074,7 @@ The vehicle fundamentals used to determine the above limits will be provided in 
 
 ---
 
-## CHUNK 182
+## CHUNK 232
 **Metadata:**
 ```json
 {
@@ -5980,7 +7115,7 @@ g. The CU-K must exclusively perform functionalities related to the operation of
 
 ---
 
-## CHUNK 183
+## CHUNK 233
 **Metadata:**
 ```json
 {
@@ -6001,7 +7136,7 @@ g. The CU-K must exclusively perform functionalities related to the operation of
 
 ---
 
-## CHUNK 184
+## CHUNK 234
 **Metadata:**
 ```json
 {
@@ -6022,7 +7157,7 @@ g. The CU-K must exclusively perform functionalities related to the operation of
 
 ---
 
-## CHUNK 185
+## CHUNK 235
 **Metadata:**
 ```json
 {
@@ -6043,7 +7178,7 @@ g. The CU-K must exclusively perform functionalities related to the operation of
 
 ---
 
-## CHUNK 186
+## CHUNK 236
 **Metadata:**
 ```json
 {
@@ -6064,7 +7199,7 @@ g. The CU-K must exclusively perform functionalities related to the operation of
 
 ---
 
-## CHUNK 187
+## CHUNK 237
 **Metadata:**
 ```json
 {
@@ -6085,7 +7220,7 @@ g. The CU-K must exclusively perform functionalities related to the operation of
 
 ---
 
-## CHUNK 188
+## CHUNK 238
 **Metadata:**
 ```json
 {
@@ -6106,7 +7241,7 @@ g. The CU-K must exclusively perform functionalities related to the operation of
 
 ---
 
-## CHUNK 189
+## CHUNK 239
 **Metadata:**
 ```json
 {
@@ -6127,7 +7262,7 @@ g. The CU-K must exclusively perform functionalities related to the operation of
 
 ---
 
-## CHUNK 190
+## CHUNK 240
 **Metadata:**
 ```json
 {
@@ -6148,7 +7283,28 @@ g. The CU-K must exclusively perform functionalities related to the operation of
 
 ---
 
-## CHUNK 191
+## CHUNK 241
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 67,
+  "rule_id": "C5.3",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.3 Turbo Charger > C5.3",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.3 Turbo Charger"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.3 Turbo Charger > C5.3]
+**C5.3** ##  Turbo Charger
+
+---
+
+## CHUNK 242
 **Metadata:**
 ```json
 {
@@ -6174,7 +7330,7 @@ Only parts approved by the FIA Technical Department may be used. Further to the 
 
 ---
 
-## CHUNK 192
+## CHUNK 243
 **Metadata:**
 ```json
 {
@@ -6195,7 +7351,7 @@ Only parts approved by the FIA Technical Department may be used. Further to the 
 
 ---
 
-## CHUNK 193
+## CHUNK 244
 **Metadata:**
 ```json
 {
@@ -6216,7 +7372,7 @@ Only parts approved by the FIA Technical Department may be used. Further to the 
 
 ---
 
-## CHUNK 194
+## CHUNK 245
 **Metadata:**
 ```json
 {
@@ -6237,7 +7393,7 @@ Only parts approved by the FIA Technical Department may be used. Further to the 
 
 ---
 
-## CHUNK 195
+## CHUNK 246
 **Metadata:**
 ```json
 {
@@ -6268,7 +7424,7 @@ Only parts approved by the FIA Technical Department may be used. Further to the 
 
 ---
 
-## CHUNK 196
+## CHUNK 247
 **Metadata:**
 ```json
 {
@@ -6289,7 +7445,7 @@ Only parts approved by the FIA Technical Department may be used. Further to the 
 
 ---
 
-## CHUNK 197
+## CHUNK 248
 **Metadata:**
 ```json
 {
@@ -6310,7 +7466,28 @@ Only parts approved by the FIA Technical Department may be used. Further to the 
 
 ---
 
-## CHUNK 198
+## CHUNK 249
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 68,
+  "rule_id": "C5.4",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.4 Power unit geometrical constraints and dimensions > C5.4",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.4 Power unit geometrical constraints and dimensions"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.4 Power unit geometrical constraints and dimensions > C5.4]
+**C5.4** ##  Power unit geometrical constraints and dimensions
+
+---
+
+## CHUNK 250
 **Metadata:**
 ```json
 {
@@ -6331,7 +7508,7 @@ Only parts approved by the FIA Technical Department may be used. Further to the 
 
 ---
 
-## CHUNK 199
+## CHUNK 251
 **Metadata:**
 ```json
 {
@@ -6352,7 +7529,7 @@ Only parts approved by the FIA Technical Department may be used. Further to the 
 
 ---
 
-## CHUNK 200
+## CHUNK 252
 **Metadata:**
 ```json
 {
@@ -6382,7 +7559,7 @@ integrated arrangement of components that is designed or functions to increase t
 
 ---
 
-## CHUNK 201
+## CHUNK 253
 **Metadata:**
 ```json
 {
@@ -6403,7 +7580,7 @@ integrated arrangement of components that is designed or functions to increase t
 
 ---
 
-## CHUNK 202
+## CHUNK 254
 **Metadata:**
 ```json
 {
@@ -6424,7 +7601,7 @@ integrated arrangement of components that is designed or functions to increase t
 
 ---
 
-## CHUNK 203
+## CHUNK 255
 **Metadata:**
 ```json
 {
@@ -6447,7 +7624,7 @@ maximum radial thickness must be no less than 2500mm<sup>2</sup>. This will be v
 
 ---
 
-## CHUNK 204
+## CHUNK 256
 **Metadata:**
 ```json
 {
@@ -6470,7 +7647,7 @@ The surface area of the crank pin journal bearing, calculated using all surfaces
 
 ---
 
-## CHUNK 205
+## CHUNK 257
 **Metadata:**
 ```json
 {
@@ -6494,7 +7671,7 @@ piston pin bore must lie between 119.5mm and 120.5mm.
 
 ---
 
-## CHUNK 206
+## CHUNK 258
 **Metadata:**
 ```json
 {
@@ -6515,7 +7692,7 @@ piston pin bore must lie between 119.5mm and 120.5mm.
 
 ---
 
-## CHUNK 207
+## CHUNK 259
 **Metadata:**
 ```json
 {
@@ -6536,7 +7713,7 @@ piston pin bore must lie between 119.5mm and 120.5mm.
 
 ---
 
-## CHUNK 208
+## CHUNK 260
 **Metadata:**
 ```json
 {
@@ -6557,7 +7734,7 @@ piston pin bore must lie between 119.5mm and 120.5mm.
 
 ---
 
-## CHUNK 209
+## CHUNK 261
 **Metadata:**
 ```json
 {
@@ -6578,7 +7755,7 @@ piston pin bore must lie between 119.5mm and 120.5mm.
 
 ---
 
-## CHUNK 210
+## CHUNK 262
 **Metadata:**
 ```json
 {
@@ -6599,7 +7776,7 @@ piston pin bore must lie between 119.5mm and 120.5mm.
 
 ---
 
-## CHUNK 211
+## CHUNK 263
 **Metadata:**
 ```json
 {
@@ -6634,7 +7811,7 @@ d. The injector axis must lie on the lateral plane, outside the longitudinal pla
 
 ---
 
-## CHUNK 212
+## CHUNK 264
 **Metadata:**
 ```json
 {
@@ -6669,7 +7846,7 @@ f. All elements within the ES Main Enclosure (defined in Article C5.19.7).
 
 ---
 
-## CHUNK 213
+## CHUNK 265
 **Metadata:**
 ```json
 {
@@ -6696,7 +7873,28 @@ Any part which provides additional load path, aside from the path through the st
 
 ---
 
-## CHUNK 214
+## CHUNK 266
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 71,
+  "rule_id": "C5.5",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.5 Mass and centre of gravity > C5.5",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.5 Mass and centre of gravity"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.5 Mass and centre of gravity > C5.5]
+**C5.5** #  Mass and centre of gravity
+
+---
+
+## CHUNK 267
 **Metadata:**
 ```json
 {
@@ -6723,7 +7921,7 @@ c. If part of the speed ratio of the MGU-K Mechanical Transmission is located in
 
 ---
 
-## CHUNK 215
+## CHUNK 268
 **Metadata:**
 ```json
 {
@@ -6744,7 +7942,7 @@ c. If part of the speed ratio of the MGU-K Mechanical Transmission is located in
 
 ---
 
-## CHUNK 216
+## CHUNK 269
 **Metadata:**
 ```json
 {
@@ -6765,7 +7963,7 @@ c. If part of the speed ratio of the MGU-K Mechanical Transmission is located in
 
 ---
 
-## CHUNK 217
+## CHUNK 270
 **Metadata:**
 ```json
 {
@@ -6786,7 +7984,7 @@ c. If part of the speed ratio of the MGU-K Mechanical Transmission is located in
 
 ---
 
-## CHUNK 218
+## CHUNK 271
 **Metadata:**
 ```json
 {
@@ -6807,7 +8005,7 @@ c. If part of the speed ratio of the MGU-K Mechanical Transmission is located in
 
 ---
 
-## CHUNK 219
+## CHUNK 272
 **Metadata:**
 ```json
 {
@@ -6828,7 +8026,7 @@ c. If part of the speed ratio of the MGU-K Mechanical Transmission is located in
 
 ---
 
-## CHUNK 220
+## CHUNK 273
 **Metadata:**
 ```json
 {
@@ -6849,7 +8047,7 @@ c. If part of the speed ratio of the MGU-K Mechanical Transmission is located in
 
 ---
 
-## CHUNK 221
+## CHUNK 274
 **Metadata:**
 ```json
 {
@@ -6878,7 +8076,28 @@ d. Have a density greater than 7500Kg/m3.
 
 ---
 
-## CHUNK 222
+## CHUNK 275
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 72,
+  "rule_id": "C5.6",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.6 Engine intake air > C5.6",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.6 Engine intake air"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.6 Engine intake air > C5.6]
+**C5.6** #  Engine intake air
+
+---
+
+## CHUNK 276
 **Metadata:**
 ```json
 {
@@ -6901,7 +8120,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 223
+## CHUNK 277
 **Metadata:**
 ```json
 {
@@ -6922,7 +8141,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 224
+## CHUNK 278
 **Metadata:**
 ```json
 {
@@ -6943,7 +8162,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 225
+## CHUNK 279
 **Metadata:**
 ```json
 {
@@ -6964,7 +8183,28 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 226
+## CHUNK 280
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 72,
+  "rule_id": "C5.7",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.7 Variable geometry systems > C5.7",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.7 Variable geometry systems"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.7 Variable geometry systems > C5.7]
+**C5.7** #  Variable geometry systems
+
+---
+
+## CHUNK 281
 **Metadata:**
 ```json
 {
@@ -6985,7 +8225,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 227
+## CHUNK 282
 **Metadata:**
 ```json
 {
@@ -7006,7 +8246,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 228
+## CHUNK 283
 **Metadata:**
 ```json
 {
@@ -7027,7 +8267,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 229
+## CHUNK 284
 **Metadata:**
 ```json
 {
@@ -7048,7 +8288,28 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 230
+## CHUNK 285
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 72,
+  "rule_id": "C5.8",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.8 Exhausts > C5.8",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.8 Exhausts"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.8 Exhausts > C5.8]
+**C5.8** #  Exhausts
+
+---
+
+## CHUNK 286
 **Metadata:**
 ```json
 {
@@ -7069,7 +8330,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 231
+## CHUNK 287
 **Metadata:**
 ```json
 {
@@ -7090,7 +8351,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 232
+## CHUNK 288
 **Metadata:**
 ```json
 {
@@ -7111,7 +8372,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 233
+## CHUNK 289
 **Metadata:**
 ```json
 {
@@ -7132,7 +8393,28 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 234
+## CHUNK 290
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 73,
+  "rule_id": "C5.9",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.9 Fuel systems > C5.9",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.9 Fuel systems"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.9 Fuel systems > C5.9]
+**C5.9** #  Fuel systems
+
+---
+
+## CHUNK 291
 **Metadata:**
 ```json
 {
@@ -7153,7 +8435,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 235
+## CHUNK 292
 **Metadata:**
 ```json
 {
@@ -7174,7 +8456,7 @@ Furthermore, any such inlets must be visible in their entirety when viewed from 
 
 ---
 
-## CHUNK 236
+## CHUNK 293
 **Metadata:**
 ```json
 {
@@ -7199,7 +8481,7 @@ Furthermore, all fuel delivered to the Power Unit must pass through this homolog
 
 ---
 
-## CHUNK 237
+## CHUNK 294
 **Metadata:**
 ```json
 {
@@ -7220,7 +8502,7 @@ Furthermore, all fuel delivered to the Power Unit must pass through this homolog
 
 ---
 
-## CHUNK 238
+## CHUNK 295
 **Metadata:**
 ```json
 {
@@ -7241,7 +8523,7 @@ Furthermore, all fuel delivered to the Power Unit must pass through this homolog
 
 ---
 
-## CHUNK 239
+## CHUNK 296
 **Metadata:**
 ```json
 {
@@ -7262,7 +8544,7 @@ Furthermore, all fuel delivered to the Power Unit must pass through this homolog
 
 ---
 
-## CHUNK 240
+## CHUNK 297
 **Metadata:**
 ```json
 {
@@ -7283,7 +8565,28 @@ Furthermore, all fuel delivered to the Power Unit must pass through this homolog
 
 ---
 
-## CHUNK 241
+## CHUNK 298
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 73,
+  "rule_id": "C5.10",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.10 Ignition systems > C5.10",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.10 Ignition systems"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.10 Ignition systems > C5.10]
+**C5.10** #  Ignition systems
+
+---
+
+## CHUNK 299
 **Metadata:**
 ```json
 {
@@ -7304,7 +8607,7 @@ Furthermore, all fuel delivered to the Power Unit must pass through this homolog
 
 ---
 
-## CHUNK 242
+## CHUNK 300
 **Metadata:**
 ```json
 {
@@ -7327,7 +8630,7 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 243
+## CHUNK 301
 **Metadata:**
 ```json
 {
@@ -7348,7 +8651,28 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 244
+## CHUNK 302
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 74,
+  "rule_id": "C5.11",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.11 Ancillaries > C5.11",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.11 Ancillaries"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.11 Ancillaries > C5.11]
+**C5.11** ##  Ancillaries
+
+---
+
+## CHUNK 303
 **Metadata:**
 ```json
 {
@@ -7369,7 +8693,7 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 245
+## CHUNK 304
 **Metadata:**
 ```json
 {
@@ -7390,7 +8714,7 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 246
+## CHUNK 305
 **Metadata:**
 ```json
 {
@@ -7411,7 +8735,7 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 247
+## CHUNK 306
 **Metadata:**
 ```json
 {
@@ -7432,7 +8756,28 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 248
+## CHUNK 307
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 74,
+  "rule_id": "C5.12",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.12 Power unit torque or power demand > C5.12",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.12 Power unit torque or power demand"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.12 Power unit torque or power demand > C5.12]
+**C5.12** ##  Power unit torque or power demand
+
+---
+
+## CHUNK 308
 **Metadata:**
 ```json
 {
@@ -7453,7 +8798,7 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 249
+## CHUNK 309
 **Metadata:**
 ```json
 {
@@ -7474,7 +8819,7 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 250
+## CHUNK 310
 **Metadata:**
 ```json
 {
@@ -7495,7 +8840,7 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 251
+## CHUNK 311
 **Metadata:**
 ```json
 {
@@ -7516,7 +8861,7 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 252
+## CHUNK 312
 **Metadata:**
 ```json
 {
@@ -7537,7 +8882,7 @@ Spark plugs are not subject to the materials restrictions described in Articles 
 
 ---
 
-## CHUNK 253
+## CHUNK 313
 **Metadata:**
 ```json
 {
@@ -7564,7 +8909,7 @@ Furthermore, the total power reduction is limited to a maximum of 600kW and the 
 
 ---
 
-## CHUNK 254
+## CHUNK 314
 **Metadata:**
 ```json
 {
@@ -7592,7 +8937,7 @@ Furthermore, the total power reduction is limited to a maximum of 600kW and the 
 
 ---
 
-## CHUNK 255
+## CHUNK 315
 **Metadata:**
 ```json
 {
@@ -7613,7 +8958,28 @@ Furthermore, the total power reduction is limited to a maximum of 600kW and the 
 
 ---
 
-## CHUNK 256
+## CHUNK 316
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 75,
+  "rule_id": "C5.13",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.13 Power unit control > C5.13",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.13 Power unit control"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.13 Power unit control > C5.13]
+**C5.13** #  Power unit control
+
+---
+
+## CHUNK 317
 **Metadata:**
 ```json
 {
@@ -7634,7 +9000,7 @@ Furthermore, the total power reduction is limited to a maximum of 600kW and the 
 
 ---
 
-## CHUNK 257
+## CHUNK 318
 **Metadata:**
 ```json
 {
@@ -7655,7 +9021,7 @@ Furthermore, the total power reduction is limited to a maximum of 600kW and the 
 
 ---
 
-## CHUNK 258
+## CHUNK 319
 **Metadata:**
 ```json
 {
@@ -7676,7 +9042,7 @@ Furthermore, the total power reduction is limited to a maximum of 600kW and the 
 
 ---
 
-## CHUNK 259
+## CHUNK 320
 **Metadata:**
 ```json
 {
@@ -7697,7 +9063,7 @@ Furthermore, the total power reduction is limited to a maximum of 600kW and the 
 
 ---
 
-## CHUNK 260
+## CHUNK 321
 **Metadata:**
 ```json
 {
@@ -7720,7 +9086,7 @@ A minimum of nine seconds hold time should be configured for the power unit prot
 
 ---
 
-## CHUNK 261
+## CHUNK 322
 **Metadata:**
 ```json
 {
@@ -7741,7 +9107,7 @@ A minimum of nine seconds hold time should be configured for the power unit prot
 
 ---
 
-## CHUNK 262
+## CHUNK 323
 **Metadata:**
 ```json
 {
@@ -7768,7 +9134,7 @@ The installation and the connectivity of each of these torque sensors to the FIA
 
 ---
 
-## CHUNK 263
+## CHUNK 324
 **Metadata:**
 ```json
 {
@@ -7789,7 +9155,7 @@ The installation and the connectivity of each of these torque sensors to the FIA
 
 ---
 
-## CHUNK 264
+## CHUNK 325
 **Metadata:**
 ```json
 {
@@ -7810,7 +9176,7 @@ The installation and the connectivity of each of these torque sensors to the FIA
 
 ---
 
-## CHUNK 265
+## CHUNK 326
 **Metadata:**
 ```json
 {
@@ -7831,7 +9197,7 @@ The installation and the connectivity of each of these torque sensors to the FIA
 
 ---
 
-## CHUNK 266
+## CHUNK 327
 **Metadata:**
 ```json
 {
@@ -7852,7 +9218,7 @@ The installation and the connectivity of each of these torque sensors to the FIA
 
 ---
 
-## CHUNK 267
+## CHUNK 328
 **Metadata:**
 ```json
 {
@@ -7880,7 +9246,7 @@ Exceptionally, each Power Unit may be fitted with up to six internal cylinder pr
 
 ---
 
-## CHUNK 268
+## CHUNK 329
 **Metadata:**
 ```json
 {
@@ -7899,6 +9265,27 @@ Exceptionally, each Power Unit may be fitted with up to six internal cylinder pr
 [Section C > Article C5: POWER UNIT > C5.13 Power unit control > C5.13.13]
 **C5.13.13** The ICE coolant pressure must be measured by a sensor positioned next to the pressure relief valve defined in Article C5.22.1. This sensor is classified as a regulatory sensor (reference item 23 Appendix C4), and its installation and connectivity to the FIA SECU must be approved by the FIA.
 
+---
+
+## CHUNK 330
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 76,
+  "rule_id": "C5.14",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.14 Engine high rev limits > C5.14",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.14 Engine high rev limits"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.14 Engine high rev limits > C5.14]
+**C5.14** Engine high rev limits
+
 Engine high rev limits may vary for differing conditions provided all are contained within a band of 750rpm. However, a lower rev limit may be used when:
 
 a. The Gearbox is in neutral.
@@ -7915,7 +9302,49 @@ f. The safety car is deployed or during the formation lap.
 
 Except for the above conditions, Power Unit actuators may not be used to artificially control the Power Unit speed or alter the Power Unit response in a rev range more than 750rpm below the final rev limit.
 
+---
+
+## CHUNK 331
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 77,
+  "rule_id": "C5.15",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.15 Starting the engine > C5.15",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.15 Starting the engine"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.15 Starting the engine > C5.15]
+**C5.15** #  Starting the engine
+
 The car must be fired up with its on-board system (MGU-K) at any time.
+
+---
+
+## CHUNK 332
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 77,
+  "rule_id": "C5.16",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.16 Stall prevention systems > C5.16",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.16 Stall prevention systems"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.16 Stall prevention systems > C5.16]
+**C5.16** #  Stall prevention systems
 
 If a car is equipped with a stall prevention system, and in order to avoid the possibility of a car involved in an accident being left with the engine running, all such systems must be configured to stop the engine no more than ten seconds after activation.
 
@@ -7925,7 +9354,28 @@ Each time such a system is activated the Clutch must be fully disengaged and mus
 
 ---
 
-## CHUNK 269
+## CHUNK 333
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 77,
+  "rule_id": "C5.17",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.17 Energy Recovery System (ERS) > C5.17",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.17 Energy Recovery System (ERS)"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.17 Energy Recovery System (ERS) > C5.17]
+**C5.17** #  Energy Recovery System (ERS)
+
+---
+
+## CHUNK 334
 **Metadata:**
 ```json
 {
@@ -7956,7 +9406,7 @@ The shutdown process must take no longer than two seconds from activation and mu
 
 ---
 
-## CHUNK 270
+## CHUNK 335
 **Metadata:**
 ```json
 {
@@ -7977,7 +9427,7 @@ The shutdown process must take no longer than two seconds from activation and mu
 
 ---
 
-## CHUNK 271
+## CHUNK 336
 **Metadata:**
 ```json
 {
@@ -8003,7 +9453,7 @@ The shutdown process must take no longer than two seconds from activation and mu
 
 ---
 
-## CHUNK 272
+## CHUNK 337
 **Metadata:**
 ```json
 {
@@ -8024,7 +9474,7 @@ The shutdown process must take no longer than two seconds from activation and mu
 
 ---
 
-## CHUNK 273
+## CHUNK 338
 **Metadata:**
 ```json
 {
@@ -8045,7 +9495,7 @@ The shutdown process must take no longer than two seconds from activation and mu
 
 ---
 
-## CHUNK 274
+## CHUNK 339
 **Metadata:**
 ```json
 {
@@ -8066,7 +9516,7 @@ The shutdown process must take no longer than two seconds from activation and mu
 
 ---
 
-## CHUNK 275
+## CHUNK 340
 **Metadata:**
 ```json
 {
@@ -8093,7 +9543,7 @@ The shutdown process must take no longer than two seconds from activation and mu
 
 ---
 
-## CHUNK 276
+## CHUNK 341
 **Metadata:**
 ```json
 {
@@ -8122,7 +9572,7 @@ With the exception of wiring or any mechanical supports for these components, no
 
 ---
 
-## CHUNK 277
+## CHUNK 342
 **Metadata:**
 ```json
 {
@@ -8143,7 +9593,7 @@ With the exception of wiring or any mechanical supports for these components, no
 
 ---
 
-## CHUNK 278
+## CHUNK 343
 **Metadata:**
 ```json
 {
@@ -8164,7 +9614,28 @@ With the exception of wiring or any mechanical supports for these components, no
 
 ---
 
-## CHUNK 279
+## CHUNK 344
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 79,
+  "rule_id": "C5.18",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.18 MGU-K > C5.18",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.18 MGU-K"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.18 MGU-K > C5.18]
+**C5.18** #  MGU-K
+
+---
+
+## CHUNK 345
 **Metadata:**
 ```json
 {
@@ -8185,7 +9656,7 @@ With the exception of wiring or any mechanical supports for these components, no
 
 ---
 
-## CHUNK 280
+## CHUNK 346
 **Metadata:**
 ```json
 {
@@ -8206,7 +9677,7 @@ With the exception of wiring or any mechanical supports for these components, no
 
 ---
 
-## CHUNK 281
+## CHUNK 347
 **Metadata:**
 ```json
 {
@@ -8227,7 +9698,7 @@ With the exception of wiring or any mechanical supports for these components, no
 
 ---
 
-## CHUNK 282
+## CHUNK 348
 **Metadata:**
 ```json
 {
@@ -8248,7 +9719,7 @@ With the exception of wiring or any mechanical supports for these components, no
 
 ---
 
-## CHUNK 283
+## CHUNK 349
 **Metadata:**
 ```json
 {
@@ -8269,7 +9740,7 @@ With the exception of wiring or any mechanical supports for these components, no
 
 ---
 
-## CHUNK 284
+## CHUNK 350
 **Metadata:**
 ```json
 {
@@ -8290,7 +9761,7 @@ With the exception of wiring or any mechanical supports for these components, no
 
 ---
 
-## CHUNK 285
+## CHUNK 351
 **Metadata:**
 ```json
 {
@@ -8319,7 +9790,7 @@ The total mass of item 29 (MGU-K torque sensor) and item 31 (K torque sensor sha
 
 ---
 
-## CHUNK 286
+## CHUNK 352
 **Metadata:**
 ```json
 {
@@ -8340,7 +9811,7 @@ The total mass of item 29 (MGU-K torque sensor) and item 31 (K torque sensor sha
 
 ---
 
-## CHUNK 287
+## CHUNK 353
 **Metadata:**
 ```json
 {
@@ -8361,7 +9832,28 @@ The total mass of item 29 (MGU-K torque sensor) and item 31 (K torque sensor sha
 
 ---
 
-## CHUNK 288
+## CHUNK 354
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 80,
+  "rule_id": "C5.19",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.19 Energy Store > C5.19",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.19 Energy Store"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.19 Energy Store > C5.19]
+**C5.19** #  Energy Store
+
+---
+
+## CHUNK 355
 **Metadata:**
 ```json
 {
@@ -8382,7 +9874,7 @@ The total mass of item 29 (MGU-K torque sensor) and item 31 (K torque sensor sha
 
 ---
 
-## CHUNK 289
+## CHUNK 356
 **Metadata:**
 ```json
 {
@@ -8403,7 +9895,7 @@ The total mass of item 29 (MGU-K torque sensor) and item 31 (K torque sensor sha
 
 ---
 
-## CHUNK 290
+## CHUNK 357
 **Metadata:**
 ```json
 {
@@ -8424,7 +9916,7 @@ The total mass of item 29 (MGU-K torque sensor) and item 31 (K torque sensor sha
 
 ---
 
-## CHUNK 291
+## CHUNK 358
 **Metadata:**
 ```json
 {
@@ -8445,7 +9937,7 @@ The total mass of item 29 (MGU-K torque sensor) and item 31 (K torque sensor sha
 
 ---
 
-## CHUNK 292
+## CHUNK 359
 **Metadata:**
 ```json
 {
@@ -8480,7 +9972,7 @@ Once commanded to open, the DC-DC Unit relays must be able to keep the DC-DC Uni
 
 ---
 
-## CHUNK 293
+## CHUNK 360
 **Metadata:**
 ```json
 {
@@ -8501,7 +9993,28 @@ Once commanded to open, the DC-DC Unit relays must be able to keep the DC-DC Uni
 
 ---
 
-## CHUNK 294
+## CHUNK 361
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 80,
+  "rule_id": "C5.20",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.20 ES design and installation > C5.20",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.20 ES design and installation"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.20 ES design and installation > C5.20]
+**C5.20** #  ES design and installation
+
+---
+
+## CHUNK 362
 **Metadata:**
 ```json
 {
@@ -8522,7 +10035,7 @@ Once commanded to open, the DC-DC Unit relays must be able to keep the DC-DC Uni
 
 ---
 
-## CHUNK 295
+## CHUNK 363
 **Metadata:**
 ```json
 {
@@ -8547,7 +10060,7 @@ b. When an off-board charger is connected to charge or discharge the ES.
 
 ---
 
-## CHUNK 296
+## CHUNK 364
 **Metadata:**
 ```json
 {
@@ -8574,7 +10087,7 @@ c. Must only be capable of consuming energy and cannot transfer energy from any 
 
 ---
 
-## CHUNK 297
+## CHUNK 365
 **Metadata:**
 ```json
 {
@@ -8597,7 +10110,7 @@ The fuse must be tested and demonstrated to work in realistic load cases.
 
 ---
 
-## CHUNK 298
+## CHUNK 366
 **Metadata:**
 ```json
 {
@@ -8634,7 +10147,7 @@ The contactors must be tested and demonstrated to work in realistic load cases, 
 
 ---
 
-## CHUNK 299
+## CHUNK 367
 **Metadata:**
 ```json
 {
@@ -8655,7 +10168,7 @@ The contactors must be tested and demonstrated to work in realistic load cases, 
 
 ---
 
-## CHUNK 300
+## CHUNK 368
 **Metadata:**
 ```json
 {
@@ -8676,7 +10189,7 @@ The contactors must be tested and demonstrated to work in realistic load cases, 
 
 ---
 
-## CHUNK 301
+## CHUNK 369
 **Metadata:**
 ```json
 {
@@ -8697,7 +10210,7 @@ The contactors must be tested and demonstrated to work in realistic load cases, 
 
 ---
 
-## CHUNK 302
+## CHUNK 370
 **Metadata:**
 ```json
 {
@@ -8718,7 +10231,7 @@ The contactors must be tested and demonstrated to work in realistic load cases, 
 
 ---
 
-## CHUNK 303
+## CHUNK 371
 **Metadata:**
 ```json
 {
@@ -8739,7 +10252,7 @@ The contactors must be tested and demonstrated to work in realistic load cases, 
 
 ---
 
-## CHUNK 304
+## CHUNK 372
 **Metadata:**
 ```json
 {
@@ -8760,7 +10273,28 @@ The contactors must be tested and demonstrated to work in realistic load cases, 
 
 ---
 
-## CHUNK 305
+## CHUNK 373
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 82,
+  "rule_id": "C5.21",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.21 ERS General electrical safety > C5.21",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.21 ERS General electrical safety"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.21 ERS General electrical safety > C5.21]
+**C5.21** # ** ERS General electrical safety
+
+---
+
+## CHUNK 374
 **Metadata:**
 ```json
 {
@@ -8787,7 +10321,7 @@ The contactors must be tested and demonstrated to work in realistic load cases, 
 
 ---
 
-## CHUNK 306
+## CHUNK 375
 **Metadata:**
 ```json
 {
@@ -8828,7 +10362,7 @@ i. If, under the provisions of Article C5.20.1, the MGU-K is fixed to the ICE, t
 
 ---
 
-## CHUNK 307
+## CHUNK 376
 **Metadata:**
 ```json
 {
@@ -8849,7 +10383,7 @@ i. If, under the provisions of Article C5.20.1, the MGU-K is fixed to the ICE, t
 
 ---
 
-## CHUNK 308
+## CHUNK 377
 **Metadata:**
 ```json
 {
@@ -8874,7 +10408,7 @@ b. A system to allow detection of insulation faults or damaged High Voltage line
 
 ---
 
-## CHUNK 309
+## CHUNK 378
 **Metadata:**
 ```json
 {
@@ -8901,7 +10435,7 @@ In addition, the resistance measured between any two Exposed Conductive Parts of
 
 ---
 
-## CHUNK 310
+## CHUNK 379
 **Metadata:**
 ```json
 {
@@ -8922,7 +10456,7 @@ In addition, the resistance measured between any two Exposed Conductive Parts of
 
 ---
 
-## CHUNK 311
+## CHUNK 380
 **Metadata:**
 ```json
 {
@@ -8943,7 +10477,28 @@ In addition, the resistance measured between any two Exposed Conductive Parts of
 
 ---
 
-## CHUNK 312
+## CHUNK 381
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 84,
+  "rule_id": "C5.22",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.22 Oil and coolant systems and charge air cooling > C5.22",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.22 Oil and coolant systems and charge air cooling"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.22 Oil and coolant systems and charge air cooling > C5.22]
+**C5.22** ##  Oil and coolant systems and charge air cooling
+
+---
+
+## CHUNK 382
 **Metadata:**
 ```json
 {
@@ -8965,7 +10520,7 @@ Any header tank used on the car must be fitted with an FIA approved pressure rel
 
 ---
 
-## CHUNK 313
+## CHUNK 383
 **Metadata:**
 ```json
 {
@@ -8987,7 +10542,7 @@ The cooling systems of the Power Unit, including that of the air destined for co
 
 ---
 
-## CHUNK 314
+## CHUNK 384
 **Metadata:**
 ```json
 {
@@ -9009,7 +10564,7 @@ All cars must be fitted with a single Oil Tank. Oil, as defined in article C16.1
 
 ---
 
-## CHUNK 315
+## CHUNK 385
 **Metadata:**
 ```json
 {
@@ -9031,7 +10586,7 @@ The Oil Tank must be fitted with an oil level sensor. The measurement of the oil
 
 ---
 
-## CHUNK 316
+## CHUNK 386
 **Metadata:**
 ```json
 {
@@ -9053,7 +10608,7 @@ The use of active control valves between any part of the PU and the engine intak
 
 ---
 
-## CHUNK 317
+## CHUNK 387
 **Metadata:**
 ```json
 {
@@ -9072,13 +10627,56 @@ The use of active control valves between any part of the PU and the engine intak
 [Section C > Article C5: POWER UNIT > C5.22 Oil and coolant systems and charge air cooling > C5.22.6]
 **C5.22.6** The use of an Auxiliary Oil Tank, or other forms of oil storage other than the single oil tank defined in C5.22.3 is not permitted. Accumulation of oil in other volumes (such as catch tanks) may be deemed acceptable only if incidental.
 
+---
+
+## CHUNK 388
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 84,
+  "rule_id": "C5.23",
+  "breadcrumb": "Section C > Article C5: POWER UNIT > C5.23 Single ICE Mode > C5.23",
+  "section": "Section C",
+  "article": "Article C5: POWER UNIT",
+  "sub_article": "C5.23 Single ICE Mode"
+}
+```
+
+**Content:**
+[Section C > Article C5: POWER UNIT > C5.23 Single ICE Mode > C5.23]
+**C5.23** Single ICE Mode**
+The Power Unit must be operated in a single ICE mode during each competitive lap in all sessions of a Competition, with the exception of free practice sessions. All details concerning policing of this article may be found in the document <mark>FIA-F1-DOC-054</mark>.
+
 *Advisory Committee: TAC*
 
 *Governance: F1 Commission / WMSC*
 
 ---
 
-## CHUNK 318
+## CHUNK 389
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 85,
+  "rule_id": "C6.1",
+  "breadcrumb": "Section C > Article C6: FUEL SYSTEM > C6.1 Fuel tanks > C6.1",
+  "section": "Section C",
+  "article": "Article C6: FUEL SYSTEM",
+  "sub_article": "C6.1 Fuel tanks"
+}
+```
+
+**Content:**
+[Section C > Article C6: FUEL SYSTEM > C6.1 Fuel tanks > C6.1]
+**C6.1** ##  Fuel tanks
+
+---
+
+## CHUNK 390
 **Metadata:**
 ```json
 {
@@ -9099,7 +10697,7 @@ The use of active control valves between any part of the PU and the engine intak
 
 ---
 
-## CHUNK 319
+## CHUNK 391
 **Metadata:**
 ```json
 {
@@ -9126,7 +10724,7 @@ c. Inboard of Y=450.
 
 ---
 
-## CHUNK 320
+## CHUNK 392
 **Metadata:**
 ```json
 {
@@ -9147,7 +10745,7 @@ c. Inboard of Y=450.
 
 ---
 
-## CHUNK 321
+## CHUNK 393
 **Metadata:**
 ```json
 {
@@ -9168,7 +10766,7 @@ c. Inboard of Y=450.
 
 ---
 
-## CHUNK 322
+## CHUNK 394
 **Metadata:**
 ```json
 {
@@ -9189,7 +10787,28 @@ c. Inboard of Y=450.
 
 ---
 
-## CHUNK 323
+## CHUNK 395
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 85,
+  "rule_id": "C6.2",
+  "breadcrumb": "Section C > Article C6: FUEL SYSTEM > C6.2 Fittings and piping > C6.2",
+  "section": "Section C",
+  "article": "Article C6: FUEL SYSTEM",
+  "sub_article": "C6.2 Fittings and piping"
+}
+```
+
+**Content:**
+[Section C > Article C6: FUEL SYSTEM > C6.2 Fittings and piping > C6.2]
+**C6.2** ##  Fittings and piping
+
+---
+
+## CHUNK 396
 **Metadata:**
 ```json
 {
@@ -9222,7 +10841,7 @@ iv. Be secured with multiple fasteners in such a way that the absence of any sin
 
 ---
 
-## CHUNK 324
+## CHUNK 397
 **Metadata:**
 ```json
 {
@@ -9243,7 +10862,7 @@ iv. Be secured with multiple fasteners in such a way that the absence of any sin
 
 ---
 
-## CHUNK 325
+## CHUNK 398
 **Metadata:**
 ```json
 {
@@ -9264,7 +10883,7 @@ iv. Be secured with multiple fasteners in such a way that the absence of any sin
 
 ---
 
-## CHUNK 326
+## CHUNK 399
 **Metadata:**
 ```json
 {
@@ -9285,7 +10904,7 @@ iv. Be secured with multiple fasteners in such a way that the absence of any sin
 
 ---
 
-## CHUNK 327
+## CHUNK 400
 **Metadata:**
 ```json
 {
@@ -9306,7 +10925,7 @@ iv. Be secured with multiple fasteners in such a way that the absence of any sin
 
 ---
 
-## CHUNK 328
+## CHUNK 401
 **Metadata:**
 ```json
 {
@@ -9325,13 +10944,55 @@ iv. Be secured with multiple fasteners in such a way that the absence of any sin
 [Section C > Article C6: FUEL SYSTEM > C6.2 Fittings and piping > C6.2.6]
 **C6.2.6** All components containing fuel at a pressure greater than 10barG must be located outside the fuel tank.
 
+---
+
+## CHUNK 402
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 86,
+  "rule_id": "C6.3",
+  "breadcrumb": "Section C > Article C6: FUEL SYSTEM > C6.3 Fuel tank fillers > C6.3",
+  "section": "Section C",
+  "article": "Article C6: FUEL SYSTEM",
+  "sub_article": "C6.3 Fuel tank fillers"
+}
+```
+
+**Content:**
+[Section C > Article C6: FUEL SYSTEM > C6.3 Fuel tank fillers > C6.3]
+**C6.3** #  Fuel tank fillers
+
 Fuel tank fillers must not protrude beyond the bodywork. Any breather pipe connecting the fuel tank to the atmosphere must be designed to avoid liquid leakage when the car is running, and its outlet must not be less than 250mm from the Cockpit opening.
 
 All fuel tank fillers and breathers must be designed to ensure an efficient locking action which reduces the risk of an accidental opening following a crash impact or incomplete locking after refuelling.
 
 ---
 
-## CHUNK 329
+## CHUNK 403
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 86,
+  "rule_id": "C6.4",
+  "breadcrumb": "Section C > Article C6: FUEL SYSTEM > C6.4 Refuelling > C6.4",
+  "section": "Section C",
+  "article": "Article C6: FUEL SYSTEM",
+  "sub_article": "C6.4 Refuelling"
+}
+```
+
+**Content:**
+[Section C > Article C6: FUEL SYSTEM > C6.4 Refuelling > C6.4]
+**C6.4** #  Refuelling
+
+---
+
+## CHUNK 404
 **Metadata:**
 ```json
 {
@@ -9352,7 +11013,7 @@ All fuel tank fillers and breathers must be designed to ensure an efficient lock
 
 ---
 
-## CHUNK 330
+## CHUNK 405
 **Metadata:**
 ```json
 {
@@ -9381,7 +11042,7 @@ b. The temperature of the fuel (TFFMFuel) will be that recorded in the car by th
 
 ---
 
-## CHUNK 331
+## CHUNK 406
 **Metadata:**
 ```json
 {
@@ -9402,7 +11063,7 @@ b. The temperature of the fuel (TFFMFuel) will be that recorded in the car by th
 
 ---
 
-## CHUNK 332
+## CHUNK 407
 **Metadata:**
 ```json
 {
@@ -9423,7 +11084,7 @@ b. The temperature of the fuel (TFFMFuel) will be that recorded in the car by th
 
 ---
 
-## CHUNK 333
+## CHUNK 408
 **Metadata:**
 ```json
 {
@@ -9444,7 +11105,28 @@ b. The temperature of the fuel (TFFMFuel) will be that recorded in the car by th
 
 ---
 
-## CHUNK 334
+## CHUNK 409
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 87,
+  "rule_id": "C6.5",
+  "breadcrumb": "Section C > Article C6: FUEL SYSTEM > C6.5 Fuel draining and sampling > C6.5",
+  "section": "Section C",
+  "article": "Article C6: FUEL SYSTEM",
+  "sub_article": "C6.5 Fuel draining and sampling"
+}
+```
+
+**Content:**
+[Section C > Article C6: FUEL SYSTEM > C6.5 Fuel draining and sampling > C6.5]
+**C6.5** Fuel draining and sampling
+
+---
+
+## CHUNK 410
 **Metadata:**
 ```json
 {
@@ -9465,7 +11147,7 @@ b. The temperature of the fuel (TFFMFuel) will be that recorded in the car by th
 
 ---
 
-## CHUNK 335
+## CHUNK 411
 **Metadata:**
 ```json
 {
@@ -9488,7 +11170,7 @@ After a practice session, if a car has not been driven back to the pits under it
 
 ---
 
-## CHUNK 336
+## CHUNK 412
 **Metadata:**
 ```json
 {
@@ -9509,7 +11191,7 @@ After a practice session, if a car has not been driven back to the pits under it
 
 ---
 
-## CHUNK 337
+## CHUNK 413
 **Metadata:**
 ```json
 {
@@ -9530,7 +11212,28 @@ After a practice session, if a car has not been driven back to the pits under it
 
 ---
 
-## CHUNK 338
+## CHUNK 414
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 87,
+  "rule_id": "C6.6",
+  "breadcrumb": "Section C > Article C6: FUEL SYSTEM > C6.6 Fuel System Hydraulic Layout > C6.6",
+  "section": "Section C",
+  "article": "Article C6: FUEL SYSTEM",
+  "sub_article": "C6.6 Fuel System Hydraulic Layout"
+}
+```
+
+**Content:**
+[Section C > Article C6: FUEL SYSTEM > C6.6 Fuel System Hydraulic Layout > C6.6]
+**C6.6** Fuel System Hydraulic Layout
+
+---
+
+## CHUNK 415
 **Metadata:**
 ```json
 {
@@ -9551,7 +11254,7 @@ After a practice session, if a car has not been driven back to the pits under it
 
 ---
 
-## CHUNK 339
+## CHUNK 416
 **Metadata:**
 ```json
 {
@@ -9572,7 +11275,7 @@ After a practice session, if a car has not been driven back to the pits under it
 
 ---
 
-## CHUNK 340
+## CHUNK 417
 **Metadata:**
 ```json
 {
@@ -9593,7 +11296,7 @@ After a practice session, if a car has not been driven back to the pits under it
 
 ---
 
-## CHUNK 341
+## CHUNK 418
 **Metadata:**
 ```json
 {
@@ -9662,7 +11365,7 @@ graph TD
 
 ---
 
-## CHUNK 342
+## CHUNK 419
 **Metadata:**
 ```json
 {
@@ -9683,7 +11386,7 @@ graph TD
 
 ---
 
-## CHUNK 343
+## CHUNK 420
 **Metadata:**
 ```json
 {
@@ -9713,13 +11416,76 @@ satisfaction of the FIA that any fluid used for this purpose cannot be used to c
 *Advisory Committee: TAC*
 *Governance: F1 Commission / WMSC*
 
+---
+
+## CHUNK 421
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 90,
+  "rule_id": "C7.1",
+  "breadcrumb": "Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.1 Location of lubricating oil tanks > C7.1",
+  "section": "Section C",
+  "article": "Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING",
+  "sub_article": "C7.1 Location of lubricating oil tanks"
+}
+```
+
+**Content:**
+[Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.1 Location of lubricating oil tanks > C7.1]
+**C7.1** ##  Location of lubricating oil tanks
+
 All oil storage tanks must be situated between X<sub>F</sub>=0 and X<sub>DIF</sub>=150, and must be no further outboard than the lateral extremities of the Survival Cell.
+
+---
+
+## CHUNK 422
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 90,
+  "rule_id": "C7.2",
+  "breadcrumb": "Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.2 Location of lubricating oil system > C7.2",
+  "section": "Section C",
+  "article": "Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING",
+  "sub_article": "C7.2 Location of lubricating oil system"
+}
+```
+
+**Content:**
+[Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.2 Location of lubricating oil system > C7.2]
+**C7.2** ##  Location of lubricating oil system
 
 No other part of the car containing lubricating oil may be situated behind X<sub>DIF</sub> = 150 or outboard of Y=750.
 
 ---
 
-## CHUNK 344
+## CHUNK 423
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 90,
+  "rule_id": "C7.3",
+  "breadcrumb": "Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.3 Oil and coolant lines > C7.3",
+  "section": "Section C",
+  "article": "Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING",
+  "sub_article": "C7.3 Oil and coolant lines"
+}
+```
+
+**Content:**
+[Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.3 Oil and coolant lines > C7.3]
+**C7.3** ##  Oil and coolant lines
+
+---
+
+## CHUNK 424
 **Metadata:**
 ```json
 {
@@ -9740,7 +11506,7 @@ No other part of the car containing lubricating oil may be situated behind X<sub
 
 ---
 
-## CHUNK 345
+## CHUNK 425
 **Metadata:**
 ```json
 {
@@ -9761,7 +11527,7 @@ No other part of the car containing lubricating oil may be situated behind X<sub
 
 ---
 
-## CHUNK 346
+## CHUNK 426
 **Metadata:**
 ```json
 {
@@ -9782,7 +11548,28 @@ No other part of the car containing lubricating oil may be situated behind X<sub
 
 ---
 
-## CHUNK 347
+## CHUNK 427
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 90,
+  "rule_id": "C7.4",
+  "breadcrumb": "Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.4 Heat exchangers > C7.4",
+  "section": "Section C",
+  "article": "Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING",
+  "sub_article": "C7.4 Heat exchangers"
+}
+```
+
+**Content:**
+[Section C > Article C7: OIL AND COOLANT SYSTEMS AND CHARGE AIR COOLING > C7.4 Heat exchangers > C7.4]
+**C7.4** ##  Heat exchangers
+
+---
+
+## CHUNK 428
 **Metadata:**
 ```json
 {
@@ -9815,7 +11602,7 @@ e. Heat Exchanger Fins fitted inside the tubes must have a thickness of at least
 
 ---
 
-## CHUNK 348
+## CHUNK 429
 **Metadata:**
 ```json
 {
@@ -9841,7 +11628,28 @@ Secondary Heat Exchangers must be constructed from metallic materials with the e
 
 ---
 
-## CHUNK 349
+## CHUNK 430
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 91,
+  "rule_id": "C8.1",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.1 Software and electronics inspection > C8.1",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.1 Software and electronics inspection"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.1 Software and electronics inspection > C8.1]
+**C8.1** ##  Software and electronics inspection
+
+---
+
+## CHUNK 431
 **Metadata:**
 ```json
 {
@@ -9862,7 +11670,7 @@ Secondary Heat Exchangers must be constructed from metallic materials with the e
 
 ---
 
-## CHUNK 350
+## CHUNK 432
 **Metadata:**
 ```json
 {
@@ -9883,7 +11691,7 @@ Secondary Heat Exchangers must be constructed from metallic materials with the e
 
 ---
 
-## CHUNK 351
+## CHUNK 433
 **Metadata:**
 ```json
 {
@@ -9906,7 +11714,7 @@ Acceptable solutions to verify the programmed software may be found in the docum
 
 ---
 
-## CHUNK 352
+## CHUNK 434
 **Metadata:**
 ```json
 {
@@ -9927,7 +11735,7 @@ Acceptable solutions to verify the programmed software may be found in the docum
 
 ---
 
-## CHUNK 353
+## CHUNK 435
 **Metadata:**
 ```json
 {
@@ -9948,7 +11756,7 @@ Acceptable solutions to verify the programmed software may be found in the docum
 
 ---
 
-## CHUNK 354
+## CHUNK 436
 **Metadata:**
 ```json
 {
@@ -9969,7 +11777,7 @@ Acceptable solutions to verify the programmed software may be found in the docum
 
 ---
 
-## CHUNK 355
+## CHUNK 437
 **Metadata:**
 ```json
 {
@@ -9992,7 +11800,7 @@ Details of the homologation process can be found in the document <mark>FIA-F1-DO
 
 ---
 
-## CHUNK 356
+## CHUNK 438
 **Metadata:**
 ```json
 {
@@ -10028,7 +11836,28 @@ Note 1: for the 2026 Championship season only, the limits defined in the above t
 
 ---
 
-## CHUNK 357
+## CHUNK 439
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 92,
+  "rule_id": "C8.2",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.2 Control electronics > C8.2",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.2 Control electronics"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.2 Control electronics > C8.2]
+**C8.2** ## **** **Control electronics
+
+---
+
+## CHUNK 440
 **Metadata:**
 ```json
 {
@@ -10053,7 +11882,7 @@ Additional information regarding the FIA Standard ECU software versions and setu
 
 ---
 
-## CHUNK 358
+## CHUNK 441
 **Metadata:**
 ```json
 {
@@ -10078,7 +11907,7 @@ These components and units may not be disassembled or modified in any way and se
 
 ---
 
-## CHUNK 359
+## CHUNK 442
 **Metadata:**
 ```json
 {
@@ -10105,7 +11934,7 @@ Additional wiring guidelines may be found in the document <mark>FIA-F1-DOC-033</
 
 ---
 
-## CHUNK 360
+## CHUNK 443
 **Metadata:**
 ```json
 {
@@ -10126,7 +11955,7 @@ Additional wiring guidelines may be found in the document <mark>FIA-F1-DOC-033</
 
 ---
 
-## CHUNK 361
+## CHUNK 444
 **Metadata:**
 ```json
 {
@@ -10147,7 +11976,28 @@ Additional wiring guidelines may be found in the document <mark>FIA-F1-DOC-033</
 
 ---
 
-## CHUNK 362
+## CHUNK 445
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 92,
+  "rule_id": "C8.3",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.3 Start systems > C8.3",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.3 Start systems"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.3 Start systems > C8.3]
+**C8.3** ## **** **Start systems
+
+---
+
+## CHUNK 446
 **Metadata:**
 ```json
 {
@@ -10168,7 +12018,7 @@ Additional wiring guidelines may be found in the document <mark>FIA-F1-DOC-033</
 
 ---
 
-## CHUNK 363
+## CHUNK 447
 **Metadata:**
 ```json
 {
@@ -10189,7 +12039,28 @@ Additional wiring guidelines may be found in the document <mark>FIA-F1-DOC-033</
 
 ---
 
-## CHUNK 364
+## CHUNK 448
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 92,
+  "rule_id": "C8.4",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.4 Data acquisition > C8.4",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.4 Data acquisition"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.4 Data acquisition > C8.4]
+**C8.4** ## **** **Data acquisition
+
+---
+
+## CHUNK 449
 **Metadata:**
 ```json
 {
@@ -10226,7 +12097,7 @@ requested by, and in the format defined by, the FIA. Prior to the Race or Sprint
 
 ---
 
-## CHUNK 365
+## CHUNK 450
 **Metadata:**
 ```json
 {
@@ -10269,7 +12140,28 @@ transmission of signals will not be considered as adequate isolation in the cont
 
 ---
 
-## CHUNK 366
+## CHUNK 451
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 93,
+  "rule_id": "C8.5",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.5 Telemetry > C8.5",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.5 Telemetry"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.5 Telemetry > C8.5]
+**C8.5** ##  Telemetry
+
+---
+
+## CHUNK 452
 **Metadata:**
 ```json
 {
@@ -10290,7 +12182,7 @@ transmission of signals will not be considered as adequate isolation in the cont
 
 ---
 
-## CHUNK 367
+## CHUNK 453
 **Metadata:**
 ```json
 {
@@ -10311,7 +12203,7 @@ transmission of signals will not be considered as adequate isolation in the cont
 
 ---
 
-## CHUNK 368
+## CHUNK 454
 **Metadata:**
 ```json
 {
@@ -10336,7 +12228,7 @@ b. Handshaking required by the car to F1 Team telemetry system defined in Articl
 
 ---
 
-## CHUNK 369
+## CHUNK 455
 **Metadata:**
 ```json
 {
@@ -10379,7 +12271,28 @@ g. behind an X-plane lying 100mm ahead of “Point X”.
 
 ---
 
-## CHUNK 370
+## CHUNK 456
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 94,
+  "rule_id": "C8.6",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.6 Driver inputs and information > C8.6",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.6 Driver inputs and information"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.6 Driver inputs and information > C8.6]
+**C8.6** #  Driver inputs and information
+
+---
+
+## CHUNK 457
 **Metadata:**
 ```json
 {
@@ -10400,7 +12313,7 @@ g. behind an X-plane lying 100mm ahead of “Point X”.
 
 ---
 
-## CHUNK 371
+## CHUNK 458
 **Metadata:**
 ```json
 {
@@ -10435,7 +12348,7 @@ Any interface between such driver input devices and the FIA Standard ECU must be
 
 ---
 
-## CHUNK 372
+## CHUNK 459
 **Metadata:**
 ```json
 {
@@ -10458,7 +12371,7 @@ The logged raw signals from the FIA Standard ECU inputs must provide a true repr
 
 ---
 
-## CHUNK 373
+## CHUNK 460
 **Metadata:**
 ```json
 {
@@ -10485,7 +12398,28 @@ pedal travel range to be identified by the driver or to assist the driver to hol
 
 ---
 
-## CHUNK 374
+## CHUNK 461
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 95,
+  "rule_id": "C8.7",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.7 Master switch > C8.7",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.7 Master switch"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.7 Master switch > C8.7]
+**C8.7** ##  Master switch
+
+---
+
+## CHUNK 462
 **Metadata:**
 ```json
 {
@@ -10508,7 +12442,7 @@ This switch must be located on the dashboard and must be clearly marked by a sym
 
 ---
 
-## CHUNK 375
+## CHUNK 463
 **Metadata:**
 ```json
 {
@@ -10533,7 +12467,28 @@ The handles must be marked with a letter "E" in red at least 80mm tall, with a l
 
 ---
 
-## CHUNK 376
+## CHUNK 464
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 95,
+  "rule_id": "C8.8",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.8 Driver radio > C8.8",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.8 Driver radio"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.8 Driver radio > C8.8]
+**C8.8** ##  Driver radio
+
+---
+
+## CHUNK 465
 **Metadata:**
 ```json
 {
@@ -10554,7 +12509,7 @@ The handles must be marked with a letter "E" in red at least 80mm tall, with a l
 
 ---
 
-## CHUNK 377
+## CHUNK 466
 **Metadata:**
 ```json
 {
@@ -10572,6 +12527,27 @@ The handles must be marked with a letter "E" in red at least 80mm tall, with a l
 **Content:**
 [Section C > Article C8: ELECTRICAL SYSTEMS > C8.8 Driver radio > C8.8.2]
 **C8.8.2** Other than authorised connections to the FIA Standard ECU, any voice radio communication system between car and pits must be stand alone and must not transmit or receive other data. All such communications must be open and accessible to both the FIA and broadcasters.
+
+---
+
+## CHUNK 467
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 95,
+  "rule_id": "C8.9",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.9 Accident analysis > C8.9",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.9 Accident analysis"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.9 Accident analysis > C8.9]
+**C8.9** ##  Accident analysis
 
 For the purpose of accident analysis and driver rescue, during each Competition and all tests which are attended by more than one F1 Team, each car must be fitted with:
 
@@ -10591,7 +12567,7 @@ F1 Teams must use their best endeavours to ensure that all those parts are in wo
 
 ---
 
-## CHUNK 378
+## CHUNK 468
 **Metadata:**
 ```json
 {
@@ -10642,7 +12618,7 @@ Details of the connections to the FIA ADR may be found in the document <mark>FIA
 
 ---
 
-## CHUNK 379
+## CHUNK 469
 **Metadata:**
 ```json
 {
@@ -10679,7 +12655,7 @@ Details of the accelerometer may be found in the document <mark>FIA-F1-DOC-028</
 
 ---
 
-## CHUNK 380
+## CHUNK 470
 **Metadata:**
 ```json
 {
@@ -10704,7 +12680,7 @@ The camera must be fitted in accordance with the instructions of the FIA, detail
 
 ---
 
-## CHUNK 381
+## CHUNK 471
 **Metadata:**
 ```json
 {
@@ -10727,7 +12703,7 @@ Each driver must wear in−ear accelerometers which have been manufactured by th
 
 ---
 
-## CHUNK 382
+## CHUNK 472
 **Metadata:**
 ```json
 {
@@ -10748,13 +12724,55 @@ Each driver must wear in−ear accelerometers which have been manufactured by th
 
 For the purpose of aiding driver rescue, the FIA may define biometric devices, to be worn by each driver and which have been manufactured by the FIA designated supplier to a specification determined by the FIA.
 
+---
+
+## CHUNK 473
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 97,
+  "rule_id": "C8.10",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.10 Accident data > C8.10",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.10 Accident data"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.10 Accident data > C8.10]
+**C8.10** #  Accident data
+
 At any time following an accident or incident F1 Teams must make the FIA ADR available and accessible to the FIA. A representative of the F1 Team concerned may be present when data relevant to an accident or incident is being uploaded from the recorder. A copy of the data will be made available to the F1 Team.
 
 Any conclusions as to the cause of an accident, or any data relevant to an accident, may only be published in the form of a report which has been agreed between the F1 Team concerned and the FIA.
 
 ---
 
-## CHUNK 383
+## CHUNK 474
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 97,
+  "rule_id": "C8.11",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.11 FIA Marshalling system > C8.11",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.11 FIA Marshalling system"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.11 FIA Marshalling system > C8.11]
+**C8.11** #  FIA Marshalling system
+
+---
+
+## CHUNK 475
 **Metadata:**
 ```json
 {
@@ -10777,7 +12795,7 @@ No other parts which, in the opinion of the FIA are capable of performing a simi
 
 ---
 
-## CHUNK 384
+## CHUNK 476
 **Metadata:**
 ```json
 {
@@ -10800,7 +12818,7 @@ The Car Positioning Unit must be positioned in the forward part of the Survival 
 
 ---
 
-## CHUNK 385
+## CHUNK 477
 **Metadata:**
 ```json
 {
@@ -10819,7 +12837,49 @@ The Car Positioning Unit must be positioned in the forward part of the Survival 
 [Section C > Article C8: ELECTRICAL SYSTEMS > C8.11 FIA Marshalling system > C8.11.3]
 **C8.11.3** ##  Details of the marshalling system may be found in the document <mark>FIA-F1-DOC-023</mark>.
 
+---
+
+## CHUNK 478
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 97,
+  "rule_id": "C8.12",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.12 Track signal information display > C8.12",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.12 Track signal information display"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.12 Track signal information display > C8.12]
+**C8.12** #  Track signal information display
+
 All cars must be fitted with red, blue and yellow Cockpit lights, supplied as part of the FIA Standard ECU, the purpose of which are to give drivers information concerning track signals or conditions. The lights must be fitted directly in the driver’s normal line of sight.
+
+---
+
+## CHUNK 479
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 98,
+  "rule_id": "C8.13",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.13 Impact warning system > C8.13",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.13 Impact warning system"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.13 Impact warning system > C8.13]
+**C8.13** ##  Impact warning system
 
 In order to give rescue crews an immediate indication of accident severity each car must be fitted with a warning light which is connected to the FIA ADR.
 
@@ -10829,7 +12889,28 @@ Details of the light and its control system may be found in the document <mark>F
 
 ---
 
-## CHUNK 386
+## CHUNK 480
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 98,
+  "rule_id": "C8.14",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.14 Installation of electrical systems or components > C8.14",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.14 Installation of electrical systems or components"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.14 Installation of electrical systems or components > C8.14]
+**C8.14** ##  Installation of electrical systems or components
+
+---
+
+## CHUNK 481
 **Metadata:**
 ```json
 {
@@ -10864,7 +12945,7 @@ The FIA technical delegate must be notified of any intended use of such non-C3 c
 
 ---
 
-## CHUNK 387
+## CHUNK 482
 **Metadata:**
 ```json
 {
@@ -10885,7 +12966,7 @@ The FIA technical delegate must be notified of any intended use of such non-C3 c
 
 ---
 
-## CHUNK 388
+## CHUNK 483
 **Metadata:**
 ```json
 {
@@ -10904,11 +12985,53 @@ The FIA technical delegate must be notified of any intended use of such non-C3 c
 [Section C > Article C8: ELECTRICAL SYSTEMS > C8.14 Installation of electrical systems or components > C8.14.3]
 **C8.14.3** Notwithstanding the provisions of Article C8.14.1, the use in testing of any system designed to adjust the ride height of the car in a way that is not compliant with Article C10 is prohibited.
 
+---
+
+## CHUNK 484
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 98,
+  "rule_id": "C8.15",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.15 Timing transponders > C8.15",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.15 Timing transponders"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.15 Timing transponders > C8.15]
+**C8.15** ##  Timing transponders
+
 All cars must be fitted with two timing transponders supplied by the officially appointed timekeepers. These transponders must be fitted in strict accordance with the instructions detailed in the document <mark>FIA-F1-DOC-022</mark>. F1 Teams must use their best endeavours to ensure that the transponders are in working order at all times.
 
 ---
 
-## CHUNK 389
+## CHUNK 485
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 98,
+  "rule_id": "C8.16",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.16 Cameras and camera housings > C8.16",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.16 Cameras and camera housings"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.16 Cameras and camera housings > C8.16]
+**C8.16** ##  Cameras and camera housings
+
+---
+
+## CHUNK 486
 **Metadata:**
 ```json
 {
@@ -10940,7 +13063,7 @@ d. a camera in position 6.
 
 ---
 
-## CHUNK 390
+## CHUNK 487
 **Metadata:**
 ```json
 {
@@ -10961,7 +13084,7 @@ d. a camera in position 6.
 
 ---
 
-## CHUNK 391
+## CHUNK 488
 **Metadata:**
 ```json
 {
@@ -10986,7 +13109,7 @@ If a car is not required to carry either a camera in the helmet of the driver, o
 
 ---
 
-## CHUNK 392
+## CHUNK 489
 **Metadata:**
 ```json
 {
@@ -11007,7 +13130,7 @@ If a car is not required to carry either a camera in the helmet of the driver, o
 
 ---
 
-## CHUNK 393
+## CHUNK 490
 **Metadata:**
 ```json
 {
@@ -11028,7 +13151,7 @@ If a car is not required to carry either a camera in the helmet of the driver, o
 
 ---
 
-## CHUNK 394
+## CHUNK 491
 **Metadata:**
 ```json
 {
@@ -11051,7 +13174,7 @@ Any camera fitted in position 1 must be fitted above the Survival Cell, forward 
 
 ---
 
-## CHUNK 395
+## CHUNK 492
 **Metadata:**
 ```json
 {
@@ -11082,7 +13205,7 @@ Any part provided by the F1 Team for the purpose of aligning the camera or housi
 
 ---
 
-## CHUNK 396
+## CHUNK 493
 **Metadata:**
 ```json
 {
@@ -11107,7 +13230,7 @@ Any part provided by the Competitor for the purpose of aligning the camera in po
 
 ---
 
-## CHUNK 397
+## CHUNK 494
 **Metadata:**
 ```json
 {
@@ -11130,7 +13253,7 @@ The camera fitted in position 4 must be mounted in order that its forward−most
 
 ---
 
-## CHUNK 398
+## CHUNK 495
 **Metadata:**
 ```json
 {
@@ -11153,7 +13276,7 @@ The camera fitted in position 5 must be mounted, symmetrically about Y=0, with t
 
 ---
 
-## CHUNK 399
+## CHUNK 496
 **Metadata:**
 ```json
 {
@@ -11174,7 +13297,49 @@ The camera fitted in position 5 must be mounted, symmetrically about Y=0, with t
 
 The camera fitted in position 6 must be mounted within the Rear Impact Structure with the face of the lens pointing rearwards at an angle no greater than 1° to the plane X=0.
 
+---
+
+## CHUNK 497
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 100,
+  "rule_id": "C8.17",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.17 Electromagnetic radiation > C8.17",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.17 Electromagnetic radiation"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.17 Electromagnetic radiation > C8.17]
+**C8.17** #  Electromagnetic radiation
+
 Electromagnetic radiation between 2.0 and 2.7GHz is forbidden save with the written consent of the FIA.
+
+---
+
+## CHUNK 498
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 100,
+  "rule_id": "C8.18",
+  "breadcrumb": "Section C > Article C8: ELECTRICAL SYSTEMS > C8.18 Sensor signals > C8.18",
+  "section": "Section C",
+  "article": "Article C8: ELECTRICAL SYSTEMS",
+  "sub_article": "C8.18 Sensor signals"
+}
+```
+
+**Content:**
+[Section C > Article C8: ELECTRICAL SYSTEMS > C8.18 Sensor signals > C8.18]
+**C8.18** #  Sensor signals
 
 Any system, device or installation which is contrived or operated in a way to alter the measurement or the signal of a sensor used by the FIA to establish compliance with the Regulations is forbidden.
 
@@ -11184,7 +13349,28 @@ Any system, device or installation which is contrived or operated in a way to al
 
 ---
 
-## CHUNK 400
+## CHUNK 499
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 101,
+  "rule_id": "C9.1",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.1 Fundamental provisions > C9.1",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.1 Fundamental provisions"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.1 Fundamental provisions > C9.1]
+**C9.1** ##  Fundamental provisions
+
+---
+
+## CHUNK 500
 **Metadata:**
 ```json
 {
@@ -11207,7 +13393,7 @@ The transmission may only drive the two rear wheels.
 
 ---
 
-## CHUNK 401
+## CHUNK 501
 **Metadata:**
 ```json
 {
@@ -11232,7 +13418,28 @@ Any device or system which notifies the driver of the onset of wheel spin is not
 
 ---
 
-## CHUNK 402
+## CHUNK 502
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 101,
+  "rule_id": "C9.2",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.2 Clutch control > C9.2",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.2 Clutch control"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.2 Clutch control > C9.2]
+**C9.2** ##  Clutch control
+
+---
+
+## CHUNK 503
 **Metadata:**
 ```json
 {
@@ -11267,7 +13474,7 @@ Any device or system which notifies the driver of the onset of wheel spin is not
 
 ---
 
-## CHUNK 403
+## CHUNK 504
 **Metadata:**
 ```json
 {
@@ -11298,7 +13505,7 @@ In addition, other parts of the steering wheel or chassis should not be practica
 
 ---
 
-## CHUNK 404
+## CHUNK 505
 **Metadata:**
 ```json
 {
@@ -11319,7 +13526,7 @@ In addition, other parts of the steering wheel or chassis should not be practica
 
 ---
 
-## CHUNK 405
+## CHUNK 506
 **Metadata:**
 ```json
 {
@@ -11340,7 +13547,7 @@ In addition, other parts of the steering wheel or chassis should not be practica
 
 ---
 
-## CHUNK 406
+## CHUNK 507
 **Metadata:**
 ```json
 {
@@ -11377,7 +13584,7 @@ In that case the clutch torque controller implemented in the FIA Standard ECU mu
 
 ---
 
-## CHUNK 407
+## CHUNK 508
 **Metadata:**
 ```json
 {
@@ -11400,7 +13607,7 @@ The maximum delay allowed, computed from the respective signals as recorded by t
 
 ---
 
-## CHUNK 408
+## CHUNK 509
 **Metadata:**
 ```json
 {
@@ -11419,7 +13626,26 @@ The maximum delay allowed, computed from the respective signals as recorded by t
 [Section C > Article C9: TRANSMISSION SYSTEM > C9.2 Clutch control > C9.2.7]
 **C9.2.7** Any device or system which notifies the driver of the amount of Clutch slip or engagement is not permitted.
 
-**C9.3 Clutch Disengagement System (CDS)**
+---
+
+## CHUNK 510
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 103,
+  "rule_id": "C9.3",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.2 Clutch control > C9.3",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.2 Clutch control"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.2 Clutch control > C9.3]
+**C9.3** Clutch Disengagement System (CDS)**
 All cars must be fitted with a means of disengaging the Clutch for a minimum of fifteen minutes in the event of the car coming to rest with the engine stopped. This system must be in working order throughout the Competition even if the main hydraulic, pneumatic or electrical systems on the car have failed. This system must also shut down the ERS, as required by article C5.17.1.
 
 In order that the driver or a marshal may activate the system in less than five seconds, the button which operates it must :
@@ -11429,6 +13655,27 @@ a. Face upwards and be recessed into the top of the Survival Cell and be positio
 b. Be designed in order that a marshal is unable to accidentally re-engage the Clutch.
 
 c. Be marked according to Drawing 10 of Appendix C3.
+
+---
+
+## CHUNK 511
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 103,
+  "rule_id": "C9.4",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.4 Homologated Gearbox and Component Classification > C9.4",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.4 Homologated Gearbox and Component Classification"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.4 Homologated Gearbox and Component Classification > C9.4]
+**C9.4** Homologated Gearbox and Component Classification
 
 The design of the Driveline Components (with the exception of the gear ratios, for which the provisions of Article C9.6.2 apply), Gear-Change Components and Auxiliary Components must be homologated by each gearbox supplier before the start of the season following the season when they first supplied a Gearbox under these Regulations. The design must not be modified, except in exceptional circumstances, in subsequent seasons.
 
@@ -11450,7 +13697,28 @@ The Gearbox, as defined in Appendix C1, is classified as TRC.
 
 ---
 
-## CHUNK 409
+## CHUNK 512
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 104,
+  "rule_id": "C9.5",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.5 Gearbox Dimensions > C9.5",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.5 Gearbox Dimensions"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.5 Gearbox Dimensions > C9.5]
+**C9.5** #  Gearbox Dimensions
+
+---
+
+## CHUNK 513
 **Metadata:**
 ```json
 {
@@ -11481,7 +13749,7 @@ The tip diameter of the final drive gear must be at least 205mm.
 
 ---
 
-## CHUNK 410
+## CHUNK 514
 **Metadata:**
 ```json
 {
@@ -11504,7 +13772,28 @@ The combined mass of driveline and gear-change components must be at least 22kg.
 
 ---
 
-## CHUNK 411
+## CHUNK 515
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 104,
+  "rule_id": "C9.6",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.6 Gear ratios > C9.6",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.6 Gear ratios"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.6 Gear ratios > C9.6]
+**C9.6** #  Gear ratios
+
+---
+
+## CHUNK 516
 **Metadata:**
 ```json
 {
@@ -11525,7 +13814,7 @@ The combined mass of driveline and gear-change components must be at least 22kg.
 
 ---
 
-## CHUNK 412
+## CHUNK 517
 **Metadata:**
 ```json
 {
@@ -11552,7 +13841,7 @@ For the 2027 Championship Season and onwards, changes to the forward gear ratios
 
 ---
 
-## CHUNK 413
+## CHUNK 518
 **Metadata:**
 ```json
 {
@@ -11579,7 +13868,7 @@ b. Less than 600g in mass (excluding any integral shaft or collar). If an integr
 
 ---
 
-## CHUNK 414
+## CHUNK 519
 **Metadata:**
 ```json
 {
@@ -11598,11 +13887,53 @@ b. Less than 600g in mass (excluding any integral shaft or collar). If an integr
 [Section C > Article C9: TRANSMISSION SYSTEM > C9.6 Gear ratios > C9.6.4]
 **C9.6.4** Gear ratio pairs must be made from steel.
 
+---
+
+## CHUNK 520
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 105,
+  "rule_id": "C9.7",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.7 Reverse gear > C9.7",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.7 Reverse gear"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.7 Reverse gear > C9.7]
+**C9.7** ##  Reverse gear
+
 All cars must be able to be driven in reverse by the driver at any time during the Competition.
 
 ---
 
-## CHUNK 415
+## CHUNK 521
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 105,
+  "rule_id": "C9.8",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.8 Gear changing > C9.8",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.8 Gear changing"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.8 Gear changing > C9.8]
+**C9.8** ##  Gear changing
+
+---
+
+## CHUNK 522
 **Metadata:**
 ```json
 {
@@ -11625,7 +13956,7 @@ For the purposes of gear changing, the Clutch and Power Unit torque need not be 
 
 ---
 
-## CHUNK 416
+## CHUNK 523
 **Metadata:**
 ```json
 {
@@ -11648,7 +13979,7 @@ One gear change is permitted after the Race or Sprint Session has started and be
 
 ---
 
-## CHUNK 417
+## CHUNK 524
 **Metadata:**
 ```json
 {
@@ -11677,7 +14008,7 @@ Any de−bounce time used to condition driver gear change requests must be fixed
 
 ---
 
-## CHUNK 418
+## CHUNK 525
 **Metadata:**
 ```json
 {
@@ -11700,7 +14031,7 @@ The duration of a gear change is defined as the time from the request being made
 
 ---
 
-## CHUNK 419
+## CHUNK 526
 **Metadata:**
 ```json
 {
@@ -11721,7 +14052,28 @@ The duration of a gear change is defined as the time from the request being made
 
 ---
 
-## CHUNK 420
+## CHUNK 527
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 106,
+  "rule_id": "C9.9",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.9 Torque transfer systems > C9.9",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.9 Torque transfer systems"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.9 Torque transfer systems > C9.9]
+**C9.9** #  **Torque transfer systems
+
+---
+
+## CHUNK 528
 **Metadata:**
 ```json
 {
@@ -11742,7 +14094,7 @@ The duration of a gear change is defined as the time from the request being made
 
 ---
 
-## CHUNK 421
+## CHUNK 529
 **Metadata:**
 ```json
 {
@@ -11761,7 +14113,49 @@ The duration of a gear change is defined as the time from the request being made
 [Section C > Article C9: TRANSMISSION SYSTEM > C9.9 Torque transfer systems > C9.9.2]
 **C9.9.2** Any device which is capable of transferring torque between the principal axes of rotation of the two front wheels is prohibited.
 
+---
+
+## CHUNK 530
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 106,
+  "rule_id": "C9.10",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.10 Driveshafts > C9.10",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.10 Driveshafts"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.10 Driveshafts > C9.10]
+**C9.10** #  **Driveshafts
+
 Driveshafts must be made from steel. The bore, more than 150mm from the ends, must be of constant diameter. At one of the ends, the internal diameter of the final 150mm must be equal to or greater than the diameter of the bore of the constant diameter section.
+
+---
+
+## CHUNK 531
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 106,
+  "rule_id": "C9.11",
+  "breadcrumb": "Section C > Article C9: TRANSMISSION SYSTEM > C9.11 Structural Connection to Survival Cell > C9.11",
+  "section": "Section C",
+  "article": "Article C9: TRANSMISSION SYSTEM",
+  "sub_article": "C9.11 Structural Connection to Survival Cell"
+}
+```
+
+**Content:**
+[Section C > Article C9: TRANSMISSION SYSTEM > C9.11 Structural Connection to Survival Cell > C9.11]
+**C9.11** #  **Structural Connection to Survival Cell
 
 Any part which provides an additional load path, aside from the path through the studs defined under Art. C5.4.17, from the Survival Cell to the Gearbox Case is prohibited unless this is incidental to its principal purpose.
 
@@ -11770,6 +14164,27 @@ Furthermore, any such part must not provide a structural connection between this
 *Advisory Committee: TAC*
 
 *Governance: F1 Commission / WMSC*
+
+---
+
+## CHUNK 532
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 107,
+  "rule_id": "C10.1",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.1 Legality Setup > C10.1",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES",
+  "sub_article": "C10.1 Legality Setup"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.1 Legality Setup > C10.1]
+**C10.1** ##  Legality Setup
 
 The attitude of the Unsprung Mass, in relation to the Sprung Mass, for the assessment of its compliance to the Regulations.
 
@@ -11781,7 +14196,28 @@ c. The origin of the Wheel Coordinate System lying between Z=290 and Z=320 for t
 
 ---
 
-## CHUNK 422
+## CHUNK 533
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 107,
+  "rule_id": "C10.2",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.2 Sprung suspension > C10.2",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES",
+  "sub_article": "C10.2 Sprung suspension"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.2 Sprung suspension > C10.2]
+**C10.2** ##  Sprung suspension
+
+---
+
+## CHUNK 534
 **Metadata:**
 ```json
 {
@@ -11802,7 +14238,7 @@ c. The origin of the Wheel Coordinate System lying between Z=290 and Z=320 for t
 
 ---
 
-## CHUNK 423
+## CHUNK 535
 **Metadata:**
 ```json
 {
@@ -11823,7 +14259,7 @@ c. The origin of the Wheel Coordinate System lying between Z=290 and Z=320 for t
 
 ---
 
-## CHUNK 424
+## CHUNK 536
 **Metadata:**
 ```json
 {
@@ -11850,7 +14286,7 @@ The inboard suspension is considered to be part of the Sprung Mass, whereas the 
 
 ---
 
-## CHUNK 425
+## CHUNK 537
 **Metadata:**
 ```json
 {
@@ -11871,7 +14307,7 @@ The inboard suspension is considered to be part of the Sprung Mass, whereas the 
 
 ---
 
-## CHUNK 426
+## CHUNK 538
 **Metadata:**
 ```json
 {
@@ -11892,7 +14328,7 @@ The inboard suspension is considered to be part of the Sprung Mass, whereas the 
 
 ---
 
-## CHUNK 427
+## CHUNK 539
 **Metadata:**
 ```json
 {
@@ -11935,7 +14371,28 @@ h. Mass Dampers, as defined in Appendix C1.
 
 ---
 
-## CHUNK 428
+## CHUNK 540
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 108,
+  "rule_id": "C10.3",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.3 Outboard suspension > C10.3",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES",
+  "sub_article": "C10.3 Outboard suspension"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.3 Outboard suspension > C10.3]
+**C10.3** #  Outboard suspension
+
+---
+
+## CHUNK 541
 **Metadata:**
 ```json
 {
@@ -11958,7 +14415,7 @@ Additionally, the angle subtended between the normal projection of the Z<sub>W</
 
 ---
 
-## CHUNK 429
+## CHUNK 542
 **Metadata:**
 ```json
 {
@@ -11983,7 +14440,7 @@ On the front axle, one suspension member per wheel must be connected to the stee
 
 ---
 
-## CHUNK 430
+## CHUNK 543
 **Metadata:**
 ```json
 {
@@ -12004,7 +14461,7 @@ On the front axle, one suspension member per wheel must be connected to the stee
 
 ---
 
-## CHUNK 431
+## CHUNK 544
 **Metadata:**
 ```json
 {
@@ -12039,7 +14496,7 @@ f. together with the inboard attachment point of the same suspension member, lie
 
 ---
 
-## CHUNK 432
+## CHUNK 545
 **Metadata:**
 ```json
 {
@@ -12060,7 +14517,7 @@ f. together with the inboard attachment point of the same suspension member, lie
 
 ---
 
-## CHUNK 433
+## CHUNK 546
 **Metadata:**
 ```json
 {
@@ -12109,7 +14566,7 @@ d. One of the six rear suspension members per side may be exempt from part a) ab
 
 ---
 
-## CHUNK 434
+## CHUNK 547
 **Metadata:**
 ```json
 {
@@ -12130,7 +14587,7 @@ d. One of the six rear suspension members per side may be exempt from part a) ab
 
 ---
 
-## CHUNK 435
+## CHUNK 548
 **Metadata:**
 ```json
 {
@@ -12151,7 +14608,7 @@ d. One of the six rear suspension members per side may be exempt from part a) ab
 
 ---
 
-## CHUNK 436
+## CHUNK 549
 **Metadata:**
 ```json
 {
@@ -12172,7 +14629,7 @@ d. One of the six rear suspension members per side may be exempt from part a) ab
 
 ---
 
-## CHUNK 437
+## CHUNK 550
 **Metadata:**
 ```json
 {
@@ -12193,7 +14650,28 @@ d. One of the six rear suspension members per side may be exempt from part a) ab
 
 ---
 
-## CHUNK 438
+## CHUNK 551
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 110,
+  "rule_id": "C10.4",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.4 Inboard suspension > C10.4",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES",
+  "sub_article": "C10.4 Inboard suspension"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.4 Inboard suspension > C10.4]
+**C10.4** ##  Inboard suspension
+
+---
+
+## CHUNK 552
 **Metadata:**
 ```json
 {
@@ -12215,7 +14693,7 @@ A rocker is a mechanical device that is rigidly supported on the Sprung Mass and
 
 ---
 
-## CHUNK 439
+## CHUNK 553
 **Metadata:**
 ```json
 {
@@ -12241,7 +14719,7 @@ A rocker is a mechanical device that is rigidly supported on the Sprung Mass and
 
 ---
 
-## CHUNK 440
+## CHUNK 554
 **Metadata:**
 ```json
 {
@@ -12278,7 +14756,28 @@ medium are not permitted.
 
 ---
 
-## CHUNK 441
+## CHUNK 555
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 111,
+  "rule_id": "C10.5",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.5 Steering > C10.5",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES",
+  "sub_article": "C10.5 Steering"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.5 Steering > C10.5]
+**C10.5** ##  Steering
+
+---
+
+## CHUNK 556
 **Metadata:**
 ```json
 {
@@ -12299,7 +14798,7 @@ medium are not permitted.
 
 ---
 
-## CHUNK 442
+## CHUNK 557
 **Metadata:**
 ```json
 {
@@ -12320,7 +14819,7 @@ medium are not permitted.
 
 ---
 
-## CHUNK 443
+## CHUNK 558
 **Metadata:**
 ```json
 {
@@ -12341,7 +14840,7 @@ medium are not permitted.
 
 ---
 
-## CHUNK 444
+## CHUNK 559
 **Metadata:**
 ```json
 {
@@ -12362,7 +14861,7 @@ medium are not permitted.
 
 ---
 
-## CHUNK 445
+## CHUNK 560
 **Metadata:**
 ```json
 {
@@ -12383,7 +14882,28 @@ medium are not permitted.
 
 ---
 
-## CHUNK 446
+## CHUNK 561
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 111,
+  "rule_id": "C10.6",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.6 Suspension Uprights > C10.6",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES",
+  "sub_article": "C10.6 Suspension Uprights"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.6 Suspension Uprights > C10.6]
+**C10.6** ##  Suspension Uprights
+
+---
+
+## CHUNK 562
 **Metadata:**
 ```json
 {
@@ -12406,7 +14926,7 @@ There can only be one suspension upright per Complete Wheel.
 
 ---
 
-## CHUNK 447
+## CHUNK 563
 **Metadata:**
 ```json
 {
@@ -12427,7 +14947,7 @@ There can only be one suspension upright per Complete Wheel.
 
 ---
 
-## CHUNK 448
+## CHUNK 564
 **Metadata:**
 ```json
 {
@@ -12448,7 +14968,28 @@ There can only be one suspension upright per Complete Wheel.
 
 ---
 
-## CHUNK 449
+## CHUNK 565
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 112,
+  "rule_id": "C10.7",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.7 Wheel rims > C10.7",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES",
+  "sub_article": "C10.7 Wheel rims"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.7 Wheel rims > C10.7]
+**C10.7** #  Wheel rims
+
+---
+
+## CHUNK 566
 **Metadata:**
 ```json
 {
@@ -12470,7 +15011,7 @@ With the exception of surface treatments for appearance and protection, Wheel Ri
 
 ---
 
-## CHUNK 450
+## CHUNK 567
 **Metadata:**
 ```json
 {
@@ -12546,7 +15087,7 @@ l. Design guidelines for the Wheel Rims are set out in <mark>FIA-F1-DOC-021</mar
 
 ---
 
-## CHUNK 451
+## CHUNK 568
 **Metadata:**
 ```json
 {
@@ -12569,7 +15110,7 @@ All Wheel Rims must pass the impact test defined in Article C13.10.
 
 ---
 
-## CHUNK 452
+## CHUNK 569
 **Metadata:**
 ```json
 {
@@ -12596,7 +15137,7 @@ Wheel rims and tyre pressure and temperature sensors should be marked according 
 
 ---
 
-## CHUNK 453
+## CHUNK 570
 **Metadata:**
 ```json
 {
@@ -12625,7 +15166,7 @@ The outboard disc may only be made from materials listed in Articles C15.2.3 (Po
 
 ---
 
-## CHUNK 454
+## CHUNK 571
 **Metadata:**
 ```json
 {
@@ -12662,7 +15203,28 @@ The only parts which may be physically attached to the wheel in addition to the 
 
 ---
 
-## CHUNK 455
+## CHUNK 572
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 114,
+  "rule_id": "C10.8",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.8 Tyres > C10.8",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES",
+  "sub_article": "C10.8 Tyres"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.8 Tyres > C10.8]
+**C10.8** ##  Tyres
+
+---
+
+## CHUNK 573
 **Metadata:**
 ```json
 {
@@ -12689,7 +15251,7 @@ c. If, in the interests of maintaining current levels of circuit safety, the FIA
 
 ---
 
-## CHUNK 456
+## CHUNK 574
 **Metadata:**
 ```json
 {
@@ -12716,7 +15278,7 @@ Notwithstanding the above, the FIA may decide to change the specification during
 
 ---
 
-## CHUNK 457
+## CHUNK 575
 **Metadata:**
 ```json
 {
@@ -12747,7 +15309,7 @@ e. With the exception of incidental conduction or radiation, the only permitted 
 
 ---
 
-## CHUNK 458
+## CHUNK 576
 **Metadata:**
 ```json
 {
@@ -12793,7 +15355,28 @@ Additional details may be found in the document <mark>FIA-F1-DOC-032</mark>.
 
 ---
 
-## CHUNK 459
+## CHUNK 577
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 116,
+  "rule_id": "C10.9",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.9 Wheel attachment and retention > C10.9",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES",
+  "sub_article": "C10.9 Wheel attachment and retention"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.9 Wheel attachment and retention > C10.9]
+**C10.9** #  Wheel attachment and retention
+
+---
+
+## CHUNK 578
 **Metadata:**
 ```json
 {
@@ -12814,7 +15397,7 @@ Additional details may be found in the document <mark>FIA-F1-DOC-032</mark>.
 
 ---
 
-## CHUNK 460
+## CHUNK 579
 **Metadata:**
 ```json
 {
@@ -12837,7 +15420,7 @@ Any sensor systems may only act passively.
 
 ---
 
-## CHUNK 461
+## CHUNK 580
 **Metadata:**
 ```json
 {
@@ -12858,7 +15441,7 @@ Any sensor systems may only act passively.
 
 ---
 
-## CHUNK 462
+## CHUNK 581
 **Metadata:**
 ```json
 {
@@ -12882,7 +15465,7 @@ Any sensor systems may only act passively.
 
 ---
 
-## CHUNK 463
+## CHUNK 582
 **Metadata:**
 ```json
 {
@@ -12903,7 +15486,28 @@ Any sensor systems may only act passively.
 
 ---
 
-## CHUNK 464
+## CHUNK 583
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 116,
+  "rule_id": "C10.10",
+  "breadcrumb": "Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.10 Dimensions > C10.10",
+  "section": "Section C",
+  "article": "Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES",
+  "sub_article": "C10.10 Dimensions"
+}
+```
+
+**Content:**
+[Section C > Article C10: SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES > C10.10 Dimensions > C10.10]
+**C10.10** #  Dimensions
+
+---
+
+## CHUNK 584
 **Metadata:**
 ```json
 {
@@ -12932,7 +15536,28 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 465
+## CHUNK 585
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 117,
+  "rule_id": "C11.1",
+  "breadcrumb": "Section C > Article C11: BRAKE SYSTEM > C11.1 Brake circuits and pressure distribution > C11.1",
+  "section": "Section C",
+  "article": "Article C11: BRAKE SYSTEM",
+  "sub_article": "C11.1 Brake circuits and pressure distribution"
+}
+```
+
+**Content:**
+[Section C > Article C11: BRAKE SYSTEM > C11.1 Brake circuits and pressure distribution > C11.1]
+**C11.1** ##  Brake circuits and pressure distribution
+
+---
+
+## CHUNK 586
 **Metadata:**
 ```json
 {
@@ -12959,7 +15584,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 466
+## CHUNK 587
 **Metadata:**
 ```json
 {
@@ -12980,7 +15605,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 467
+## CHUNK 588
 **Metadata:**
 ```json
 {
@@ -13001,7 +15626,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 468
+## CHUNK 589
 **Metadata:**
 ```json
 {
@@ -13022,7 +15647,28 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 469
+## CHUNK 590
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 117,
+  "rule_id": "C11.2",
+  "breadcrumb": "Section C > Article C11: BRAKE SYSTEM > C11.2 Brake callipers > C11.2",
+  "section": "Section C",
+  "article": "Article C11: BRAKE SYSTEM",
+  "sub_article": "C11.2 Brake callipers"
+}
+```
+
+**Content:**
+[Section C > Article C11: BRAKE SYSTEM > C11.2 Brake callipers > C11.2]
+**C11.2** ##  Brake callipers
+
+---
+
+## CHUNK 591
 **Metadata:**
 ```json
 {
@@ -13043,7 +15689,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 470
+## CHUNK 592
 **Metadata:**
 ```json
 {
@@ -13064,7 +15710,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 471
+## CHUNK 593
 **Metadata:**
 ```json
 {
@@ -13085,7 +15731,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 472
+## CHUNK 594
 **Metadata:**
 ```json
 {
@@ -13106,7 +15752,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 473
+## CHUNK 595
 **Metadata:**
 ```json
 {
@@ -13127,7 +15773,28 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 474
+## CHUNK 596
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 118,
+  "rule_id": "C11.3",
+  "breadcrumb": "Section C > Article C11: BRAKE SYSTEM > C11.3 Brake discs and pads > C11.3",
+  "section": "Section C",
+  "article": "Article C11: BRAKE SYSTEM",
+  "sub_article": "C11.3 Brake discs and pads"
+}
+```
+
+**Content:**
+[Section C > Article C11: BRAKE SYSTEM > C11.3 Brake discs and pads > C11.3]
+**C11.3** # ** Brake discs and pads
+
+---
+
+## CHUNK 597
 **Metadata:**
 ```json
 {
@@ -13148,7 +15815,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 475
+## CHUNK 598
 **Metadata:**
 ```json
 {
@@ -13169,7 +15836,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 476
+## CHUNK 599
 **Metadata:**
 ```json
 {
@@ -13190,7 +15857,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 477
+## CHUNK 600
 **Metadata:**
 ```json
 {
@@ -13211,7 +15878,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 478
+## CHUNK 601
 **Metadata:**
 ```json
 {
@@ -13232,7 +15899,28 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 479
+## CHUNK 602
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 118,
+  "rule_id": "C11.4",
+  "breadcrumb": "Section C > Article C11: BRAKE SYSTEM > C11.4 Brake pressure modulation > C11.4",
+  "section": "Section C",
+  "article": "Article C11: BRAKE SYSTEM",
+  "sub_article": "C11.4 Brake pressure modulation"
+}
+```
+
+**Content:**
+[Section C > Article C11: BRAKE SYSTEM > C11.4 Brake pressure modulation > C11.4]
+**C11.4** # ** Brake pressure modulation
+
+---
+
+## CHUNK 603
 **Metadata:**
 ```json
 {
@@ -13253,7 +15941,7 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 
 ---
 
-## CHUNK 480
+## CHUNK 604
 **Metadata:**
 ```json
 {
@@ -13272,7 +15960,49 @@ The diameters of the master cylinders acting on the two rear wheels and the two 
 [Section C > Article C11: BRAKE SYSTEM > C11.4 Brake pressure modulation > C11.4.2]
 **C11.4.2** No braking system may be designed to increase the pressure in the brake callipers above that achieved by the driver applied force to the pedal under all conditions except for the system referred to in C11.6.
 
+---
+
+## CHUNK 605
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 118,
+  "rule_id": "C11.5",
+  "breadcrumb": "Section C > Article C11: BRAKE SYSTEM > C11.5 Liquid cooling > C11.5",
+  "section": "Section C",
+  "article": "Article C11: BRAKE SYSTEM",
+  "sub_article": "C11.5 Liquid cooling"
+}
+```
+
+**Content:**
+[Section C > Article C11: BRAKE SYSTEM > C11.5 Liquid cooling > C11.5]
+**C11.5** # ** Liquid cooling
+
 Liquid cooling of the brakes is forbidden.
+
+---
+
+## CHUNK 606
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 118,
+  "rule_id": "C11.6",
+  "breadcrumb": "Section C > Article C11: BRAKE SYSTEM > C11.6 Rear brake control system > C11.6",
+  "section": "Section C",
+  "article": "Article C11: BRAKE SYSTEM",
+  "sub_article": "C11.6 Rear brake control system"
+}
+```
+
+**Content:**
+[Section C > Article C11: BRAKE SYSTEM > C11.6 Rear brake control system > C11.6]
+**C11.6** # ** Rear brake control system
 
 The pressure in the rear braking circuit may be provided by a powered control system provided that:
 
@@ -13282,6 +16012,27 @@ b. It does not exceed 1.2 times the pressure concurrently generated by the drive
 
 c. The powered system is controlled by the Control Electronics described in Article C8.2.
 
+---
+
+## CHUNK 607
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 118,
+  "rule_id": "C11.7",
+  "breadcrumb": "Section C > Article C11: BRAKE SYSTEM > C11.7 Supply of Brake Friction and Brake System Hydraulic components > C11.7",
+  "section": "Section C",
+  "article": "Article C11: BRAKE SYSTEM",
+  "sub_article": "C11.7 Supply of Brake Friction and Brake System Hydraulic components"
+}
+```
+
+**Content:**
+[Section C > Article C11: BRAKE SYSTEM > C11.7 Supply of Brake Friction and Brake System Hydraulic components > C11.7]
+**C11.7** # ** Supply of Brake Friction and Brake System Hydraulic components
+
 The Brake Disks and Pads described in Article C11.3, the Brake Calliper described in Article C11.2, the Master Cylinder described in Article C11.1 and Rear brake control system described in Article C11.6 are classified as OSC, in accordance with the provisions of Article C17.5.
 
 <mark>*Advisory Committee: TAC*</mark>
@@ -13290,7 +16041,28 @@ The Brake Disks and Pads described in Article C11.3, the Brake Calliper describe
 
 ---
 
-## CHUNK 481
+## CHUNK 608
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 119,
+  "rule_id": "C12.1",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL > C12.1 General Requirements > C12.1",
+  "section": "Section C",
+  "article": "Article C12: SURVIVAL CELL",
+  "sub_article": "C12.1 General Requirements"
+}
+```
+
+**Content:**
+[Section C > Article C12: SURVIVAL CELL > C12.1 General Requirements > C12.1]
+**C12.1** ##  General Requirements
+
+---
+
+## CHUNK 609
 **Metadata:**
 ```json
 {
@@ -13313,7 +16085,7 @@ The Survival Cell must be homologated in accordance with the provisions of Artic
 
 ---
 
-## CHUNK 482
+## CHUNK 610
 **Metadata:**
 ```json
 {
@@ -13338,7 +16110,28 @@ The FIA may request F1 Teams to submit models and material properties used in th
 
 ---
 
-## CHUNK 483
+## CHUNK 611
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 119,
+  "rule_id": "C12.2",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL > C12.2 Survival cell specifications > C12.2",
+  "section": "Section C",
+  "article": "Article C12: SURVIVAL CELL",
+  "sub_article": "C12.2 Survival cell specifications"
+}
+```
+
+**Content:**
+[Section C > Article C12: SURVIVAL CELL > C12.2 Survival cell specifications > C12.2]
+**C12.2** ##  Survival cell specifications
+
+---
+
+## CHUNK 612
 **Metadata:**
 ```json
 {
@@ -13367,7 +16160,7 @@ The parts of the Survival Cell which are situated each side of the driver's head
 
 ---
 
-## CHUNK 484
+## CHUNK 613
 **Metadata:**
 ```json
 {
@@ -13413,7 +16206,7 @@ g. Whether material is removed in either (f.i) or (f.ii), or not, a 100mm wide s
 
 ---
 
-## CHUNK 485
+## CHUNK 614
 **Metadata:**
 ```json
 {
@@ -13433,7 +16226,7 @@ h. The minimum convex polygon enclosing the structural parts of the *Survival Ce
 
 ---
 
-## CHUNK 486
+## CHUNK 615
 **Metadata:**
 ```json
 {
@@ -13456,7 +16249,7 @@ Every Survival Cell must incorporate three FIA supplied transponders for identif
 
 ---
 
-## CHUNK 487
+## CHUNK 616
 **Metadata:**
 ```json
 {
@@ -13491,7 +16284,7 @@ No openings may be made in the 100mm wide section(s) defined in Article C12.2.2.
 
 ---
 
-## CHUNK 488
+## CHUNK 617
 **Metadata:**
 ```json
 {
@@ -13532,7 +16325,7 @@ h. Any recesses in areas covered by Article C12.3.1 – Anti Intrusion Laminate,
 
 ---
 
-## CHUNK 489
+## CHUNK 618
 **Metadata:**
 ```json
 {
@@ -13563,7 +16356,7 @@ b. that lies on or below Z=50, may lie more than 50mm ahead of RS−FWD−FUEL�
 
 ---
 
-## CHUNK 490
+## CHUNK 619
 **Metadata:**
 ```json
 {
@@ -13586,7 +16379,7 @@ For aligning the car for scrutineering, the Survival Cell should have the necess
 
 ---
 
-## CHUNK 491
+## CHUNK 620
 **Metadata:**
 ```json
 {
@@ -13609,7 +16402,28 @@ No part of RV-PU-ERS that lies above Z=51 may lie forwards of RS-FWD-FUEL-LIMIT.
 
 ---
 
-## CHUNK 492
+## CHUNK 621
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 122,
+  "rule_id": "C12.3",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL > C12.3 Intrusion Protection > C12.3",
+  "section": "Section C",
+  "article": "Article C12: SURVIVAL CELL",
+  "sub_article": "C12.3 Intrusion Protection"
+}
+```
+
+**Content:**
+[Section C > Article C12: SURVIVAL CELL > C12.3 Intrusion Protection > C12.3]
+**C12.3** #  Intrusion Protection
+
+---
+
+## CHUNK 622
 **Metadata:**
 ```json
 {
@@ -13690,7 +16504,7 @@ v. Core or hollow reinforcing structures must not be added within the inner or o
 
 ---
 
-## CHUNK 493
+## CHUNK 623
 **Metadata:**
 ```json
 {
@@ -13713,7 +16527,7 @@ It must be demonstrated by calculation that during a collision, the rear impact 
 
 ---
 
-## CHUNK 494
+## CHUNK 624
 **Metadata:**
 ```json
 {
@@ -13734,11 +16548,32 @@ It must be demonstrated by calculation that during a collision, the rear impact 
 
 The Survival Cell visible from the side that covers RV−CH−MID−MIN must be designed to resist the force of an impacting Front Impact Structure, at up to 380kN. This should be demonstrated by the tests and calculations defined in Article C13.4.7
 
+---
+
+## CHUNK 625
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 123,
+  "rule_id": "C12.4",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL > C12.4 Roll Structures > C12.4",
+  "section": "Section C",
+  "article": "Article C12: SURVIVAL CELL",
+  "sub_article": "C12.4 Roll Structures"
+}
+```
+
+**Content:**
+[Section C > Article C12: SURVIVAL CELL > C12.4 Roll Structures > C12.4]
+**C12.4** ###  Roll Structures
+
 All cars must have two roll structures that are designed to help prevent injury to the driver in the event of the car becoming inverted.
 
 ---
 
-## CHUNK 495
+## CHUNK 626
 **Metadata:**
 ```json
 {
@@ -13781,7 +16616,7 @@ It must be shown by calculation that this opening is capable of resisting a load
 
 ---
 
-## CHUNK 496
+## CHUNK 627
 **Metadata:**
 ```json
 {
@@ -13808,7 +16643,28 @@ The FIA will take the appropriate measures to ensure that Secondary Roll Structu
 
 ---
 
-## CHUNK 497
+## CHUNK 628
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 125,
+  "rule_id": "C12.5",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL > C12.5 Cockpit Specification > C12.5",
+  "section": "Section C",
+  "article": "Article C12: SURVIVAL CELL",
+  "sub_article": "C12.5 Cockpit Specification"
+}
+```
+
+**Content:**
+[Section C > Article C12: SURVIVAL CELL > C12.5 Cockpit Specification > C12.5]
+**C12.5** #  Cockpit Specification
+
+---
+
+## CHUNK 629
 **Metadata:**
 ```json
 {
@@ -13831,7 +16687,7 @@ The driver must be able to enter and get out of the Cockpit without it being nec
 
 ---
 
-## CHUNK 498
+## CHUNK 630
 **Metadata:**
 ```json
 {
@@ -13854,7 +16710,7 @@ When seated normally, the driver must be facing forwards and the rearmost part o
 
 ---
 
-## CHUNK 499
+## CHUNK 631
 **Metadata:**
 ```json
 {
@@ -13877,7 +16733,7 @@ The steering wheel, at any rotation, must lie below a line drawn between the fro
 
 ---
 
-## CHUNK 500
+## CHUNK 632
 **Metadata:**
 ```json
 {
@@ -13922,7 +16778,7 @@ d. The driver, seated normally with the safety harness fastened and with the ste
 
 ---
 
-## CHUNK 501
+## CHUNK 633
 **Metadata:**
 ```json
 {
@@ -13947,7 +16803,28 @@ It must be possible to mount the pedals with the face of the brake pedal as far 
 
 ---
 
-## CHUNK 502
+## CHUNK 634
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 126,
+  "rule_id": "C12.6",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL > C12.6 Cockpit Padding > C12.6",
+  "section": "Section C",
+  "article": "Article C12: SURVIVAL CELL",
+  "sub_article": "C12.6 Cockpit Padding"
+}
+```
+
+**Content:**
+[Section C > Article C12: SURVIVAL CELL > C12.6 Cockpit Padding > C12.6]
+**C12.6** ##  Cockpit Padding
+
+---
+
+## CHUNK 635
 **Metadata:**
 ```json
 {
@@ -14007,7 +16884,7 @@ Furthermore, any void between these areas of padding and the rear part described
 
 ---
 
-## CHUNK 503
+## CHUNK 636
 **Metadata:**
 ```json
 {
@@ -14039,7 +16916,7 @@ p. A quick release fixing which is clearly indicated at the front corner on each
 
 ---
 
-## CHUNK 504
+## CHUNK 637
 **Metadata:**
 ```json
 {
@@ -14078,6 +16955,27 @@ ii. It can be detached without tools.
 
 iii. It is present when compliance with Articles C12.5.1 and C12.5.4.d is assessed.
 
+---
+
+## CHUNK 638
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 128,
+  "rule_id": "C12.7",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL > C12.7 Front Floor Structure > C12.7",
+  "section": "Section C",
+  "article": "Article C12: SURVIVAL CELL",
+  "sub_article": "C12.7 Front Floor Structure"
+}
+```
+
+**Content:**
+[Section C > Article C12: SURVIVAL CELL > C12.7 Front Floor Structure > C12.7]
+**C12.7** ##  Front Floor Structure
+
 Below the Survival Cell, a structure, called Front Floor Structure must be fitted.
 
 The Front Floor Structure:
@@ -14100,32 +16998,29 @@ f. Must be enclosed by the union of the Floor Bodywork and the fairing defined i
 
 If the single device permitted above already conforms to the requirements of Article C3.5.14.d i and ii without the need of a fairing, over its parts in contact with the External Air Stream, then it will be considered that the device is its own fitted fairing.
 
-All cars must be fitted with a removable seat which, if it is secured, must be done so with no more than two fastenings. If fastenings are used, they must be:
-
-a. Clearly indicated and easily accessible when the driver is seated and with the headrest removed.
-
-b. Fitted vertically.
-
-c. Removable either without tools, or with a 4mm hexagonal key.
-
 ---
 
-## CHUNK 505
+## CHUNK 639
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
-  "page_number": 128,
-  "rule_id": "C12.6.2",
-  "breadcrumb": "Section C > Article C12: SURVIVAL CELL > C12.6 Cockpit Padding > C12.6.2",
+  "page_number": 129,
+  "rule_id": "C12.8",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL > C12.8 Seat fixing and removal > C12.8",
   "section": "Section C",
   "article": "Article C12: SURVIVAL CELL",
-  "sub_article": "C12.6 Cockpit Padding"
+  "sub_article": "C12.8 Seat fixing and removal"
 }
 ```
 
 **Content:**
+[Section C > Article C12: SURVIVAL CELL > C12.8 Seat fixing and removal > C12.8]
+**C12.8** #  Seat fixing and removal
+
+All cars must be fitted with a removable seat which, if it is secured, must be done so with no more than two fastenings. If fastenings are used, they must be:
+
 a. Clearly indicated and easily accessible when the driver is seated and with the headrest removed.
 
 b. Fitted vertically.
@@ -14135,6 +17030,27 @@ c. Removable either without tools, or with a 4mm hexagonal key.
 The seat must be equipped with receptacles which permit the fitting of belts to secure the driver and one which will permit the fitting of a head stabilisation device. Further details are given in <mark>FIA-F1-DOC-097</mark>.
 
 The seat must be removable without the need to cut or remove any part of the safety harness.
+
+---
+
+## CHUNK 640
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 129,
+  "rule_id": "C12.9",
+  "breadcrumb": "Section C > Article C12: SURVIVAL CELL > C12.9 Driver Fit Information > C12.9",
+  "section": "Section C",
+  "article": "Article C12: SURVIVAL CELL",
+  "sub_article": "C12.9 Driver Fit Information"
+}
+```
+
+**Content:**
+[Section C > Article C12: SURVIVAL CELL > C12.9 Driver Fit Information > C12.9]
+**C12.9** #  Driver Fit Information
 
 Driver−fit information may be transferred between teams. Such information may include CAD geometries and measurements directly relating to driver−fit but must not include construction details.
 
@@ -14147,7 +17063,28 @@ In all cases, the content of the information to be transferred must be approved 
 
 ---
 
-## CHUNK 506
+## CHUNK 641
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 130,
+  "rule_id": "C13.1",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.1 General Principles > C13.1",
+  "section": "Section C",
+  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
+  "sub_article": "C13.1 General Principles"
+}
+```
+
+**Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.1 General Principles > C13.1]
+**C13.1** ##  General Principles
+
+---
+
+## CHUNK 642
 **Metadata:**
 ```json
 {
@@ -14168,7 +17105,7 @@ In all cases, the content of the information to be transferred must be approved 
 
 ---
 
-## CHUNK 507
+## CHUNK 643
 **Metadata:**
 ```json
 {
@@ -14189,7 +17126,7 @@ In all cases, the content of the information to be transferred must be approved 
 
 ---
 
-## CHUNK 508
+## CHUNK 644
 **Metadata:**
 ```json
 {
@@ -14210,7 +17147,7 @@ In all cases, the content of the information to be transferred must be approved 
 
 ---
 
-## CHUNK 509
+## CHUNK 645
 **Metadata:**
 ```json
 {
@@ -14233,7 +17170,7 @@ F1 Teams must provide a document showing which parts are present. This document 
 
 ---
 
-## CHUNK 510
+## CHUNK 646
 **Metadata:**
 ```json
 {
@@ -14254,7 +17191,7 @@ F1 Teams must provide a document showing which parts are present. This document 
 
 ---
 
-## CHUNK 511
+## CHUNK 647
 **Metadata:**
 ```json
 {
@@ -14275,7 +17212,7 @@ F1 Teams must provide a document showing which parts are present. This document 
 
 ---
 
-## CHUNK 512
+## CHUNK 648
 **Metadata:**
 ```json
 {
@@ -14293,6 +17230,27 @@ F1 Teams must provide a document showing which parts are present. This document 
 **Content:**
 [Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.1 General Principles > C13.1.7]
 **C13.1.7** One Survival Cell must pass all the tests described in C13.2, C13.3, C13.4, and C13.5.
+
+---
+
+## CHUNK 649
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 130,
+  "rule_id": "C13.2",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.2 Survival Cell Frontal Impact Test > C13.2",
+  "section": "Section C",
+  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
+  "sub_article": "C13.2 Survival Cell Frontal Impact Test"
+}
+```
+
+**Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.2 Survival Cell Frontal Impact Test > C13.2]
+**C13.2** ##  Survival Cell Frontal Impact Test
 
 A 50mm (±1mm) thick aluminium plate should be attached to the front bulkhead of the Survival Cell through the mounting points of the frontal impact absorbing structure. The plate should:
 
@@ -14332,18 +17290,18 @@ The maximum deceleration in the chest of the dummy for a cumulative 3ms shall be
 
 ---
 
-## CHUNK 513
+## CHUNK 650
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 130,
-  "rule_id": "C13.1.7",
-  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.1 General Principles > C13.1.7",
+  "rule_id": "C13.2",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.2 Survival Cell Frontal Impact Test > C13.2",
   "section": "Section C",
   "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
-  "sub_article": "C13.1 General Principles"
+  "sub_article": "C13.2 Survival Cell Frontal Impact Test"
 }
 ```
 
@@ -14358,7 +17316,28 @@ The maximum Survival Cell displacement from T=Zero is 425mm.
 
 ---
 
-## CHUNK 514
+## CHUNK 651
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 132,
+  "rule_id": "C13.3",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.3 Roll Structure Testing > C13.3",
+  "section": "Section C",
+  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
+  "sub_article": "C13.3 Roll Structure Testing"
+}
+```
+
+**Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.3 Roll Structure Testing > C13.3]
+**C13.3** #  Roll Structure Testing
+
+---
+
+## CHUNK 652
 **Metadata:**
 ```json
 {
@@ -14411,7 +17390,7 @@ g. A load of 50kN applied normal to the surface through a 10mm diameter pad, any
 
 ---
 
-## CHUNK 515
+## CHUNK 653
 **Metadata:**
 ```json
 {
@@ -14466,7 +17445,7 @@ elastic. The methodology for the calculations shall be authenticated with data f
 
 ---
 
-## CHUNK 516
+## CHUNK 654
 **Metadata:**
 ```json
 {
@@ -14486,7 +17465,7 @@ During the test, the Survival Cell should be supported as described in C13.4.1. 
 
 ---
 
-## CHUNK 517
+## CHUNK 655
 **Metadata:**
 ```json
 {
@@ -14513,7 +17492,28 @@ b. The Survival Cell and bracket will sustain a load equivalent to 99kN vertical
 
 ---
 
-## CHUNK 518
+## CHUNK 656
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 134,
+  "rule_id": "C13.4",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.4 Survival Cell Load Tests > C13.4",
+  "section": "Section C",
+  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
+  "sub_article": "C13.4 Survival Cell Load Tests"
+}
+```
+
+**Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.4 Survival Cell Load Tests > C13.4]
+**C13.4** #  Survival Cell Load Tests
+
+---
+
+## CHUNK 657
 **Metadata:**
 ```json
 {
@@ -14568,7 +17568,7 @@ An F1 Team may opt not to use all permitted supports or use smaller supports tha
 
 ---
 
-## CHUNK 519
+## CHUNK 658
 **Metadata:**
 ```json
 {
@@ -14608,7 +17608,7 @@ An F1 Team may opt not to use all permitted supports or use smaller supports tha
 
 ---
 
-## CHUNK 520
+## CHUNK 659
 **Metadata:**
 ```json
 {
@@ -14637,7 +17637,7 @@ Permanent deformation must be less than 3mm after the load has been released for
 
 ---
 
-## CHUNK 521
+## CHUNK 660
 **Metadata:**
 ```json
 {
@@ -14666,7 +17666,7 @@ Permanent deformation must be less than 3mm after the load has been released for
 
 ---
 
-## CHUNK 522
+## CHUNK 661
 **Metadata:**
 ```json
 {
@@ -14691,7 +17691,7 @@ Under the load, there must be no structural failure of the inner or outer surfac
 
 ---
 
-## CHUNK 523
+## CHUNK 662
 **Metadata:**
 ```json
 {
@@ -14720,7 +17720,7 @@ Permanent deformation must be less than 3mm after the load has been released for
 
 ---
 
-## CHUNK 524
+## CHUNK 663
 **Metadata:**
 ```json
 {
@@ -14741,7 +17741,7 @@ Permanent deformation must be less than 3mm after the load has been released for
 
 ---
 
-## CHUNK 525
+## CHUNK 664
 **Metadata:**
 ```json
 {
@@ -14766,7 +17766,7 @@ must be no structural failure of the inner or outer surfaces of the Survival Cel
 
 ---
 
-## CHUNK 526
+## CHUNK 665
 **Metadata:**
 ```json
 {
@@ -14809,7 +17809,7 @@ The methodology for the calculations shall be authenticated by comparing data fr
 
 ---
 
-## CHUNK 527
+## CHUNK 666
 **Metadata:**
 ```json
 {
@@ -14838,7 +17838,7 @@ Additionally, teams must supply calculations that show that there would be no fa
 
 ---
 
-## CHUNK 528
+## CHUNK 667
 **Metadata:**
 ```json
 {
@@ -14863,7 +17863,7 @@ The Survival Cell should be restrained ahead of the seatback bulkhead. A load of
 
 ---
 
-## CHUNK 529
+## CHUNK 668
 **Metadata:**
 ```json
 {
@@ -14894,7 +17894,28 @@ A cradle may be used on the opposite side of the Survival Cell to react the load
 
 ---
 
-## CHUNK 530
+## CHUNK 669
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 138,
+  "rule_id": "C13.5",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.5 Side Impact Structure > C13.5",
+  "section": "Section C",
+  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
+  "sub_article": "C13.5 Side Impact Structure"
+}
+```
+
+**Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.5 Side Impact Structure > C13.5]
+**C13.5** #  **Side Impact Structure
+
+---
+
+## CHUNK 670
 **Metadata:**
 ```json
 {
@@ -14943,7 +17964,7 @@ c. Mountings must be permanently bonded to the structures to enable them to be a
 
 ---
 
-## CHUNK 531
+## CHUNK 671
 **Metadata:**
 ```json
 {
@@ -14994,7 +18015,7 @@ iii. Electrical units and pneumatic vessels;
 
 ---
 
-## CHUNK 532
+## CHUNK 672
 **Metadata:**
 ```json
 {
@@ -15033,7 +18054,7 @@ In all cases, the calculations should show that there will be no structural fail
 
 ---
 
-## CHUNK 533
+## CHUNK 673
 **Metadata:**
 ```json
 {
@@ -15066,7 +18087,7 @@ After five seconds of application there must be no failure of any structures or 
 
 ---
 
-## CHUNK 534
+## CHUNK 674
 **Metadata:**
 ```json
 {
@@ -15099,7 +18120,28 @@ Each team must supply detailed calculations which clearly show that the mounting
 
 ---
 
-## CHUNK 535
+## CHUNK 675
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 142,
+  "rule_id": "C13.6",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.6 Front Impact Structure > C13.6",
+  "section": "Section C",
+  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
+  "sub_article": "C13.6 Front Impact Structure"
+}
+```
+
+**Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.6 Front Impact Structure > C13.6]
+**C13.6** #  Front Impact Structure
+
+---
+
+## CHUNK 676
 **Metadata:**
 ```json
 {
@@ -15145,7 +18187,7 @@ Any bodywork ahead of the plane defined in (f), above Z=235, and less than 166mm
 
 ---
 
-## CHUNK 536
+## CHUNK 677
 **Metadata:**
 ```json
 {
@@ -15176,7 +18218,7 @@ In the case where a dynamic test did not meet the acceleration requirements, at 
 
 ---
 
-## CHUNK 537
+## CHUNK 678
 **Metadata:**
 ```json
 {
@@ -15227,7 +18269,7 @@ Failure should occur at a load greater than 52.5kN and the failure must be behin
 
 ---
 
-## CHUNK 538
+## CHUNK 679
 **Metadata:**
 ```json
 {
@@ -15262,7 +18304,7 @@ Furthermore, there must be no damage to the mountings of the FIS to the test fix
 
 ---
 
-## CHUNK 539
+## CHUNK 680
 **Metadata:**
 ```json
 {
@@ -15305,7 +18347,7 @@ d. Subject to approval by the FIA Technical Delegate, the following components m
 
 ---
 
-## CHUNK 540
+## CHUNK 681
 **Metadata:**
 ```json
 {
@@ -15330,7 +18372,28 @@ As well as the general requirements defined in Article C13.6.4, the impact veloc
 
 ---
 
-## CHUNK 541
+## CHUNK 682
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 145,
+  "rule_id": "C13.7",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.7 Rear Impact Structure > C13.7",
+  "section": "Section C",
+  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
+  "sub_article": "C13.7 Rear Impact Structure"
+}
+```
+
+**Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.7 Rear Impact Structure > C13.7]
+**C13.7** #  Rear Impact Structure
+
+---
+
+## CHUNK 683
 **Metadata:**
 ```json
 {
@@ -15365,7 +18428,7 @@ The Rear Impact structure is classed as TRC.
 
 ---
 
-## CHUNK 542
+## CHUNK 684
 **Metadata:**
 ```json
 {
@@ -15402,7 +18465,7 @@ A radius of 3mm is permissible on the edges of all load pads and rubber 3mm thic
 
 ---
 
-## CHUNK 543
+## CHUNK 685
 **Metadata:**
 ```json
 {
@@ -15434,6 +18497,27 @@ c. For X>0.225m, the maximum deceleration may exceed the limits defined in (a) a
 
 Furthermore, all structural damage must be contained within the area behind X<sub>R</sub>=0. This test must be carried out on the rear impact absorbing structure which was subjected to the test described in Article C13.7.2.
 
+---
+
+## CHUNK 686
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 146,
+  "rule_id": "C13.8",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.8 Steering Column Impact Test > C13.8",
+  "section": "Section C",
+  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
+  "sub_article": "C13.8 Steering Column Impact Test"
+}
+```
+
+**Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.8 Steering Column Impact Test > C13.8]
+**C13.8** ##  Steering Column Impact Test
+
 The parts referred to in Article C10.5.5 must be fitted to a representative test structure; any other parts which could materially affect the outcome of the test must also be fitted. The test structure
 
 must be solidly fixed to the ground and a solid object, having a mass of 8kg (+1%/−0) and travelling at a velocity of not less than 7metres/second, will be projected into it. The object used for this test must be hemispherical with a diameter of 165mm (±1mm).
@@ -15444,22 +18528,25 @@ During the test the striking object may not pivot in any axis and the test struc
 
 ---
 
-## CHUNK 544
+## CHUNK 687
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
-  "page_number": 146,
-  "rule_id": "C13.7.3",
-  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.7 Rear Impact Structure > C13.7.3",
+  "page_number": 147,
+  "rule_id": "C13.9",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.9 Headrest Load Test > C13.9",
   "section": "Section C",
   "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
-  "sub_article": "C13.7 Rear Impact Structure"
+  "sub_article": "C13.9 Headrest Load Test"
 }
 ```
 
 **Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.9 Headrest Load Test > C13.9]
+**C13.9** ##  Headrest Load Test
+
 The headrest must pass a load test. The load applied will be $P = (700 \times m_{HR})N$, where $m_{HR}$ is the mass of the complete headrest in kg fitted with ‘pink’ Confor foam. The load may be applied either:
 
 a. With the headrest mounted in a dummy cockpit surround, a force of \[−P/2, 0, 0] will be applied simultaneously to each of two positions on the back of the headrest, at Z=630mm and Y=±130mm.
@@ -15471,6 +18558,27 @@ b. With the headrest mounted in the car, a force of \[−P, 0, 0] will be applie
 At the test load, the pegs at the rear of the headrest must remain engaged in the holes in the chassis or dummy chassis, and there must be no failure of the headrest backing structure or the quick release mountings.
 
 Load spreader plates may be used to apply the load to the back of the headrest provided that each load spreader is more than 80mm and less than 180mm from the car centre−plane.
+
+---
+
+## CHUNK 688
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 147,
+  "rule_id": "C13.10",
+  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.10 Wheel Rim Impact Test > C13.10",
+  "section": "Section C",
+  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
+  "sub_article": "C13.10 Wheel Rim Impact Test"
+}
+```
+
+**Content:**
+[Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.10 Wheel Rim Impact Test > C13.10]
+**C13.10** ##  Wheel Rim Impact Test
 
 All Wheel Rim designs must pass an impact test, derived from the standard ISO 7141:2022, to the outer flange.
 
@@ -15495,32 +18603,33 @@ Details of the equipment, calibration and test procedure are given in <mark>FIA-
 
 <mark>Governance: F1 Commission / WMSC</mark>
 
+---
+
+## CHUNK 689
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 149,
+  "rule_id": "C14.1",
+  "breadcrumb": "Section C > Article C14: SAFETY EQUIPMENT > C14.1 Fire Extinguishers > C14.1",
+  "section": "Section C",
+  "article": "Article C14: SAFETY EQUIPMENT",
+  "sub_article": "C14.1 Fire Extinguishers"
+}
+```
+
+**Content:**
+[Section C > Article C14: SAFETY EQUIPMENT > C14.1 Fire Extinguishers > C14.1]
+**C14.1** ##  Fire Extinguishers
+
 All cars must be fitted with a fire extinguishing system which:
 
 a. Will discharge into the Cockpit only.
 
 b. Is approved according to the FIA Standard 8876−2022 and homologated for Class II fires, with the exception of:
 
-i. The pressure gauge required by section 4.6 of FIA Standard 8876−2022 for pressurised systems, provided that the F1 Team supplies an on- or off-car solution to verify that the system is correctly pressurised at filling and test times.
-
----
-
-## CHUNK 545
-**Metadata:**
-```json
-{
-  "source_pdf": "2026_f1_regulations_section_c.pdf",
-  "regulatory_year": 2026,
-  "page_number": 146,
-  "rule_id": "C13.7.3",
-  "breadcrumb": "Section C > Article C13: SAFETY STRUCTURES AND HOMOLOGATION > C13.7 Rear Impact Structure > C13.7.3",
-  "section": "Section C",
-  "article": "Article C13: SAFETY STRUCTURES AND HOMOLOGATION",
-  "sub_article": "C13.7 Rear Impact Structure"
-}
-```
-
-**Content:**
 i. The pressure gauge required by section 4.6 of FIA Standard 8876−2022 for pressurised systems, provided that the F1 Team supplies an on- or off-car solution to verify that the system is correctly pressurised at filling and test times.
 
 ii. The electrical box required by section 4.5.1 of FIA Standard 8876−2022, provided that the F1 Team supplies an on- or off-car solution to verify that the system operates without anomaly and is ready to be activated.
@@ -15541,7 +18650,28 @@ All extinguisher nozzles must be included in the homologation of the fire exting
 
 ---
 
-## CHUNK 546
+## CHUNK 690
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 149,
+  "rule_id": "C14.2",
+  "breadcrumb": "Section C > Article C14: SAFETY EQUIPMENT > C14.2 Rear view mirrors > C14.2",
+  "section": "Section C",
+  "article": "Article C14: SAFETY EQUIPMENT",
+  "sub_article": "C14.2 Rear view mirrors"
+}
+```
+
+**Content:**
+[Section C > Article C14: SAFETY EQUIPMENT > C14.2 Rear view mirrors > C14.2]
+**C14.2** ##  Rear view mirrors
+
+---
+
+## CHUNK 691
 **Metadata:**
 ```json
 {
@@ -15564,7 +18694,7 @@ All cars must have two mirrors positioned symmetrically about the car’s centre
 
 ---
 
-## CHUNK 547
+## CHUNK 692
 **Metadata:**
 ```json
 {
@@ -15604,7 +18734,7 @@ For the avoidance of doubt, any non−reflective parts of the mirror must be con
 
 ---
 
-## CHUNK 548
+## CHUNK 693
 **Metadata:**
 ```json
 {
@@ -15625,7 +18755,28 @@ For the avoidance of doubt, any non−reflective parts of the mirror must be con
 
 ---
 
-## CHUNK 549
+## CHUNK 694
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 150,
+  "rule_id": "C14.3",
+  "breadcrumb": "Section C > Article C14: SAFETY EQUIPMENT > C14.3 Rear lights > C14.3",
+  "section": "Section C",
+  "article": "Article C14: SAFETY EQUIPMENT",
+  "sub_article": "C14.3 Rear lights"
+}
+```
+
+**Content:**
+[Section C > Article C14: SAFETY EQUIPMENT > C14.3 Rear lights > C14.3]
+**C14.3** ##  Rear lights
+
+---
+
+## CHUNK 695
 **Metadata:**
 ```json
 {
@@ -15649,7 +18800,7 @@ c. Can be switched on by the driver when seated normally in the car.
 
 ---
 
-## CHUNK 550
+## CHUNK 696
 **Metadata:**
 ```json
 {
@@ -15673,7 +18824,7 @@ c. The centre of its rear face between Z=295 and Z=305.
 
 ---
 
-## CHUNK 551
+## CHUNK 697
 **Metadata:**
 ```json
 {
@@ -15700,7 +18851,7 @@ e. Be fitted in accordance with the instructions detailed in the document <mark>
 
 ---
 
-## CHUNK 552
+## CHUNK 698
 **Metadata:**
 ```json
 {
@@ -15721,7 +18872,28 @@ e. Be fitted in accordance with the instructions detailed in the document <mark>
 
 ---
 
-## CHUNK 553
+## CHUNK 699
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 151,
+  "rule_id": "C14.4",
+  "breadcrumb": "Section C > Article C14: SAFETY EQUIPMENT > C14.4 Safety Tethers > C14.4",
+  "section": "Section C",
+  "article": "Article C14: SAFETY EQUIPMENT",
+  "sub_article": "C14.4 Safety Tethers"
+}
+```
+
+**Content:**
+[Section C > Article C14: SAFETY EQUIPMENT > C14.4 Safety Tethers > C14.4]
+**C14.4** # ** Safety Tethers
+
+---
+
+## CHUNK 700
 **Metadata:**
 ```json
 {
@@ -15770,7 +18942,7 @@ Each F1 Team must supply detailed geometries which clearly show that all of the 
 
 ---
 
-## CHUNK 554
+## CHUNK 701
 **Metadata:**
 ```json
 {
@@ -15791,13 +18963,55 @@ Each F1 Team must supply detailed geometries which clearly show that all of the 
 
 The rear impact structure must be attached to the Gearbox Case with a tether with a cross sectional area of at least 20mm², a minimum breaking strength of 24kN and a length of at least 600mm. The attachment to the Gearbox Case must be ahead of X<sub>DIF</sub>=300 and must not bend the tether round a radius of less than 3mm at the specified load. This fixing should withstand a load of 24kN in a rearward direction at up to 22.5° from the X−axis. The attachment to the RIS should be behind X<sub>DIF</sub>=650, and must not bend the tether round a radius of less than 3mm at the specified load. This fixing should withstand a load of 24kN in a forward direction.
 
+---
+
+## CHUNK 702
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 152,
+  "rule_id": "C14.5",
+  "breadcrumb": "Section C > Article C14: SAFETY EQUIPMENT > C14.5 Safety Harnesses > C14.5",
+  "section": "Section C",
+  "article": "Article C14: SAFETY EQUIPMENT",
+  "sub_article": "C14.5 Safety Harnesses"
+}
+```
+
+**Content:**
+[Section C > Article C14: SAFETY EQUIPMENT > C14.5 Safety Harnesses > C14.5]
+**C14.5** ##  Safety Harnesses
+
 It is mandatory to wear a safety harness that has been homologated to FIA Standard 8853−2016.
 
 The safety harness must be used in accordance with the safety harness manufacturer's instructions and must be securely fixed to the car. Approved harnesses are listed in Technical List n°57.
 
 ---
 
-## CHUNK 555
+## CHUNK 703
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 152,
+  "rule_id": "C14.6",
+  "breadcrumb": "Section C > Article C14: SAFETY EQUIPMENT > C14.6 Driver Cooling System > C14.6",
+  "section": "Section C",
+  "article": "Article C14: SAFETY EQUIPMENT",
+  "sub_article": "C14.6 Driver Cooling System"
+}
+```
+
+**Content:**
+[Section C > Article C14: SAFETY EQUIPMENT > C14.6 Driver Cooling System > C14.6]
+**C14.6** ##  Driver Cooling System
+
+---
+
+## CHUNK 704
 **Metadata:**
 ```json
 {
@@ -15826,7 +19040,7 @@ b. A system that uses stored thermal energy must have a reserve of at least 1.1M
 
 ---
 
-## CHUNK 556
+## CHUNK 705
 **Metadata:**
 ```json
 {
@@ -15847,7 +19061,7 @@ b. A system that uses stored thermal energy must have a reserve of at least 1.1M
 
 ---
 
-## CHUNK 557
+## CHUNK 706
 **Metadata:**
 ```json
 {
@@ -15868,7 +19082,7 @@ b. A system that uses stored thermal energy must have a reserve of at least 1.1M
 
 ---
 
-## CHUNK 558
+## CHUNK 707
 **Metadata:**
 ```json
 {
@@ -15889,7 +19103,7 @@ b. A system that uses stored thermal energy must have a reserve of at least 1.1M
 
 ---
 
-## CHUNK 559
+## CHUNK 708
 **Metadata:**
 ```json
 {
@@ -15910,7 +19124,7 @@ b. A system that uses stored thermal energy must have a reserve of at least 1.1M
 
 ---
 
-## CHUNK 560
+## CHUNK 709
 **Metadata:**
 ```json
 {
@@ -15931,7 +19145,7 @@ b. A system that uses stored thermal energy must have a reserve of at least 1.1M
 
 ---
 
-## CHUNK 561
+## CHUNK 710
 **Metadata:**
 ```json
 {
@@ -15956,7 +19170,7 @@ b. A fan for the sole purpose of feeding cooled air into the driver’s overalls
 
 ---
 
-## CHUNK 562
+## CHUNK 711
 **Metadata:**
 ```json
 {
@@ -15989,7 +19203,7 @@ During the test, the load must not exceed 20kN
 
 ---
 
-## CHUNK 563
+## CHUNK 712
 **Metadata:**
 ```json
 {
@@ -16010,7 +19224,28 @@ During the test, the load must not exceed 20kN
 
 ---
 
-## CHUNK 564
+## CHUNK 713
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 153,
+  "rule_id": "C14.7",
+  "breadcrumb": "Section C > Article C14: SAFETY EQUIPMENT > C14.7 Lateral Safety lights > C14.7",
+  "section": "Section C",
+  "article": "Article C14: SAFETY EQUIPMENT",
+  "sub_article": "C14.7 Lateral Safety lights"
+}
+```
+
+**Content:**
+[Section C > Article C14: SAFETY EQUIPMENT > C14.7 Lateral Safety lights > C14.7]
+**C14.7** ##  Lateral Safety lights
+
+---
+
+## CHUNK 714
 **Metadata:**
 ```json
 {
@@ -16037,7 +19272,7 @@ c. offer an unobscured view of the highlighted surface of RV-LATERAL-SAFETY-LIGH
 
 ---
 
-## CHUNK 565
+## CHUNK 715
 **Metadata:**
 ```json
 {
@@ -16056,14 +19291,56 @@ c. offer an unobscured view of the highlighted surface of RV-LATERAL-SAFETY-LIGH
 [Section C > Article C14: SAFETY EQUIPMENT > C14.7 Lateral Safety lights > C14.7.2]
 **C14.7.2** This lateral safety light is classed as SSC, and all the relevant details can be found in the Document <mark>FIA-F1-DOC-026</mark>.
 
+---
+
+## CHUNK 716
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 153,
+  "rule_id": "C14.8",
+  "breadcrumb": "Section C > Article C14: SAFETY EQUIPMENT > C14.8 Driver\u2019s Drink System > C14.8",
+  "section": "Section C",
+  "article": "Article C14: SAFETY EQUIPMENT",
+  "sub_article": "C14.8 Driver\u2019s Drink System"
+}
+```
+
+**Content:**
+[Section C > Article C14: SAFETY EQUIPMENT > C14.8 Driver’s Drink System > C14.8]
+**C14.8** ##  Driver’s Drink System
+
 All cars must be fitted with a system for providing the driver with drink. The system must have a capacity of between 1 litre and 1.5 litres and must be located between X<sub>C</sub>=−1400 and X<sub>C</sub>=0.
+
+---
+
+## CHUNK 717
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 154,
+  "rule_id": "C15.1",
+  "breadcrumb": "Section C > Article C15: MATERIALS > C15.1 General Principles > C15.1",
+  "section": "Section C",
+  "article": "Article C15: MATERIALS",
+  "sub_article": "C15.1 General Principles"
+}
+```
+
+**Content:**
+[Section C > Article C15: MATERIALS > C15.1 General Principles > C15.1]
+**C15.1** ##  General Principles
 
 *Advisory Committee: TAC and PUAC*
 *Governance: F1 Commission / PU Manufacturers’ Governance Agreement / WMSC*
 
 ---
 
-## CHUNK 566
+## CHUNK 718
 **Metadata:**
 ```json
 {
@@ -16084,7 +19361,7 @@ All cars must be fitted with a system for providing the driver with drink. The s
 
 ---
 
-## CHUNK 567
+## CHUNK 719
 **Metadata:**
 ```json
 {
@@ -16105,7 +19382,7 @@ All cars must be fitted with a system for providing the driver with drink. The s
 
 ---
 
-## CHUNK 568
+## CHUNK 720
 **Metadata:**
 ```json
 {
@@ -16126,7 +19403,7 @@ All cars must be fitted with a system for providing the driver with drink. The s
 
 ---
 
-## CHUNK 569
+## CHUNK 721
 **Metadata:**
 ```json
 {
@@ -16147,7 +19424,7 @@ All cars must be fitted with a system for providing the driver with drink. The s
 
 ---
 
-## CHUNK 570
+## CHUNK 722
 **Metadata:**
 ```json
 {
@@ -16168,7 +19445,7 @@ All cars must be fitted with a system for providing the driver with drink. The s
 
 ---
 
-## CHUNK 571
+## CHUNK 723
 **Metadata:**
 ```json
 {
@@ -16189,7 +19466,7 @@ All cars must be fitted with a system for providing the driver with drink. The s
 
 ---
 
-## CHUNK 572
+## CHUNK 724
 **Metadata:**
 ```json
 {
@@ -16210,7 +19487,7 @@ All cars must be fitted with a system for providing the driver with drink. The s
 
 ---
 
-## CHUNK 573
+## CHUNK 725
 **Metadata:**
 ```json
 {
@@ -16231,7 +19508,7 @@ All cars must be fitted with a system for providing the driver with drink. The s
 
 ---
 
-## CHUNK 574
+## CHUNK 726
 **Metadata:**
 ```json
 {
@@ -16250,6 +19527,27 @@ All cars must be fitted with a system for providing the driver with drink. The s
 [Section C > Article C15: MATERIALS > C15.1 General Principles > C15.1.9]
 **C15.1.9** The whole percentage range of an element, as declared in the applicable international standard for a specific alloy, shall be inside all the limits set in these Regulations.
 
+---
+
+## CHUNK 727
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 154,
+  "rule_id": "C15.2",
+  "breadcrumb": "Section C > Article C15: MATERIALS > C15.2 Permitted Materials (Components Outside the PU Perimeter) > C15.2",
+  "section": "Section C",
+  "article": "Article C15: MATERIALS",
+  "sub_article": "C15.2 Permitted Materials (Components Outside the PU Perimeter)"
+}
+```
+
+**Content:**
+[Section C > Article C15: MATERIALS > C15.2 Permitted Materials (Components Outside the PU Perimeter) > C15.2]
+**C15.2** ##  Permitted Materials (Components Outside the PU Perimeter)
+
 *Advisory Committee: TAC*
 *Governance: F1 Commission / WMSC*
 
@@ -16257,7 +19555,7 @@ With the exception of materials specifically permitted for certain components, a
 
 ---
 
-## CHUNK 575
+## CHUNK 728
 **Metadata:**
 ```json
 {
@@ -16326,7 +19624,7 @@ e. Titanium Alloys:
 
 ---
 
-## CHUNK 576
+## CHUNK 729
 **Metadata:**
 ```json
 {
@@ -16365,7 +19663,7 @@ Furthermore, the finished mass of a component made by additive manufacture shoul
 
 ---
 
-## CHUNK 577
+## CHUNK 730
 **Metadata:**
 ```json
 {
@@ -16418,7 +19716,7 @@ vi. Balsa wood
 
 ---
 
-## CHUNK 578
+## CHUNK 731
 **Metadata:**
 ```json
 {
@@ -16442,12 +19740,33 @@ In addition to materials permitted in C15.2.3, the following polymer materials a
 a. Thermoplastics – monolithic or particulate filled.
 b. Thermosets – monolithic or particulate filled.
 
+---
+
+## CHUNK 732
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 157,
+  "rule_id": "C15.3",
+  "breadcrumb": "Section C > Article C15: MATERIALS > C15.3 Specific Prohibitions and Restrictions (Components Outside the PU Perimeter) > C15.3",
+  "section": "Section C",
+  "article": "Article C15: MATERIALS",
+  "sub_article": "C15.3 Specific Prohibitions and Restrictions (Components Outside the PU Perimeter)"
+}
+```
+
+**Content:**
+[Section C > Article C15: MATERIALS > C15.3 Specific Prohibitions and Restrictions (Components Outside the PU Perimeter) > C15.3]
+**C15.3** #  Specific Prohibitions and Restrictions (Components Outside the PU Perimeter)
+
 *Advisory Committee: TAC*
 *Governance: F1 Commission / WMSC*
 
 ---
 
-## CHUNK 579
+## CHUNK 733
 **Metadata:**
 ```json
 {
@@ -16471,7 +19790,7 @@ b. Additive manufactured materials containing Beryllium.
 
 ---
 
-## CHUNK 580
+## CHUNK 734
 **Metadata:**
 ```json
 {
@@ -16498,7 +19817,7 @@ c. Intermetallic alloys.
 
 ---
 
-## CHUNK 581
+## CHUNK 735
 **Metadata:**
 ```json
 {
@@ -16529,7 +19848,7 @@ v. additive manufactured aluminium permitted by C15.2.2.a or C15.2.2.b..
 
 ---
 
-## CHUNK 582
+## CHUNK 736
 **Metadata:**
 ```json
 {
@@ -16547,6 +19866,27 @@ v. additive manufactured aluminium permitted by C15.2.2.a or C15.2.2.b..
 **Content:**
 [Section C > Article C15: MATERIALS > C15.3 Specific Prohibitions and Restrictions (Components Outside the PU Perimeter) > C15.3.4]
 **C15.3.4** The Primary Roll Structure may not be made from materials with particulate reinforcing (Articles C15.2.1.h or C15.2.2.b).
+
+---
+
+## CHUNK 737
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 158,
+  "rule_id": "C15.4",
+  "breadcrumb": "Section C > Article C15: MATERIALS > C15.4 Specific Exceptions (Components Outside the PU Perimeter) > C15.4",
+  "section": "Section C",
+  "article": "Article C15: MATERIALS",
+  "sub_article": "C15.4 Specific Exceptions (Components Outside the PU Perimeter)"
+}
+```
+
+**Content:**
+[Section C > Article C15: MATERIALS > C15.4 Specific Exceptions (Components Outside the PU Perimeter) > C15.4]
+**C15.4** Specific Exceptions (Components Outside the PU Perimeter)
 
 <mark>*Advisory Committee: TAC*</mark> <mark>*Governance: F1 Commission / WMSC*</mark>
 
@@ -16586,13 +19926,34 @@ p. UNS R30006 (Stellite 6 − Cast), UNS R30106 (Stellite 6 − Sintered), UNS R
 
 q. Materials used for windows in bodywork for optical sensors.
 
+---
+
+## CHUNK 738
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 159,
+  "rule_id": "C15.5",
+  "breadcrumb": "Section C > Article C15: MATERIALS > C15.5 Prescribed and Homologated Laminates (Components Outside the PU Perimeter) > C15.5",
+  "section": "Section C",
+  "article": "Article C15: MATERIALS",
+  "sub_article": "C15.5 Prescribed and Homologated Laminates (Components Outside the PU Perimeter)"
+}
+```
+
+**Content:**
+[Section C > Article C15: MATERIALS > C15.5 Prescribed and Homologated Laminates (Components Outside the PU Perimeter) > C15.5]
+**C15.5** #  Prescribed and Homologated Laminates (Components Outside the PU Perimeter)
+
 <span style="color: red">*Advisory Committee: TAC*</span> <span style="color: red">*Governance: F1 Commission / WMSC*</span>
 
 The following are the prescribed laminates referred to in other articles of these regulations.
 
 ---
 
-## CHUNK 583
+## CHUNK 739
 **Metadata:**
 ```json
 {
@@ -16625,7 +19986,7 @@ f. CC-UHS − Woven carbon cloth, fibre Ftu > 6250MPa, epoxy prepreg
 
 ---
 
-## CHUNK 584
+## CHUNK 740
 **Metadata:**
 ```json
 {
@@ -16658,7 +20019,7 @@ c. PL−HEADREST: \[KC60, KC60]
 
 ---
 
-## CHUNK 585
+## CHUNK 741
 **Metadata:**
 ```json
 {
@@ -16700,12 +20061,33 @@ A representative test panel must resist an intrusion load of 325kN.
 d. HL-FC-SIDE:
 A laminate of sandwich construction. A representative test panel must resist an intrusion load of 325kN.
 
+---
+
+## CHUNK 742
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 160,
+  "rule_id": "C15.6",
+  "breadcrumb": "Section C > Article C15: MATERIALS > C15.6 Materials, processes and construction \u2013 General (Components inside the PU Perimeter) > C15.6",
+  "section": "Section C",
+  "article": "Article C15: MATERIALS",
+  "sub_article": "C15.6 Materials, processes and construction \u2013 General (Components inside the PU Perimeter)"
+}
+```
+
+**Content:**
+[Section C > Article C15: MATERIALS > C15.6 Materials, processes and construction – General (Components inside the PU Perimeter) > C15.6]
+**C15.6** #  Materials, processes and construction – General (Components inside the PU Perimeter)
+
 *Advisory Committee: PUAC*
 *Governance: PU Manufacturers’ Governance Agreement / WMSC*
 
 ---
 
-## CHUNK 586
+## CHUNK 743
 **Metadata:**
 ```json
 {
@@ -16750,7 +20132,7 @@ n. Polymer composite material not listed in C15.2.3 except Metallic reinforced p
 
 ---
 
-## CHUNK 587
+## CHUNK 744
 **Metadata:**
 ```json
 {
@@ -16775,7 +20157,7 @@ Graphene is not permitted in any coating.
 
 ---
 
-## CHUNK 588
+## CHUNK 745
 **Metadata:**
 ```json
 {
@@ -16798,7 +20180,7 @@ b. Any coating whose primary purpose is for Thermal Insulation of the outside of
 
 ---
 
-## CHUNK 589
+## CHUNK 746
 **Metadata:**
 ```json
 {
@@ -16819,7 +20201,7 @@ b. Any coating whose primary purpose is for Thermal Insulation of the outside of
 
 ---
 
-## CHUNK 590
+## CHUNK 747
 **Metadata:**
 ```json
 {
@@ -16840,7 +20222,7 @@ b. Any coating whose primary purpose is for Thermal Insulation of the outside of
 
 ---
 
-## CHUNK 591
+## CHUNK 748
 **Metadata:**
 ```json
 {
@@ -16861,7 +20243,7 @@ b. Any coating whose primary purpose is for Thermal Insulation of the outside of
 
 ---
 
-## CHUNK 592
+## CHUNK 749
 **Metadata:**
 ```json
 {
@@ -16880,11 +20262,32 @@ b. Any coating whose primary purpose is for Thermal Insulation of the outside of
 [Section C > Article C15: MATERIALS > C15.6 Materials, processes and construction – General (Components inside the PU Perimeter) > C15.6.7]
 **C15.6.7** An approach aiming to respect the REACH and ROHS standards shall be actively pursued by the manufacturers.
 
+---
+
+## CHUNK 750
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 161,
+  "rule_id": "C15.7",
+  "breadcrumb": "Section C > Article C15: MATERIALS > C15.7 Materials and construction \u2013 Components (Components inside the PU Perimeter) > C15.7",
+  "section": "Section C",
+  "article": "Article C15: MATERIALS",
+  "sub_article": "C15.7 Materials and construction \u2013 Components (Components inside the PU Perimeter)"
+}
+```
+
+**Content:**
+[Section C > Article C15: MATERIALS > C15.7 Materials and construction – Components (Components inside the PU Perimeter) > C15.7]
+**C15.7** #  Materials and construction – Components (Components inside the PU Perimeter)
+
 <mark>Advisory Committee: PUAC</mark> <mark>Governance: PU Manufacturers’ Governance Agreement / WMSC</mark>
 
 ---
 
-## CHUNK 593
+## CHUNK 751
 **Metadata:**
 ```json
 {
@@ -16905,7 +20308,7 @@ b. Any coating whose primary purpose is for Thermal Insulation of the outside of
 
 ---
 
-## CHUNK 594
+## CHUNK 752
 **Metadata:**
 ```json
 {
@@ -16926,7 +20329,7 @@ b. Any coating whose primary purpose is for Thermal Insulation of the outside of
 
 ---
 
-## CHUNK 595
+## CHUNK 753
 **Metadata:**
 ```json
 {
@@ -16947,7 +20350,7 @@ b. Any coating whose primary purpose is for Thermal Insulation of the outside of
 
 ---
 
-## CHUNK 596
+## CHUNK 754
 **Metadata:**
 ```json
 {
@@ -16971,7 +20374,7 @@ Crank counterweights assembled to the crankshaft may be manufactured in a Tungst
 
 ---
 
-## CHUNK 597
+## CHUNK 755
 **Metadata:**
 ```json
 {
@@ -16996,7 +20399,7 @@ No welding is allowed between the front and rear bearing journals.
 
 ---
 
-## CHUNK 598
+## CHUNK 756
 **Metadata:**
 ```json
 {
@@ -17019,7 +20422,7 @@ In addition, the restrictions detailed in Articles C15.6.2 and C15.1.4 do not ap
 
 ---
 
-## CHUNK 599
+## CHUNK 757
 **Metadata:**
 ```json
 {
@@ -17050,7 +20453,7 @@ e. Torsional damper elements may be manufactured in a Tungsten based material.
 
 ---
 
-## CHUNK 600
+## CHUNK 758
 **Metadata:**
 ```json
 {
@@ -17091,13 +20494,34 @@ f. Only one Cylinder Head is permitted for each bank and each Cylinder Head must
 
 g. The plenum must be made from polymer composite material, steel, aluminium or titanium alloys with the exception of Inserts.
 
+---
+
+## CHUNK 759
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 163,
+  "rule_id": "C15.8",
+  "breadcrumb": "Section C > Article C15: MATERIALS > C15.8 Materials and construction \u2013 Pressure charging and exhaust systems (Components inside the PU Perimeter) > C15.8",
+  "section": "Section C",
+  "article": "Article C15: MATERIALS",
+  "sub_article": "C15.8 Materials and construction \u2013 Pressure charging and exhaust systems (Components inside the PU Perimeter)"
+}
+```
+
+**Content:**
+[Section C > Article C15: MATERIALS > C15.8 Materials and construction – Pressure charging and exhaust systems (Components inside the PU Perimeter) > C15.8]
+**C15.8** #  Materials and construction – Pressure charging and exhaust systems (Components inside the PU Perimeter)
+
 <mark>Advisory Committee: PUAC</mark>
 
 <mark>Governance: PU Manufacturers’ Governance Agreement / WMSC</mark>
 
 ---
 
-## CHUNK 601
+## CHUNK 760
 **Metadata:**
 ```json
 {
@@ -17118,7 +20542,7 @@ g. The plenum must be made from polymer composite material, steel, aluminium or 
 
 ---
 
-## CHUNK 602
+## CHUNK 761
 **Metadata:**
 ```json
 {
@@ -17139,7 +20563,7 @@ g. The plenum must be made from polymer composite material, steel, aluminium or 
 
 ---
 
-## CHUNK 603
+## CHUNK 762
 **Metadata:**
 ```json
 {
@@ -17160,7 +20584,7 @@ g. The plenum must be made from polymer composite material, steel, aluminium or 
 
 ---
 
-## CHUNK 604
+## CHUNK 763
 **Metadata:**
 ```json
 {
@@ -17181,7 +20605,7 @@ g. The plenum must be made from polymer composite material, steel, aluminium or 
 
 ---
 
-## CHUNK 605
+## CHUNK 764
 **Metadata:**
 ```json
 {
@@ -17202,7 +20626,7 @@ g. The plenum must be made from polymer composite material, steel, aluminium or 
 
 ---
 
-## CHUNK 606
+## CHUNK 765
 **Metadata:**
 ```json
 {
@@ -17223,7 +20647,7 @@ g. The plenum must be made from polymer composite material, steel, aluminium or 
 
 ---
 
-## CHUNK 607
+## CHUNK 766
 **Metadata:**
 ```json
 {
@@ -17250,7 +20674,7 @@ c. One connection between the secondary and the TC per bank. The maximum dimensi
 
 ---
 
-## CHUNK 608
+## CHUNK 767
 **Metadata:**
 ```json
 {
@@ -17271,7 +20695,7 @@ c. One connection between the secondary and the TC per bank. The maximum dimensi
 
 ---
 
-## CHUNK 609
+## CHUNK 768
 **Metadata:**
 ```json
 {
@@ -17290,13 +20714,34 @@ c. One connection between the secondary and the TC per bank. The maximum dimensi
 [Section C > Article C15: MATERIALS > C15.8 Materials and construction – Pressure charging and exhaust systems (Components inside the PU Perimeter) > C15.8.9]
 **C15.8.9** Variable Geometry intake device(s) (Article C5.7.4) components necessary to modify the intake section must respect Article C15.6.
 
+---
+
+## CHUNK 769
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 164,
+  "rule_id": "C15.9",
+  "breadcrumb": "Section C > Article C15: MATERIALS > C15.9 Materials and construction \u2013 and electronic systems (Components inside the PU Perimeter) > C15.9",
+  "section": "Section C",
+  "article": "Article C15: MATERIALS",
+  "sub_article": "C15.9 Materials and construction \u2013 and electronic systems (Components inside the PU Perimeter)"
+}
+```
+
+**Content:**
+[Section C > Article C15: MATERIALS > C15.9 Materials and construction – and electronic systems (Components inside the PU Perimeter) > C15.9]
+**C15.9** # ** Materials and construction – and electronic systems (Components inside the PU Perimeter)
+
 *Advisory Committee: PUAC*
 
 *Governance: PU Manufacturers’ Governance Agreement / WMSC*
 
 ---
 
-## CHUNK 610
+## CHUNK 770
 **Metadata:**
 ```json
 {
@@ -17317,7 +20762,7 @@ c. One connection between the secondary and the TC per bank. The maximum dimensi
 
 ---
 
-## CHUNK 611
+## CHUNK 771
 **Metadata:**
 ```json
 {
@@ -17338,7 +20783,7 @@ c. One connection between the secondary and the TC per bank. The maximum dimensi
 
 ---
 
-## CHUNK 612
+## CHUNK 772
 **Metadata:**
 ```json
 {
@@ -17359,7 +20804,7 @@ c. One connection between the secondary and the TC per bank. The maximum dimensi
 
 ---
 
-## CHUNK 613
+## CHUNK 773
 **Metadata:**
 ```json
 {
@@ -17380,7 +20825,7 @@ c. One connection between the secondary and the TC per bank. The maximum dimensi
 
 ---
 
-## CHUNK 614
+## CHUNK 774
 **Metadata:**
 ```json
 {
@@ -17403,7 +20848,7 @@ Concentration up to 49% is permitted providing that all end-of-life cobalt is re
 
 ---
 
-## CHUNK 615
+## CHUNK 775
 **Metadata:**
 ```json
 {
@@ -17424,7 +20869,7 @@ Concentration up to 49% is permitted providing that all end-of-life cobalt is re
 
 ---
 
-## CHUNK 616
+## CHUNK 776
 **Metadata:**
 ```json
 {
@@ -17449,7 +20894,28 @@ Concentration up to 49% is permitted providing that all end-of-life cobalt is re
 
 ---
 
-## CHUNK 617
+## CHUNK 777
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 165,
+  "rule_id": "C16.1",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.1 Basic principles > C16.1",
+  "section": "Section C",
+  "article": "Article C16: FUEL AND ENGINE OIL",
+  "sub_article": "C16.1 Basic principles"
+}
+```
+
+**Content:**
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.1 Basic principles > C16.1]
+**C16.1** ##  Basic principles
+
+---
+
+## CHUNK 778
 **Metadata:**
 ```json
 {
@@ -17470,7 +20936,7 @@ Concentration up to 49% is permitted providing that all end-of-life cobalt is re
 
 ---
 
-## CHUNK 618
+## CHUNK 779
 **Metadata:**
 ```json
 {
@@ -17493,7 +20959,7 @@ Concentration up to 49% is permitted providing that all end-of-life cobalt is re
 
 ---
 
-## CHUNK 619
+## CHUNK 780
 **Metadata:**
 ```json
 {
@@ -17514,7 +20980,7 @@ Concentration up to 49% is permitted providing that all end-of-life cobalt is re
 
 ---
 
-## CHUNK 620
+## CHUNK 781
 **Metadata:**
 ```json
 {
@@ -17535,7 +21001,7 @@ Concentration up to 49% is permitted providing that all end-of-life cobalt is re
 
 ---
 
-## CHUNK 621
+## CHUNK 782
 **Metadata:**
 ```json
 {
@@ -17556,7 +21022,7 @@ Concentration up to 49% is permitted providing that all end-of-life cobalt is re
 
 ---
 
-## CHUNK 622
+## CHUNK 783
 **Metadata:**
 ```json
 {
@@ -17577,7 +21043,7 @@ Concentration up to 49% is permitted providing that all end-of-life cobalt is re
 
 ---
 
-## CHUNK 623
+## CHUNK 784
 **Metadata:**
 ```json
 {
@@ -17598,7 +21064,7 @@ Concentration up to 49% is permitted providing that all end-of-life cobalt is re
 
 ---
 
-## CHUNK 624
+## CHUNK 785
 **Metadata:**
 ```json
 {
@@ -17626,7 +21092,7 @@ Greases are not considered as part of this restriction.
 
 ---
 
-## CHUNK 625
+## CHUNK 786
 **Metadata:**
 ```json
 {
@@ -17656,7 +21122,7 @@ Greases are not considered as part of this restriction.
 
 ---
 
-## CHUNK 626
+## CHUNK 787
 **Metadata:**
 ```json
 {
@@ -17674,6 +21140,27 @@ Greases are not considered as part of this restriction.
 **Content:**
 [Section C > Article C16: FUEL AND ENGINE OIL > C16.1 Basic principles > C16.1.10]
 **C16.1.10** Excluding fuel, hydraulic fluid, ERS fluid and engine oil as defined in C16.1.5, any other liquid inside the PU perimeter can only have the function of coolant/thermal exchange, and cannot act as a lubricant, with the only possible exception of lubricating its own pump(s) and valve(s).
+
+---
+
+## CHUNK 788
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 166,
+  "rule_id": "C16.2",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.2 Fuel properties > C16.2",
+  "section": "Section C",
+  "article": "Article C16: FUEL AND ENGINE OIL",
+  "sub_article": "C16.2 Fuel properties"
+}
+```
+
+**Content:**
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.2 Fuel properties > C16.2]
+**C16.2** Fuel properties
 
 The only fuel permitted is petrol having the following characteristics:
 
@@ -17716,7 +21203,28 @@ The fuel will be accepted or rejected according to ASTM D 3244 with a confidence
 
 ---
 
-## CHUNK 627
+## CHUNK 789
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 167,
+  "rule_id": "C16.3",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.3 Composition of the fuel > C16.3",
+  "section": "Section C",
+  "article": "Article C16: FUEL AND ENGINE OIL",
+  "sub_article": "C16.3 Composition of the fuel"
+}
+```
+
+**Content:**
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.3 Composition of the fuel > C16.3]
+**C16.3** ##  Composition of the fuel
+
+---
+
+## CHUNK 790
 **Metadata:**
 ```json
 {
@@ -17751,7 +21259,7 @@ In addition, the fuel must contain no substance which is capable of exothermic r
 
 ---
 
-## CHUNK 628
+## CHUNK 791
 **Metadata:**
 ```json
 {
@@ -17772,7 +21280,7 @@ In addition, the fuel must contain no substance which is capable of exothermic r
 
 ---
 
-## CHUNK 629
+## CHUNK 792
 **Metadata:**
 ```json
 {
@@ -17793,7 +21301,7 @@ In addition, the fuel must contain no substance which is capable of exothermic r
 
 ---
 
-## CHUNK 630
+## CHUNK 793
 **Metadata:**
 ```json
 {
@@ -17814,7 +21322,28 @@ In addition, the fuel must contain no substance which is capable of exothermic r
 
 ---
 
-## CHUNK 631
+## CHUNK 794
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 168,
+  "rule_id": "C16.4",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.4 Fuel approval > C16.4",
+  "section": "Section C",
+  "article": "Article C16: FUEL AND ENGINE OIL",
+  "sub_article": "C16.4 Fuel approval"
+}
+```
+
+**Content:**
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.4 Fuel approval > C16.4]
+**C16.4** ##  Fuel approval
+
+---
+
+## CHUNK 795
 **Metadata:**
 ```json
 {
@@ -17843,7 +21372,7 @@ The sustainability management scheme company will guarantee consistent, uniform 
 
 ---
 
-## CHUNK 632
+## CHUNK 796
 **Metadata:**
 ```json
 {
@@ -17864,7 +21393,28 @@ The sustainability management scheme company will guarantee consistent, uniform 
 
 ---
 
-## CHUNK 633
+## CHUNK 797
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 168,
+  "rule_id": "C16.5",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.5 Fuel sampling and testing at a Competition > C16.5",
+  "section": "Section C",
+  "article": "Article C16: FUEL AND ENGINE OIL",
+  "sub_article": "C16.5 Fuel sampling and testing at a Competition"
+}
+```
+
+**Content:**
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.5 Fuel sampling and testing at a Competition > C16.5]
+**C16.5** ##  Fuel sampling and testing at a Competition
+
+---
+
+## CHUNK 798
 **Metadata:**
 ```json
 {
@@ -17885,7 +21435,7 @@ The sustainability management scheme company will guarantee consistent, uniform 
 
 ---
 
-## CHUNK 634
+## CHUNK 799
 **Metadata:**
 ```json
 {
@@ -17906,7 +21456,7 @@ The sustainability management scheme company will guarantee consistent, uniform 
 
 ---
 
-## CHUNK 635
+## CHUNK 800
 **Metadata:**
 ```json
 {
@@ -17927,7 +21477,7 @@ The sustainability management scheme company will guarantee consistent, uniform 
 
 ---
 
-## CHUNK 636
+## CHUNK 801
 **Metadata:**
 ```json
 {
@@ -17947,6 +21497,27 @@ The sustainability management scheme company will guarantee consistent, uniform 
 **C16.5.4** GC normalised peak areas of the sample will be compared with those obtained from the reference fuel.  Variations in any given normalised peak area (relative to those of adjacent peaks of a similar size) which are greater than 12%, or an absolute amount greater than 0.10% for compounds present at concentrations below 0.8%, will be deemed not to comply.
 
 If a peak is detected in a fuel sample that was absent in the corresponding reference fuel, and its peak area represents more than 0.10% of the summed peak areas of the fuel, the fuel will be deemed not to comply. If the deviations observed (above) by GC indicate that they are due to mixing with another Formula One fuel, which has been approved by the FIA for use by the team, the fuel sample will be deemed  to comply, provided that the adulterant fuel is present at no more than 10% in the sample. Any systematic abuse of mixed fuels will be deemed not to comply.
+
+---
+
+## CHUNK 802
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 169,
+  "rule_id": "C16.6",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.6 Engine oil definitions > C16.6",
+  "section": "Section C",
+  "article": "Article C16: FUEL AND ENGINE OIL",
+  "sub_article": "C16.6 Engine oil definitions"
+}
+```
+
+**Content:**
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.6 Engine oil definitions > C16.6]
+**C16.6** #  Engine oil definitions
 
 Engine oil (serving the purpose stated in Article C16.1.5) must comprise base oils and additives as defined below.
 
@@ -17986,27 +21557,26 @@ The Analytical Methods for Base Stock are defined below:
 
 Additives are defined as the chemical compounds added to the base oil in small concentrations in order to improve the performance characteristics of the engine oil.
 
-The engine oil must comply with the following characteristics:
-
 ---
 
-## CHUNK 637
+## CHUNK 803
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
-  "page_number": 169,
-  "rule_id": "C16.5.4",
-  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.5 Fuel sampling and testing at a Competition > C16.5.4",
+  "page_number": 170,
+  "rule_id": "C16.7",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.7 Engine oil properties > C16.7",
   "section": "Section C",
   "article": "Article C16: FUEL AND ENGINE OIL",
-  "sub_article": "C16.5 Fuel sampling and testing at a Competition"
+  "sub_article": "C16.7 Engine oil properties"
 }
 ```
 
 **Content:**
-Additives are defined as the chemical compounds added to the base oil in small concentrations in order to improve the performance characteristics of the engine oil.
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.7 Engine oil properties > C16.7]
+**C16.7** ##  Engine oil properties
 
 The engine oil must comply with the following characteristics:
 
@@ -18024,7 +21594,28 @@ The oil will be accepted or rejected according to ASTM D 3244 with a confidence 
 
 ---
 
-## CHUNK 638
+## CHUNK 804
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 170,
+  "rule_id": "C16.8",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.8 Composition of the engine oil > C16.8",
+  "section": "Section C",
+  "article": "Article C16: FUEL AND ENGINE OIL",
+  "sub_article": "C16.8 Composition of the engine oil"
+}
+```
+
+**Content:**
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.8 Composition of the engine oil > C16.8]
+**C16.8** ##  Composition of the engine oil
+
+---
+
+## CHUNK 805
 **Metadata:**
 ```json
 {
@@ -18045,7 +21636,7 @@ The oil will be accepted or rejected according to ASTM D 3244 with a confidence 
 
 ---
 
-## CHUNK 639
+## CHUNK 806
 **Metadata:**
 ```json
 {
@@ -18066,7 +21657,28 @@ The oil will be accepted or rejected according to ASTM D 3244 with a confidence 
 
 ---
 
-## CHUNK 640
+## CHUNK 807
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 170,
+  "rule_id": "C16.9",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.9 Engine oil approval > C16.9",
+  "section": "Section C",
+  "article": "Article C16: FUEL AND ENGINE OIL",
+  "sub_article": "C16.9 Engine oil approval"
+}
+```
+
+**Content:**
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.9 Engine oil approval > C16.9]
+**C16.9** ##  Engine oil approval
+
+---
+
+## CHUNK 808
 **Metadata:**
 ```json
 {
@@ -18091,7 +21703,7 @@ The oil will be accepted or rejected according to ASTM D 3244 with a confidence 
 
 ---
 
-## CHUNK 641
+## CHUNK 809
 **Metadata:**
 ```json
 {
@@ -18112,7 +21724,7 @@ The oil will be accepted or rejected according to ASTM D 3244 with a confidence 
 
 ---
 
-## CHUNK 642
+## CHUNK 810
 **Metadata:**
 ```json
 {
@@ -18133,7 +21745,28 @@ The oil will be accepted or rejected according to ASTM D 3244 with a confidence 
 
 ---
 
-## CHUNK 643
+## CHUNK 811
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 170,
+  "rule_id": "C16.10",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.10 Sampling and testing at a Competition > C16.10",
+  "section": "Section C",
+  "article": "Article C16: FUEL AND ENGINE OIL",
+  "sub_article": "C16.10 Sampling and testing at a Competition"
+}
+```
+
+**Content:**
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.10 Sampling and testing at a Competition > C16.10]
+**C16.10** ##  Sampling and testing at a Competition
+
+---
+
+## CHUNK 812
 **Metadata:**
 ```json
 {
@@ -18154,7 +21787,7 @@ The oil will be accepted or rejected according to ASTM D 3244 with a confidence 
 
 ---
 
-## CHUNK 644
+## CHUNK 813
 **Metadata:**
 ```json
 {
@@ -18175,7 +21808,7 @@ The oil will be accepted or rejected according to ASTM D 3244 with a confidence 
 
 ---
 
-## CHUNK 645
+## CHUNK 814
 **Metadata:**
 ```json
 {
@@ -18196,7 +21829,28 @@ The oil will be accepted or rejected according to ASTM D 3244 with a confidence 
 
 ---
 
-## CHUNK 646
+## CHUNK 815
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 171,
+  "rule_id": "C16.11",
+  "breadcrumb": "Section C > Article C16: FUEL AND ENGINE OIL > C16.11 Recycling of Engine Oil > C16.11",
+  "section": "Section C",
+  "article": "Article C16: FUEL AND ENGINE OIL",
+  "sub_article": "C16.11 Recycling of Engine Oil"
+}
+```
+
+**Content:**
+[Section C > Article C16: FUEL AND ENGINE OIL > C16.11 Recycling of Engine Oil > C16.11]
+**C16.11** Recycling of Engine Oil
+
+---
+
+## CHUNK 816
 **Metadata:**
 ```json
 {
@@ -18221,7 +21875,28 @@ The oil will be accepted or rejected according to ASTM D 3244 with a confidence 
 
 ---
 
-## CHUNK 647
+## CHUNK 817
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 172,
+  "rule_id": "C17.1",
+  "breadcrumb": "Section C > Article C17: COMPONENTS\u2019 CLASSIFICATION > C17.1 General Principles > C17.1",
+  "section": "Section C",
+  "article": "Article C17: COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C17.1 General Principles"
+}
+```
+
+**Content:**
+[Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.1 General Principles > C17.1]
+**C17.1** General Principles
+
+---
+
+## CHUNK 818
 **Metadata:**
 ```json
 {
@@ -18252,7 +21927,7 @@ e. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 648
+## CHUNK 819
 **Metadata:**
 ```json
 {
@@ -18273,7 +21948,7 @@ e. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 649
+## CHUNK 820
 **Metadata:**
 ```json
 {
@@ -18294,7 +21969,7 @@ e. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 650
+## CHUNK 821
 **Metadata:**
 ```json
 {
@@ -18315,7 +21990,7 @@ e. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 651
+## CHUNK 822
 **Metadata:**
 ```json
 {
@@ -18336,7 +22011,7 @@ e. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 652
+## CHUNK 823
 **Metadata:**
 ```json
 {
@@ -18357,7 +22032,7 @@ e. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 653
+## CHUNK 824
 **Metadata:**
 ```json
 {
@@ -18378,7 +22053,7 @@ e. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 654
+## CHUNK 825
 **Metadata:**
 ```json
 {
@@ -18399,7 +22074,7 @@ e. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 655
+## CHUNK 826
 **Metadata:**
 ```json
 {
@@ -18432,7 +22107,7 @@ to a third party, provided that;
 
 ---
 
-## CHUNK 656
+## CHUNK 827
 **Metadata:**
 ```json
 {
@@ -18463,7 +22138,28 @@ The F1 Team is responsible for the compliance of its Technical Partner with the 
 
 ---
 
-## CHUNK 657
+## CHUNK 828
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 174,
+  "rule_id": "C17.2",
+  "breadcrumb": "Section C > Article C17: COMPONENTS\u2019 CLASSIFICATION > C17.2 Listed Team Components (LTC) > C17.2",
+  "section": "Section C",
+  "article": "Article C17: COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C17.2 Listed Team Components (LTC)"
+}
+```
+
+**Content:**
+[Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.2 Listed Team Components (LTC) > C17.2]
+**C17.2** #  Listed Team Components (LTC)
+
+---
+
+## CHUNK 829
 **Metadata:**
 ```json
 {
@@ -18484,7 +22180,7 @@ The F1 Team is responsible for the compliance of its Technical Partner with the 
 
 ---
 
-## CHUNK 658
+## CHUNK 830
 **Metadata:**
 ```json
 {
@@ -18511,7 +22207,7 @@ b. all Outsourced work is carried out according to the requirements of C17.1.9.
 
 ---
 
-## CHUNK 659
+## CHUNK 831
 **Metadata:**
 ```json
 {
@@ -18548,7 +22244,7 @@ g. The FIA may issue guidance from time to time to define more specifically the 
 
 ---
 
-## CHUNK 660
+## CHUNK 832
 **Metadata:**
 ```json
 {
@@ -18581,7 +22277,7 @@ be satisfied that it is not used as a means to circumvent the provisions of Arti
 
 ---
 
-## CHUNK 661
+## CHUNK 833
 **Metadata:**
 ```json
 {
@@ -18606,7 +22302,28 @@ b. Similarly, it is permitted to use commercially available sub−components or 
 
 ---
 
-## CHUNK 662
+## CHUNK 834
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 175,
+  "rule_id": "C17.3",
+  "breadcrumb": "Section C > Article C17: COMPONENTS\u2019 CLASSIFICATION > C17.3 Standard Supply Components (SSC) > C17.3",
+  "section": "Section C",
+  "article": "Article C17: COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C17.3 Standard Supply Components (SSC)"
+}
+```
+
+**Content:**
+[Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.3 Standard Supply Components (SSC) > C17.3]
+**C17.3** ##  Standard Supply Components (SSC)
+
+---
+
+## CHUNK 835
 **Metadata:**
 ```json
 {
@@ -18627,7 +22344,7 @@ b. Similarly, it is permitted to use commercially available sub−components or 
 
 ---
 
-## CHUNK 663
+## CHUNK 836
 **Metadata:**
 ```json
 {
@@ -18648,7 +22365,7 @@ b. Similarly, it is permitted to use commercially available sub−components or 
 
 ---
 
-## CHUNK 664
+## CHUNK 837
 **Metadata:**
 ```json
 {
@@ -18669,7 +22386,7 @@ b. Similarly, it is permitted to use commercially available sub−components or 
 
 ---
 
-## CHUNK 665
+## CHUNK 838
 **Metadata:**
 ```json
 {
@@ -18690,7 +22407,7 @@ b. Similarly, it is permitted to use commercially available sub−components or 
 
 ---
 
-## CHUNK 666
+## CHUNK 839
 **Metadata:**
 ```json
 {
@@ -18711,7 +22428,28 @@ b. Similarly, it is permitted to use commercially available sub−components or 
 
 ---
 
-## CHUNK 667
+## CHUNK 840
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 176,
+  "rule_id": "C17.4",
+  "breadcrumb": "Section C > Article C17: COMPONENTS\u2019 CLASSIFICATION > C17.4 Transferable Components (TRC) and Free Supply Components (FSC) > C17.4",
+  "section": "Section C",
+  "article": "Article C17: COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C17.4 Transferable Components (TRC) and Free Supply Components (FSC)"
+}
+```
+
+**Content:**
+[Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.4 Transferable Components (TRC) and Free Supply Components (FSC) > C17.4]
+**C17.4** Transferable Components (TRC) and Free Supply Components (FSC)
+
+---
+
+## CHUNK 841
 **Metadata:**
 ```json
 {
@@ -18734,7 +22472,7 @@ Free Supply Components (FSC) will follow identical technical regulation requirem
 
 ---
 
-## CHUNK 668
+## CHUNK 842
 **Metadata:**
 ```json
 {
@@ -18755,7 +22493,7 @@ Free Supply Components (FSC) will follow identical technical regulation requirem
 
 ---
 
-## CHUNK 669
+## CHUNK 843
 **Metadata:**
 ```json
 {
@@ -18776,7 +22514,7 @@ Free Supply Components (FSC) will follow identical technical regulation requirem
 
 ---
 
-## CHUNK 670
+## CHUNK 844
 **Metadata:**
 ```json
 {
@@ -18797,7 +22535,7 @@ Free Supply Components (FSC) will follow identical technical regulation requirem
 
 ---
 
-## CHUNK 671
+## CHUNK 845
 **Metadata:**
 ```json
 {
@@ -18818,7 +22556,7 @@ Free Supply Components (FSC) will follow identical technical regulation requirem
 
 ---
 
-## CHUNK 672
+## CHUNK 846
 **Metadata:**
 ```json
 {
@@ -18843,7 +22581,7 @@ Free Supply Components (FSC) will follow identical technical regulation requirem
 
 ---
 
-## CHUNK 673
+## CHUNK 847
 **Metadata:**
 ```json
 {
@@ -18864,7 +22602,7 @@ Free Supply Components (FSC) will follow identical technical regulation requirem
 
 ---
 
-## CHUNK 674
+## CHUNK 848
 **Metadata:**
 ```json
 {
@@ -18889,7 +22627,7 @@ b. Software or methodology for the optimisation of the performance of a TRC or F
 
 ---
 
-## CHUNK 675
+## CHUNK 849
 **Metadata:**
 ```json
 {
@@ -18910,7 +22648,28 @@ b. Software or methodology for the optimisation of the performance of a TRC or F
 
 ---
 
-## CHUNK 676
+## CHUNK 850
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 178,
+  "rule_id": "C17.5",
+  "breadcrumb": "Section C > Article C17: COMPONENTS\u2019 CLASSIFICATION > C17.5 Open Source Components (OSC and OSCNT) > C17.5",
+  "section": "Section C",
+  "article": "Article C17: COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C17.5 Open Source Components (OSC and OSCNT)"
+}
+```
+
+**Content:**
+[Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.5 Open Source Components (OSC and OSCNT) > C17.5]
+**C17.5** ##  Open Source Components (OSC and OSCNT)
+
+---
+
+## CHUNK 851
 **Metadata:**
 ```json
 {
@@ -18931,7 +22690,7 @@ b. Software or methodology for the optimisation of the performance of a TRC or F
 
 ---
 
-## CHUNK 677
+## CHUNK 852
 **Metadata:**
 ```json
 {
@@ -18952,7 +22711,7 @@ b. Software or methodology for the optimisation of the performance of a TRC or F
 
 ---
 
-## CHUNK 678
+## CHUNK 853
 **Metadata:**
 ```json
 {
@@ -18973,7 +22732,7 @@ b. Software or methodology for the optimisation of the performance of a TRC or F
 
 ---
 
-## CHUNK 679
+## CHUNK 854
 **Metadata:**
 ```json
 {
@@ -18994,7 +22753,7 @@ b. Software or methodology for the optimisation of the performance of a TRC or F
 
 ---
 
-## CHUNK 680
+## CHUNK 855
 **Metadata:**
 ```json
 {
@@ -19015,7 +22774,7 @@ b. Software or methodology for the optimisation of the performance of a TRC or F
 
 ---
 
-## CHUNK 681
+## CHUNK 856
 **Metadata:**
 ```json
 {
@@ -19042,7 +22801,7 @@ c. Contain all the necessary information to permit another F1 Team to install th
 
 ---
 
-## CHUNK 682
+## CHUNK 857
 **Metadata:**
 ```json
 {
@@ -19063,7 +22822,7 @@ c. Contain all the necessary information to permit another F1 Team to install th
 
 ---
 
-## CHUNK 683
+## CHUNK 858
 **Metadata:**
 ```json
 {
@@ -19084,7 +22843,7 @@ c. Contain all the necessary information to permit another F1 Team to install th
 
 ---
 
-## CHUNK 684
+## CHUNK 859
 **Metadata:**
 ```json
 {
@@ -19105,7 +22864,7 @@ c. Contain all the necessary information to permit another F1 Team to install th
 
 ---
 
-## CHUNK 685
+## CHUNK 860
 **Metadata:**
 ```json
 {
@@ -19126,7 +22885,7 @@ c. Contain all the necessary information to permit another F1 Team to install th
 
 ---
 
-## CHUNK 686
+## CHUNK 861
 **Metadata:**
 ```json
 {
@@ -19147,7 +22906,7 @@ c. Contain all the necessary information to permit another F1 Team to install th
 
 ---
 
-## CHUNK 687
+## CHUNK 862
 **Metadata:**
 ```json
 {
@@ -19166,11 +22925,32 @@ c. Contain all the necessary information to permit another F1 Team to install th
 [Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.5 Open Source Components (OSC and OSCNT) > C17.5.12]
 **C17.5.12** No F1 Team may, either directly or via a third party pass any information (including but not limited to data, know how, operating procedures, properties and calibrations) or methodology (including but not limited to simulation software, analysis tools, etc.) which can be used to enhance the performance of an OSC or OSCNT to another F1 Team, or receive any such information or methodology from another F1 Team.
 
+---
+
+## CHUNK 863
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 179,
+  "rule_id": "C17.6",
+  "breadcrumb": "Section C > Article C17: COMPONENTS\u2019 CLASSIFICATION > C17.6 Defined Specification Components (DSC) > C17.6",
+  "section": "Section C",
+  "article": "Article C17: COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C17.6 Defined Specification Components (DSC)"
+}
+```
+
+**Content:**
+[Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.6 Defined Specification Components (DSC) > C17.6]
+**C17.6** #  Defined Specification Components (DSC)
+
 Further information concerning implementation is given in the document <mark>FIA-F1-DOC-039</mark>.
 
 ---
 
-## CHUNK 688
+## CHUNK 864
 **Metadata:**
 ```json
 {
@@ -19193,7 +22973,7 @@ A DSC must be approved by the FIA, who will ensure compliance with the technical
 
 ---
 
-## CHUNK 689
+## CHUNK 865
 **Metadata:**
 ```json
 {
@@ -19214,7 +22994,7 @@ A DSC must be approved by the FIA, who will ensure compliance with the technical
 
 ---
 
-## CHUNK 690
+## CHUNK 866
 **Metadata:**
 ```json
 {
@@ -19235,7 +23015,7 @@ A DSC must be approved by the FIA, who will ensure compliance with the technical
 
 ---
 
-## CHUNK 691
+## CHUNK 867
 **Metadata:**
 ```json
 {
@@ -19256,7 +23036,7 @@ A DSC must be approved by the FIA, who will ensure compliance with the technical
 
 ---
 
-## CHUNK 692
+## CHUNK 868
 **Metadata:**
 ```json
 {
@@ -19277,7 +23057,7 @@ A DSC must be approved by the FIA, who will ensure compliance with the technical
 
 ---
 
-## CHUNK 693
+## CHUNK 869
 **Metadata:**
 ```json
 {
@@ -19298,7 +23078,7 @@ A DSC must be approved by the FIA, who will ensure compliance with the technical
 
 ---
 
-## CHUNK 694
+## CHUNK 870
 **Metadata:**
 ```json
 {
@@ -19319,7 +23099,7 @@ A DSC must be approved by the FIA, who will ensure compliance with the technical
 
 ---
 
-## CHUNK 695
+## CHUNK 871
 **Metadata:**
 ```json
 {
@@ -19338,6 +23118,27 @@ A DSC must be approved by the FIA, who will ensure compliance with the technical
 [Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.6 Defined Specification Components (DSC) > C17.6.8]
 **C17.6.8** Should a selection process fail to approve sufficient suppliers to cover the requirements of all F1 Teams, the FIA reserves the right to re−classify the DSC as an LTC, TRC, OSCNT, or OSC and to introduce appropriate technical rules in the relevant Article of these Regulations in order to control the technical specification and cost of this component.
 
+---
+
+## CHUNK 872
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 181,
+  "rule_id": "C17.7",
+  "breadcrumb": "Section C > Article C17: COMPONENTS\u2019 CLASSIFICATION > C17.7 List of LTC, SSC, TRC, OSC, OSCNT, and DSC > C17.7",
+  "section": "Section C",
+  "article": "Article C17: COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C17.7 List of LTC, SSC, TRC, OSC, OSCNT, and DSC"
+}
+```
+
+**Content:**
+[Section C > Article C17: COMPONENTS’ CLASSIFICATION > C17.7 List of LTC, SSC, TRC, OSC, OSCNT, and DSC > C17.7]
+**C17.7** #  **List of LTC, SSC, TRC, OSC, OSCNT, and DSC
+
 A complete list of the parts’ classification, as well as a definition of the perimeter of each assembly can be found in Appendix C6.
 
 Components which are part of an assembly will assume the classification status of that assembly unless otherwise specified.
@@ -19348,7 +23149,28 @@ Components which are part of an assembly will assume the classification status o
 
 ---
 
-## CHUNK 696
+## CHUNK 873
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 182,
+  "rule_id": "C18.1",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.1 General Principles > C18.1",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.1 General Principles"
+}
+```
+
+**Content:**
+[Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.1 General Principles > C18.1]
+**C18.1** ##  General Principles
+
+---
+
+## CHUNK 874
 **Metadata:**
 ```json
 {
@@ -19385,7 +23207,7 @@ c. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 697
+## CHUNK 875
 **Metadata:**
 ```json
 {
@@ -19406,7 +23228,7 @@ c. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 698
+## CHUNK 876
 **Metadata:**
 ```json
 {
@@ -19427,7 +23249,7 @@ c. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 699
+## CHUNK 877
 **Metadata:**
 ```json
 {
@@ -19448,7 +23270,7 @@ c. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 700
+## CHUNK 878
 **Metadata:**
 ```json
 {
@@ -19469,7 +23291,7 @@ c. In cases of doubt, the FIA should be consulted and shall determine the classi
 
 ---
 
-## CHUNK 701
+## CHUNK 879
 **Metadata:**
 ```json
 {
@@ -19498,7 +23320,7 @@ a. directly or indirectly disclose or transfer (by any means) any Intellectual P
 
 ---
 
-## CHUNK 702
+## CHUNK 880
 **Metadata:**
 ```json
 {
@@ -19538,7 +23360,7 @@ The FIA may, at its sole discretion, take any measures it considers appropriate 
 
 ---
 
-## CHUNK 703
+## CHUNK 881
 **Metadata:**
 ```json
 {
@@ -19559,7 +23381,7 @@ The FIA may, at its sole discretion, take any measures it considers appropriate 
 
 ---
 
-## CHUNK 704
+## CHUNK 882
 **Metadata:**
 ```json
 {
@@ -19582,7 +23404,7 @@ All PU Manufacturer' Intellectual Property (including any data) available throug
 
 ---
 
-## CHUNK 705
+## CHUNK 883
 **Metadata:**
 ```json
 {
@@ -19603,7 +23425,28 @@ All PU Manufacturer' Intellectual Property (including any data) available throug
 
 ---
 
-## CHUNK 706
+## CHUNK 884
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 184,
+  "rule_id": "C18.2",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.2 Listed Power Unit Components (LPUC) > C18.2",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.2 Listed Power Unit Components (LPUC)"
+}
+```
+
+**Content:**
+[Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.2 Listed Power Unit Components (LPUC) > C18.2]
+**C18.2** # ** Listed Power Unit Components (LPUC)
+
+---
+
+## CHUNK 885
 **Metadata:**
 ```json
 {
@@ -19624,7 +23467,7 @@ All PU Manufacturer' Intellectual Property (including any data) available throug
 
 ---
 
-## CHUNK 707
+## CHUNK 886
 **Metadata:**
 ```json
 {
@@ -19651,7 +23494,7 @@ c. In the case the third party to whom design and/or manufacture of the LPUC is 
 
 ---
 
-## CHUNK 708
+## CHUNK 887
 **Metadata:**
 ```json
 {
@@ -19678,7 +23521,7 @@ c. pass on any methodology that could be used by another PU Manufacturer to enha
 
 ---
 
-## CHUNK 709
+## CHUNK 888
 **Metadata:**
 ```json
 {
@@ -19699,7 +23542,7 @@ c. pass on any methodology that could be used by another PU Manufacturer to enha
 
 ---
 
-## CHUNK 710
+## CHUNK 889
 **Metadata:**
 ```json
 {
@@ -19726,7 +23569,28 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 711
+## CHUNK 890
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 185,
+  "rule_id": "C18.3",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.3 Standard Supply Power Unit Components (SSPUC) > C18.3",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.3 Standard Supply Power Unit Components (SSPUC)"
+}
+```
+
+**Content:**
+[Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.3 Standard Supply Power Unit Components (SSPUC) > C18.3]
+**C18.3** ##  Standard Supply Power Unit Components (SSPUC)
+
+---
+
+## CHUNK 891
 **Metadata:**
 ```json
 {
@@ -19747,7 +23611,7 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 712
+## CHUNK 892
 **Metadata:**
 ```json
 {
@@ -19768,7 +23632,7 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 713
+## CHUNK 893
 **Metadata:**
 ```json
 {
@@ -19789,7 +23653,7 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 714
+## CHUNK 894
 **Metadata:**
 ```json
 {
@@ -19810,7 +23674,7 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 715
+## CHUNK 895
 **Metadata:**
 ```json
 {
@@ -19831,7 +23695,7 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 716
+## CHUNK 896
 **Metadata:**
 ```json
 {
@@ -19852,7 +23716,28 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 717
+## CHUNK 897
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 186,
+  "rule_id": "C18.4",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.4 Open-Source Power Unit Components (OSPUC) > C18.4",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.4 Open-Source Power Unit Components (OSPUC)"
+}
+```
+
+**Content:**
+[Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.4 Open-Source Power Unit Components (OSPUC) > C18.4]
+**C18.4** #  Open-Source Power Unit Components (OSPUC)
+
+---
+
+## CHUNK 898
 **Metadata:**
 ```json
 {
@@ -19873,7 +23758,7 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 718
+## CHUNK 899
 **Metadata:**
 ```json
 {
@@ -19894,7 +23779,7 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 719
+## CHUNK 900
 **Metadata:**
 ```json
 {
@@ -19915,7 +23800,7 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 720
+## CHUNK 901
 **Metadata:**
 ```json
 {
@@ -19936,7 +23821,7 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 721
+## CHUNK 902
 **Metadata:**
 ```json
 {
@@ -19957,7 +23842,7 @@ c. Similarly, the use of services from a third-party supplier which assist the P
 
 ---
 
-## CHUNK 722
+## CHUNK 903
 **Metadata:**
 ```json
 {
@@ -19984,7 +23869,7 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 723
+## CHUNK 904
 **Metadata:**
 ```json
 {
@@ -20005,7 +23890,7 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 724
+## CHUNK 905
 **Metadata:**
 ```json
 {
@@ -20026,7 +23911,7 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 725
+## CHUNK 906
 **Metadata:**
 ```json
 {
@@ -20047,7 +23932,7 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 726
+## CHUNK 907
 **Metadata:**
 ```json
 {
@@ -20068,7 +23953,7 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 727
+## CHUNK 908
 **Metadata:**
 ```json
 {
@@ -20089,7 +23974,28 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 728
+## CHUNK 909
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 188,
+  "rule_id": "C18.5",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+}
+```
+
+**Content:**
+[Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5]
+**C18.5** # ** Defined Specification Power Unit Components (DSPUC)
+
+---
+
+## CHUNK 910
 **Metadata:**
 ```json
 {
@@ -20110,7 +24016,7 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 729
+## CHUNK 911
 **Metadata:**
 ```json
 {
@@ -20131,7 +24037,7 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 730
+## CHUNK 912
 **Metadata:**
 ```json
 {
@@ -20152,7 +24058,7 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 731
+## CHUNK 913
 **Metadata:**
 ```json
 {
@@ -20173,7 +24079,7 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 732
+## CHUNK 914
 **Metadata:**
 ```json
 {
@@ -20194,7 +24100,7 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 
 ---
 
-## CHUNK 733
+## CHUNK 915
 **Metadata:**
 ```json
 {
@@ -20212,6 +24118,27 @@ c. Contain all the necessary information to permit another PU Manufacturer to in
 **Content:**
 [Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6]
 **C18.5.6** A PU Manufacturer must not, either directly or indirectly via a third party or otherwise pass to another PU Manufacturer any information (including but not limited to data, know how, operating procedures, properties and calibrations) or methodology (including but not limited to simulation software, analysis tools, etc.) that could be used by another PU Manufacturer to enhance the performance of a DSPUC, or receive any such information or methodology from another PU Manufacturer.
+
+---
+
+## CHUNK 916
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 189,
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
+}
+```
+
+**Content:**
+[Section C > Article C18: POWER UNIT COMPONENTS’ CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6]
+**C18.6** List of LPUC, SSPUC, OSPUC and DSPUC
 
 A complete list of the PU components’ classification, as well as a definition of the perimeter of each assembly can be found in Appendix C4.
 
@@ -20247,30 +24174,26 @@ Competition As defined in Appendix A1.
 
 **“Complete Wheel”**: the assembly of Wheel Rim, inflated tyre, and the items permitted by Article C10.7.6. The Complete Wheel is considered part of the suspension.
 
+**“Concave Curvature”, “Convex Curvature”**: When references are made to the curvature of Aerodynamic Surfaces, without specifying a plane of intersection, the local curvature at any point is defined as the curvature of the intersection of the surface with a plane passing through a line normal to the surface at that point. Both convex and concave radius of curvature are defined as the minimum radius, in each respective direction, that is obtained when the intersecting plane rotates 180 degrees around the normal line.
+
 ---
 
-## CHUNK 734
+## CHUNK 917
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
-Competition As defined in Appendix A1.
-
-**“Complete Wheel”**: the assembly of Wheel Rim, inflated tyre, and the items permitted by Article C10.7.6. The Complete Wheel is considered part of the suspension.
-
-**“Concave Curvature”, “Convex Curvature”**: When references are made to the curvature of Aerodynamic Surfaces, without specifying a plane of intersection, the local curvature at any point is defined as the curvature of the intersection of the surface with a plane passing through a line normal to the surface at that point. Both convex and concave radius of curvature are defined as the minimum radius, in each respective direction, that is obtained when the intersecting plane rotates 180 degrees around the normal line.
-
 **“Concept Design”** means all activities necessary to establish form, function, and integration boundaries of a component or assembly. These may include; The definition of geometry, the determination of load cases, duty cycles, and performance requirements, wind tunnel testing and CFD analysis. The preparation of preliminary models, sketches or schemes. The definition of load cases for analysis.
 
 It excludes structural analysis, ply definition, production of manufacturing drawings, or any activity solely required for the manufacture of the component.
@@ -20291,24 +24214,6 @@ Edge Radius As defined in Article C3.2.7.
 
 **“Engineering”** means the means the activity of converting a Concept Design into a final design for manufacture. It includes; The preparation of detailed models and drawings, including minimal adjustments to geometry as maybe necessary for manufacture. Material specification. Analysis - stress, thermal, and fatigue. The definition of laminates. Rig testing. Homologation programmes.
 
----
-
-## CHUNK 735
-**Metadata:**
-```json
-{
-  "source_pdf": "2026_f1_regulations_section_c.pdf",
-  "regulatory_year": 2026,
-  "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
-  "section": "Section C",
-  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
-}
-```
-
-**Content:**
 **“External Air Stream”**: the flow of air around the car that has a primary impact on its aerodynamic performance.
 
 **“FIA Accident Data Recorder”**: (**“FIA ADR”**) An ECU manufactured by an FIA designated supplier to a specification determined by the FIA.
@@ -20321,6 +24226,28 @@ b. The management of marshalling and safety systems.
 
 **“FIA Standard ECU”**: An ECU or set of ECUs and their sub−components manufactured by an FIA designated supplier to a specification determined by the FIA.
 
+The FIA Standard ECU comprises at least a master control unit and modules used for driver information and driver input device interfacing.
+
+Fillet Radius As defined in Article C3.2.6.
+
+---
+
+## CHUNK 918
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 189,
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
+}
+```
+
+**Content:**
 The FIA Standard ECU comprises at least a master control unit and modules used for driver information and driver input device interfacing.
 
 Fillet Radius As defined in Article C3.2.6.
@@ -20339,28 +24266,30 @@ runs on four non-aligned Complete Wheels, with wheel centres that are arranged s
 
 **“Gear-Change Components”**: Mechanical components that are involved in selecting the forward gears; barrel(s) and associated bearings, selector forks, selector rail, detent mechanisms and hydraulic actuator(s).
 
+**“Gurney”**: a component that, where permitted, may be attached to the trailing edge of a profile to adjust its aerodynamic performance. In any plane perpendicular to the trailing edge, a Gurney must comprise of a flat section, up to 1mm thick, of a height specified in the relevant regulation, and include a bonding flange on the wing's surface. This flange may extend no more than 20mm in length and 1mm in thickness. No part of the Gurney shall extend beyond a line perpendicular to the surface at the profile's trailing edge.
+
+**“Header Plate”**: The face of the header-tank adjacent to the Heat Exchanger Core, through which the Heat Exchanger Tubes pass and to which they are sealed.
+
+**“Heat Exchanger”**: A device for transferring heat between two or more fluids.
+
 ---
 
-## CHUNK 736
+## CHUNK 919
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
-**“Gear-Change Components”**: Mechanical components that are involved in selecting the forward gears; barrel(s) and associated bearings, selector forks, selector rail, detent mechanisms and hydraulic actuator(s).
-
-**“Gurney”**: a component that, where permitted, may be attached to the trailing edge of a profile to adjust its aerodynamic performance. In any plane perpendicular to the trailing edge, a Gurney must comprise of a flat section, up to 1mm thick, of a height specified in the relevant regulation, and include a bonding flange on the wing's surface. This flange may extend no more than 20mm in length and 1mm in thickness. No part of the Gurney shall extend beyond a line perpendicular to the surface at the profile's trailing edge.
-
 **“Header Plate”**: The face of the header-tank adjacent to the Heat Exchanger Core, through which the Heat Exchanger Tubes pass and to which they are sealed.
 
 **“Heat Exchanger”**: A device for transferring heat between two or more fluids.
@@ -20377,26 +24306,6 @@ runs on four non-aligned Complete Wheels, with wheel centres that are arranged s
 
 It excludes any modification of geometry, laminates, specifications, or performance-defining characteristics.
 
----
-
-## CHUNK 737
-**Metadata:**
-```json
-{
-  "source_pdf": "2026_f1_regulations_section_c.pdf",
-  "regulatory_year": 2026,
-  "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
-  "section": "Section C",
-  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
-}
-```
-
-**Content:**
-It excludes any modification of geometry, laminates, specifications, or performance-defining characteristics.
-
 **“Mass Damper”**: A mass or system that has a degree of freedom relative to the Sprung Mass, which either performs no other function, or while performing another legitimate function has a compliance beyond what is necessary for its safe and reliable operation.
 
 **“Mass of the Driver”**: the mass of the driver with the seat, and driving equipment, as specified in Appendix L of the ISC but excluding the safety harness.
@@ -20405,6 +24314,24 @@ It excludes any modification of geometry, laminates, specifications, or performa
 
 **“Normal”**: (to an Aerodynamic Surface or curve) The Normal at any point on an Aerodynamic Surface is a vector perpendicular to that point on the surface, pointing toward the local External Air Stream. For a curve, the Normal at any point is considered the same as that of the surface containing the curve.
 
+---
+
+## CHUNK 920
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 189,
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
+}
+```
+
+**Content:**
 **“Open Section”** and **“Closed Section”**: A section through Bodywork, from a plane of intersection, is considered closed if it forms a complete boundary on its own; otherwise, it is considered open.
 
 <mark>**“Physical Stop”**: a passive, rigid, and fixed mechanical feature that remains immobile and non-adjustable and limits the travel of a component by preventing further movement through direct physical contact and without reliance on powered or software-controlled systems.</mark>
@@ -20427,26 +24354,6 @@ Specialist Supplier has the meaning set out in Article C17.1.9.
 
 “Supplying Team” means any F1 Team (or its Technical Partner) supplying TRC, FSC, OSC, OSCNT or DSC.
 
----
-
-## CHUNK 738
-**Metadata:**
-```json
-{
-  "source_pdf": "2026_f1_regulations_section_c.pdf",
-  "regulatory_year": 2026,
-  "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
-  "section": "Section C",
-  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
-}
-```
-
-**Content:**
-“Supplying Team” means any F1 Team (or its Technical Partner) supplying TRC, FSC, OSC, OSCNT or DSC.
-
 **“Survival Cell”**: The continuous closed structure containing the fuel tank, the Cockpit and the parts of the Energy Store and MGU-K, listed in Articles C5.18 and C5.19 which lie ahead of X<sub>PU</sub>=0.
 
 The lower plate of the Energy Store assembly is considered to be part of the Survival Cell.
@@ -20455,6 +24362,24 @@ The lower plate of the Energy Store assembly is considered to be part of the Sur
 
 **“Tangency Continuity”** also **“Tangent Continuous”**: Tangency Continuity at a point on a curve or surface is achieved if the tangent value is continuous. At intersections between two curves or surfaces, Tangency Continuity requires that the curves or surfaces be tangent and have coinciding Normals.
 
+---
+
+## CHUNK 921
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 189,
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
+}
+```
+
+**Content:**
 If two adjacent surfaces are not Tangent Continuous but can become so by applying an Edge Radius of up to 1mm along their boundary, they will be considered tangent continuous at this boundary, provided such an Edge Radius is permitted under the relevant Articles.
 
 Technical Partner, has the meaning set out in C17.1.10.
@@ -20475,28 +24400,30 @@ For the purpose of this definition the boundary between sprung and unsprung mass
 
 **“Additive”**: An Additive is a component added to the fuel at low concentration to improve a particular property of the fuel. These include (but are not limited to) antioxidants, antiknock agents, antistatic additives and deposit control additives.
 
+**“Advanced Sustainable Component” (“AS”)**: An Advanced Sustainable (AS) Component is one that is certified to have been derived from a renewable feedstock of non-biological origin (for example, a RFNBO), municipal waste, or non-food biomass. Such biomass includes, but is not limited to, lignocellulosic biomass (including sustainable forest biomass), algae, agricultural residues or waste, and dedicated non-food energy crops grown on marginal land unsuitable for food production. RFNBOs are considered renewable when the hydrogen component is produced in an electrolyser that uses new renewable electricity generation capacity. Pre-commercial plants producing RFNBOs do not need to use electricity from new renewable electricity generating capacity. Pre-commercial plants, producing AS fuel or AS fuel components, may use renewable energy certificates and/or low-carbon hydrogen guarantees-of-origin certificates to improve their GHG emission reduction. Biocomponents from food crops can be regarded as an advanced sustainable component only if they have already fulfilled their food purpose (e.g. waste vegetable oil because it has already been used and is no longer fit for human consumption). Furthermore, the biomass, from which the advanced sustainable component was made, must not originate from land with high biodiversity such as undisturbed primary forest or woodland, land designated for nature protection or highly biodiverse grassland, and were in this state in or after January 2008. Additionally, the biomass must not originate from any land with high-carbon stock such as wetlands and peatlands.
+
+**“Alkali Metal”**: Group 1 elements, excluding hydrogen.
+
+**“Ancillary”**: A component whose function is to support the primary activities of a main system to allow it to operate.
+
 ---
 
-## CHUNK 739
+## CHUNK 922
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
-**“Additive”**: An Additive is a component added to the fuel at low concentration to improve a particular property of the fuel. These include (but are not limited to) antioxidants, antiknock agents, antistatic additives and deposit control additives.
-
-**“Advanced Sustainable Component” (“AS”)**: An Advanced Sustainable (AS) Component is one that is certified to have been derived from a renewable feedstock of non-biological origin (for example, a RFNBO), municipal waste, or non-food biomass. Such biomass includes, but is not limited to, lignocellulosic biomass (including sustainable forest biomass), algae, agricultural residues or waste, and dedicated non-food energy crops grown on marginal land unsuitable for food production. RFNBOs are considered renewable when the hydrogen component is produced in an electrolyser that uses new renewable electricity generation capacity. Pre-commercial plants producing RFNBOs do not need to use electricity from new renewable electricity generating capacity. Pre-commercial plants, producing AS fuel or AS fuel components, may use renewable energy certificates and/or low-carbon hydrogen guarantees-of-origin certificates to improve their GHG emission reduction. Biocomponents from food crops can be regarded as an advanced sustainable component only if they have already fulfilled their food purpose (e.g. waste vegetable oil because it has already been used and is no longer fit for human consumption). Furthermore, the biomass, from which the advanced sustainable component was made, must not originate from land with high biodiversity such as undisturbed primary forest or woodland, land designated for nature protection or highly biodiverse grassland, and were in this state in or after January 2008. Additionally, the biomass must not originate from any land with high-carbon stock such as wetlands and peatlands.
-
 **“Alkali Metal”**: Group 1 elements, excluding hydrogen.
 
 **“Ancillary”**: A component whose function is to support the primary activities of a main system to allow it to operate.
@@ -20509,28 +24436,6 @@ For the purpose of this definition the boundary between sprung and unsprung mass
 
 **“Battery Management System” (“BMS”)**: The BMS is a set of important safety systems of the ES. The main function is as a monitoring and a charge-balancing circuit to keep all cells under normal operating conditions, within the specified parameters e.g. voltage, temperature, current, state of balance, defined by the manufacturer.
 
-<mark>**“Boost”**: A driver activated mode that increases the ERS-K power demand.</mark>
-
-**“Breakout Box”**: Unit used to perform low voltage looms adaptation.
-
----
-
-## CHUNK 740
-**Metadata:**
-```json
-{
-  "source_pdf": "2026_f1_regulations_section_c.pdf",
-  "regulatory_year": 2026,
-  "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
-  "section": "Section C",
-  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
-}
-```
-
-**Content:**
 <mark>**“Boost”**: A driver activated mode that increases the ERS-K power demand.</mark>
 
 **“Breakout Box”**: Unit used to perform low voltage looms adaptation.
@@ -20561,34 +24466,30 @@ It excludes any FIA Standard ECU, FIA sensors and ES safety Control Electronics.
 
 **“Cylinder Head”**: The Cylinder Heads are the components that close all the cylinders of each bank of the engine and form the structure between the Combustion Chambers and the camshaft bearings between at least the front of the forward cylinder bore and the rear of the rearward cylinder bore on each bank.
 
-**“Cylinder Liner”**: A component installed into the crankcase whose primary function is to provide a durable surface on which the piston and piston rings run. There must be only a single Cylinder Liner per cylinder bore and the liner may also provide the sealing interface between the cylinder bore and the cylinder head.
-
-**“DC-DC Converter”**: An electronic circuit or electromechanical device, only capable of consuming energy, that converts a source of direct current (DC) from one voltage level to another for use by the electrical and electronic components of the car and Power Unit.
-
-**“DC-DC Unit”**: The unit containing the DC-DC(s) that converts from high to low voltage.
-
-**“Deck Height”**: (Appendix C3, Drawing 6) The distance on each bank between the crank axis and the Top Deck.
-
-**“Denaturant”**: in this instance is a toxic and/or unpalatable adulterant added to ethanol making it unsuitable for human consumption.
-
 ---
 
-## CHUNK 741
+## CHUNK 923
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
+**“Cylinder Liner”**: A component installed into the crankcase whose primary function is to provide a durable surface on which the piston and piston rings run. There must be only a single Cylinder Liner per cylinder bore and the liner may also provide the sealing interface between the cylinder bore and the cylinder head.
+
+**“DC-DC Converter”**: An electronic circuit or electromechanical device, only capable of consuming energy, that converts a source of direct current (DC) from one voltage level to another for use by the electrical and electronic components of the car and Power Unit.
+
+**“DC-DC Unit”**: The unit containing the DC-DC(s) that converts from high to low voltage.
+
 **“Deck Height”**: (Appendix C3, Drawing 6) The distance on each bank between the crank axis and the Top Deck.
 
 **“Denaturant”**: in this instance is a toxic and/or unpalatable adulterant added to ethanol making it unsuitable for human consumption.
@@ -20617,27 +24518,27 @@ necessary for its proper function.
 **“Engine Plenum”**: A pressurised vessel upstream of the Combustion Chamber containing all of the air destined for combustion. This vessel (or vessels) may be comprised of several components. Pipes, as generally understood, conveying air from the compressor to the engine are not part of the Engine Plenum.
 **“ERS Auxiliary Circuit”**: Any circuit inside or outside the ES and PU-CE elements which does not
 
-form part of the High Voltage DC Bus current flow path that connects the ES to the CUK and DCDC, and which is typically designed to monitor or to perform functionalities allowing the ERS to operate correctly and safely. Example of auxiliary circuits include, but are not limited to, voltage measurement circuits, insulation measurement circuits, contactor pre-charge circuits, battery (dis)charge connections, cable disconnect detection circuits.
-**“ERS-K”**: The only part of the ERS allowed to propel the car. It is composed of the MGU-K, the CU-K and the ERS-K Phase Conductors.
-
 ---
 
-## CHUNK 742
+## CHUNK 924
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
+form part of the High Voltage DC Bus current flow path that connects the ES to the CUK and DCDC, and which is typically designed to monitor or to perform functionalities allowing the ERS to operate correctly and safely. Example of auxiliary circuits include, but are not limited to, voltage measurement circuits, insulation measurement circuits, contactor pre-charge circuits, battery (dis)charge connections, cable disconnect detection circuits.
+**“ERS-K”**: The only part of the ERS allowed to propel the car. It is composed of the MGU-K, the CU-K and the ERS-K Phase Conductors.
+
 **“ERS-K Phase Conductors”**: The components allowing electrical current to flow between the CU-K and the MGU-K windings composed of conductors (e.g. busbars, cables or wires) and respective connection interfaces not part of the ESME or MGU-K.
 
 **“ES Cell”**: The elementary part of the ES that produces and stores electricity through electro-chemical reactions.
@@ -20660,30 +24561,32 @@ In case (i) the designation will start at the date of withdrawal and will contin
 
 **“Fuel Flow Meter”:** A sensor whose function is to measure the flow of the fuel passing through it.
 
-**“Fuel Injector”:** Any device or component that delivers fuel into an oxidiser.
-
-**“Hazardous Electric Shock”:** Physiological reaction generated by an electrical current greater than 2mA passing through the human body.
-
-**“Heat Shield”:** A Heat Shield is a component or an assembly whose primary function is to shield components from thermal radiation and is not permanently attached to another component or assembly (such as by riveting, bonding, welding, brazing, or plating).
-
 ---
 
-## CHUNK 743
+## CHUNK 925
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
+**“Flywheel”:** Inertial components connected directly to the rear of the crankshaft.
+
+**“Fuel Flow Meter”:** A sensor whose function is to measure the flow of the fuel passing through it.
+
+**“Fuel Injector”:** Any device or component that delivers fuel into an oxidiser.
+
+**“Hazardous Electric Shock”:** Physiological reaction generated by an electrical current greater than 2mA passing through the human body.
+
 **“Heat Shield”:** A Heat Shield is a component or an assembly whose primary function is to shield components from thermal radiation and is not permanently attached to another component or assembly (such as by riveting, bonding, welding, brazing, or plating).
 
 **“High Pressure Fuel Pump”:** A mechanical device whose sole function is to pressurise the fuel to the pressure required for the high-pressure injection. It may be Electronically Controlled.
@@ -20710,29 +24613,28 @@ edge chamfers, radii or any other relieving feature.
 
 “Live Part”: Conductive part which belongs to a High Voltage component or circuit in normal use and which has an insulation resistance lower than 100Ω/VDC and 500Ω/VAC.
 
-“Maximum Working Voltage”: Highest value of AC peak voltage or of DC voltage that can occur under any normal operating conditions according to the manufacturer's specifications, disregarding residual variation of the DC voltage shorter than 100µs. Field weakening is considered as a normal operation, therefore a MGU with a maximum back-EMF higher than the Maximum Working Voltage established by this technical regulation is allowed.
-
-“Metals”: are defined as alkali metals, alkaline earth metals, transition metals, actinides, lanthanides, post-transition metals and metalloids.
-“MGU-K Control Unit” (“CU-K”): The bi-directional DC-AC power converter sat between the ES
-
 ---
 
-## CHUNK 744
+## CHUNK 926
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
+“Live Part”: Conductive part which belongs to a High Voltage component or circuit in normal use and which has an insulation resistance lower than 100Ω/VDC and 500Ω/VAC.
+
+“Maximum Working Voltage”: Highest value of AC peak voltage or of DC voltage that can occur under any normal operating conditions according to the manufacturer's specifications, disregarding residual variation of the DC voltage shorter than 100µs. Field weakening is considered as a normal operation, therefore a MGU with a maximum back-EMF higher than the Maximum Working Voltage established by this technical regulation is allowed.
+
 “Metals”: are defined as alkali metals, alkaline earth metals, transition metals, actinides, lanthanides, post-transition metals and metalloids.
 “MGU-K Control Unit” (“CU-K”): The bi-directional DC-AC power converter sat between the ES
 
@@ -20750,34 +24652,34 @@ device that provides any mechanical speed reduction between the MGU-K and a rota
 
 **“Oil Tank”**: The Oil Tank is a singular vessel directly connected to the engine oil feed at the inlet of the oil pressure pump.
 
-**“Olefins”**: Straight chain and branched monoolefins and diolefins. Monocyclic monoolefins (with five or more carbon atoms in the ring) with or without paraffinic side chains.
-
-<mark>**“Overtake”**: A mode, when activated and in accordance with the FIA F1 Regulations, that allows additional Recharge and an alternative ERS-K maximum power profile.</mark>
-
-**“Oxygenates”**: Organic compounds containing oxygen.
-
-**“Paraffins”**: Straight chain and branched alkanes.
-
-**“Pop-off valve”** A device used to release air from the engine intake air system, anywhere downstream of the compressor wheel and upstream of the intake valves, and to recirculate it upstream of the compressor wheel.
-
 ---
 
-## CHUNK 745
+## CHUNK 927
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
+**“Naphthenes”** Monocyclic alkanes (with five or more carbon atoms in the ring) with or without paraffinic side chains.
+
+**“Oil Tank”**: The Oil Tank is a singular vessel directly connected to the engine oil feed at the inlet of the oil pressure pump.
+
+**“Olefins”**: Straight chain and branched monoolefins and diolefins. Monocyclic monoolefins (with five or more carbon atoms in the ring) with or without paraffinic side chains.
+
+<mark>**“Overtake”**: A mode, when activated and in accordance with the FIA F1 Regulations, that allows additional Recharge and an alternative ERS-K maximum power profile.</mark>
+
+**“Oxygenates”**: Organic compounds containing oxygen.
+
 **“Paraffins”**: Straight chain and branched alkanes.
 
 **“Pop-off valve”** A device used to release air from the engine intake air system, anywhere downstream of the compressor wheel and upstream of the intake valves, and to recirculate it upstream of the compressor wheel.
@@ -20804,28 +24706,28 @@ device that provides any mechanical speed reduction between the MGU-K and a rota
 
 **“Throttle”**: A variable geometry device or arrangement which restricts the airflow into the ICE by means of a variable area restriction within the intake. The Throttle may only comprise of one or more rotating butterfly valve or one or more rotating barrel valve.
 
-**“Top Deck”**: (Appendix C3, Drawing 6) The single plane surface of the block, normal to the cylinder centreline coincident with the primary connection between the crankcase and the Cylinder Head.
-
-**“Trumpet”**: A Trumpet is a component(s) that extends the geometrical path of air destined for combustion directly into each individual cylinder. The Trumpet(s) may also include any Throttle(s) permitted by C5.6.3.
-
 ---
 
-## CHUNK 746
+## CHUNK 928
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
+**“Throttle”**: A variable geometry device or arrangement which restricts the airflow into the ICE by means of a variable area restriction within the intake. The Throttle may only comprise of one or more rotating butterfly valve or one or more rotating barrel valve.
+
+**“Top Deck”**: (Appendix C3, Drawing 6) The single plane surface of the block, normal to the cylinder centreline coincident with the primary connection between the crankcase and the Cylinder Head.
+
 **“Trumpet”**: A Trumpet is a component(s) that extends the geometrical path of air destined for combustion directly into each individual cylinder. The Trumpet(s) may also include any Throttle(s) permitted by C5.6.3.
 
 **“Turbo Charger” (“TC”)**: The assembly of a compressor used for Pressure Charging of the engine, a turbine connected to the Engine Exhaust System used to drive the compressor, the drive system between the compressor and the turbine and their respective housings and bearings.
@@ -20856,28 +24758,28 @@ c. Has no restrictions or agreements in place that prevents the supplier from op
 
 **“Design Specification”**: means, in respect of a component all design (including three-dimensional geometry, tolerances, materials, surface finishes and design standards), manufacturing, installation and operational information related to that component.
 
-**“Foil Metallurgy”**: A process by which a material or component is made by the consolidation of metallic foils (by co-forging, welding etc.) which increases the mechanical properties of the material with respect to those of a bulk material. For this definition, a foil is considered a material with a thickness of less than 1mm.
-
-**“Intellectual Property”**: means:
-
 ---
 
-## CHUNK 747
+## CHUNK 929
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
+**“Design Specification”**: means, in respect of a component all design (including three-dimensional geometry, tolerances, materials, surface finishes and design standards), manufacturing, installation and operational information related to that component.
+
+**“Foil Metallurgy”**: A process by which a material or component is made by the consolidation of metallic foils (by co-forging, welding etc.) which increases the mechanical properties of the material with respect to those of a bulk material. For this definition, a foil is considered a material with a thickness of less than 1mm.
+
 **“Intellectual Property”**: means:
 
 a. patents, rights to inventions, designs, copyright and related rights, database rights, trade marks and trade names, rights in get-up and related goodwill and the right to sue for passing off or unfair competition (in each case whether registered, registerable or unregistered);
@@ -20906,28 +24808,32 @@ e. all other rights of a similar nature or having an equivalent effect anywhere 
 
 **“Related Party”** has the meaning set out in Section D: Financial Regulations (F1 Team).
 
-**“Shape Memory Material”:** A material that is configured to move reversibly between two (or more) different shapes when it is subjected only to a non-mechanical uniform stimulus (thermal, electrical, magnetic, optical, etc.), or exhibits a reversible phase change when subject to an applied stress. For clarity, this does not include consequential geometric changes that result solely from the effects of thermal expansion.
-
-**“Surface Texturing”:** Modification of a component surface to obtain a defined patterning to enhance the tribological performance.
-
 ---
 
-## CHUNK 748
+## CHUNK 930
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
+**“Outsourcing” or “Outsourced”:** means procuring or procured goods or services by contract with an external supplier.
+
+**“Polymeric Material”:** any thermoplastic or thermoset material.
+
+**“Related Party”** has the meaning set out in Section D: Financial Regulations (F1 Team).
+
+**“Shape Memory Material”:** A material that is configured to move reversibly between two (or more) different shapes when it is subjected only to a non-mechanical uniform stimulus (thermal, electrical, magnetic, optical, etc.), or exhibits a reversible phase change when subject to an applied stress. For clarity, this does not include consequential geometric changes that result solely from the effects of thermal expansion.
+
 **“Surface Texturing”:** Modification of a component surface to obtain a defined patterning to enhance the tribological performance.
 
 **“X Based Alloy”:** (e.g., Ni based alloy) – X must be the most abundant element in the alloy on a %w/w basis. The minimum possible weight percent of the element X must always be greater than the maximum possible of each of the other individual elements present in the alloy.
@@ -20952,30 +24858,32 @@ e. all other rights of a similar nature or having an equivalent effect anywhere 
 
 **1.5** The prefix “RV-“ always refers to a Reference Volume, whereas the prefix “RS-“ refers to a Reference Surface.
 
-**1.6** The CAD models of all the volumes and surfaces listed in this Appendix are available for F1 Teams or PU Manufacturers to download with a standard range of parameters. The FIA will provide F1 Teams or PU Manufacturers with a specific model on request.
-
-**1.7** Should an inconsistency arise between a volume generated manually using the process outlined in this Article, or a volume that has been downloaded by the process outlined in Article 1.6 of this Appendix, the FIA will adjudicate on a case-by-case basis the volume that will be applicable and correct the one that will be judged to have an inconsistency or error.
-
-# 2 Legality Volumes or Surfaces Defined by CAD Models
-
 ---
 
-## CHUNK 749
+## CHUNK 931
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
+**1.4** All volumes are implicitly symmetrical about the plane Y=0.
+
+**1.5** The prefix “RV-“ always refers to a Reference Volume, whereas the prefix “RS-“ refers to a Reference Surface.
+
+**1.6** The CAD models of all the volumes and surfaces listed in this Appendix are available for F1 Teams or PU Manufacturers to download with a standard range of parameters. The FIA will provide F1 Teams or PU Manufacturers with a specific model on request.
+
+**1.7** Should an inconsistency arise between a volume generated manually using the process outlined in this Article, or a volume that has been downloaded by the process outlined in Article 1.6 of this Appendix, the FIA will adjudicate on a case-by-case basis the volume that will be applicable and correct the one that will be judged to have an inconsistency or error.
+
 # 2 Legality Volumes or Surfaces Defined by CAD Models
 
 **2.1** The legality volumes and surfaces listed below are defined exclusively by CAD data and are available to download from the FIA’s CAD Portal. Unless otherwise stated, the volumes must be positioned with the origin of the model at the coordinates given and with the model axes parallel to, and in the same direction as the corresponding car axes.
@@ -20991,9 +24899,24 @@ e. all other rights of a similar nature or having an equivalent effect anywhere 
 |RS-FWD-FUEL-LIMIT|FIA-LEG-0240|B|Positioned at \[XC=0, 0, 0]|
 |RV-CH-MID-MIN|FIA-LEG-0001|E|Positioned at \[XC=0, 0, 0]|
 
+---
 
+## CHUNK 932
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 189,
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
+}
+```
 
-
+**Content:**
 |RV-COCKPIT-ENTRY|FIA-LEG-0004|C|Positioned at \[XC=0, 0, 0]|
 |-|-|-|-|
 |RV-COCKPIT-DRIVER|FIA-LEG-0242|A|Positioned at \[XC=0, 0, 0]|
@@ -21029,30 +24952,6 @@ Governance: PU Manufacturers’ Governance Agreement / WMSC
 
 # 3 ERS Reference Volume (RV-PU-ERS)
 
----
-
-## CHUNK 750
-**Metadata:**
-```json
-{
-  "source_pdf": "2026_f1_regulations_section_c.pdf",
-  "regulatory_year": 2026,
-  "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
-  "section": "Section C",
-  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
-}
-```
-
-**Content:**
-\* | Advisory Committee: PUAC
-
-Governance: PU Manufacturers’ Governance Agreement / WMSC
-
-# 3 ERS Reference Volume (RV-PU-ERS)
-
 Advisory Committee: PUAC
 Governance: PU Manufacturers’ Governance Agreement / WMSC
 
@@ -21066,6 +24965,30 @@ RV-PU-ERS is composed of the following elements:
 
 **3.3** Once the surface in §3.2 is fully defined, it must be extruded along X to $X_{PU} = -1500$.
 
+**3.4** Once the volume in §3.3 is fully defined; it must be trimmed by the surface RS-PU-FWD-ERS with all material ahead of this surface discarded.
+
+**3.5** The fully defined volume in §3.4 is “RV-PU-ERS”
+
+# 4 Floor Body Reference Volume (RV-FLOOR-BODY)
+
+---
+
+## CHUNK 933
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 189,
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
+}
+```
+
+**Content:**
 **3.4** Once the volume in §3.3 is fully defined; it must be trimmed by the surface RS-PU-FWD-ERS with all material ahead of this surface discarded.
 
 **3.5** The fully defined volume in §3.4 is “RV-PU-ERS”
@@ -21102,32 +25025,34 @@ RV-FLOOR-BODY is composed of the following elements:
 
 a. \[X<sub>F</sub> = 1100, 0], \[X<sub>F</sub> = 1100, 770], \[X<sub>R</sub> = −335, 700], \[X<sub>R</sub> = −335, 400], \[X<sub>R</sub> = −150, 365], \[X<sub>R</sub> = 300, 365], \[X<sub>R</sub> = 300, 0], \[X<sub>F</sub> = 1100, 0].
 
----
-
-## CHUNK 751
-**Metadata:**
-```json
-{
-  "source_pdf": "2026_f1_regulations_section_c.pdf",
-  "regulatory_year": 2026,
-  "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
-  "section": "Section C",
-  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
-}
-```
-
-**Content:**
-a. \[X<sub>F</sub> = 1100, 0], \[X<sub>F</sub> = 1100, 770], \[X<sub>R</sub> = −335, 700], \[X<sub>R</sub> = −335, 400], \[X<sub>R</sub> = −150, 365], \[X<sub>R</sub> = 300, 365], \[X<sub>R</sub> = 300, 0], \[X<sub>F</sub> = 1100, 0].
-
 4.10 Once the surface in §4.9 is fully defined, it must be extruded along Z to Z = 250.
 
 4.11 On a plane through Y=0, a section whose edges pass through the following \[X, Z] vertices sequentially:
 
 a. \[X<sub>F</sub> = 1100, 175], \[X<sub>F</sub> = 1775, 75], \[X<sub>R</sub> = −600, 75], \[X<sub>R</sub> = −350, 175], \[X<sub>R</sub> = 300, 250], \[X<sub>R</sub> = 350, 250].
 
+4.12 Once the section in §4.11 is fully defined, it must be extruded along Y to Y = 770.
+
+4.13 Once the volume in §4.10 and the sheet in §4.12 are fully defined, the volume must be trimmed with the sheet with all material above the sheet discarded.
+
+---
+
+## CHUNK 934
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 189,
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
+}
+```
+
+**Content:**
 4.12 Once the section in §4.11 is fully defined, it must be extruded along Y to Y = 770.
 
 4.13 Once the volume in §4.10 and the sheet in §4.12 are fully defined, the volume must be trimmed with the sheet with all material above the sheet discarded.
@@ -21174,30 +25099,6 @@ RV-FLOOR-SIDEWALL is composed of the following elements:
 
 a. \[−335, 400], \[−150, 365], \[350, 365], \[350, 345], \[−335, 345], \[−335, 400].
 
----
-
-## CHUNK 752
-**Metadata:**
-```json
-{
-  "source_pdf": "2026_f1_regulations_section_c.pdf",
-  "regulatory_year": 2026,
-  "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
-  "section": "Section C",
-  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
-}
-```
-
-**Content:**
-RV-FLOOR-SIDEWALL is composed of the following elements:
-
-5.1 On a plane through Z = 35, a simple, closed polygon whose edges pass through the following \[X<sub>R</sub>, Y] vertices sequentially:
-
-a. \[−335, 400], \[−150, 365], \[350, 365], \[350, 345], \[−335, 345], \[−335, 400].
-
 5.2 Once the surface in §5.1 is fully defined, it must be extruded along Z to Z = 275.
 
 5.3 Once the volume in §5.2 is fully defined, it must be trimmed with the sheet from §4.12 with all material above the sheet discarded.
@@ -21206,6 +25107,30 @@ The fully defined volume in §5.3 is “RV-FLOOR-SIDEWALL”.
 
 # 6 Floor Foot Reference Volume (RV-FLOOR-FOOT)
 
+RV-FLOOR-FOOT is composed of the following elements:
+
+6.1 On a plane through Z = 50, a simple, closed polygon whose edges pass through the following \[X<sub>F</sub>, Y] vertices sequentially:
+
+a. \[650, 650], \[650, 890], \[825, 890], \[1350, 760], \[1350, 625], \[650, 650].
+
+---
+
+## CHUNK 935
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 189,
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
+}
+```
+
+**Content:**
 RV-FLOOR-FOOT is composed of the following elements:
 
 6.1 On a plane through Z = 50, a simple, closed polygon whose edges pass through the following \[X<sub>F</sub>, Y] vertices sequentially:
@@ -21259,35 +25184,32 @@ The fully defined volume in §9.2 is “RV-FLOOR-LED”.
 
 RV-FLOOR-CORNER is composed of the following elements:
 
+10.1 On a plane through Z = 50, a simple, closed polygon whose edges pass through the following \[X, Y] vertices sequentially:
+a. \[X<sub>R</sub> = −825, 750], \[X<sub>R</sub> = −825, 625], \[X<sub>R</sub> = −495, 580], \[X<sub>R</sub> = −495, 510], \[X<sub>R</sub> = −335, 420], \[X<sub>R</sub> = −335, 750], \[X<sub>R</sub> = −825, 750].
+
+10.2 Once the surface in §10.1 is fully defined, it must be extruded along Z to Z = 85.
+
+10.3 Once the volume in §10.2 is fully defined, it must be trimmed with a plane passing through the following three points with all material outboard of the plane discarded.
+a. \[X<sub>F</sub> = 1100, 770, 50], \[X<sub>R</sub> = −335, 700, 50], \[X<sub>R</sub> = −335, 700, 100]
+
 ---
 
-## CHUNK 753
+## CHUNK 936
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
-The fully defined volume in §9.2 is “RV-FLOOR-LED”.
-
-# 10 Floor Corner Reference Volume (RV-FLOOR-CORNER)
-
-RV-FLOOR-CORNER is composed of the following elements:
-
-10.1 On a plane through Z = 50, a simple, closed polygon whose edges pass through the following \[X, Y] vertices sequentially:
-a. \[X<sub>R</sub> = −825, 750], \[X<sub>R</sub> = −825, 625], \[X<sub>R</sub> = −495, 580], \[X<sub>R</sub> = −495, 510], \[X<sub>R</sub> = −335, 420], \[X<sub>R</sub> = −335, 750], \[X<sub>R</sub> = −825, 750].
-
-10.2 Once the surface in §10.1 is fully defined, it must be extruded along Z to Z = 85.
-
 10.3 Once the volume in §10.2 is fully defined, it must be trimmed with a plane passing through the following three points with all material outboard of the plane discarded.
 a. \[X<sub>F</sub> = 1100, 770, 50], \[X<sub>R</sub> = −335, 700, 50], \[X<sub>R</sub> = −335, 700, 100]
 
@@ -21326,34 +25248,34 @@ a. \[X<sub>C</sub> = −875, 195], \[X<sub>C</sub> = −875, 645], \[X<sub>F</su
 
 a. \[−875, 75], \[320, 75], \[320, 680], \[0, 680], \[0, 770], \[−350, 770], \[−350, 645], \[−875, 645], \[−875, 75].
 
----
-
-## CHUNK 754
-**Metadata:**
-```json
-{
-  "source_pdf": "2026_f1_regulations_section_c.pdf",
-  "regulatory_year": 2026,
-  "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
-  "section": "Section C",
-  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
-}
-```
-
-**Content:**
-12.5 On a plane through Y = 0, a simple, closed polygon whose edges pass through the following \[X<sub>C</sub>, Z] vertices sequentially:
-
-a. \[−875, 75], \[320, 75], \[320, 680], \[0, 680], \[0, 770], \[−350, 770], \[−350, 645], \[−875, 645], \[−875, 75].
-
 12.6 Once the surface in §12.5 is fully defined, it must be extruded along Y to Y = 400.
 
 12.7 An axis-aligned cuboid, which has one interior diagonal defined by the points:
 
 a. \[X<sub>C</sub>, 170, 680], \[X<sub>C</sub> = 75, 400, 970].
 
+12.8 Once the volumes in §12.4, §12.6 and §12.7 are fully defined, they must be combined to make one unified volume.
+
+12.9 On a plane through Z = 75, a simple, closed polygon whose edges pass through the following \[X, Y] vertices sequentially:
+
+---
+
+## CHUNK 937
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_c.pdf",
+  "regulatory_year": 2026,
+  "page_number": 189,
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
+  "section": "Section C",
+  "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
+}
+```
+
+**Content:**
 12.8 Once the volumes in §12.4, §12.6 and §12.7 are fully defined, they must be combined to make one unified volume.
 
 12.9 On a plane through Z = 75, a simple, closed polygon whose edges pass through the following \[X, Y] vertices sequentially:
@@ -21394,28 +25316,34 @@ RV-CH-FRONT-MIN is composed of the following elements:
 
 **13.2** Once the volume in §13.1 is fully defined, it must be trimmed with the plane X<sub>A</sub> = 0 with all material ahead of this plane discarded.
 
+**13.3** Once the volume in §13.2 is fully defined, radii with a convex radius of curvature of 50mm must be applied to the longitudinal edges, drawn tangent to both surfaces and perpendicular to the boundary.
+
+The fully defined volume in §13.3 is “RV-CH-FRONT-MIN”.
+
+# 14 Mirror Body Reference Volume (RV-MIRROR-BODY)
+
+RV-MIRROR-BODY is composed of the following elements:
+
+**14.1** On a plane through Z = 640, a simple, closed polygon whose edges pass through the following \[X, Y] vertices sequentially:
+
 ---
 
-## CHUNK 755
+## CHUNK 938
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
-**13.2** Once the volume in §13.1 is fully defined, it must be trimmed with the plane X<sub>A</sub> = 0 with all material ahead of this plane discarded.
-
-**13.3** Once the volume in §13.2 is fully defined, radii with a convex radius of curvature of 50mm must be applied to the longitudinal edges, drawn tangent to both surfaces and perpendicular to the boundary.
-
 The fully defined volume in §13.3 is “RV-CH-FRONT-MIN”.
 
 # 14 Mirror Body Reference Volume (RV-MIRROR-BODY)
@@ -21472,28 +25400,28 @@ a. \[X<sub>C</sub>, 0, 600], \[X<sub>C</sub>, 725, 600], \[X<sub>R</sub> = -50, 
 
 **17.4** On a plane through Y=0, a simple, closed polygon whose edges pass through the following \[X, Z] vertices sequentially:
 
+a. \[X<sub>C</sub> = 320, 50], \[X<sub>R</sub> = −50, 50], \[X<sub>R</sub> = −50, 600], \[X<sub>C</sub> = 500, 970], \[X<sub>C</sub> = 320, 970], \[X<sub>C</sub> = 320, 50].
+
+**17.5** Once the surface in §17.4 is fully defined, it must be extruded along Y to Y = 400.
+
 ---
 
-## CHUNK 756
+## CHUNK 939
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
-a. \[X<sub>C</sub>, 0, 600], \[X<sub>C</sub>, 725, 600], \[X<sub>R</sub> = -50, 0, 350].
-
-**17.4** On a plane through Y=0, a simple, closed polygon whose edges pass through the following \[X, Z] vertices sequentially:
-
 a. \[X<sub>C</sub> = 320, 50], \[X<sub>R</sub> = −50, 50], \[X<sub>R</sub> = −50, 600], \[X<sub>C</sub> = 500, 970], \[X<sub>C</sub> = 320, 970], \[X<sub>C</sub> = 320, 50].
 
 **17.5** Once the surface in §17.4 is fully defined, it must be extruded along Y to Y = 400.
@@ -21546,28 +25474,32 @@ RV-TAIL is composed of the following elements:
 
 **19.5** Once the volumes in §19.2 and §19.4 are fully defined, they must be combined with all non-overlapping regions discarded.
 
+The fully defined volume in §19.5 is "RV-TAIL".
+
+# 20 Tailpipe Reference Volume (RV-TAILPIPE)
+
+RV-TAILPIPE is composed of the following elements:
+
+**20.1** An axis-aligned cuboid, which has one interior diagonal defined by the points:
+
 ---
 
-## CHUNK 757
+## CHUNK 940
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
-**19.4** Once the surface in §19.3 is fully defined, it must be extruded along Z to Z = 500.
-
-**19.5** Once the volumes in §19.2 and §19.4 are fully defined, they must be combined with all non-overlapping regions discarded.
-
 The fully defined volume in §19.5 is "RV-TAIL".
 
 # 20 Tailpipe Reference Volume (RV-TAILPIPE)
@@ -21632,32 +25564,30 @@ The fully defined volume in §23.5 is "RV-FWEP-BODY".
 
 RV-FWEP-OFP is composed of the following elements:
 
+24.1 An axis-aligned cuboid, which has one interior diagonal defined by the points:
+
+a. \[$X_F = -1250, 750, 75$], \[$X_F = -300, 900, 170$].
+
+24.2 Once the volume in §24.1 is fully defined, it must be trimmed using the plane defined in **§21.1** with all material forward of the plane discarded.
+
 ---
 
-## CHUNK 758
+## CHUNK 941
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
-a. \[$X_F = -750, 675, 375$], \[$X_F = -1050, 675, 250$], \[$X_F = -1050, 600, 250$].
-
-The fully defined volume in §23.5 is "RV-FWEP-BODY".
-
-# 24 Front Wing Endplate Outer Footplate Reference Volume (RV-FWEP-OFP)
-
-RV-FWEP-OFP is composed of the following elements:
-
 24.1 An axis-aligned cuboid, which has one interior diagonal defined by the points:
 
 a. \[$X_F = -1250, 750, 75$], \[$X_F = -300, 900, 170$].
@@ -21724,32 +25654,31 @@ The fully defined volume in §28.3 is “RV-FW-SENSOR”.
 
 RV-CAMERA-2 is composed of the following elements:
 
+29.1 An axis-aligned cuboid, which has one interior diagonal defined by the points:
+$\[X_F = -150, 0, 325], \[X_F = -450, -330, 550]$.
+
+<!-- layout: 29.2 pjrj -->
+
+29.2 Once the volume in §29.1 is fully defined, it must be trimmed with the following planes:
+
 ---
 
-## CHUNK 759
+## CHUNK 942
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
-28.3 Once the volumes in §28.1 and §28.2 are fully defined, they must be united to create a single unified volume.
-
-The fully defined volume in §28.3 is “RV-FW-SENSOR”.
-
-# 29 Camera 2 Reference Volume (RV-CAMERA-2)
-
-RV-CAMERA-2 is composed of the following elements:
-
 29.1 An axis-aligned cuboid, which has one interior diagonal defined by the points:
 $\[X_F = -150, 0, 325], \[X_F = -450, -330, 550]$.
 
@@ -21814,30 +25743,30 @@ RV-RW-PYLON is composed of the following elements:
 
 a. \[$X_R, 300$], \[$X_R, 450$], \[$X_R = 200, 825$], \[$X_R = 450, 825$], \[$X_{DIF} = 400, 300$], \[$X_R, 300$].
 
+32.2 Once the surface in §32.1 is fully defined, it must be extruded along Y to Y = 110.
+
+The fully defined volume in §32.2 is “RV-RW-PYLON”.
+
+# 33 Stay / Bracket / Support / Fairing Reference Volumes
+
 ---
 
-## CHUNK 760
+## CHUNK 943
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
 **Content:**
-RV-RW-PYLON is composed of the following elements:
-
-## 32.1 On a plane through Y = 50, a simple, closed polygon whose edges pass through the following \[X, Z] vertices sequentially:
-
-a. \[$X_R, 300$], \[$X_R, 450$], \[$X_R = 200, 825$], \[$X_R = 450, 825$], \[$X_{DIF} = 400, 300$], \[$X_R, 300$].
-
 32.2 Once the surface in §32.1 is fully defined, it must be extruded along Y to Y = 110.
 
 The fully defined volume in §32.2 is “RV-RW-PYLON”.
@@ -21888,18 +25817,18 @@ Each fully defined Reference Surface is a simple, closed polygon, that lies exac
 
 ---
 
-## CHUNK 761
+## CHUNK 944
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -21939,18 +25868,18 @@ RS-INTSN-LAM-FWD is composed of the following elements:
 
 ---
 
-## CHUNK 762
+## CHUNK 945
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22014,18 +25943,18 @@ Spark Plug Axis must pass through yellow quadrilateral
 
 ---
 
-## CHUNK 763
+## CHUNK 946
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22086,18 +26015,18 @@ Spark Plug Axis must pass through yellow quadrilateral
 
 ---
 
-## CHUNK 764
+## CHUNK 947
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22136,18 +26065,18 @@ The parts listed as ‘EXC’ are not part of a PU element. Treatment of these i
 
 ---
 
-## CHUNK 765
+## CHUNK 948
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22170,18 +26099,18 @@ Under the scope of this Appendix, all Minor Parts must be considered as belongin
 
 ---
 
-## CHUNK 766
+## CHUNK 949
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22201,18 +26130,18 @@ Under the scope of this Appendix, all Minor Parts must be considered as belongin
 
 ---
 
-## CHUNK 767
+## CHUNK 950
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22238,18 +26167,18 @@ Under the scope of this Appendix, all Minor Parts must be considered as belongin
 
 ---
 
-## CHUNK 768
+## CHUNK 951
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22272,18 +26201,18 @@ Under the scope of this Appendix, all Minor Parts must be considered as belongin
 
 ---
 
-## CHUNK 769
+## CHUNK 952
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22305,18 +26234,18 @@ Under the scope of this Appendix, all Minor Parts must be considered as belongin
 
 ---
 
-## CHUNK 770
+## CHUNK 953
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22337,18 +26266,18 @@ Under the scope of this Appendix, all Minor Parts must be considered as belongin
 
 ---
 
-## CHUNK 771
+## CHUNK 954
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22369,18 +26298,18 @@ Under the scope of this Appendix, all Minor Parts must be considered as belongin
 
 ---
 
-## CHUNK 772
+## CHUNK 955
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22413,18 +26342,18 @@ Under the scope of this Appendix, all Minor Parts must be considered as belongin
 
 ---
 
-## CHUNK 773
+## CHUNK 956
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22447,18 +26376,18 @@ By default, what is not listed here is to be treated as EXC, where such items li
 
 ---
 
-## CHUNK 774
+## CHUNK 957
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22468,18 +26397,18 @@ By default, what is not listed here is to be treated as EXC, where such items li
 
 ---
 
-## CHUNK 775
+## CHUNK 958
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22518,18 +26447,18 @@ All Power Units supplied by a single PU Manufacturer must also be operated in th
 
 ---
 
-## CHUNK 776
+## CHUNK 959
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22566,18 +26495,18 @@ i. A final full external space model of the Power Unit including details and loc
 
 ---
 
-## CHUNK 777
+## CHUNK 960
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22616,18 +26545,18 @@ c. is available to each F1 Team supplied by the PU Manufacturer at the Competiti
 
 ---
 
-## CHUNK 778
+## CHUNK 961
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22663,18 +26592,18 @@ g. All parts listed in item 71 (e.g., pneumatic bottles, hoses, filling valves) 
 
 ---
 
-## CHUNK 779
+## CHUNK 962
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22701,18 +26630,18 @@ e. The first time one or more Power Units comprising modified parts, as permitte
 
 ---
 
-## CHUNK 780
+## CHUNK 963
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22756,18 +26685,18 @@ At the end of each of the ADUO periods specified above, every PU Manufacturer gr
 
 ---
 
-## CHUNK 781
+## CHUNK 964
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22809,18 +26738,18 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 782
+## CHUNK 965
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22845,18 +26774,18 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 783
+## CHUNK 966
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22866,18 +26795,18 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 784
+## CHUNK 967
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22895,18 +26824,18 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 785
+## CHUNK 968
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22921,18 +26850,18 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 786
+## CHUNK 969
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22948,18 +26877,18 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 787
+## CHUNK 970
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -22979,18 +26908,18 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 788
+## CHUNK 971
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -23005,18 +26934,18 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 789
+## CHUNK 972
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -23037,18 +26966,18 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 790
+## CHUNK 973
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -23071,18 +27000,18 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 791
+## CHUNK 974
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_c.pdf",
   "regulatory_year": 2026,
   "page_number": 189,
-  "rule_id": "C18.5.6",
-  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.5 Defined Specification Power Unit Components (DSPUC) > C18.5.6",
+  "rule_id": "C18.6",
+  "breadcrumb": "Section C > Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION > C18.6 List of LPUC, SSPUC, OSPUC and DSPUC > C18.6",
   "section": "Section C",
   "article": "Article C18: POWER UNIT COMPONENTS\u2019 CLASSIFICATION",
-  "sub_article": "C18.5 Defined Specification Power Unit Components (DSPUC)"
+  "sub_article": "C18.6 List of LPUC, SSPUC, OSPUC and DSPUC"
 }
 ```
 
@@ -23144,7 +27073,7 @@ All Power Units must be delivered such that the seals required under Article B8.
 
 ---
 
-## CHUNK 792
+## CHUNK 975
 **Metadata:**
 ```json
 {
@@ -23177,7 +27106,7 @@ The procedure <mark>which will be used to assess compliance with this article mu
 
 ---
 
-## CHUNK 793
+## CHUNK 976
 **Metadata:**
 ```json
 {
@@ -23204,7 +27133,7 @@ c. Remains powered for at least 15 minutes following the start of the shutdown p
 
 ---
 
-## CHUNK 794
+## CHUNK 977
 **Metadata:**
 ```json
 {
@@ -23227,7 +27156,7 @@ c. Remains powered for at least 15 minutes following the start of the shutdown p
 
 ---
 
-## CHUNK 795
+## CHUNK 978
 **Metadata:**
 ```json
 {
@@ -23264,7 +27193,7 @@ e. the section formed when intersected with any Y-Plane, must have an incidence 
 
 ---
 
-## CHUNK 796
+## CHUNK 979
 **Metadata:**
 ```json
 {
@@ -23316,7 +27245,7 @@ h. they, <mark>except for the Rear Wing Pylon Brace</mark>, must be arranged suc
 
 ---
 
-## CHUNK 797
+## CHUNK 980
 **Metadata:**
 ```json
 {
@@ -23356,7 +27285,7 @@ The PU supply perimeter listed in the corresponding column of Appendix C4 shall 
 
 ---
 
-## CHUNK 798
+## CHUNK 981
 **Metadata:**
 ```json
 {
@@ -23379,13 +27308,249 @@ The PU supply perimeter listed in the corresponding column of Appendix C4 shall 
 
 **Black Text:** Text unchanged from 2026 FIA F1 Regulations – Section D \[Financial – F1 Teams] – Iss 04 <mark>Pink Text:</mark> Changes relatives to 2026 FIA F1 Regulations – Section D \[Financial – F1 Teams] – Iss 04, approved by the WMSC on 27/02/2026 <mark>\[Red Text]:</mark> Information on applicable Governance and relevant Advisory Committee <mark>\[Orange Text]:</mark> Reference information on relevant FIA F1 Document(s) <mark>\[Green Text]:</mark> Comments / explanations / indication of further work: non-binding and non-regulatory
 
+---
+
+## CHUNK 982
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "D6.1",
+  "breadcrumb": "Section D > Article D6: ADJUSTMENTS 14 > D6.1 Adjustments 14 > D6.1",
+  "section": "Section D",
+  "article": "Article D6: ADJUSTMENTS 14",
+  "sub_article": "D6.1 Adjustments 14"
+}
+```
+
+**Content:**
+[Section D > Article D6: ADJUSTMENTS 14 > D6.1 Adjustments 14 > D6.1]
+**D6.1** Adjustments 14
+
+---
+
+## CHUNK 983
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "D7.1",
+  "breadcrumb": "Section D > Article D7: REPORTING REQUIREMENTS 19 > D7.1 Full Year Reporting Documentation 19 > D7.1",
+  "section": "Section D",
+  "article": "Article D7: REPORTING REQUIREMENTS 19",
+  "sub_article": "D7.1 Full Year Reporting Documentation 19"
+}
+```
+
+**Content:**
+[Section D > Article D7: REPORTING REQUIREMENTS 19 > D7.1 Full Year Reporting Documentation 19 > D7.1]
+**D7.1** Full Year Reporting Documentation 19
+D7.2 Interim Reporting Documentation 19
+
+---
+
+## CHUNK 984
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "D8.1",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION 20 > D8.1 General 20 > D8.1",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION 20",
+  "sub_article": "D8.1 General 20"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION 20 > D8.1 General 20 > D8.1]
+**D8.1** General 20
+D8.2 Determinations, guidance, and clarifications 20
+D8.3 Ongoing compliance monitoring 20
+D8.4 Requests for information/access and Demands 21
+D8.5 Notification of apparent or alleged breaches 22
+D8.6 Review of Reporting Documentation 22
+D8.7 General provisions relating to investigations 23
+D8.8 Investigations commenced following a complaint by another F1 Team 23
+D8.9 Immunity 23
+D8.10 Accepted Breach Agreement (ABA) – F1 Teams 23
+D8.11 Accepted Breach Agreement (ABA) – Individual F1 Team Member 24
+D8.12 Public reporting 25
+
+---
+
+## CHUNK 985
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "D9.1",
+  "breadcrumb": "Section D > Article D9: COST CAP ADJUDICATION PANEL 26 > D9.1 Cost Cap Adjudication Panel 26 > D9.1",
+  "section": "Section D",
+  "article": "Article D9: COST CAP ADJUDICATION PANEL 26",
+  "sub_article": "D9.1 Cost Cap Adjudication Panel 26"
+}
+```
+
+**Content:**
+[Section D > Article D9: COST CAP ADJUDICATION PANEL 26 > D9.1 Cost Cap Adjudication Panel 26 > D9.1]
+**D9.1** Cost Cap Adjudication Panel 26
+D9.2 Referral to the Cost Cap Adjudication Panel 26
+D9.3 Limitation period 26
+D9.4 Composition of the Cost Cap Adjudication Panel 27
+D9.5 Powers of the Cost Cap Adjudication Panel 27
+D9.6 Hearings before the Cost Cap Adjudication Panel 28
+D9.7 Decision 30
+D9.8 Confidentiality of proceedings 31
+D9.9 Appeals 31
+
+---
+
+## CHUNK 986
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "D10.1",
+  "breadcrumb": "Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS 32 > D10.1 Procedural Breaches 32 > D10.1",
+  "section": "Section D",
+  "article": "Article D10: BREACHES APPLICABLE TO F1 TEAMS 32",
+  "sub_article": "D10.1 Procedural Breaches 32"
+}
+```
+
+**Content:**
+[Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS 32 > D10.1 Procedural Breaches 32 > D10.1]
+**D10.1** Procedural Breaches 32
+D10.2 Late and Non-Submission Breaches 33
+D10.3 Overspend Breaches 33
+
+---
+
+## CHUNK 987
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "D11.1",
+  "breadcrumb": "Section D > Article D11: BREACHES APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS 35 > D11.1 Breaches applicable to individuals F1 Team Members 35 > D11.1",
+  "section": "Section D",
+  "article": "Article D11: BREACHES APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS 35",
+  "sub_article": "D11.1 Breaches applicable to individuals F1 Team Members 35"
+}
+```
+
+**Content:**
+[Section D > Article D11: BREACHES APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS 35 > D11.1 Breaches applicable to individuals F1 Team Members 35 > D11.1]
+**D11.1** Breaches applicable to individuals F1 Team Members 35
+
+---
+
+## CHUNK 988
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "D12.1",
+  "breadcrumb": "Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS 36 > D12.1 Sanctions applicable to F1 Teams 36 > D12.1",
+  "section": "Section D",
+  "article": "Article D12: SANCTIONS APPLICABLE TO F1 TEAMS 36",
+  "sub_article": "D12.1 Sanctions applicable to F1 Teams 36"
+}
+```
+
+**Content:**
+[Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS 36 > D12.1 Sanctions applicable to F1 Teams 36 > D12.1]
+**D12.1** Sanctions applicable to F1 Teams 36
+D12.2 Enhanced monitoring 37
+D12.3 Aggravating or mitigating factors 37
+D12.4 Suspended sanctions 37
+D12.5 Payment of a Financial Penalty 37
+
+---
+
+## CHUNK 989
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "D13.1",
+  "breadcrumb": "Section D > Article D13: SANCTIONS APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS 38 > D13.1 Sanctions applicable to individual F1 Team Members 38 > D13.1",
+  "section": "Section D",
+  "article": "Article D13: SANCTIONS APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS 38",
+  "sub_article": "D13.1 Sanctions applicable to individual F1 Team Members 38"
+}
+```
+
+**Content:**
+[Section D > Article D13: SANCTIONS APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS 38 > D13.1 Sanctions applicable to individual F1 Team Members 38 > D13.1]
+**D13.1** Sanctions applicable to individual F1 Team Members 38
+
+---
+
+## CHUNK 990
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "D14.1",
+  "breadcrumb": "Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS 39 > D14.1 Arrangements for new entrants 39 > D14.1",
+  "section": "Section D",
+  "article": "Article D14: ARRANGEMENTS FOR NEW ENTRANTS 39",
+  "sub_article": "D14.1 Arrangements for new entrants 39"
+}
+```
+
+**Content:**
+[Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS 39 > D14.1 Arrangements for new entrants 39 > D14.1]
+**D14.1** Arrangements for new entrants 39
+
 **APPENDIX D1: DEFINITIONS AND INTERPRETATION 40**
 
 **APPENDIX D2: APPROVED CHANGES TO SECTION D FOR SUBSEQUENT YEARS 60**
 
 ---
 
-## CHUNK 799
+## CHUNK 991
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 4,
+  "rule_id": "D1.1",
+  "breadcrumb": "Section D > Article D1: GENERAL PRINCIPLES > D1.1 Scope > D1.1",
+  "section": "Section D",
+  "article": "Article D1: GENERAL PRINCIPLES",
+  "sub_article": "D1.1 Scope"
+}
+```
+
+**Content:**
+[Section D > Article D1: GENERAL PRINCIPLES > D1.1 Scope > D1.1]
+**D1.1** ##  Scope
+
+---
+
+## CHUNK 992
 **Metadata:**
 ```json
 {
@@ -23406,7 +27571,7 @@ The PU supply perimeter listed in the corresponding column of Appendix C4 shall 
 
 ---
 
-## CHUNK 800
+## CHUNK 993
 **Metadata:**
 ```json
 {
@@ -23427,7 +27592,28 @@ The PU supply perimeter listed in the corresponding column of Appendix C4 shall 
 
 ---
 
-## CHUNK 801
+## CHUNK 994
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 4,
+  "rule_id": "D1.2",
+  "breadcrumb": "Section D > Article D1: GENERAL PRINCIPLES > D1.2 Objectives > D1.2",
+  "section": "Section D",
+  "article": "Article D1: GENERAL PRINCIPLES",
+  "sub_article": "D1.2 Objectives"
+}
+```
+
+**Content:**
+[Section D > Article D1: GENERAL PRINCIPLES > D1.2 Objectives > D1.2]
+**D1.2** ##  Objectives
+
+---
+
+## CHUNK 995
 **Metadata:**
 ```json
 {
@@ -23448,7 +27634,7 @@ The PU supply perimeter listed in the corresponding column of Appendix C4 shall 
 
 ---
 
-## CHUNK 802
+## CHUNK 996
 **Metadata:**
 ```json
 {
@@ -23477,7 +27663,28 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 803
+## CHUNK 997
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 4,
+  "rule_id": "D1.3",
+  "breadcrumb": "Section D > Article D1: GENERAL PRINCIPLES > D1.3 Interpretation > D1.3",
+  "section": "Section D",
+  "article": "Article D1: GENERAL PRINCIPLES",
+  "sub_article": "D1.3 Interpretation"
+}
+```
+
+**Content:**
+[Section D > Article D1: GENERAL PRINCIPLES > D1.3 Interpretation > D1.3]
+**D1.3** ##  Interpretation
+
+---
+
+## CHUNK 998
 **Metadata:**
 ```json
 {
@@ -23498,7 +27705,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 804
+## CHUNK 999
 **Metadata:**
 ```json
 {
@@ -23519,7 +27726,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 805
+## CHUNK 1000
 **Metadata:**
 ```json
 {
@@ -23540,7 +27747,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 806
+## CHUNK 1001
 **Metadata:**
 ```json
 {
@@ -23563,7 +27770,28 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 807
+## CHUNK 1002
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "D1.4",
+  "breadcrumb": "Section D > Article D1: GENERAL PRINCIPLES > D1.4 Transitional provisions > D1.4",
+  "section": "Section D",
+  "article": "Article D1: GENERAL PRINCIPLES",
+  "sub_article": "D1.4 Transitional provisions"
+}
+```
+
+**Content:**
+[Section D > Article D1: GENERAL PRINCIPLES > D1.4 Transitional provisions > D1.4]
+**D1.4** ##  Transitional provisions
+
+---
+
+## CHUNK 1003
 **Metadata:**
 ```json
 {
@@ -23584,7 +27812,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 808
+## CHUNK 1004
 **Metadata:**
 ```json
 {
@@ -23605,7 +27833,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 809
+## CHUNK 1005
 **Metadata:**
 ```json
 {
@@ -23626,7 +27854,28 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 810
+## CHUNK 1006
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "D1.5",
+  "breadcrumb": "Section D > Article D1: GENERAL PRINCIPLES > D1.5 Amendment > D1.5",
+  "section": "Section D",
+  "article": "Article D1: GENERAL PRINCIPLES",
+  "sub_article": "D1.5 Amendment"
+}
+```
+
+**Content:**
+[Section D > Article D1: GENERAL PRINCIPLES > D1.5 Amendment > D1.5]
+**D1.5** ##  Amendment
+
+---
+
+## CHUNK 1007
 **Metadata:**
 ```json
 {
@@ -23647,7 +27896,28 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 811
+## CHUNK 1008
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "D1.6",
+  "breadcrumb": "Section D > Article D1: GENERAL PRINCIPLES > D1.6 Other financial regulations > D1.6",
+  "section": "Section D",
+  "article": "Article D1: GENERAL PRINCIPLES",
+  "sub_article": "D1.6 Other financial regulations"
+}
+```
+
+**Content:**
+[Section D > Article D1: GENERAL PRINCIPLES > D1.6 Other financial regulations > D1.6]
+**D1.6** ##  Other financial regulations
+
+---
+
+## CHUNK 1009
 **Metadata:**
 ```json
 {
@@ -23668,7 +27938,28 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 812
+## CHUNK 1010
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "D1.7",
+  "breadcrumb": "Section D > Article D1: GENERAL PRINCIPLES > D1.7 Sharing of information > D1.7",
+  "section": "Section D",
+  "article": "Article D1: GENERAL PRINCIPLES",
+  "sub_article": "D1.7 Sharing of information"
+}
+```
+
+**Content:**
+[Section D > Article D1: GENERAL PRINCIPLES > D1.7 Sharing of information > D1.7]
+**D1.7** ##  Sharing of information
+
+---
+
+## CHUNK 1011
 **Metadata:**
 ```json
 {
@@ -23689,7 +27980,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 813
+## CHUNK 1012
 **Metadata:**
 ```json
 {
@@ -23710,7 +28001,28 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 814
+## CHUNK 1013
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "D1.8",
+  "breadcrumb": "Section D > Article D1: GENERAL PRINCIPLES > D1.8 Confidential Information > D1.8",
+  "section": "Section D",
+  "article": "Article D1: GENERAL PRINCIPLES",
+  "sub_article": "D1.8 Confidential Information"
+}
+```
+
+**Content:**
+[Section D > Article D1: GENERAL PRINCIPLES > D1.8 Confidential Information > D1.8]
+**D1.8** ##  Confidential Information
+
+---
+
+## CHUNK 1014
 **Metadata:**
 ```json
 {
@@ -23731,7 +28043,28 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 815
+## CHUNK 1015
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 6,
+  "rule_id": "D2.1",
+  "breadcrumb": "Section D > Article D2: OBLIGATIONS OF F1 TEAMS > D2.1 Obligations of F1 Teams > D2.1",
+  "section": "Section D",
+  "article": "Article D2: OBLIGATIONS OF F1 TEAMS",
+  "sub_article": "D2.1 Obligations of F1 Teams"
+}
+```
+
+**Content:**
+[Section D > Article D2: OBLIGATIONS OF F1 TEAMS > D2.1 Obligations of F1 Teams > D2.1]
+**D2.1** ##  Obligations of F1 Teams
+
+---
+
+## CHUNK 1016
 **Metadata:**
 ```json
 {
@@ -23772,7 +28105,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 816
+## CHUNK 1017
 **Metadata:**
 ```json
 {
@@ -23793,7 +28126,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 817
+## CHUNK 1018
 **Metadata:**
 ```json
 {
@@ -23814,7 +28147,28 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 818
+## CHUNK 1019
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 7,
+  "rule_id": "D3.1",
+  "breadcrumb": "Section D > Article D3: OBLIGATIONS OF INDIVIDUAL F1 TEAM MEMBERS > D3.1 Obligations of individual F1 Team members > D3.1",
+  "section": "Section D",
+  "article": "Article D3: OBLIGATIONS OF INDIVIDUAL F1 TEAM MEMBERS",
+  "sub_article": "D3.1 Obligations of individual F1 Team members"
+}
+```
+
+**Content:**
+[Section D > Article D3: OBLIGATIONS OF INDIVIDUAL F1 TEAM MEMBERS > D3.1 Obligations of individual F1 Team members > D3.1]
+**D3.1** ##  Obligations of individual F1 Team members
+
+---
+
+## CHUNK 1020
 **Metadata:**
 ```json
 {
@@ -23843,7 +28197,7 @@ a. in respect of the Full Year Reporting Documentation only, signed by or on beh
 
 ---
 
-## CHUNK 819
+## CHUNK 1021
 **Metadata:**
 ```json
 {
@@ -23874,7 +28228,28 @@ e. perform all of their respective obligations under these Financial Regulations
 
 ---
 
-## CHUNK 820
+## CHUNK 1022
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 8,
+  "rule_id": "D4.1",
+  "breadcrumb": "Section D > Article D4: THE COST CAP > D4.1 Compliance with the Cost Cap > D4.1",
+  "section": "Section D",
+  "article": "Article D4: THE COST CAP",
+  "sub_article": "D4.1 Compliance with the Cost Cap"
+}
+```
+
+**Content:**
+[Section D > Article D4: THE COST CAP > D4.1 Compliance with the Cost Cap > D4.1]
+**D4.1** ##  Compliance with the Cost Cap
+
+---
+
+## CHUNK 1023
 **Metadata:**
 ```json
 {
@@ -23898,7 +28273,7 @@ e. perform all of their respective obligations under these Financial Regulations
 
 ---
 
-## CHUNK 821
+## CHUNK 1024
 **Metadata:**
 ```json
 {
@@ -23922,7 +28297,7 @@ e. perform all of their respective obligations under these Financial Regulations
 
 ---
 
-## CHUNK 822
+## CHUNK 1025
 **Metadata:**
 ```json
 {
@@ -23949,7 +28324,28 @@ e. perform all of their respective obligations under these Financial Regulations
 
 ---
 
-## CHUNK 823
+## CHUNK 1026
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 8,
+  "rule_id": "D4.2",
+  "breadcrumb": "Section D > Article D4: THE COST CAP > D4.2 Reporting Group > D4.2",
+  "section": "Section D",
+  "article": "Article D4: THE COST CAP",
+  "sub_article": "D4.2 Reporting Group"
+}
+```
+
+**Content:**
+[Section D > Article D4: THE COST CAP > D4.2 Reporting Group > D4.2]
+**D4.2** ##  Reporting Group
+
+---
+
+## CHUNK 1027
 **Metadata:**
 ```json
 {
@@ -23975,7 +28371,7 @@ c. if the F1 Team so chooses, the additional entities within its Legal Group tha
 
 ---
 
-## CHUNK 824
+## CHUNK 1028
 **Metadata:**
 ```json
 {
@@ -24000,7 +28396,7 @@ b. shall be made having adjusted out any amounts in connection with F1 Team’s 
 
 ---
 
-## CHUNK 825
+## CHUNK 1029
 **Metadata:**
 ```json
 {
@@ -24021,7 +28417,7 @@ b. shall be made having adjusted out any amounts in connection with F1 Team’s 
 
 ---
 
-## CHUNK 826
+## CHUNK 1030
 **Metadata:**
 ```json
 {
@@ -24046,7 +28442,7 @@ b. included in Relevant Costs, by way of an Adjustment to Total Costs of the Rep
 
 ---
 
-## CHUNK 827
+## CHUNK 1031
 **Metadata:**
 ```json
 {
@@ -24067,7 +28463,28 @@ b. included in Relevant Costs, by way of an Adjustment to Total Costs of the Rep
 
 ---
 
-## CHUNK 828
+## CHUNK 1032
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 10,
+  "rule_id": "D5.1",
+  "breadcrumb": "Section D > Article D5: EXCLUSIONS > D5.1 Exclusions > D5.1",
+  "section": "Section D",
+  "article": "Article D5: EXCLUSIONS",
+  "sub_article": "D5.1 Exclusions"
+}
+```
+
+**Content:**
+[Section D > Article D5: EXCLUSIONS > D5.1 Exclusions > D5.1]
+**D5.1** ##  Exclusions
+
+---
+
+## CHUNK 1033
 **Metadata:**
 ```json
 {
@@ -24112,7 +28529,7 @@ iii. if the F1 Team can prove to the satisfaction of the Cost Cap Administration
 
 ---
 
-## CHUNK 829
+## CHUNK 1034
 **Metadata:**
 ```json
 {
@@ -24174,7 +28591,7 @@ i. depreciation, impairment loss, and gain/loss on disposal of Property;
 
 ---
 
-## CHUNK 830
+## CHUNK 1035
 **Metadata:**
 ```json
 {
@@ -24216,7 +28633,7 @@ contributions) in each case pursuant to a bona fide formal written policy that a
 
 ---
 
-## CHUNK 831
+## CHUNK 1036
 **Metadata:**
 ```json
 {
@@ -24244,7 +28661,7 @@ z. all costs Directly Attributable to the provision of catering services at the 
 
 ---
 
-## CHUNK 832
+## CHUNK 1037
 **Metadata:**
 ```json
 {
@@ -24287,7 +28704,7 @@ such cost shall be an Excluded Cost.
 
 ---
 
-## CHUNK 833
+## CHUNK 1038
 **Metadata:**
 ```json
 {
@@ -24308,7 +28725,28 @@ such cost shall be an Excluded Cost.
 
 ---
 
-## CHUNK 834
+## CHUNK 1039
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 14,
+  "rule_id": "D6.1",
+  "breadcrumb": "Section D > Article D6: ADJUSTMENTS > D6.1 Adjustments > D6.1",
+  "section": "Section D",
+  "article": "Article D6: ADJUSTMENTS",
+  "sub_article": "D6.1 Adjustments"
+}
+```
+
+**Content:**
+[Section D > Article D6: ADJUSTMENTS > D6.1 Adjustments > D6.1]
+**D6.1** ##  Adjustments
+
+---
+
+## CHUNK 1040
 **Metadata:**
 ```json
 {
@@ -24342,7 +28780,7 @@ such cost shall be an Excluded Cost.
 
 ---
 
-## CHUNK 835
+## CHUNK 1041
 **Metadata:**
 ```json
 {
@@ -24388,7 +28826,7 @@ ii. The cost of an item of Inventories must comprise only and exclusively:
 
 ---
 
-## CHUNK 836
+## CHUNK 1042
 **Metadata:**
 ```json
 {
@@ -24430,7 +28868,7 @@ h. **Foreign exchange transaction costs:**
 
 ---
 
-## CHUNK 837
+## CHUNK 1043
 **Metadata:**
 ```json
 {
@@ -24466,7 +28904,7 @@ If a Reporting Group Entity chooses to adopt an approach for the measurement of 
 
 ---
 
-## CHUNK 838
+## CHUNK 1044
 **Metadata:**
 ```json
 {
@@ -24503,7 +28941,7 @@ In the event that more than 6 Sprint take place during Competitions in the Full 
 
 ---
 
-## CHUNK 839
+## CHUNK 1045
 **Metadata:**
 ```json
 {
@@ -24524,7 +28962,7 @@ In the event that more than 6 Sprint take place during Competitions in the Full 
 
 ---
 
-## CHUNK 840
+## CHUNK 1046
 **Metadata:**
 ```json
 {
@@ -24545,7 +28983,28 @@ In the event that more than 6 Sprint take place during Competitions in the Full 
 
 ---
 
-## CHUNK 841
+## CHUNK 1047
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 19,
+  "rule_id": "D7.1",
+  "breadcrumb": "Section D > Article D7: REPORTING REQUIREMENTS > D7.1 Full Year Reporting Documentation > D7.1",
+  "section": "Section D",
+  "article": "Article D7: REPORTING REQUIREMENTS",
+  "sub_article": "D7.1 Full Year Reporting Documentation"
+}
+```
+
+**Content:**
+[Section D > Article D7: REPORTING REQUIREMENTS > D7.1 Full Year Reporting Documentation > D7.1]
+**D7.1** ##  Full Year Reporting Documentation
+
+---
+
+## CHUNK 1048
 **Metadata:**
 ```json
 {
@@ -24574,7 +29033,28 @@ d. an assessment report provided by the same Independent Audit Firm that signs t
 
 ---
 
-## CHUNK 842
+## CHUNK 1049
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 19,
+  "rule_id": "D7.2",
+  "breadcrumb": "Section D > Article D7: REPORTING REQUIREMENTS > D7.2 Interim Reporting Documentation > D7.2",
+  "section": "Section D",
+  "article": "Article D7: REPORTING REQUIREMENTS",
+  "sub_article": "D7.2 Interim Reporting Documentation"
+}
+```
+
+**Content:**
+[Section D > Article D7: REPORTING REQUIREMENTS > D7.2 Interim Reporting Documentation > D7.2]
+**D7.2** ##  Interim Reporting Documentation
+
+---
+
+## CHUNK 1050
 **Metadata:**
 ```json
 {
@@ -24601,7 +29081,28 @@ c the Declarations.
 
 ---
 
-## CHUNK 843
+## CHUNK 1051
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 20,
+  "rule_id": "D8.1",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.1 General > D8.1",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.1 General"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.1 General > D8.1]
+**D8.1** ##  General
+
+---
+
+## CHUNK 1052
 **Metadata:**
 ```json
 {
@@ -24622,7 +29123,7 @@ c the Declarations.
 
 ---
 
-## CHUNK 844
+## CHUNK 1053
 **Metadata:**
 ```json
 {
@@ -24643,7 +29144,7 @@ c the Declarations.
 
 ---
 
-## CHUNK 845
+## CHUNK 1054
 **Metadata:**
 ```json
 {
@@ -24664,7 +29165,7 @@ c the Declarations.
 
 ---
 
-## CHUNK 846
+## CHUNK 1055
 **Metadata:**
 ```json
 {
@@ -24685,7 +29186,28 @@ c the Declarations.
 
 ---
 
-## CHUNK 847
+## CHUNK 1056
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 20,
+  "rule_id": "D8.2",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.2 Determinations, guidance, and clarifications > D8.2",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.2 Determinations, guidance, and clarifications"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.2 Determinations, guidance, and clarifications > D8.2]
+**D8.2** ##  Determinations, guidance, and clarifications
+
+---
+
+## CHUNK 1057
 **Metadata:**
 ```json
 {
@@ -24706,7 +29228,7 @@ c the Declarations.
 
 ---
 
-## CHUNK 848
+## CHUNK 1058
 **Metadata:**
 ```json
 {
@@ -24727,7 +29249,7 @@ c the Declarations.
 
 ---
 
-## CHUNK 849
+## CHUNK 1059
 **Metadata:**
 ```json
 {
@@ -24748,7 +29270,7 @@ c the Declarations.
 
 ---
 
-## CHUNK 850
+## CHUNK 1060
 **Metadata:**
 ```json
 {
@@ -24769,7 +29291,7 @@ c the Declarations.
 
 ---
 
-## CHUNK 851
+## CHUNK 1061
 **Metadata:**
 ```json
 {
@@ -24790,7 +29312,7 @@ c the Declarations.
 
 ---
 
-## CHUNK 852
+## CHUNK 1062
 **Metadata:**
 ```json
 {
@@ -24811,7 +29333,28 @@ c the Declarations.
 
 ---
 
-## CHUNK 853
+## CHUNK 1063
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 20,
+  "rule_id": "D8.3",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.3 Ongoing compliance monitoring > D8.3",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.3 Ongoing compliance monitoring"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.3 Ongoing compliance monitoring > D8.3]
+**D8.3** ##  Ongoing compliance monitoring
+
+---
+
+## CHUNK 1064
 **Metadata:**
 ```json
 {
@@ -24844,7 +29387,28 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 854
+## CHUNK 1065
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 21,
+  "rule_id": "D8.4",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.4 Requests for information/access and Demands > D8.4",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.4 Requests for information/access and Demands"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.4 Requests for information/access and Demands > D8.4]
+**D8.4** #  Requests for information/access and Demands
+
+---
+
+## CHUNK 1066
 **Metadata:**
 ```json
 {
@@ -24865,7 +29429,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 855
+## CHUNK 1067
 **Metadata:**
 ```json
 {
@@ -24886,7 +29450,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 856
+## CHUNK 1068
 **Metadata:**
 ```json
 {
@@ -24907,7 +29471,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 857
+## CHUNK 1069
 **Metadata:**
 ```json
 {
@@ -24928,7 +29492,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 858
+## CHUNK 1070
 **Metadata:**
 ```json
 {
@@ -24949,7 +29513,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 859
+## CHUNK 1071
 **Metadata:**
 ```json
 {
@@ -24970,7 +29534,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 860
+## CHUNK 1072
 **Metadata:**
 ```json
 {
@@ -24991,7 +29555,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 861
+## CHUNK 1073
 **Metadata:**
 ```json
 {
@@ -25012,7 +29576,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 862
+## CHUNK 1074
 **Metadata:**
 ```json
 {
@@ -25033,7 +29597,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 863
+## CHUNK 1075
 **Metadata:**
 ```json
 {
@@ -25054,7 +29618,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 864
+## CHUNK 1076
 **Metadata:**
 ```json
 {
@@ -25075,7 +29639,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 865
+## CHUNK 1077
 **Metadata:**
 ```json
 {
@@ -25096,7 +29660,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 866
+## CHUNK 1078
 **Metadata:**
 ```json
 {
@@ -25117,7 +29681,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 867
+## CHUNK 1079
 **Metadata:**
 ```json
 {
@@ -25138,7 +29702,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 868
+## CHUNK 1080
 **Metadata:**
 ```json
 {
@@ -25159,7 +29723,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 869
+## CHUNK 1081
 **Metadata:**
 ```json
 {
@@ -25180,7 +29744,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 870
+## CHUNK 1082
 **Metadata:**
 ```json
 {
@@ -25201,7 +29765,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 871
+## CHUNK 1083
 **Metadata:**
 ```json
 {
@@ -25222,7 +29786,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 872
+## CHUNK 1084
 **Metadata:**
 ```json
 {
@@ -25243,7 +29807,28 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 873
+## CHUNK 1085
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 22,
+  "rule_id": "D8.5",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.5 Notification of apparent or alleged breaches > D8.5",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.5 Notification of apparent or alleged breaches"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.5 Notification of apparent or alleged breaches > D8.5]
+**D8.5** # ** Notification of apparent or alleged breaches
+
+---
+
+## CHUNK 1086
 **Metadata:**
 ```json
 {
@@ -25264,7 +29849,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 874
+## CHUNK 1087
 **Metadata:**
 ```json
 {
@@ -25285,7 +29870,28 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 875
+## CHUNK 1088
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 22,
+  "rule_id": "D8.6",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.6 Review of Reporting Documentation > D8.6",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.6 Review of Reporting Documentation"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.6 Review of Reporting Documentation > D8.6]
+**D8.6** # ** Review of Reporting Documentation
+
+---
+
+## CHUNK 1089
 **Metadata:**
 ```json
 {
@@ -25306,7 +29912,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 876
+## CHUNK 1090
 **Metadata:**
 ```json
 {
@@ -25327,7 +29933,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 877
+## CHUNK 1091
 **Metadata:**
 ```json
 {
@@ -25348,7 +29954,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 878
+## CHUNK 1092
 **Metadata:**
 ```json
 {
@@ -25373,7 +29979,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 879
+## CHUNK 1093
 **Metadata:**
 ```json
 {
@@ -25402,7 +30008,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 880
+## CHUNK 1094
 **Metadata:**
 ```json
 {
@@ -25423,7 +30029,28 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 881
+## CHUNK 1095
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 23,
+  "rule_id": "D8.7",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.7 General provisions relating to investigations > D8.7",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.7 General provisions relating to investigations"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.7 General provisions relating to investigations > D8.7]
+**D8.7** General provisions relating to investigations
+
+---
+
+## CHUNK 1096
 **Metadata:**
 ```json
 {
@@ -25444,7 +30071,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 882
+## CHUNK 1097
 **Metadata:**
 ```json
 {
@@ -25465,7 +30092,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 883
+## CHUNK 1098
 **Metadata:**
 ```json
 {
@@ -25486,7 +30113,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 884
+## CHUNK 1099
 **Metadata:**
 ```json
 {
@@ -25507,7 +30134,28 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 885
+## CHUNK 1100
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 23,
+  "rule_id": "D8.8",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.8 Investigations commenced following a complaint by another F1 Team > D8.8",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.8 Investigations commenced following a complaint by another F1 Team"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.8 Investigations commenced following a complaint by another F1 Team > D8.8]
+**D8.8** Investigations commenced following a complaint by another F1 Team
+
+---
+
+## CHUNK 1101
 **Metadata:**
 ```json
 {
@@ -25528,7 +30176,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 886
+## CHUNK 1102
 **Metadata:**
 ```json
 {
@@ -25549,7 +30197,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 887
+## CHUNK 1103
 **Metadata:**
 ```json
 {
@@ -25570,7 +30218,28 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 888
+## CHUNK 1104
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 23,
+  "rule_id": "D8.9",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.9 Immunity > D8.9",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.9 Immunity"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.9 Immunity > D8.9]
+**D8.9** Immunity
+
+---
+
+## CHUNK 1105
 **Metadata:**
 ```json
 {
@@ -25591,7 +30260,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 889
+## CHUNK 1106
 **Metadata:**
 ```json
 {
@@ -25612,7 +30281,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 890
+## CHUNK 1107
 **Metadata:**
 ```json
 {
@@ -25633,7 +30302,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 891
+## CHUNK 1108
 **Metadata:**
 ```json
 {
@@ -25654,7 +30323,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 892
+## CHUNK 1109
 **Metadata:**
 ```json
 {
@@ -25675,7 +30344,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 893
+## CHUNK 1110
 **Metadata:**
 ```json
 {
@@ -25696,7 +30365,28 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 894
+## CHUNK 1111
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 23,
+  "rule_id": "D8.10",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.10 Accepted Breach Agreement (ABA) \u2013 F1 Teams > D8.10",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.10 Accepted Breach Agreement (ABA) \u2013 F1 Teams"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.10 Accepted Breach Agreement (ABA) – F1 Teams > D8.10]
+**D8.10** Accepted Breach Agreement (ABA) – F1 Teams
+
+---
+
+## CHUNK 1112
 **Metadata:**
 ```json
 {
@@ -25717,7 +30407,7 @@ For the avoidance of doubt, the primary purpose of in-season compliance monitori
 
 ---
 
-## CHUNK 895
+## CHUNK 1113
 **Metadata:**
 ```json
 {
@@ -25748,7 +30438,7 @@ d. may provide for enhanced monitoring procedures to be put in place in respect 
 
 ---
 
-## CHUNK 896
+## CHUNK 1114
 **Metadata:**
 ```json
 {
@@ -25771,7 +30461,7 @@ Such non-compliance shall be treated as a distinct Procedural Breach.
 
 ---
 
-## CHUNK 897
+## CHUNK 1115
 **Metadata:**
 ```json
 {
@@ -25800,7 +30490,7 @@ d. waive its right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 898
+## CHUNK 1116
 **Metadata:**
 ```json
 {
@@ -25821,7 +30511,7 @@ d. waive its right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 899
+## CHUNK 1117
 **Metadata:**
 ```json
 {
@@ -25842,7 +30532,28 @@ d. waive its right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 900
+## CHUNK 1118
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 24,
+  "rule_id": "D8.11",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.11 Accepted Breach Agreement (ABA) \u2013 Individual F1 Team Member > D8.11",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.11 Accepted Breach Agreement (ABA) \u2013 Individual F1 Team Member"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.11 Accepted Breach Agreement (ABA) – Individual F1 Team Member > D8.11]
+**D8.11** Accepted Breach Agreement (ABA) – Individual F1 Team Member
+
+---
+
+## CHUNK 1119
 **Metadata:**
 ```json
 {
@@ -25863,7 +30574,7 @@ d. waive its right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 901
+## CHUNK 1120
 **Metadata:**
 ```json
 {
@@ -25890,7 +30601,7 @@ c. require the Individual F1 Team Member to bear the reasonable costs incurred b
 
 ---
 
-## CHUNK 902
+## CHUNK 1121
 **Metadata:**
 ```json
 {
@@ -25919,7 +30630,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 903
+## CHUNK 1122
 **Metadata:**
 ```json
 {
@@ -25940,7 +30651,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 904
+## CHUNK 1123
 **Metadata:**
 ```json
 {
@@ -25961,7 +30672,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 905
+## CHUNK 1124
 **Metadata:**
 ```json
 {
@@ -25982,7 +30693,28 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 906
+## CHUNK 1125
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 25,
+  "rule_id": "D8.12",
+  "breadcrumb": "Section D > Article D8: COST CAP ADMINISTRATION > D8.12 Public reporting > D8.12",
+  "section": "Section D",
+  "article": "Article D8: COST CAP ADMINISTRATION",
+  "sub_article": "D8.12 Public reporting"
+}
+```
+
+**Content:**
+[Section D > Article D8: COST CAP ADMINISTRATION > D8.12 Public reporting > D8.12]
+**D8.12** #  Public reporting
+
+---
+
+## CHUNK 1126
 **Metadata:**
 ```json
 {
@@ -26003,7 +30735,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 907
+## CHUNK 1127
 **Metadata:**
 ```json
 {
@@ -26024,7 +30756,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 908
+## CHUNK 1128
 **Metadata:**
 ```json
 {
@@ -26045,7 +30777,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 909
+## CHUNK 1129
 **Metadata:**
 ```json
 {
@@ -26066,7 +30798,28 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 910
+## CHUNK 1130
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 26,
+  "rule_id": "D9.1",
+  "breadcrumb": "Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.1 Cost Cap Adjudication Panel > D9.1",
+  "section": "Section D",
+  "article": "Article D9: COST CAP ADJUDICATION PANEL",
+  "sub_article": "D9.1 Cost Cap Adjudication Panel"
+}
+```
+
+**Content:**
+[Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.1 Cost Cap Adjudication Panel > D9.1]
+**D9.1** ##  Cost Cap Adjudication Panel
+
+---
+
+## CHUNK 1131
 **Metadata:**
 ```json
 {
@@ -26087,7 +30840,28 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 911
+## CHUNK 1132
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 26,
+  "rule_id": "D9.2",
+  "breadcrumb": "Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.2 Referral to the Cost Cap Adjudication Panel > D9.2",
+  "section": "Section D",
+  "article": "Article D9: COST CAP ADJUDICATION PANEL",
+  "sub_article": "D9.2 Referral to the Cost Cap Adjudication Panel"
+}
+```
+
+**Content:**
+[Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.2 Referral to the Cost Cap Adjudication Panel > D9.2]
+**D9.2** ##  Referral to the Cost Cap Adjudication Panel
+
+---
+
+## CHUNK 1133
 **Metadata:**
 ```json
 {
@@ -26120,7 +30894,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 912
+## CHUNK 1134
 **Metadata:**
 ```json
 {
@@ -26141,7 +30915,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 913
+## CHUNK 1135
 **Metadata:**
 ```json
 {
@@ -26162,7 +30936,28 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 914
+## CHUNK 1136
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 26,
+  "rule_id": "D9.3",
+  "breadcrumb": "Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.3 Limitation period > D9.3",
+  "section": "Section D",
+  "article": "Article D9: COST CAP ADJUDICATION PANEL",
+  "sub_article": "D9.3 Limitation period"
+}
+```
+
+**Content:**
+[Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.3 Limitation period > D9.3]
+**D9.3** ##  Limitation period
+
+---
+
+## CHUNK 1137
 **Metadata:**
 ```json
 {
@@ -26183,7 +30978,28 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 915
+## CHUNK 1138
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 27,
+  "rule_id": "D9.4",
+  "breadcrumb": "Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.4 Composition of the Cost Cap Adjudication Panel > D9.4",
+  "section": "Section D",
+  "article": "Article D9: COST CAP ADJUDICATION PANEL",
+  "sub_article": "D9.4 Composition of the Cost Cap Adjudication Panel"
+}
+```
+
+**Content:**
+[Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.4 Composition of the Cost Cap Adjudication Panel > D9.4]
+**D9.4** ##  Composition of the Cost Cap Adjudication Panel
+
+---
+
+## CHUNK 1139
 **Metadata:**
 ```json
 {
@@ -26207,7 +31023,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 916
+## CHUNK 1140
 **Metadata:**
 ```json
 {
@@ -26228,7 +31044,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 917
+## CHUNK 1141
 **Metadata:**
 ```json
 {
@@ -26249,7 +31065,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 918
+## CHUNK 1142
 **Metadata:**
 ```json
 {
@@ -26270,7 +31086,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 919
+## CHUNK 1143
 **Metadata:**
 ```json
 {
@@ -26291,7 +31107,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 920
+## CHUNK 1144
 **Metadata:**
 ```json
 {
@@ -26312,7 +31128,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 921
+## CHUNK 1145
 **Metadata:**
 ```json
 {
@@ -26333,7 +31149,7 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 922
+## CHUNK 1146
 **Metadata:**
 ```json
 {
@@ -26354,7 +31170,28 @@ d. waives their right to appeal or otherwise challenge the ABA.
 
 ---
 
-## CHUNK 923
+## CHUNK 1147
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 27,
+  "rule_id": "D9.5",
+  "breadcrumb": "Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.5 Powers of the Cost Cap Adjudication Panel > D9.5",
+  "section": "Section D",
+  "article": "Article D9: COST CAP ADJUDICATION PANEL",
+  "sub_article": "D9.5 Powers of the Cost Cap Adjudication Panel"
+}
+```
+
+**Content:**
+[Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.5 Powers of the Cost Cap Adjudication Panel > D9.5]
+**D9.5** ##  Powers of the Cost Cap Adjudication Panel
+
+---
+
+## CHUNK 1148
 **Metadata:**
 ```json
 {
@@ -26390,7 +31227,28 @@ i. any other order as it sees fit.
 
 ---
 
-## CHUNK 924
+## CHUNK 1149
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 28,
+  "rule_id": "D9.6",
+  "breadcrumb": "Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.6 Hearings before the Cost Cap Adjudication Panel > D9.6",
+  "section": "Section D",
+  "article": "Article D9: COST CAP ADJUDICATION PANEL",
+  "sub_article": "D9.6 Hearings before the Cost Cap Adjudication Panel"
+}
+```
+
+**Content:**
+[Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.6 Hearings before the Cost Cap Adjudication Panel > D9.6]
+**D9.6** #  Hearings before the Cost Cap Adjudication Panel
+
+---
+
+## CHUNK 1150
 **Metadata:**
 ```json
 {
@@ -26411,7 +31269,7 @@ i. any other order as it sees fit.
 
 ---
 
-## CHUNK 925
+## CHUNK 1151
 **Metadata:**
 ```json
 {
@@ -26432,7 +31290,7 @@ i. any other order as it sees fit.
 
 ---
 
-## CHUNK 926
+## CHUNK 1152
 **Metadata:**
 ```json
 {
@@ -26453,7 +31311,7 @@ i. any other order as it sees fit.
 
 ---
 
-## CHUNK 927
+## CHUNK 1153
 **Metadata:**
 ```json
 {
@@ -26474,7 +31332,7 @@ i. any other order as it sees fit.
 
 ---
 
-## CHUNK 928
+## CHUNK 1154
 **Metadata:**
 ```json
 {
@@ -26503,7 +31361,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 929
+## CHUNK 1155
 **Metadata:**
 ```json
 {
@@ -26524,7 +31382,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 930
+## CHUNK 1156
 **Metadata:**
 ```json
 {
@@ -26545,7 +31403,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 931
+## CHUNK 1157
 **Metadata:**
 ```json
 {
@@ -26566,7 +31424,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 932
+## CHUNK 1158
 **Metadata:**
 ```json
 {
@@ -26587,7 +31445,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 933
+## CHUNK 1159
 **Metadata:**
 ```json
 {
@@ -26608,7 +31466,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 934
+## CHUNK 1160
 **Metadata:**
 ```json
 {
@@ -26629,7 +31487,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 935
+## CHUNK 1161
 **Metadata:**
 ```json
 {
@@ -26650,7 +31508,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 936
+## CHUNK 1162
 **Metadata:**
 ```json
 {
@@ -26671,7 +31529,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 937
+## CHUNK 1163
 **Metadata:**
 ```json
 {
@@ -26692,7 +31550,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 938
+## CHUNK 1164
 **Metadata:**
 ```json
 {
@@ -26713,7 +31571,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 939
+## CHUNK 1165
 **Metadata:**
 ```json
 {
@@ -26734,7 +31592,7 @@ d. any third party observer(s), as permitted under Article D9.6.2.4.
 
 ---
 
-## CHUNK 940
+## CHUNK 1166
 **Metadata:**
 ```json
 {
@@ -26759,7 +31617,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 941
+## CHUNK 1167
 **Metadata:**
 ```json
 {
@@ -26780,7 +31638,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 942
+## CHUNK 1168
 **Metadata:**
 ```json
 {
@@ -26801,7 +31659,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 943
+## CHUNK 1169
 **Metadata:**
 ```json
 {
@@ -26822,7 +31680,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 944
+## CHUNK 1170
 **Metadata:**
 ```json
 {
@@ -26843,7 +31701,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 945
+## CHUNK 1171
 **Metadata:**
 ```json
 {
@@ -26864,7 +31722,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 946
+## CHUNK 1172
 **Metadata:**
 ```json
 {
@@ -26885,7 +31743,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 947
+## CHUNK 1173
 **Metadata:**
 ```json
 {
@@ -26906,7 +31764,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 948
+## CHUNK 1174
 **Metadata:**
 ```json
 {
@@ -26927,7 +31785,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 949
+## CHUNK 1175
 **Metadata:**
 ```json
 {
@@ -26948,7 +31806,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 950
+## CHUNK 1176
 **Metadata:**
 ```json
 {
@@ -26969,7 +31827,28 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 951
+## CHUNK 1177
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 30,
+  "rule_id": "D9.7",
+  "breadcrumb": "Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.7 Decision > D9.7",
+  "section": "Section D",
+  "article": "Article D9: COST CAP ADJUDICATION PANEL",
+  "sub_article": "D9.7 Decision"
+}
+```
+
+**Content:**
+[Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.7 Decision > D9.7]
+**D9.7** # ** Decision
+
+---
+
+## CHUNK 1178
 **Metadata:**
 ```json
 {
@@ -27008,7 +31887,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 952
+## CHUNK 1179
 **Metadata:**
 ```json
 {
@@ -27029,7 +31908,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 953
+## CHUNK 1180
 **Metadata:**
 ```json
 {
@@ -27050,7 +31929,28 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 954
+## CHUNK 1181
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 31,
+  "rule_id": "D9.8",
+  "breadcrumb": "Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.8 Confidentiality of proceedings > D9.8",
+  "section": "Section D",
+  "article": "Article D9: COST CAP ADJUDICATION PANEL",
+  "sub_article": "D9.8 Confidentiality of proceedings"
+}
+```
+
+**Content:**
+[Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.8 Confidentiality of proceedings > D9.8]
+**D9.8** # ** Confidentiality of proceedings
+
+---
+
+## CHUNK 1182
 **Metadata:**
 ```json
 {
@@ -27071,7 +31971,28 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 955
+## CHUNK 1183
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 31,
+  "rule_id": "D9.9",
+  "breadcrumb": "Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.9 Appeals > D9.9",
+  "section": "Section D",
+  "article": "Article D9: COST CAP ADJUDICATION PANEL",
+  "sub_article": "D9.9 Appeals"
+}
+```
+
+**Content:**
+[Section D > Article D9: COST CAP ADJUDICATION PANEL > D9.9 Appeals > D9.9]
+**D9.9** # ** Appeals
+
+---
+
+## CHUNK 1184
 **Metadata:**
 ```json
 {
@@ -27092,7 +32013,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 956
+## CHUNK 1185
 **Metadata:**
 ```json
 {
@@ -27113,7 +32034,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 957
+## CHUNK 1186
 **Metadata:**
 ```json
 {
@@ -27134,7 +32055,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 958
+## CHUNK 1187
 **Metadata:**
 ```json
 {
@@ -27155,7 +32076,28 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 959
+## CHUNK 1188
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 32,
+  "rule_id": "D10.1",
+  "breadcrumb": "Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.1 Procedural Breaches > D10.1",
+  "section": "Section D",
+  "article": "Article D10: BREACHES APPLICABLE TO F1 TEAMS",
+  "sub_article": "D10.1 Procedural Breaches"
+}
+```
+
+**Content:**
+[Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.1 Procedural Breaches > D10.1]
+**D10.1** ##  Procedural Breaches
+
+---
+
+## CHUNK 1189
 **Metadata:**
 ```json
 {
@@ -27176,7 +32118,7 @@ b. to postpone proceedings to a later hearing, including if necessary to hear Wi
 
 ---
 
-## CHUNK 960
+## CHUNK 1190
 **Metadata:**
 ```json
 {
@@ -27221,7 +32163,7 @@ l. failing to comply with any other obligations set out in Article D2 or elsewhe
 
 ---
 
-## CHUNK 961
+## CHUNK 1191
 **Metadata:**
 ```json
 {
@@ -27242,7 +32184,7 @@ l. failing to comply with any other obligations set out in Article D2 or elsewhe
 
 ---
 
-## CHUNK 962
+## CHUNK 1192
 **Metadata:**
 ```json
 {
@@ -27267,7 +32209,28 @@ b. the Cost Cap Adjudication Panel determines that sufficient aggravating factor
 
 ---
 
-## CHUNK 963
+## CHUNK 1193
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 33,
+  "rule_id": "D10.2",
+  "breadcrumb": "Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.2 Late and Non-Submission Breaches > D10.2",
+  "section": "Section D",
+  "article": "Article D10: BREACHES APPLICABLE TO F1 TEAMS",
+  "sub_article": "D10.2 Late and Non-Submission Breaches"
+}
+```
+
+**Content:**
+[Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.2 Late and Non-Submission Breaches > D10.2]
+**D10.2** #  Late and Non-Submission Breaches
+
+---
+
+## CHUNK 1194
 **Metadata:**
 ```json
 {
@@ -27288,7 +32251,7 @@ b. the Cost Cap Adjudication Panel determines that sufficient aggravating factor
 
 ---
 
-## CHUNK 964
+## CHUNK 1195
 **Metadata:**
 ```json
 {
@@ -27309,7 +32272,7 @@ b. the Cost Cap Adjudication Panel determines that sufficient aggravating factor
 
 ---
 
-## CHUNK 965
+## CHUNK 1196
 **Metadata:**
 ```json
 {
@@ -27330,7 +32293,7 @@ b. the Cost Cap Adjudication Panel determines that sufficient aggravating factor
 
 ---
 
-## CHUNK 966
+## CHUNK 1197
 **Metadata:**
 ```json
 {
@@ -27359,7 +32322,7 @@ the Late Submitting Team shall have committed a Non-Submission Breach and shall 
 
 ---
 
-## CHUNK 967
+## CHUNK 1198
 **Metadata:**
 ```json
 {
@@ -27380,7 +32343,7 @@ the Late Submitting Team shall have committed a Non-Submission Breach and shall 
 
 ---
 
-## CHUNK 968
+## CHUNK 1199
 **Metadata:**
 ```json
 {
@@ -27401,7 +32364,28 @@ the Late Submitting Team shall have committed a Non-Submission Breach and shall 
 
 ---
 
-## CHUNK 969
+## CHUNK 1200
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 33,
+  "rule_id": "D10.3",
+  "breadcrumb": "Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.3 Overspend Breaches > D10.3",
+  "section": "Section D",
+  "article": "Article D10: BREACHES APPLICABLE TO F1 TEAMS",
+  "sub_article": "D10.3 Overspend Breaches"
+}
+```
+
+**Content:**
+[Section D > Article D10: BREACHES APPLICABLE TO F1 TEAMS > D10.3 Overspend Breaches > D10.3]
+**D10.3** #  Overspend Breaches
+
+---
+
+## CHUNK 1201
 **Metadata:**
 ```json
 {
@@ -27426,7 +32410,7 @@ b. following the review of an F1 Team’s Full Year Reporting Documentation (inc
 
 ---
 
-## CHUNK 970
+## CHUNK 1202
 **Metadata:**
 ```json
 {
@@ -27447,7 +32431,7 @@ b. following the review of an F1 Team’s Full Year Reporting Documentation (inc
 
 ---
 
-## CHUNK 971
+## CHUNK 1203
 **Metadata:**
 ```json
 {
@@ -27472,7 +32456,7 @@ b. following the review of an F1 Team’s Full Year Reporting Documentation (inc
 
 ---
 
-## CHUNK 972
+## CHUNK 1204
 **Metadata:**
 ```json
 {
@@ -27493,7 +32477,28 @@ b. following the review of an F1 Team’s Full Year Reporting Documentation (inc
 
 ---
 
-## CHUNK 973
+## CHUNK 1205
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 35,
+  "rule_id": "D11.1",
+  "breadcrumb": "Section D > Article D11: BREACHES APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS > D11.1 Breaches applicable to individuals F1 Team Members > D11.1",
+  "section": "Section D",
+  "article": "Article D11: BREACHES APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS",
+  "sub_article": "D11.1 Breaches applicable to individuals F1 Team Members"
+}
+```
+
+**Content:**
+[Section D > Article D11: BREACHES APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS > D11.1 Breaches applicable to individuals F1 Team Members > D11.1]
+**D11.1** ##  Breaches applicable to individuals F1 Team Members
+
+---
+
+## CHUNK 1206
 **Metadata:**
 ```json
 {
@@ -27514,7 +32519,7 @@ b. following the review of an F1 Team’s Full Year Reporting Documentation (inc
 
 ---
 
-## CHUNK 974
+## CHUNK 1207
 **Metadata:**
 ```json
 {
@@ -27535,7 +32540,28 @@ b. following the review of an F1 Team’s Full Year Reporting Documentation (inc
 
 ---
 
-## CHUNK 975
+## CHUNK 1208
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 36,
+  "rule_id": "D12.1",
+  "breadcrumb": "Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.1 Sanctions applicable to F1 Teams > D12.1",
+  "section": "Section D",
+  "article": "Article D12: SANCTIONS APPLICABLE TO F1 TEAMS",
+  "sub_article": "D12.1 Sanctions applicable to F1 Teams"
+}
+```
+
+**Content:**
+[Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.1 Sanctions applicable to F1 Teams > D12.1]
+**D12.1** ##  Sanctions applicable to F1 Teams
+
+---
+
+## CHUNK 1209
 **Metadata:**
 ```json
 {
@@ -27577,7 +32603,28 @@ The FIA may from time to time publish guidelines on sanctions for each category 
 
 ---
 
-## CHUNK 976
+## CHUNK 1210
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 37,
+  "rule_id": "D12.2",
+  "breadcrumb": "Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.2 Enhanced monitoring > D12.2",
+  "section": "Section D",
+  "article": "Article D12: SANCTIONS APPLICABLE TO F1 TEAMS",
+  "sub_article": "D12.2 Enhanced monitoring"
+}
+```
+
+**Content:**
+[Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.2 Enhanced monitoring > D12.2]
+**D12.2** #  Enhanced monitoring
+
+---
+
+## CHUNK 1211
 **Metadata:**
 ```json
 {
@@ -27598,7 +32645,28 @@ The FIA may from time to time publish guidelines on sanctions for each category 
 
 ---
 
-## CHUNK 977
+## CHUNK 1212
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 37,
+  "rule_id": "D12.3",
+  "breadcrumb": "Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.3 Aggravating or mitigating factors > D12.3",
+  "section": "Section D",
+  "article": "Article D12: SANCTIONS APPLICABLE TO F1 TEAMS",
+  "sub_article": "D12.3 Aggravating or mitigating factors"
+}
+```
+
+**Content:**
+[Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.3 Aggravating or mitigating factors > D12.3]
+**D12.3** #  Aggravating or mitigating factors
+
+---
+
+## CHUNK 1213
 **Metadata:**
 ```json
 {
@@ -27619,7 +32687,7 @@ The FIA may from time to time publish guidelines on sanctions for each category 
 
 ---
 
-## CHUNK 978
+## CHUNK 1214
 **Metadata:**
 ```json
 {
@@ -27640,7 +32708,7 @@ The FIA may from time to time publish guidelines on sanctions for each category 
 
 ---
 
-## CHUNK 979
+## CHUNK 1215
 **Metadata:**
 ```json
 {
@@ -27661,7 +32729,28 @@ The FIA may from time to time publish guidelines on sanctions for each category 
 
 ---
 
-## CHUNK 980
+## CHUNK 1216
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 37,
+  "rule_id": "D12.4",
+  "breadcrumb": "Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.4 Suspended sanctions > D12.4",
+  "section": "Section D",
+  "article": "Article D12: SANCTIONS APPLICABLE TO F1 TEAMS",
+  "sub_article": "D12.4 Suspended sanctions"
+}
+```
+
+**Content:**
+[Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.4 Suspended sanctions > D12.4]
+**D12.4** #  Suspended sanctions
+
+---
+
+## CHUNK 1217
 **Metadata:**
 ```json
 {
@@ -27682,7 +32771,7 @@ The FIA may from time to time publish guidelines on sanctions for each category 
 
 ---
 
-## CHUNK 981
+## CHUNK 1218
 **Metadata:**
 ```json
 {
@@ -27703,7 +32792,28 @@ The FIA may from time to time publish guidelines on sanctions for each category 
 
 ---
 
-## CHUNK 982
+## CHUNK 1219
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 37,
+  "rule_id": "D12.5",
+  "breadcrumb": "Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.5 Payment of a Financial Penalty > D12.5",
+  "section": "Section D",
+  "article": "Article D12: SANCTIONS APPLICABLE TO F1 TEAMS",
+  "sub_article": "D12.5 Payment of a Financial Penalty"
+}
+```
+
+**Content:**
+[Section D > Article D12: SANCTIONS APPLICABLE TO F1 TEAMS > D12.5 Payment of a Financial Penalty > D12.5]
+**D12.5** #  Payment of a Financial Penalty
+
+---
+
+## CHUNK 1220
 **Metadata:**
 ```json
 {
@@ -27724,7 +32834,7 @@ The FIA may from time to time publish guidelines on sanctions for each category 
 
 ---
 
-## CHUNK 983
+## CHUNK 1221
 **Metadata:**
 ```json
 {
@@ -27745,7 +32855,7 @@ The FIA may from time to time publish guidelines on sanctions for each category 
 
 ---
 
-## CHUNK 984
+## CHUNK 1222
 **Metadata:**
 ```json
 {
@@ -27766,7 +32876,28 @@ The FIA may from time to time publish guidelines on sanctions for each category 
 
 ---
 
-## CHUNK 985
+## CHUNK 1223
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 38,
+  "rule_id": "D13.1",
+  "breadcrumb": "Section D > Article D13: SANCTIONS APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS > D13.1 Sanctions applicable to individual F1 Team Members > D13.1",
+  "section": "Section D",
+  "article": "Article D13: SANCTIONS APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS",
+  "sub_article": "D13.1 Sanctions applicable to individual F1 Team Members"
+}
+```
+
+**Content:**
+[Section D > Article D13: SANCTIONS APPLICABLE TO INDIVIDUAL F1 TEAM MEMBERS > D13.1 Sanctions applicable to individual F1 Team Members > D13.1]
+**D13.1** ##  Sanctions applicable to individual F1 Team Members
+
+---
+
+## CHUNK 1224
 **Metadata:**
 ```json
 {
@@ -27797,7 +32928,7 @@ e. *\[Replaced by Art.A7.12.3.d)]*
 
 ---
 
-## CHUNK 986
+## CHUNK 1225
 **Metadata:**
 ```json
 {
@@ -27818,7 +32949,7 @@ e. *\[Replaced by Art.A7.12.3.d)]*
 
 ---
 
-## CHUNK 987
+## CHUNK 1226
 **Metadata:**
 ```json
 {
@@ -27839,7 +32970,7 @@ e. *\[Replaced by Art.A7.12.3.d)]*
 
 ---
 
-## CHUNK 988
+## CHUNK 1227
 **Metadata:**
 ```json
 {
@@ -27860,7 +32991,28 @@ e. *\[Replaced by Art.A7.12.3.d)]*
 
 ---
 
-## CHUNK 989
+## CHUNK 1228
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 39,
+  "rule_id": "D14.1",
+  "breadcrumb": "Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D14.1 Arrangements for new entrants > D14.1",
+  "section": "Section D",
+  "article": "Article D14: ARRANGEMENTS FOR NEW ENTRANTS",
+  "sub_article": "D14.1 Arrangements for new entrants"
+}
+```
+
+**Content:**
+[Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D14.1 Arrangements for new entrants > D14.1]
+**D14.1** ##  Arrangements for new entrants
+
+---
+
+## CHUNK 1229
 **Metadata:**
 ```json
 {
@@ -27914,7 +33066,7 @@ as the Cost Cap Administration, in its absolute discretion, decides and communic
 
 ---
 
-## CHUNK 990
+## CHUNK 1230
 **Metadata:**
 ```json
 {
@@ -27960,7 +33112,7 @@ e. notes, comprising a summary of significant accounting policies and other expl
 
 ---
 
-## CHUNK 991
+## CHUNK 1231
 **Metadata:**
 ```json
 {
@@ -28034,7 +33186,7 @@ https://www.oecd.org/en/data/indicators/average-annual-wages.html
 
 ---
 
-## CHUNK 992
+## CHUNK 1232
 **Metadata:**
 ```json
 {
@@ -28088,7 +33240,7 @@ https://www.oecd.org/en/data/indicators/average-annual-wages.html
 
 ---
 
-## CHUNK 993
+## CHUNK 1233
 **Metadata:**
 ```json
 {
@@ -28142,7 +33294,7 @@ b. are paid in their entirety after the conclusion of the last Competition of th
 
 ---
 
-## CHUNK 994
+## CHUNK 1234
 **Metadata:**
 ```json
 {
@@ -28190,7 +33342,7 @@ b. are paid in their entirety after the conclusion of the last Competition of th
 
 ---
 
-## CHUNK 995
+## CHUNK 1235
 **Metadata:**
 ```json
 {
@@ -28247,7 +33399,7 @@ iv. activities to enable the supply of, or participate in a tender process to su
 
 ---
 
-## CHUNK 996
+## CHUNK 1236
 **Metadata:**
 ```json
 {
@@ -28313,7 +33465,7 @@ in either case prior to the first Competition of the Championship to which the F
 
 ---
 
-## CHUNK 997
+## CHUNK 1237
 **Metadata:**
 ```json
 {
@@ -28383,7 +33535,7 @@ a. costs of personal protective equipment worn by F1 Activities Personnel who ar
 
 ---
 
-## CHUNK 998
+## CHUNK 1238
 **Metadata:**
 ```json
 {
@@ -28437,7 +33589,7 @@ b. in respect of the Full Year Financial Regulations Reporting Period ending on 
 
 ---
 
-## CHUNK 999
+## CHUNK 1239
 **Metadata:**
 ```json
 {
@@ -28490,7 +33642,7 @@ ii. the Adjusted Indexation Rate to the Indexation Rate of the preceding Full Ye
 
 ---
 
-## CHUNK 1000
+## CHUNK 1240
 **Metadata:**
 ```json
 {
@@ -28548,7 +33700,7 @@ b. any direct or indirect Controlling, or Jointly Controlling, entity of the F1 
 
 ---
 
-## CHUNK 1001
+## CHUNK 1241
 **Metadata:**
 ```json
 {
@@ -28600,7 +33752,7 @@ e. carrying out Promotional Events, Demonstration Events, or other demonstration
 
 ---
 
-## CHUNK 1002
+## CHUNK 1242
 **Metadata:**
 ```json
 {
@@ -28652,7 +33804,7 @@ e. carrying out Promotional Events, Demonstration Events, or other demonstration
 
 ---
 
-## CHUNK 1003
+## CHUNK 1243
 **Metadata:**
 ```json
 {
@@ -28711,7 +33863,7 @@ iii. is a member of the Key Management Personnel of that Reporting Group Entity 
 
 ---
 
-## CHUNK 1004
+## CHUNK 1244
 **Metadata:**
 ```json
 {
@@ -28760,7 +33912,7 @@ c. has rendered its services for the majority of the time that it was employed b
 
 ---
 
-## CHUNK 1005
+## CHUNK 1245
 **Metadata:**
 ```json
 {
@@ -28807,7 +33959,7 @@ b. confirmation that the exclusion from the F1 Team’s Reporting Group of all o
 
 ---
 
-## CHUNK 1006
+## CHUNK 1246
 **Metadata:**
 ```json
 {
@@ -28859,7 +34011,7 @@ b. confirmation that the exclusion from the F1 Team’s Reporting Group of all o
 
 ---
 
-## CHUNK 1007
+## CHUNK 1247
 **Metadata:**
 ```json
 {
@@ -28903,7 +34055,7 @@ f. costs of IT software and IT licenses to monitor, collate, measure, and report
 
 ---
 
-## CHUNK 1008
+## CHUNK 1248
 **Metadata:**
 ```json
 {
@@ -28947,7 +34099,7 @@ l. cost of charges levied by the Commercial Right Holder for the purpose of deve
 
 ---
 
-## CHUNK 1009
+## CHUNK 1249
 **Metadata:**
 ```json
 {
@@ -28991,27 +34143,24 @@ l. cost of charges levied by the Commercial Right Holder for the purpose of deve
 
 ---
 
-## CHUNK 1010
+## CHUNK 1250
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_d.pdf",
   "regulatory_year": 2026,
-  "page_number": 39,
-  "rule_id": "D14.1.1",
-  "breadcrumb": "Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D14.1 Arrangements for new entrants > D14.1.1",
+  "page_number": 60,
+  "rule_id": "D5.1",
+  "breadcrumb": "Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D5.1 Exclusions > D5.1",
   "section": "Section D",
   "article": "Article D14: ARRANGEMENTS FOR NEW ENTRANTS",
-  "sub_article": "D14.1 Arrangements for new entrants"
+  "sub_article": "D5.1 Exclusions"
 }
 ```
 
 **Content:**
-**"Witness"** means a fact witness and/or an expert witness.
-
-# APPENDIX D2: APPROVED CHANGES TO SECTION D FOR SUBSEQUENT YEARS
-
-**Approved Changes for Financial Regulations Reporting Periods starting from 1 January 2027 onwards**
+[Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D5.1 Exclusions > D5.1]
+**D5.1** ##  Exclusions
 
 h. with respect to Non-F1 Activities:
 
@@ -29019,7 +34168,7 @@ h. with respect to Non-F1 Activities:
 
 ---
 
-## CHUNK 1011
+## CHUNK 1251
 **Metadata:**
 ```json
 {
@@ -29066,6 +34215,27 @@ m. Provision of catering services at the site of a Competition or Testing of Cur
 
 such cost shall be an Excluded Cost.
 
+---
+
+## CHUNK 1252
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 61,
+  "rule_id": "D6.1",
+  "breadcrumb": "Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D6.1 Adjustments > D6.1",
+  "section": "Section D",
+  "article": "Article D14: ARRANGEMENTS FOR NEW ENTRANTS",
+  "sub_article": "D6.1 Adjustments"
+}
+```
+
+**Content:**
+[Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D6.1 Adjustments > D6.1]
+**D6.1** #  Adjustments
+
 q. Non-compliance with Article F6 of Operational Regulations
 
 In the event that in the Full Year Financial Regulations Reporting Period any of the Workforce engaged by an Entity Subject To Segregation Requirements is not fully complying with the requirements set out in Article F6 of the Operational Regulations in force during the applicable Financial Regulations Reporting Period, the F1 Team must make an upward adjustment in the calculation of the Relevant Costs equal to three time the value of the total Consideration incurred in the Full Year Financial Regulations Reporting Period for the Workforce that have not fully complied with the requirement set out in Article F6 of the Operational Regulations in force during the applicable Financial Regulations Reporting Period.
@@ -29074,7 +34244,28 @@ In the event that in the Full Year Financial Regulations Reporting Period any of
 
 ---
 
-## CHUNK 1012
+## CHUNK 1253
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 61,
+  "rule_id": "D14.1",
+  "breadcrumb": "Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D14.1 Arrangements for new entrants > D14.1",
+  "section": "Section D",
+  "article": "Article D14: ARRANGEMENTS FOR NEW ENTRANTS",
+  "sub_article": "D14.1 Arrangements for new entrants"
+}
+```
+
+**Content:**
+[Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D14.1 Arrangements for new entrants > D14.1]
+**D14.1** #  Arrangements for new entrants
+
+---
+
+## CHUNK 1254
 **Metadata:**
 ```json
 {
@@ -29111,13 +34302,34 @@ In the event that in the Full Year Financial Regulations Reporting Period any of
 
 # Approved Changes for Financial Regulations Reporting Periods starting from 1 January 2028 onwards
 
+---
+
+## CHUNK 1255
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_d.pdf",
+  "regulatory_year": 2026,
+  "page_number": 62,
+  "rule_id": "D6.1",
+  "breadcrumb": "Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D6.1 Adjustments > D6.1",
+  "section": "Section D",
+  "article": "Article D14: ARRANGEMENTS FOR NEW ENTRANTS",
+  "sub_article": "D6.1 Adjustments"
+}
+```
+
+**Content:**
+[Section D > Article D14: ARRANGEMENTS FOR NEW ENTRANTS > D6.1 Adjustments > D6.1]
+**D6.1** ##  Adjustments
+
 q. Non-compliance with Article F6 of Operational Regulations
 
 In the event that in the Full Year Financial Regulations Reporting Period any of the Workforce engaged by an Entity Subject To Segregation Requirements is not fully complying with the requirements set out in Article F6 of the Operational Regulations in force during the applicable Financial Regulations Reporting Period, the F1 Team must make an upward adjustment in the calculation of the Relevant Costs equal to six time the value of the total Consideration incurred in the Full Year Financial Regulations Reporting Period for the Workforce that have not fully complied  with the requirement set out in Article F6 of the Operational Regulations in force during the applicable Financial Regulations Reporting Period.
 
 ---
 
-## CHUNK 1013
+## CHUNK 1256
 **Metadata:**
 ```json
 {
@@ -29140,13 +34352,134 @@ In the event that in the Full Year Financial Regulations Reporting Period any of
 
 **Black Text:** Text unchanged from FIA 2026 F1 Regulations – Section E \[Financial Regulations – Power Unit Manufacturers] – Iss 2 – 25-10-16 <mark>**\[Pink Text]:** Changes relative to FIA 2026 F1 Regulations – Section E \[Financial Regulations – Power Unit Manufacturers] – Issue 02</mark> <mark>**\[Red Text]:** Information on applicable Governance and relevant Advisory Committee</mark> <mark>**\[Orange Text]:** Reference information on relevant FIA F1 Document(s)</mark> <mark>**\[Green Text]:** Comments / explanations / indication of further work: non-binding and non-regulatory</mark>
 
+---
+
+## CHUNK 1257
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "E6.1",
+  "breadcrumb": "Section E > Article E6: COST CAP ADMINISTRATION 21 > E6.1 General 21 > E6.1",
+  "section": "Section E",
+  "article": "Article E6: COST CAP ADMINISTRATION 21",
+  "sub_article": "E6.1 General 21"
+}
+```
+
+**Content:**
+[Section E > Article E6: COST CAP ADMINISTRATION 21 > E6.1 General 21 > E6.1]
+**E6.1** General **21**
+* E6.2 Clarification of the Power Unit Financial Regulations **21**
+* E6.3 Review of Reporting Documentation **21**
+* E6.4 Regulatory function **22**
+* E6.5 Investigations **22**
+* E6.6 Complaints procedure **24**
+* E6.7 Accepted Breach Agreement **25
+
+---
+
+## CHUNK 1258
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "E7.1",
+  "breadcrumb": "Section E > Article E7: COST CAP ADJUDICATION PANEL 27 > E7.1 Cost Cap Adjudication Panel 27 > E7.1",
+  "section": "Section E",
+  "article": "Article E7: COST CAP ADJUDICATION PANEL 27",
+  "sub_article": "E7.1 Cost Cap Adjudication Panel 27"
+}
+```
+
+**Content:**
+[Section E > Article E7: COST CAP ADJUDICATION PANEL 27 > E7.1 Cost Cap Adjudication Panel 27 > E7.1]
+**E7.1** Cost Cap Adjudication Panel **27**
+* E7.2 Hearings before the Cost Cap Adjudication Panel **28**
+* E7.3 Decision **29**
+* E7.4 Appeals **30
+
+---
+
+## CHUNK 1259
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "E8.1",
+  "breadcrumb": "Section E > Article E8: CATEGORIES OF BREACH 31 > E8.1 Procedural Breach 31 > E8.1",
+  "section": "Section E",
+  "article": "Article E8: CATEGORIES OF BREACH 31",
+  "sub_article": "E8.1 Procedural Breach 31"
+}
+```
+
+**Content:**
+[Section E > Article E8: CATEGORIES OF BREACH 31 > E8.1 Procedural Breach 31 > E8.1]
+**E8.1** Procedural Breach **31**
+* E8.2 Late and Non-Submission of Full Year Reporting Documentation **31**
+* E8.3 Minor Overspend Breach **32**
+* E8.4 Material Overspend Breach **32**
+* E8.5 Aggravating or mitigating factors **33
+
+---
+
+## CHUNK 1260
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "E9.1",
+  "breadcrumb": "Section E > Article E9: SANCTIONS FOR BREACH 34 > E9.1 Sanctions 34 > E9.1",
+  "section": "Section E",
+  "article": "Article E9: SANCTIONS FOR BREACH 34",
+  "sub_article": "E9.1 Sanctions 34"
+}
+```
+
+**Content:**
+[Section E > Article E9: SANCTIONS FOR BREACH 34 > E9.1 Sanctions 34 > E9.1]
+**E9.1** Sanctions **34**
+* E9.2 Enhanced monitoring and suspended sanctions **35**
+* E9.3 Payment of a Financial Penalty **35**
+* E9.4 Individual responsibility **35
+
 # APPENDIX E1: DEFINITIONS AND INTERPRETATION **36**
 
 # APPENDIX E2: RELIABILITY ALLOWANCE **56**
 
 ---
 
-## CHUNK 1014
+## CHUNK 1261
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "E1.1",
+  "breadcrumb": "Section E > Article E1: GENERAL PRINCIPLES > E1.1 Scope > E1.1",
+  "section": "Section E",
+  "article": "Article E1: GENERAL PRINCIPLES",
+  "sub_article": "E1.1 Scope"
+}
+```
+
+**Content:**
+[Section E > Article E1: GENERAL PRINCIPLES > E1.1 Scope > E1.1]
+**E1.1** ##  Scope
+
+---
+
+## CHUNK 1262
 **Metadata:**
 ```json
 {
@@ -29167,7 +34500,28 @@ In the event that in the Full Year Financial Regulations Reporting Period any of
 
 ---
 
-## CHUNK 1015
+## CHUNK 1263
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "E1.2",
+  "breadcrumb": "Section E > Article E1: GENERAL PRINCIPLES > E1.2 Objectives > E1.2",
+  "section": "Section E",
+  "article": "Article E1: GENERAL PRINCIPLES",
+  "sub_article": "E1.2 Objectives"
+}
+```
+
+**Content:**
+[Section E > Article E1: GENERAL PRINCIPLES > E1.2 Objectives > E1.2]
+**E1.2** ##  Objectives
+
+---
+
+## CHUNK 1264
 **Metadata:**
 ```json
 {
@@ -29188,7 +34542,7 @@ In the event that in the Full Year Financial Regulations Reporting Period any of
 
 ---
 
-## CHUNK 1016
+## CHUNK 1265
 **Metadata:**
 ```json
 {
@@ -29217,7 +34571,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 1017
+## CHUNK 1266
 **Metadata:**
 ```json
 {
@@ -29238,7 +34592,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 1018
+## CHUNK 1267
 **Metadata:**
 ```json
 {
@@ -29259,7 +34613,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 1019
+## CHUNK 1268
 **Metadata:**
 ```json
 {
@@ -29280,7 +34634,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 1020
+## CHUNK 1269
 **Metadata:**
 ```json
 {
@@ -29301,7 +34655,28 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 1021
+## CHUNK 1270
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 4,
+  "rule_id": "E1.3",
+  "breadcrumb": "Section E > Article E1: GENERAL PRINCIPLES > E1.3 Accountability > E1.3",
+  "section": "Section E",
+  "article": "Article E1: GENERAL PRINCIPLES",
+  "sub_article": "E1.3 Accountability"
+}
+```
+
+**Content:**
+[Section E > Article E1: GENERAL PRINCIPLES > E1.3 Accountability > E1.3]
+**E1.3** #  Accountability
+
+---
+
+## CHUNK 1271
 **Metadata:**
 ```json
 {
@@ -29325,7 +34700,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 1022
+## CHUNK 1272
 **Metadata:**
 ```json
 {
@@ -29346,7 +34721,7 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 1023
+## CHUNK 1273
 **Metadata:**
 ```json
 {
@@ -29367,7 +34742,28 @@ while preserving the unique technology and engineering challenge of Formula 1.
 
 ---
 
-## CHUNK 1024
+## CHUNK 1274
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "E2.1",
+  "breadcrumb": "Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.1 Power Unit Manufacturer Obligations > E2.1",
+  "section": "Section E",
+  "article": "Article E2: POWER UNIT MANUFACTURER OBLIGATIONS",
+  "sub_article": "E2.1 Power Unit Manufacturer Obligations"
+}
+```
+
+**Content:**
+[Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.1 Power Unit Manufacturer Obligations > E2.1]
+**E2.1** ##  Power Unit Manufacturer Obligations
+
+---
+
+## CHUNK 1275
 **Metadata:**
 ```json
 {
@@ -29396,7 +34792,28 @@ d. faithfully execute its obligations under these Power Unit Financial Regulatio
 
 ---
 
-## CHUNK 1025
+## CHUNK 1276
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "E2.2",
+  "breadcrumb": "Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.2 Cap on Relevant Costs > E2.2",
+  "section": "Section E",
+  "article": "Article E2: POWER UNIT MANUFACTURER OBLIGATIONS",
+  "sub_article": "E2.2 Cap on Relevant Costs"
+}
+```
+
+**Content:**
+[Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.2 Cap on Relevant Costs > E2.2]
+**E2.2** ##  Cap on Relevant Costs
+
+---
+
+## CHUNK 1277
 **Metadata:**
 ```json
 {
@@ -29421,7 +34838,28 @@ b. not have Relevant Costs in excess of the Power Unit Cost Cap in the applicabl
 
 ---
 
-## CHUNK 1026
+## CHUNK 1278
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "E2.3",
+  "breadcrumb": "Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.3 The Power Unit Cost Cap > E2.3",
+  "section": "Section E",
+  "article": "Article E2: POWER UNIT MANUFACTURER OBLIGATIONS",
+  "sub_article": "E2.3 The Power Unit Cost Cap"
+}
+```
+
+**Content:**
+[Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.3 The Power Unit Cost Cap > E2.3]
+**E2.3** ##  The Power Unit Cost Cap
+
+---
+
+## CHUNK 1279
 **Metadata:**
 ```json
 {
@@ -29446,7 +34884,7 @@ b. in the Full Year Reporting Period ending on 31 December in the year of a Powe
 
 ---
 
-## CHUNK 1027
+## CHUNK 1280
 **Metadata:**
 ```json
 {
@@ -29473,7 +34911,28 @@ b. in the Full Year Reporting Period ending on 31 December in the year of a Powe
 
 ---
 
-## CHUNK 1028
+## CHUNK 1281
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 6,
+  "rule_id": "E2.4",
+  "breadcrumb": "Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.4 Reporting Group > E2.4",
+  "section": "Section E",
+  "article": "Article E2: POWER UNIT MANUFACTURER OBLIGATIONS",
+  "sub_article": "E2.4 Reporting Group"
+}
+```
+
+**Content:**
+[Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.4 Reporting Group > E2.4]
+**E2.4** #  Reporting Group
+
+---
+
+## CHUNK 1282
 **Metadata:**
 ```json
 {
@@ -29494,7 +34953,7 @@ b. in the Full Year Reporting Period ending on 31 December in the year of a Powe
 
 ---
 
-## CHUNK 1029
+## CHUNK 1283
 **Metadata:**
 ```json
 {
@@ -29515,7 +34974,7 @@ b. in the Full Year Reporting Period ending on 31 December in the year of a Powe
 
 ---
 
-## CHUNK 1030
+## CHUNK 1284
 **Metadata:**
 ```json
 {
@@ -29536,7 +34995,7 @@ b. in the Full Year Reporting Period ending on 31 December in the year of a Powe
 
 ---
 
-## CHUNK 1031
+## CHUNK 1285
 **Metadata:**
 ```json
 {
@@ -29561,7 +35020,7 @@ b. in the Full Year Reporting Period ending on 31 December in the year of a Powe
 
 ---
 
-## CHUNK 1032
+## CHUNK 1286
 **Metadata:**
 ```json
 {
@@ -29588,7 +35047,7 @@ b. in the Full Year Reporting Period ending on 31 December in the year of a Powe
 
 ---
 
-## CHUNK 1033
+## CHUNK 1287
 **Metadata:**
 ```json
 {
@@ -29609,7 +35068,28 @@ b. in the Full Year Reporting Period ending on 31 December in the year of a Powe
 
 ---
 
-## CHUNK 1034
+## CHUNK 1288
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 8,
+  "rule_id": "E3.1",
+  "breadcrumb": "Section E > Article E3: EXCLUSIONS > E3.1 Exclusions > E3.1",
+  "section": "Section E",
+  "article": "Article E3: EXCLUSIONS",
+  "sub_article": "E3.1 Exclusions"
+}
+```
+
+**Content:**
+[Section E > Article E3: EXCLUSIONS > E3.1 Exclusions > E3.1]
+**E3.1** ##  Exclusions
+
+---
+
+## CHUNK 1289
 **Metadata:**
 ```json
 {
@@ -29672,7 +35152,7 @@ i. depreciation, impairment loss and gain/loss on disposal of Property;
 
 ---
 
-## CHUNK 1035
+## CHUNK 1290
 **Metadata:**
 ```json
 {
@@ -29730,7 +35210,7 @@ q. In connection with a Competition or Testing of Current Cars, all hotel costs,
 
 ---
 
-## CHUNK 1036
+## CHUNK 1291
 **Metadata:**
 ```json
 {
@@ -29764,7 +35244,7 @@ x. All costs Directly Attributable to the provision of catering services at the 
 
 ---
 
-## CHUNK 1037
+## CHUNK 1292
 **Metadata:**
 ```json
 {
@@ -29809,7 +35289,7 @@ such cost shall be an Excluded Cost.
 
 ---
 
-## CHUNK 1038
+## CHUNK 1293
 **Metadata:**
 ```json
 {
@@ -29830,7 +35310,28 @@ such cost shall be an Excluded Cost.
 
 ---
 
-## CHUNK 1039
+## CHUNK 1294
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 12,
+  "rule_id": "E4.1",
+  "breadcrumb": "Section E > Article E4: ADJUSTMENTS > E4.1 Adjustments > E4.1",
+  "section": "Section E",
+  "article": "Article E4: ADJUSTMENTS",
+  "sub_article": "E4.1 Adjustments"
+}
+```
+
+**Content:**
+[Section E > Article E4: ADJUSTMENTS > E4.1 Adjustments > E4.1]
+**E4.1** ##  Adjustments
+
+---
+
+## CHUNK 1295
 **Metadata:**
 ```json
 {
@@ -29880,7 +35381,7 @@ e. Inventories:
 
 ---
 
-## CHUNK 1040
+## CHUNK 1296
 **Metadata:**
 ```json
 {
@@ -29930,7 +35431,7 @@ D. its cost has been recognised in full as an expense in the Reporting Period pu
 
 ---
 
-## CHUNK 1041
+## CHUNK 1297
 **Metadata:**
 ```json
 {
@@ -29972,7 +35473,7 @@ i. **Unused Cost Cap Amount:**
 
 ---
 
-## CHUNK 1042
+## CHUNK 1298
 **Metadata:**
 ```json
 {
@@ -30028,7 +35529,7 @@ m. Fuel Supplier – Single-Cylinder Dynamometer:
 
 ---
 
-## CHUNK 1043
+## CHUNK 1299
 **Metadata:**
 ```json
 {
@@ -30070,7 +35571,7 @@ q. **Plant and equipment clawback:**
 
 ---
 
-## CHUNK 1044
+## CHUNK 1300
 **Metadata:**
 ```json
 {
@@ -30112,7 +35613,7 @@ i. In respect of each ADUO Period, the Power Unit Manufacturer must make a downw
 
 ---
 
-## CHUNK 1045
+## CHUNK 1301
 **Metadata:**
 ```json
 {
@@ -30143,7 +35644,7 @@ The downward adjustment must be calculated in respect of each individual Power U
 
 ---
 
-## CHUNK 1046
+## CHUNK 1302
 **Metadata:**
 ```json
 {
@@ -30164,7 +35665,7 @@ The downward adjustment must be calculated in respect of each individual Power U
 
 ---
 
-## CHUNK 1047
+## CHUNK 1303
 **Metadata:**
 ```json
 {
@@ -30185,7 +35686,28 @@ The downward adjustment must be calculated in respect of each individual Power U
 
 ---
 
-## CHUNK 1048
+## CHUNK 1304
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 19,
+  "rule_id": "E5.1",
+  "breadcrumb": "Section E > Article E5: REPORTING REQUIREMENTS > E5.1 Full Year Reporting Documentation > E5.1",
+  "section": "Section E",
+  "article": "Article E5: REPORTING REQUIREMENTS",
+  "sub_article": "E5.1 Full Year Reporting Documentation"
+}
+```
+
+**Content:**
+[Section E > Article E5: REPORTING REQUIREMENTS > E5.1 Full Year Reporting Documentation > E5.1]
+**E5.1** ##  Full Year Reporting Documentation
+
+---
+
+## CHUNK 1305
 **Metadata:**
 ```json
 {
@@ -30214,7 +35736,28 @@ d. an assessment report provided by the same Independent Audit Firm that signs t
 
 ---
 
-## CHUNK 1049
+## CHUNK 1306
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 19,
+  "rule_id": "E5.2",
+  "breadcrumb": "Section E > Article E5: REPORTING REQUIREMENTS > E5.2 Interim Reporting Documentation > E5.2",
+  "section": "Section E",
+  "article": "Article E5: REPORTING REQUIREMENTS",
+  "sub_article": "E5.2 Interim Reporting Documentation"
+}
+```
+
+**Content:**
+[Section E > Article E5: REPORTING REQUIREMENTS > E5.2 Interim Reporting Documentation > E5.2]
+**E5.2** ##  Interim Reporting Documentation
+
+---
+
+## CHUNK 1307
 **Metadata:**
 ```json
 {
@@ -30241,7 +35784,28 @@ c. the Declarations.
 
 ---
 
-## CHUNK 1050
+## CHUNK 1308
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 19,
+  "rule_id": "E5.3",
+  "breadcrumb": "Section E > Article E5: REPORTING REQUIREMENTS > E5.3 Approval of a Power Unit Manufacturer\u2019s Registration Form > E5.3",
+  "section": "Section E",
+  "article": "Article E5: REPORTING REQUIREMENTS",
+  "sub_article": "E5.3 Approval of a Power Unit Manufacturer\u2019s Registration Form"
+}
+```
+
+**Content:**
+[Section E > Article E5: REPORTING REQUIREMENTS > E5.3 Approval of a Power Unit Manufacturer’s Registration Form > E5.3]
+**E5.3** ##  Approval of a Power Unit Manufacturer’s Registration Form
+
+---
+
+## CHUNK 1309
 **Metadata:**
 ```json
 {
@@ -30262,7 +35826,7 @@ c. the Declarations.
 
 ---
 
-## CHUNK 1051
+## CHUNK 1310
 **Metadata:**
 ```json
 {
@@ -30283,7 +35847,7 @@ c. the Declarations.
 
 ---
 
-## CHUNK 1052
+## CHUNK 1311
 **Metadata:**
 ```json
 {
@@ -30306,7 +35870,28 @@ will grant the Power Unit Manufacturer an extension to its Full Year Reporting D
 
 ---
 
-## CHUNK 1053
+## CHUNK 1312
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 21,
+  "rule_id": "E6.1",
+  "breadcrumb": "Section E > Article E6: COST CAP ADMINISTRATION > E6.1 General > E6.1",
+  "section": "Section E",
+  "article": "Article E6: COST CAP ADMINISTRATION",
+  "sub_article": "E6.1 General"
+}
+```
+
+**Content:**
+[Section E > Article E6: COST CAP ADMINISTRATION > E6.1 General > E6.1]
+**E6.1** ##  General
+
+---
+
+## CHUNK 1313
 **Metadata:**
 ```json
 {
@@ -30327,7 +35912,7 @@ will grant the Power Unit Manufacturer an extension to its Full Year Reporting D
 
 ---
 
-## CHUNK 1054
+## CHUNK 1314
 **Metadata:**
 ```json
 {
@@ -30348,7 +35933,7 @@ will grant the Power Unit Manufacturer an extension to its Full Year Reporting D
 
 ---
 
-## CHUNK 1055
+## CHUNK 1315
 **Metadata:**
 ```json
 {
@@ -30369,7 +35954,7 @@ will grant the Power Unit Manufacturer an extension to its Full Year Reporting D
 
 ---
 
-## CHUNK 1056
+## CHUNK 1316
 **Metadata:**
 ```json
 {
@@ -30390,7 +35975,7 @@ will grant the Power Unit Manufacturer an extension to its Full Year Reporting D
 
 ---
 
-## CHUNK 1057
+## CHUNK 1317
 **Metadata:**
 ```json
 {
@@ -30411,7 +35996,28 @@ will grant the Power Unit Manufacturer an extension to its Full Year Reporting D
 
 ---
 
-## CHUNK 1058
+## CHUNK 1318
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 21,
+  "rule_id": "E6.2",
+  "breadcrumb": "Section E > Article E6: COST CAP ADMINISTRATION > E6.2 Clarification of the Power Unit Financial Regulations > E6.2",
+  "section": "Section E",
+  "article": "Article E6: COST CAP ADMINISTRATION",
+  "sub_article": "E6.2 Clarification of the Power Unit Financial Regulations"
+}
+```
+
+**Content:**
+[Section E > Article E6: COST CAP ADMINISTRATION > E6.2 Clarification of the Power Unit Financial Regulations > E6.2]
+**E6.2** ##  Clarification of the Power Unit Financial Regulations
+
+---
+
+## CHUNK 1319
 **Metadata:**
 ```json
 {
@@ -30432,7 +36038,28 @@ will grant the Power Unit Manufacturer an extension to its Full Year Reporting D
 
 ---
 
-## CHUNK 1059
+## CHUNK 1320
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 21,
+  "rule_id": "E6.3",
+  "breadcrumb": "Section E > Article E6: COST CAP ADMINISTRATION > E6.3 Review of Reporting Documentation > E6.3",
+  "section": "Section E",
+  "article": "Article E6: COST CAP ADMINISTRATION",
+  "sub_article": "E6.3 Review of Reporting Documentation"
+}
+```
+
+**Content:**
+[Section E > Article E6: COST CAP ADMINISTRATION > E6.3 Review of Reporting Documentation > E6.3]
+**E6.3** ##  Review of Reporting Documentation
+
+---
+
+## CHUNK 1321
 **Metadata:**
 ```json
 {
@@ -30453,7 +36080,7 @@ will grant the Power Unit Manufacturer an extension to its Full Year Reporting D
 
 ---
 
-## CHUNK 1060
+## CHUNK 1322
 **Metadata:**
 ```json
 {
@@ -30474,7 +36101,7 @@ will grant the Power Unit Manufacturer an extension to its Full Year Reporting D
 
 ---
 
-## CHUNK 1061
+## CHUNK 1323
 **Metadata:**
 ```json
 {
@@ -30495,7 +36122,7 @@ will grant the Power Unit Manufacturer an extension to its Full Year Reporting D
 
 ---
 
-## CHUNK 1062
+## CHUNK 1324
 **Metadata:**
 ```json
 {
@@ -30524,7 +36151,7 @@ ii. refer the case to the Cost Cap Adjudication Panel for a hearing.
 
 ---
 
-## CHUNK 1063
+## CHUNK 1325
 **Metadata:**
 ```json
 {
@@ -30545,7 +36172,28 @@ ii. refer the case to the Cost Cap Adjudication Panel for a hearing.
 
 ---
 
-## CHUNK 1064
+## CHUNK 1326
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 22,
+  "rule_id": "E6.4",
+  "breadcrumb": "Section E > Article E6: COST CAP ADMINISTRATION > E6.4 Regulatory function > E6.4",
+  "section": "Section E",
+  "article": "Article E6: COST CAP ADMINISTRATION",
+  "sub_article": "E6.4 Regulatory function"
+}
+```
+
+**Content:**
+[Section E > Article E6: COST CAP ADMINISTRATION > E6.4 Regulatory function > E6.4]
+**E6.4** ##  Regulatory function
+
+---
+
+## CHUNK 1327
 **Metadata:**
 ```json
 {
@@ -30574,7 +36222,7 @@ d. mitigating the risk of a Power Unit Manufacturer submitting incomplete, inacc
 
 ---
 
-## CHUNK 1065
+## CHUNK 1328
 **Metadata:**
 ```json
 {
@@ -30595,7 +36243,7 @@ d. mitigating the risk of a Power Unit Manufacturer submitting incomplete, inacc
 
 ---
 
-## CHUNK 1066
+## CHUNK 1329
 **Metadata:**
 ```json
 {
@@ -30616,7 +36264,28 @@ d. mitigating the risk of a Power Unit Manufacturer submitting incomplete, inacc
 
 ---
 
-## CHUNK 1067
+## CHUNK 1330
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 22,
+  "rule_id": "E6.5",
+  "breadcrumb": "Section E > Article E6: COST CAP ADMINISTRATION > E6.5 Investigations > E6.5",
+  "section": "Section E",
+  "article": "Article E6: COST CAP ADMINISTRATION",
+  "sub_article": "E6.5 Investigations"
+}
+```
+
+**Content:**
+[Section E > Article E6: COST CAP ADMINISTRATION > E6.5 Investigations > E6.5]
+**E6.5** ##  Investigations
+
+---
+
+## CHUNK 1331
 **Metadata:**
 ```json
 {
@@ -30637,7 +36306,7 @@ d. mitigating the risk of a Power Unit Manufacturer submitting incomplete, inacc
 
 ---
 
-## CHUNK 1068
+## CHUNK 1332
 **Metadata:**
 ```json
 {
@@ -30658,7 +36327,7 @@ d. mitigating the risk of a Power Unit Manufacturer submitting incomplete, inacc
 
 ---
 
-## CHUNK 1069
+## CHUNK 1333
 **Metadata:**
 ```json
 {
@@ -30689,7 +36358,7 @@ d. mitigating the risk of a Power Unit Manufacturer submitting incomplete, inacc
 
 ---
 
-## CHUNK 1070
+## CHUNK 1334
 **Metadata:**
 ```json
 {
@@ -30720,7 +36389,7 @@ These Immunity Conditions are repeated in the document granting immunity. The pe
 
 ---
 
-## CHUNK 1071
+## CHUNK 1335
 **Metadata:**
 ```json
 {
@@ -30741,7 +36410,7 @@ These Immunity Conditions are repeated in the document granting immunity. The pe
 
 ---
 
-## CHUNK 1072
+## CHUNK 1336
 **Metadata:**
 ```json
 {
@@ -30762,7 +36431,7 @@ These Immunity Conditions are repeated in the document granting immunity. The pe
 
 ---
 
-## CHUNK 1073
+## CHUNK 1337
 **Metadata:**
 ```json
 {
@@ -30783,7 +36452,7 @@ These Immunity Conditions are repeated in the document granting immunity. The pe
 
 ---
 
-## CHUNK 1074
+## CHUNK 1338
 **Metadata:**
 ```json
 {
@@ -30813,7 +36482,7 @@ Cost Cap Adjudication Panel and/or the ICA;
 
 ---
 
-## CHUNK 1075
+## CHUNK 1339
 **Metadata:**
 ```json
 {
@@ -30834,7 +36503,28 @@ Cost Cap Adjudication Panel and/or the ICA;
 
 ---
 
-## CHUNK 1076
+## CHUNK 1340
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 24,
+  "rule_id": "E6.6",
+  "breadcrumb": "Section E > Article E6: COST CAP ADMINISTRATION > E6.6 Complaints procedure > E6.6",
+  "section": "Section E",
+  "article": "Article E6: COST CAP ADMINISTRATION",
+  "sub_article": "E6.6 Complaints procedure"
+}
+```
+
+**Content:**
+[Section E > Article E6: COST CAP ADMINISTRATION > E6.6 Complaints procedure > E6.6]
+**E6.6** #  Complaints procedure
+
+---
+
+## CHUNK 1341
 **Metadata:**
 ```json
 {
@@ -30855,7 +36545,7 @@ Cost Cap Adjudication Panel and/or the ICA;
 
 ---
 
-## CHUNK 1077
+## CHUNK 1342
 **Metadata:**
 ```json
 {
@@ -30889,7 +36579,7 @@ f. the report shall be signed by the CEO and CFO of the Complainant Manufacturer
 
 ---
 
-## CHUNK 1078
+## CHUNK 1343
 **Metadata:**
 ```json
 {
@@ -30910,7 +36600,7 @@ f. the report shall be signed by the CEO and CFO of the Complainant Manufacturer
 
 ---
 
-## CHUNK 1079
+## CHUNK 1344
 **Metadata:**
 ```json
 {
@@ -30931,7 +36621,28 @@ f. the report shall be signed by the CEO and CFO of the Complainant Manufacturer
 
 ---
 
-## CHUNK 1080
+## CHUNK 1345
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 25,
+  "rule_id": "E6.7",
+  "breadcrumb": "Section E > Article E6: COST CAP ADMINISTRATION > E6.7 Accepted Breach Agreement > E6.7",
+  "section": "Section E",
+  "article": "Article E6: COST CAP ADMINISTRATION",
+  "sub_article": "E6.7 Accepted Breach Agreement"
+}
+```
+
+**Content:**
+[Section E > Article E6: COST CAP ADMINISTRATION > E6.7 Accepted Breach Agreement > E6.7]
+**E6.7** #  Accepted Breach Agreement
+
+---
+
+## CHUNK 1346
 **Metadata:**
 ```json
 {
@@ -30952,7 +36663,7 @@ f. the report shall be signed by the CEO and CFO of the Complainant Manufacturer
 
 ---
 
-## CHUNK 1081
+## CHUNK 1347
 **Metadata:**
 ```json
 {
@@ -30981,7 +36692,7 @@ d. set out details of the costs to be borne by the Power Unit Manufacturer, calc
 
 ---
 
-## CHUNK 1082
+## CHUNK 1348
 **Metadata:**
 ```json
 {
@@ -31002,7 +36713,7 @@ d. set out details of the costs to be borne by the Power Unit Manufacturer, calc
 
 ---
 
-## CHUNK 1083
+## CHUNK 1349
 **Metadata:**
 ```json
 {
@@ -31031,7 +36742,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1084
+## CHUNK 1350
 **Metadata:**
 ```json
 {
@@ -31052,7 +36763,28 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1085
+## CHUNK 1351
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 27,
+  "rule_id": "E7.1",
+  "breadcrumb": "Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.1 Cost Cap Adjudication Panel > E7.1",
+  "section": "Section E",
+  "article": "Article E7: COST CAP ADJUDICATION PANEL",
+  "sub_article": "E7.1 Cost Cap Adjudication Panel"
+}
+```
+
+**Content:**
+[Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.1 Cost Cap Adjudication Panel > E7.1]
+**E7.1** ##  Cost Cap Adjudication Panel
+
+---
+
+## CHUNK 1352
 **Metadata:**
 ```json
 {
@@ -31073,7 +36805,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1086
+## CHUNK 1353
 **Metadata:**
 ```json
 {
@@ -31102,7 +36834,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1087
+## CHUNK 1354
 **Metadata:**
 ```json
 {
@@ -31123,7 +36855,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1088
+## CHUNK 1355
 **Metadata:**
 ```json
 {
@@ -31148,7 +36880,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1089
+## CHUNK 1356
 **Metadata:**
 ```json
 {
@@ -31169,7 +36901,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1090
+## CHUNK 1357
 **Metadata:**
 ```json
 {
@@ -31190,7 +36922,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1091
+## CHUNK 1358
 **Metadata:**
 ```json
 {
@@ -31211,7 +36943,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1092
+## CHUNK 1359
 **Metadata:**
 ```json
 {
@@ -31232,7 +36964,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1093
+## CHUNK 1360
 **Metadata:**
 ```json
 {
@@ -31253,7 +36985,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1094
+## CHUNK 1361
 **Metadata:**
 ```json
 {
@@ -31274,7 +37006,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1095
+## CHUNK 1362
 **Metadata:**
 ```json
 {
@@ -31295,7 +37027,28 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1096
+## CHUNK 1363
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 28,
+  "rule_id": "E7.2",
+  "breadcrumb": "Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.2 Hearings before the Cost Cap Adjudication Panel > E7.2",
+  "section": "Section E",
+  "article": "Article E7: COST CAP ADJUDICATION PANEL",
+  "sub_article": "E7.2 Hearings before the Cost Cap Adjudication Panel"
+}
+```
+
+**Content:**
+[Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.2 Hearings before the Cost Cap Adjudication Panel > E7.2]
+**E7.2** ##  Hearings before the Cost Cap Adjudication Panel
+
+---
+
+## CHUNK 1364
 **Metadata:**
 ```json
 {
@@ -31316,7 +37069,7 @@ d. waive its right to challenge the ABA.
 
 ---
 
-## CHUNK 1097
+## CHUNK 1365
 **Metadata:**
 ```json
 {
@@ -31345,7 +37098,7 @@ d. any third party observer(s), as permitted under Article E7.2.6.
 
 ---
 
-## CHUNK 1098
+## CHUNK 1366
 **Metadata:**
 ```json
 {
@@ -31366,7 +37119,7 @@ d. any third party observer(s), as permitted under Article E7.2.6.
 
 ---
 
-## CHUNK 1099
+## CHUNK 1367
 **Metadata:**
 ```json
 {
@@ -31387,7 +37140,7 @@ d. any third party observer(s), as permitted under Article E7.2.6.
 
 ---
 
-## CHUNK 1100
+## CHUNK 1368
 **Metadata:**
 ```json
 {
@@ -31408,7 +37161,7 @@ d. any third party observer(s), as permitted under Article E7.2.6.
 
 ---
 
-## CHUNK 1101
+## CHUNK 1369
 **Metadata:**
 ```json
 {
@@ -31431,7 +37184,7 @@ hearing in an observer capacity only. The third party shall not be permitted to 
 
 ---
 
-## CHUNK 1102
+## CHUNK 1370
 **Metadata:**
 ```json
 {
@@ -31452,7 +37205,7 @@ hearing in an observer capacity only. The third party shall not be permitted to 
 
 ---
 
-## CHUNK 1103
+## CHUNK 1371
 **Metadata:**
 ```json
 {
@@ -31473,7 +37226,7 @@ hearing in an observer capacity only. The third party shall not be permitted to 
 
 ---
 
-## CHUNK 1104
+## CHUNK 1372
 **Metadata:**
 ```json
 {
@@ -31494,7 +37247,7 @@ hearing in an observer capacity only. The third party shall not be permitted to 
 
 ---
 
-## CHUNK 1105
+## CHUNK 1373
 **Metadata:**
 ```json
 {
@@ -31515,7 +37268,7 @@ hearing in an observer capacity only. The third party shall not be permitted to 
 
 ---
 
-## CHUNK 1106
+## CHUNK 1374
 **Metadata:**
 ```json
 {
@@ -31540,7 +37293,7 @@ b. to postpone proceedings to a later hearing, in particular in order to hear Wi
 
 ---
 
-## CHUNK 1107
+## CHUNK 1375
 **Metadata:**
 ```json
 {
@@ -31561,7 +37314,7 @@ b. to postpone proceedings to a later hearing, in particular in order to hear Wi
 
 ---
 
-## CHUNK 1108
+## CHUNK 1376
 **Metadata:**
 ```json
 {
@@ -31582,7 +37335,7 @@ b. to postpone proceedings to a later hearing, in particular in order to hear Wi
 
 ---
 
-## CHUNK 1109
+## CHUNK 1377
 **Metadata:**
 ```json
 {
@@ -31603,7 +37356,28 @@ b. to postpone proceedings to a later hearing, in particular in order to hear Wi
 
 ---
 
-## CHUNK 1110
+## CHUNK 1378
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 29,
+  "rule_id": "E7.3",
+  "breadcrumb": "Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.3 Decision > E7.3",
+  "section": "Section E",
+  "article": "Article E7: COST CAP ADJUDICATION PANEL",
+  "sub_article": "E7.3 Decision"
+}
+```
+
+**Content:**
+[Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.3 Decision > E7.3]
+**E7.3** #  Decision
+
+---
+
+## CHUNK 1379
 **Metadata:**
 ```json
 {
@@ -31642,7 +37416,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1111
+## CHUNK 1380
 **Metadata:**
 ```json
 {
@@ -31663,7 +37437,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1112
+## CHUNK 1381
 **Metadata:**
 ```json
 {
@@ -31684,7 +37458,28 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1113
+## CHUNK 1382
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 30,
+  "rule_id": "E7.4",
+  "breadcrumb": "Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.4 Appeals > E7.4",
+  "section": "Section E",
+  "article": "Article E7: COST CAP ADJUDICATION PANEL",
+  "sub_article": "E7.4 Appeals"
+}
+```
+
+**Content:**
+[Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.4 Appeals > E7.4]
+**E7.4** ##  Appeals
+
+---
+
+## CHUNK 1383
 **Metadata:**
 ```json
 {
@@ -31705,7 +37500,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1114
+## CHUNK 1384
 **Metadata:**
 ```json
 {
@@ -31726,7 +37521,28 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1115
+## CHUNK 1385
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 31,
+  "rule_id": "E8.1",
+  "breadcrumb": "Section E > Article E8: CATEGORIES OF BREACH > E8.1 Procedural Breach > E8.1",
+  "section": "Section E",
+  "article": "Article E8: CATEGORIES OF BREACH",
+  "sub_article": "E8.1 Procedural Breach"
+}
+```
+
+**Content:**
+[Section E > Article E8: CATEGORIES OF BREACH > E8.1 Procedural Breach > E8.1]
+**E8.1** ##  Procedural Breach
+
+---
+
+## CHUNK 1386
 **Metadata:**
 ```json
 {
@@ -31747,7 +37563,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1116
+## CHUNK 1387
 **Metadata:**
 ```json
 {
@@ -31778,7 +37594,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1117
+## CHUNK 1388
 **Metadata:**
 ```json
 {
@@ -31802,7 +37618,28 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1118
+## CHUNK 1389
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 31,
+  "rule_id": "E8.2",
+  "breadcrumb": "Section E > Article E8: CATEGORIES OF BREACH > E8.2 Late and Non-Submission of Full Year Reporting Documentation > E8.2",
+  "section": "Section E",
+  "article": "Article E8: CATEGORIES OF BREACH",
+  "sub_article": "E8.2 Late and Non-Submission of Full Year Reporting Documentation"
+}
+```
+
+**Content:**
+[Section E > Article E8: CATEGORIES OF BREACH > E8.2 Late and Non-Submission of Full Year Reporting Documentation > E8.2]
+**E8.2** ##  Late and Non-Submission of Full Year Reporting Documentation
+
+---
+
+## CHUNK 1390
 **Metadata:**
 ```json
 {
@@ -31823,7 +37660,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1119
+## CHUNK 1391
 **Metadata:**
 ```json
 {
@@ -31844,7 +37681,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1120
+## CHUNK 1392
 **Metadata:**
 ```json
 {
@@ -31865,7 +37702,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1121
+## CHUNK 1393
 **Metadata:**
 ```json
 {
@@ -31891,7 +37728,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1122
+## CHUNK 1394
 **Metadata:**
 ```json
 {
@@ -31912,7 +37749,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1123
+## CHUNK 1395
 **Metadata:**
 ```json
 {
@@ -31933,7 +37770,28 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1124
+## CHUNK 1396
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 32,
+  "rule_id": "E8.3",
+  "breadcrumb": "Section E > Article E8: CATEGORIES OF BREACH > E8.3 Minor Overspend Breach > E8.3",
+  "section": "Section E",
+  "article": "Article E8: CATEGORIES OF BREACH",
+  "sub_article": "E8.3 Minor Overspend Breach"
+}
+```
+
+**Content:**
+[Section E > Article E8: CATEGORIES OF BREACH > E8.3 Minor Overspend Breach > E8.3]
+**E8.3** Minor Overspend Breach
+
+---
+
+## CHUNK 1397
 **Metadata:**
 ```json
 {
@@ -31957,7 +37815,7 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1125
+## CHUNK 1398
 **Metadata:**
 ```json
 {
@@ -31978,7 +37836,28 @@ f. in the event that a Power Unit Manufacturer is found to have complied with th
 
 ---
 
-## CHUNK 1126
+## CHUNK 1399
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 32,
+  "rule_id": "E8.4",
+  "breadcrumb": "Section E > Article E8: CATEGORIES OF BREACH > E8.4 Material Overspend Breach > E8.4",
+  "section": "Section E",
+  "article": "Article E8: CATEGORIES OF BREACH",
+  "sub_article": "E8.4 Material Overspend Breach"
+}
+```
+
+**Content:**
+[Section E > Article E8: CATEGORIES OF BREACH > E8.4 Material Overspend Breach > E8.4]
+**E8.4** Material Overspend Breach
+
+---
+
+## CHUNK 1400
 **Metadata:**
 ```json
 {
@@ -32003,7 +37882,7 @@ b. following the review of a Power Unit Manufacturer’s Full Year Reporting Doc
 
 ---
 
-## CHUNK 1127
+## CHUNK 1401
 **Metadata:**
 ```json
 {
@@ -32024,7 +37903,28 @@ b. following the review of a Power Unit Manufacturer’s Full Year Reporting Doc
 
 ---
 
-## CHUNK 1128
+## CHUNK 1402
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 33,
+  "rule_id": "E8.5",
+  "breadcrumb": "Section E > Article E8: CATEGORIES OF BREACH > E8.5 Aggravating or mitigating factors > E8.5",
+  "section": "Section E",
+  "article": "Article E8: CATEGORIES OF BREACH",
+  "sub_article": "E8.5 Aggravating or mitigating factors"
+}
+```
+
+**Content:**
+[Section E > Article E8: CATEGORIES OF BREACH > E8.5 Aggravating or mitigating factors > E8.5]
+**E8.5** #  Aggravating or mitigating factors
+
+---
+
+## CHUNK 1403
 **Metadata:**
 ```json
 {
@@ -32045,7 +37945,7 @@ b. following the review of a Power Unit Manufacturer’s Full Year Reporting Doc
 
 ---
 
-## CHUNK 1129
+## CHUNK 1404
 **Metadata:**
 ```json
 {
@@ -32076,7 +37976,7 @@ e. failure to co-operate with the Cost Cap Administration and/or Independent Aud
 
 ---
 
-## CHUNK 1130
+## CHUNK 1405
 **Metadata:**
 ```json
 {
@@ -32105,7 +38005,28 @@ d. full and unfettered co-operation with the Cost Cap Administration and/or the 
 
 ---
 
-## CHUNK 1131
+## CHUNK 1406
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 34,
+  "rule_id": "E9.1",
+  "breadcrumb": "Section E > Article E9: SANCTIONS FOR BREACH > E9.1 Sanctions > E9.1",
+  "section": "Section E",
+  "article": "Article E9: SANCTIONS FOR BREACH",
+  "sub_article": "E9.1 Sanctions"
+}
+```
+
+**Content:**
+[Section E > Article E9: SANCTIONS FOR BREACH > E9.1 Sanctions > E9.1]
+**E9.1** ##  Sanctions
+
+---
+
+## CHUNK 1407
 **Metadata:**
 ```json
 {
@@ -32160,7 +38081,7 @@ provided that the penalty specified in Article E9.1.1.c.vi. shall only be applie
 
 ---
 
-## CHUNK 1132
+## CHUNK 1408
 **Metadata:**
 ```json
 {
@@ -32182,7 +38103,28 @@ provided that the penalties specified in Articles E9.1.1.c.i., E9.1.1.c.ii. and 
 
 ---
 
-## CHUNK 1133
+## CHUNK 1409
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 35,
+  "rule_id": "E9.2",
+  "breadcrumb": "Section E > Article E9: SANCTIONS FOR BREACH > E9.2 Enhanced monitoring and suspended sanctions > E9.2",
+  "section": "Section E",
+  "article": "Article E9: SANCTIONS FOR BREACH",
+  "sub_article": "E9.2 Enhanced monitoring and suspended sanctions"
+}
+```
+
+**Content:**
+[Section E > Article E9: SANCTIONS FOR BREACH > E9.2 Enhanced monitoring and suspended sanctions > E9.2]
+**E9.2** ##  Enhanced monitoring and suspended sanctions
+
+---
+
+## CHUNK 1410
 **Metadata:**
 ```json
 {
@@ -32203,7 +38145,7 @@ provided that the penalties specified in Articles E9.1.1.c.i., E9.1.1.c.ii. and 
 
 ---
 
-## CHUNK 1134
+## CHUNK 1411
 **Metadata:**
 ```json
 {
@@ -32224,7 +38166,7 @@ provided that the penalties specified in Articles E9.1.1.c.i., E9.1.1.c.ii. and 
 
 ---
 
-## CHUNK 1135
+## CHUNK 1412
 **Metadata:**
 ```json
 {
@@ -32245,7 +38187,28 @@ provided that the penalties specified in Articles E9.1.1.c.i., E9.1.1.c.ii. and 
 
 ---
 
-## CHUNK 1136
+## CHUNK 1413
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 35,
+  "rule_id": "E9.3",
+  "breadcrumb": "Section E > Article E9: SANCTIONS FOR BREACH > E9.3 Payment of a Financial Penalty > E9.3",
+  "section": "Section E",
+  "article": "Article E9: SANCTIONS FOR BREACH",
+  "sub_article": "E9.3 Payment of a Financial Penalty"
+}
+```
+
+**Content:**
+[Section E > Article E9: SANCTIONS FOR BREACH > E9.3 Payment of a Financial Penalty > E9.3]
+**E9.3** ##  Payment of a Financial Penalty
+
+---
+
+## CHUNK 1414
 **Metadata:**
 ```json
 {
@@ -32266,7 +38229,7 @@ provided that the penalties specified in Articles E9.1.1.c.i., E9.1.1.c.ii. and 
 
 ---
 
-## CHUNK 1137
+## CHUNK 1415
 **Metadata:**
 ```json
 {
@@ -32287,7 +38250,7 @@ provided that the penalties specified in Articles E9.1.1.c.i., E9.1.1.c.ii. and 
 
 ---
 
-## CHUNK 1138
+## CHUNK 1416
 **Metadata:**
 ```json
 {
@@ -32308,7 +38271,28 @@ provided that the penalties specified in Articles E9.1.1.c.i., E9.1.1.c.ii. and 
 
 ---
 
-## CHUNK 1139
+## CHUNK 1417
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_e.pdf",
+  "regulatory_year": 2026,
+  "page_number": 35,
+  "rule_id": "E9.4",
+  "breadcrumb": "Section E > Article E9: SANCTIONS FOR BREACH > E9.4 Individual responsibility > E9.4",
+  "section": "Section E",
+  "article": "Article E9: SANCTIONS FOR BREACH",
+  "sub_article": "E9.4 Individual responsibility"
+}
+```
+
+**Content:**
+[Section E > Article E9: SANCTIONS FOR BREACH > E9.4 Individual responsibility > E9.4]
+**E9.4** ##  Individual responsibility
+
+---
+
+## CHUNK 1418
 **Metadata:**
 ```json
 {
@@ -32359,7 +38343,7 @@ In these Power Unit Financial Regulations, the following words and expressions h
 
 ---
 
-## CHUNK 1140
+## CHUNK 1419
 **Metadata:**
 ```json
 {
@@ -32407,7 +38391,7 @@ e. notes, comprising a summary of significant accounting policies and other expl
 
 ---
 
-## CHUNK 1141
+## CHUNK 1420
 **Metadata:**
 ```json
 {
@@ -32470,7 +38454,7 @@ b. in the context of a person who is not an employee:
 
 ---
 
-## CHUNK 1142
+## CHUNK 1421
 **Metadata:**
 ```json
 {
@@ -32528,7 +38512,7 @@ ii. the Power Unit Manufacturer has complied with the requirements of Articles E
 
 ---
 
-## CHUNK 1143
+## CHUNK 1422
 **Metadata:**
 ```json
 {
@@ -32578,7 +38562,7 @@ b. in respect of the Full Year Reporting Period ending on 31 December of a Power
 
 ---
 
-## CHUNK 1144
+## CHUNK 1423
 **Metadata:**
 ```json
 {
@@ -32628,7 +38612,7 @@ b. an employee’s decision to accept an offer of benefits in exchange for the t
 
 ---
 
-## CHUNK 1145
+## CHUNK 1424
 **Metadata:**
 ```json
 {
@@ -32700,7 +38684,7 @@ e. interest on lease liabilities.
 
 ---
 
-## CHUNK 1146
+## CHUNK 1425
 **Metadata:**
 ```json
 {
@@ -32768,7 +38752,7 @@ B. the Subset Accounts; and
 
 ---
 
-## CHUNK 1147
+## CHUNK 1426
 **Metadata:**
 ```json
 {
@@ -32828,7 +38812,7 @@ b. track support services relating to the operation of Power Units during Testin
 
 ---
 
-## CHUNK 1148
+## CHUNK 1427
 **Metadata:**
 ```json
 {
@@ -32897,7 +38881,7 @@ b. in respect of all other currencies, the average of the daily exchange rates p
 
 ---
 
-## CHUNK 1149
+## CHUNK 1428
 **Metadata:**
 ```json
 {
@@ -32952,7 +38936,7 @@ c. in the form of materials or supplies to be consumed in the process of product
 
 ---
 
-## CHUNK 1150
+## CHUNK 1429
 **Metadata:**
 ```json
 {
@@ -33001,7 +38985,7 @@ c. in the form of materials or supplies to be consumed in the process of product
 
 ---
 
-## CHUNK 1151
+## CHUNK 1430
 **Metadata:**
 ```json
 {
@@ -33053,7 +39037,7 @@ c. in the form of materials or supplies to be consumed in the process of product
 
 ---
 
-## CHUNK 1152
+## CHUNK 1431
 **Metadata:**
 ```json
 {
@@ -33111,7 +39095,7 @@ d. the management, directing, control and use of the assets used to undertake th
 
 ---
 
-## CHUNK 1153
+## CHUNK 1432
 **Metadata:**
 ```json
 {
@@ -33177,7 +39161,7 @@ e. costs of cleaning and waste disposal services provided in respect of the prop
 
 ---
 
-## CHUNK 1154
+## CHUNK 1433
 **Metadata:**
 ```json
 {
@@ -33249,7 +39233,7 @@ a. a transfer of resources, services or obligations between that Reporting Group
 
 ---
 
-## CHUNK 1155
+## CHUNK 1434
 **Metadata:**
 ```json
 {
@@ -33305,7 +39289,7 @@ b. confirmation that the exclusion from the Power Unit Manufacturer’s Reportin
 
 ---
 
-## CHUNK 1156
+## CHUNK 1435
 **Metadata:**
 ```json
 {
@@ -33365,7 +39349,7 @@ f. include details of relevant Related Party Transactions, Exchange Transactions
 
 ---
 
-## CHUNK 1157
+## CHUNK 1436
 **Metadata:**
 ```json
 {
@@ -33411,7 +39395,7 @@ i. costs Directly Attributable to the purchase of certificates related to sustai
 
 ---
 
-## CHUNK 1158
+## CHUNK 1437
 **Metadata:**
 ```json
 {
@@ -33457,7 +39441,7 @@ and separately identified as such within the logistics recharges made by the Com
 
 ---
 
-## CHUNK 1159
+## CHUNK 1438
 **Metadata:**
 ```json
 {
@@ -33506,7 +39490,7 @@ and separately identified as such within the logistics recharges made by the Com
 
 ---
 
-## CHUNK 1160
+## CHUNK 1439
 **Metadata:**
 ```json
 {
@@ -33574,7 +39558,7 @@ and separately identified as such within the logistics recharges made by the Com
 
 ---
 
-## CHUNK 1161
+## CHUNK 1440
 **Metadata:**
 ```json
 {
@@ -33597,6 +39581,209 @@ and separately identified as such within the logistics recharges made by the Com
 
 **Black Text:** Text unchanged from 2026 FIA F1 Regulations - Section B \[Sporting] – Iss 04 <mark>Pink Text:</mark> <mark>Changes relative to 2026 FIA F1 Regulations - Section B \[Sporting] – Iss 04, approved by the WMSC on 27/02/26</mark> <mark>\[Red Text]:</mark> <mark>Information on applicable Governance and relevant Advisory Committee</mark> <mark>\[Orange Text]:</mark> <mark>Reference information on relevant FIA F1 Documents</mark> <mark>\[Green Text]:</mark> <mark>Comments / explanations / indication of further work: non-binding and non-regulatory</mark>
 
+---
+
+## CHUNK 1441
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "B4.1",
+  "breadcrumb": "Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) 32 > B4.1 General Provisions for LTCS 32 > B4.1",
+  "section": "Section B",
+  "article": "Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) 32",
+  "sub_article": "B4.1 General Provisions for LTCS 32"
+}
+```
+
+**Content:**
+[Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) 32 > B4.1 General Provisions for LTCS 32 > B4.1]
+**B4.1** General Provisions for LTCS 32
+B4.2 Specific Provisions for Free Practice Session(s) 33
+B4.3 Specific Provisions for Sprint Qualifying and Qualifying Session(s) 33
+
+---
+
+## CHUNK 1442
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "B5.1",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) 34 > B5.1 General Provisions for TTCS 34 > B5.1",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) 34",
+  "sub_article": "B5.1 General Provisions for TTCS 34"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) 34 > B5.1 General Provisions for TTCS 34 > B5.1]
+**B5.1** General Provisions for TTCS 34
+B5.2 Reconnaissance Lap(s) 34
+B5.3 Pit Lane Starters 35
+B5.4 Delayed Start 35
+B5.5 Grid Procedure 36
+B5.6 Formation Lap 37
+B5.7 Start Procedure 37
+B5.8 Aborted Start 38
+B5.9 Extra Formation Lap(s) 39
+B5.10 Formation Lap(s) Behind Safety Car 40
+B5.11 False Start 42
+B5.12 Virtual Safety Car (VSC) 42
+B5.13 Safety Car (SC) 43
+B5.14 Suspension Procedure(s) 47
+B5.15 Resumption Procedure 49
+B5.16 Finishing Procedure 53
+
+---
+
+## CHUNK 1443
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "B6.1",
+  "breadcrumb": "Section B > Article B6: TYRE LIMITATIONS 54 > B6.1 Supply Of Tyres 54 > B6.1",
+  "section": "Section B",
+  "article": "Article B6: TYRE LIMITATIONS 54",
+  "sub_article": "B6.1 Supply Of Tyres 54"
+}
+```
+
+**Content:**
+[Section B > Article B6: TYRE LIMITATIONS 54 > B6.1 Supply Of Tyres 54 > B6.1]
+**B6.1** Supply Of Tyres 54
+B6.2 Control & Allocation of Tyres 55
+B6.3 Use & Return of Tyres 56
+B6.4 Tyre Return Procedure 59
+B6.5 Specific Provisions for ICTE 60
+B6.6 Specific Provisions for ICTT 60
+
+---
+
+## CHUNK 1444
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "B7.1",
+  "breadcrumb": "Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS 61 > B7.1 Driver Adjustable Bodywork 61 > B7.1",
+  "section": "Section B",
+  "article": "Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS 61",
+  "sub_article": "B7.1 Driver Adjustable Bodywork 61"
+}
+```
+
+**Content:**
+[Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS 61 > B7.1 Driver Adjustable Bodywork 61 > B7.1]
+**B7.1** Driver Adjustable Bodywork 61
+B7.2 Energy Deployment Limitations 62
+
+---
+
+## CHUNK 1445
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "B8.1",
+  "breadcrumb": "Section B > Article B8: CAR & COMPONENT LIMITATIONS 65 > B8.1 Car Limitations & Usage 65 > B8.1",
+  "section": "Section B",
+  "article": "Article B8: CAR & COMPONENT LIMITATIONS 65",
+  "sub_article": "B8.1 Car Limitations & Usage 65"
+}
+```
+
+**Content:**
+[Section B > Article B8: CAR & COMPONENT LIMITATIONS 65 > B8.1 Car Limitations & Usage 65 > B8.1]
+**B8.1** Car Limitations & Usage 65
+B8.2 Power Unit Limitations & Usage 65
+
+---
+
+## CHUNK 1446
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "B9.1",
+  "breadcrumb": "Section B > Article B9: PERSONNEL LIMITATIONS 68 > B9.1 General Provisions 68 > B9.1",
+  "section": "Section B",
+  "article": "Article B9: PERSONNEL LIMITATIONS 68",
+  "sub_article": "B9.1 General Provisions 68"
+}
+```
+
+**Content:**
+[Section B > Article B9: PERSONNEL LIMITATIONS 68 > B9.1 General Provisions 68 > B9.1]
+**B9.1** General Provisions 68
+B9.2 Operational Personnel 68
+B9.3 Trainee Personnel 68
+B9.4 Declaration of Personnel 68
+B9.5 Restricted Period(s) 68
+
+---
+
+## CHUNK 1447
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "B10.1",
+  "breadcrumb": "Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES 71 > B10.1 Media Activities 71 > B10.1",
+  "section": "Section B",
+  "article": "Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES 71",
+  "sub_article": "B10.1 Media Activities 71"
+}
+```
+
+**Content:**
+[Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES 71 > B10.1 Media Activities 71 > B10.1]
+**B10.1** Media Activities 71
+B10.2 Podium Ceremony 74
+
+---
+
+## CHUNK 1448
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "B11.1",
+  "breadcrumb": "Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION 76 > B11.1 General Provisions for Track Running Outside a Competition 76 > B11.1",
+  "section": "Section B",
+  "article": "Article B11: TRACK RUNNING OUTSIDE A COMPETITION 76",
+  "sub_article": "B11.1 General Provisions for Track Running Outside a Competition 76"
+}
+```
+
+**Content:**
+[Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION 76 > B11.1 General Provisions for Track Running Outside a Competition 76 > B11.1]
+**B11.1** General Provisions for Track Running Outside a Competition 76
+B11.2 Provisions for TCC 76
+B11.3 Provisions for TPC 78
+B11.5 Provisions for THC 81
+B11.6 Provisions for PE 81
+B11.7 Provisions for DE 82
+B11.8 Safety Requirements, Technical Requirements & Car Limitations 82
+
 # APPENDIX B1: DEFINITIONS **84**
 
 # APPENDIX B2: PARC FERME PERMITTED WORKS **86**
@@ -33617,7 +39804,28 @@ Changes for 2029 96
 
 ---
 
-## CHUNK 1162
+## CHUNK 1449
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 4,
+  "rule_id": "B1.1",
+  "breadcrumb": "Section B > Article B1: ORGANISATION OF A COMPETITION > B1.1 General Principles & Provisions > B1.1",
+  "section": "Section B",
+  "article": "Article B1: ORGANISATION OF A COMPETITION",
+  "sub_article": "B1.1 General Principles & Provisions"
+}
+```
+
+**Content:**
+[Section B > Article B1: ORGANISATION OF A COMPETITION > B1.1 General Principles & Provisions > B1.1]
+**B1.1** ##  General Principles & Provisions
+
+---
+
+## CHUNK 1450
 **Metadata:**
 ```json
 {
@@ -33638,7 +39846,7 @@ Changes for 2029 96
 
 ---
 
-## CHUNK 1163
+## CHUNK 1451
 **Metadata:**
 ```json
 {
@@ -33662,7 +39870,7 @@ Changes for 2029 96
 
 ---
 
-## CHUNK 1164
+## CHUNK 1452
 **Metadata:**
 ```json
 {
@@ -33683,7 +39891,7 @@ Changes for 2029 96
 
 ---
 
-## CHUNK 1165
+## CHUNK 1453
 **Metadata:**
 ```json
 {
@@ -33704,7 +39912,7 @@ Changes for 2029 96
 
 ---
 
-## CHUNK 1166
+## CHUNK 1454
 **Metadata:**
 ```json
 {
@@ -33726,7 +39934,28 @@ If, after an incident, the Impact Warning Light is activated the driver may, at 
 
 ---
 
-## CHUNK 1167
+## CHUNK 1455
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 4,
+  "rule_id": "B1.2",
+  "breadcrumb": "Section B > Article B1: ORGANISATION OF A COMPETITION > B1.2 FIA Delegates > B1.2",
+  "section": "Section B",
+  "article": "Article B1: ORGANISATION OF A COMPETITION",
+  "sub_article": "B1.2 FIA Delegates"
+}
+```
+
+**Content:**
+[Section B > Article B1: ORGANISATION OF A COMPETITION > B1.2 FIA Delegates > B1.2]
+**B1.2** ##  FIA Delegates
+
+---
+
+## CHUNK 1456
 **Metadata:**
 ```json
 {
@@ -33762,7 +39991,7 @@ i. A Safety Car driver.
 
 ---
 
-## CHUNK 1168
+## CHUNK 1457
 **Metadata:**
 ```json
 {
@@ -33783,7 +40012,7 @@ i. A Safety Car driver.
 
 ---
 
-## CHUNK 1169
+## CHUNK 1458
 **Metadata:**
 ```json
 {
@@ -33804,7 +40033,28 @@ i. A Safety Car driver.
 
 ---
 
-## CHUNK 1170
+## CHUNK 1459
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "B1.3",
+  "breadcrumb": "Section B > Article B1: ORGANISATION OF A COMPETITION > B1.3 Officials > B1.3",
+  "section": "Section B",
+  "article": "Article B1: ORGANISATION OF A COMPETITION",
+  "sub_article": "B1.3 Officials"
+}
+```
+
+**Content:**
+[Section B > Article B1: ORGANISATION OF A COMPETITION > B1.3 Officials > B1.3]
+**B1.3** #  Officials
+
+---
+
+## CHUNK 1460
 **Metadata:**
 ```json
 {
@@ -33829,7 +40079,7 @@ c. A Permanent Starter.
 
 ---
 
-## CHUNK 1171
+## CHUNK 1461
 **Metadata:**
 ```json
 {
@@ -33853,7 +40103,7 @@ b. The clerk of the course.
 
 ---
 
-## CHUNK 1172
+## CHUNK 1462
 **Metadata:**
 ```json
 {
@@ -33880,7 +40130,7 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1173
+## CHUNK 1463
 **Metadata:**
 ```json
 {
@@ -33901,7 +40151,7 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1174
+## CHUNK 1464
 **Metadata:**
 ```json
 {
@@ -33922,7 +40172,7 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1175
+## CHUNK 1465
 **Metadata:**
 ```json
 {
@@ -33943,7 +40193,7 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1176
+## CHUNK 1466
 **Metadata:**
 ```json
 {
@@ -33964,7 +40214,28 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1177
+## CHUNK 1467
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 6,
+  "rule_id": "B1.4",
+  "breadcrumb": "Section B > Article B1: ORGANISATION OF A COMPETITION > B1.4 Official Meetings > B1.4",
+  "section": "Section B",
+  "article": "Article B1: ORGANISATION OF A COMPETITION",
+  "sub_article": "B1.4 Official Meetings"
+}
+```
+
+**Content:**
+[Section B > Article B1: ORGANISATION OF A COMPETITION > B1.4 Official Meetings > B1.4]
+**B1.4** ##  Official Meetings
+
+---
+
+## CHUNK 1468
 **Metadata:**
 ```json
 {
@@ -33985,7 +40256,7 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1178
+## CHUNK 1469
 **Metadata:**
 ```json
 {
@@ -34006,7 +40277,7 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1179
+## CHUNK 1470
 **Metadata:**
 ```json
 {
@@ -34027,7 +40298,28 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1180
+## CHUNK 1471
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 6,
+  "rule_id": "B1.5",
+  "breadcrumb": "Section B > Article B1: ORGANISATION OF A COMPETITION > B1.5 General Safety > B1.5",
+  "section": "Section B",
+  "article": "Article B1: ORGANISATION OF A COMPETITION",
+  "sub_article": "B1.5 General Safety"
+}
+```
+
+**Content:**
+[Section B > Article B1: ORGANISATION OF A COMPETITION > B1.5 General Safety > B1.5]
+**B1.5** ##  General Safety
+
+---
+
+## CHUNK 1472
 **Metadata:**
 ```json
 {
@@ -34048,7 +40340,7 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1181
+## CHUNK 1473
 **Metadata:**
 ```json
 {
@@ -34069,7 +40361,7 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1182
+## CHUNK 1474
 **Metadata:**
 ```json
 {
@@ -34090,7 +40382,7 @@ e. The use of the Safety Car.
 
 ---
 
-## CHUNK 1183
+## CHUNK 1475
 **Metadata:**
 ```json
 {
@@ -34119,7 +40411,7 @@ d. F1 Team personnel when assisting marshals to remove an F1 Car from the grid a
 
 ---
 
-## CHUNK 1184
+## CHUNK 1476
 **Metadata:**
 ```json
 {
@@ -34143,7 +40435,7 @@ b. Lateral Lights: The lateral lights described in Article C14.7 must be in work
 
 ---
 
-## CHUNK 1185
+## CHUNK 1477
 **Metadata:**
 ```json
 {
@@ -34164,7 +40456,7 @@ b. Lateral Lights: The lateral lights described in Article C14.7 must be in work
 
 ---
 
-## CHUNK 1186
+## CHUNK 1478
 **Metadata:**
 ```json
 {
@@ -34185,7 +40477,7 @@ b. Lateral Lights: The lateral lights described in Article C14.7 must be in work
 
 ---
 
-## CHUNK 1187
+## CHUNK 1479
 **Metadata:**
 ```json
 {
@@ -34206,7 +40498,7 @@ b. Lateral Lights: The lateral lights described in Article C14.7 must be in work
 
 ---
 
-## CHUNK 1188
+## CHUNK 1480
 **Metadata:**
 ```json
 {
@@ -34243,7 +40535,7 @@ iv. Any powered pumping system used to transfer fuel must be operated by a non-l
 
 ---
 
-## CHUNK 1189
+## CHUNK 1481
 **Metadata:**
 ```json
 {
@@ -34274,7 +40566,7 @@ c. In accordance with Articles C4.1 and C4.6 the Heat Hazard Mass Increase shall
 
 ---
 
-## CHUNK 1190
+## CHUNK 1482
 **Metadata:**
 ```json
 {
@@ -34303,7 +40595,28 @@ c. In accordance with Articles C4.1 and C4.6 the Heat Hazard Mass Increase shall
 
 ---
 
-## CHUNK 1191
+## CHUNK 1483
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 9,
+  "rule_id": "B1.6",
+  "breadcrumb": "Section B > Article B1: ORGANISATION OF A COMPETITION > B1.6 Pit Entry Road, Pit Lane And Pit Exit Road > B1.6",
+  "section": "Section B",
+  "article": "Article B1: ORGANISATION OF A COMPETITION",
+  "sub_article": "B1.6 Pit Entry Road, Pit Lane And Pit Exit Road"
+}
+```
+
+**Content:**
+[Section B > Article B1: ORGANISATION OF A COMPETITION > B1.6 Pit Entry Road, Pit Lane And Pit Exit Road > B1.6]
+**B1.6** # **** **Pit Entry Road, Pit Lane And Pit Exit Road
+
+---
+
+## CHUNK 1484
 **Metadata:**
 ```json
 {
@@ -34338,7 +40651,7 @@ e. Other than when <mark>F1</mark> Cars are at the end of the Pit Lane in accord
 
 ---
 
-## CHUNK 1192
+## CHUNK 1485
 **Metadata:**
 ```json
 {
@@ -34377,7 +40690,7 @@ e. Unless authorised by the FIA no one under the age of 16 is permitted in the P
 
 ---
 
-## CHUNK 1193
+## CHUNK 1486
 **Metadata:**
 ```json
 {
@@ -34400,7 +40713,7 @@ e. Unless authorised by the FIA no one under the age of 16 is permitted in the P
 
 ---
 
-## CHUNK 1194
+## CHUNK 1487
 **Metadata:**
 ```json
 {
@@ -34440,7 +40753,7 @@ e. There will be a green and a red light at the end of the Pit Lane. <mark>F1</m
 
 ---
 
-## CHUNK 1195
+## CHUNK 1488
 **Metadata:**
 ```json
 {
@@ -34467,7 +40780,28 @@ b. <mark>During a TTCS,</mark> a Stop-and-Go Penalty will be imposed on any driv
 
 ---
 
-## CHUNK 1196
+## CHUNK 1489
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 11,
+  "rule_id": "B1.7",
+  "breadcrumb": "Section B > Article B1: ORGANISATION OF A COMPETITION > B1.7 Changes Of Driver > B1.7",
+  "section": "Section B",
+  "article": "Article B1: ORGANISATION OF A COMPETITION",
+  "sub_article": "B1.7 Changes Of Driver"
+}
+```
+
+**Content:**
+[Section B > Article B1: ORGANISATION OF A COMPETITION > B1.7 Changes Of Driver > B1.7]
+**B1.7** #  Changes Of Driver
+
+---
+
+## CHUNK 1490
 **Metadata:**
 ```json
 {
@@ -34488,7 +40822,7 @@ b. <mark>During a TTCS,</mark> a Stop-and-Go Penalty will be imposed on any driv
 
 ---
 
-## CHUNK 1197
+## CHUNK 1491
 **Metadata:**
 ```json
 {
@@ -34515,7 +40849,7 @@ Additional changes for reasons of force majeure will be considered separately.
 
 ---
 
-## CHUNK 1198
+## CHUNK 1492
 **Metadata:**
 ```json
 {
@@ -34552,7 +40886,7 @@ f) They are in possession of a Super Licence or Free Practice Super Licence.
 
 ---
 
-## CHUNK 1199
+## CHUNK 1493
 **Metadata:**
 ```json
 {
@@ -34573,7 +40907,28 @@ f) They are in possession of a Super Licence or Free Practice Super Licence.
 
 ---
 
-## CHUNK 1200
+## CHUNK 1494
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 12,
+  "rule_id": "B1.8",
+  "breadcrumb": "Section B > Article B1: ORGANISATION OF A COMPETITION > B1.8 Driving > B1.8",
+  "section": "Section B",
+  "article": "Article B1: ORGANISATION OF A COMPETITION",
+  "sub_article": "B1.8 Driving"
+}
+```
+
+**Content:**
+[Section B > Article B1: ORGANISATION OF A COMPETITION > B1.8 Driving > B1.8]
+**B1.8** #  Driving
+
+---
+
+## CHUNK 1495
 **Metadata:**
 ```json
 {
@@ -34594,7 +40949,7 @@ f) They are in possession of a Super Licence or Free Practice Super Licence.
 
 ---
 
-## CHUNK 1201
+## CHUNK 1496
 **Metadata:**
 ```json
 {
@@ -34615,7 +40970,7 @@ f) They are in possession of a Super Licence or Free Practice Super Licence.
 
 ---
 
-## CHUNK 1202
+## CHUNK 1497
 **Metadata:**
 ```json
 {
@@ -34636,7 +40991,7 @@ f) They are in possession of a Super Licence or Free Practice Super Licence.
 
 ---
 
-## CHUNK 1203
+## CHUNK 1498
 **Metadata:**
 ```json
 {
@@ -34665,7 +41020,7 @@ c. Double Waved Yellow Flag during a Safety Car or Virtual Safety Car Period: An
 
 ---
 
-## CHUNK 1204
+## CHUNK 1499
 **Metadata:**
 ```json
 {
@@ -34686,7 +41041,7 @@ c. Double Waved Yellow Flag during a Safety Car or Virtual Safety Car Period: An
 
 ---
 
-## CHUNK 1205
+## CHUNK 1500
 **Metadata:**
 ```json
 {
@@ -34711,7 +41066,7 @@ Should an F1 Car leave the track the driver may re-join, however, this may only 
 
 ---
 
-## CHUNK 1206
+## CHUNK 1501
 **Metadata:**
 ```json
 {
@@ -34732,7 +41087,7 @@ Should an F1 Car leave the track the driver may re-join, however, this may only 
 
 ---
 
-## CHUNK 1207
+## CHUNK 1502
 **Metadata:**
 ```json
 {
@@ -34753,7 +41108,7 @@ Should an F1 Car leave the track the driver may re-join, however, this may only 
 
 ---
 
-## CHUNK 1208
+## CHUNK 1503
 **Metadata:**
 ```json
 {
@@ -34774,7 +41129,28 @@ Should an F1 Car leave the track the driver may re-join, however, this may only 
 
 ---
 
-## CHUNK 1209
+## CHUNK 1504
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 13,
+  "rule_id": "B1.9",
+  "breadcrumb": "Section B > Article B1: ORGANISATION OF A COMPETITION > B1.9 Incidents, Infringements & Penalties > B1.9",
+  "section": "Section B",
+  "article": "Article B1: ORGANISATION OF A COMPETITION",
+  "sub_article": "B1.9 Incidents, Infringements & Penalties"
+}
+```
+
+**Content:**
+[Section B > Article B1: ORGANISATION OF A COMPETITION > B1.9 Incidents, Infringements & Penalties > B1.9]
+**B1.9** ##  Incidents, Infringements & Penalties
+
+---
+
+## CHUNK 1505
 **Metadata:**
 ```json
 {
@@ -34797,7 +41173,7 @@ The Race Director may report any on-track incident or suspected breach of these 
 
 ---
 
-## CHUNK 1210
+## CHUNK 1506
 **Metadata:**
 ```json
 {
@@ -34822,7 +41198,7 @@ If an Incident is under investigation by the stewards a message informing all Co
 
 ---
 
-## CHUNK 1211
+## CHUNK 1507
 **Metadata:**
 ```json
 {
@@ -34847,7 +41223,7 @@ The stewards may impose the penalties specifically set out in these FIA F1 Regul
 
 ---
 
-## CHUNK 1212
+## CHUNK 1508
 **Metadata:**
 ```json
 {
@@ -34876,7 +41252,7 @@ c. Where appropriate, regard will also be given to Article B1.<mark>9.3</mark>.
 
 ---
 
-## CHUNK 1213
+## CHUNK 1509
 **Metadata:**
 ```json
 {
@@ -34921,7 +41297,7 @@ j. Suspension from the driver’s next Competition.
 
 ---
 
-## CHUNK 1214
+## CHUNK 1510
 **Metadata:**
 ```json
 {
@@ -34964,7 +41340,7 @@ iii. If either of these two (2) penalties are imposed during the last three (3) 
 
 ---
 
-## CHUNK 1215
+## CHUNK 1511
 **Metadata:**
 ```json
 {
@@ -34990,7 +41366,7 @@ f. Any breach or failure to comply with Articles B1.9.6b or B1.9.6c may result i
 
 ---
 
-## CHUNK 1216
+## CHUNK 1512
 **Metadata:**
 ```json
 {
@@ -35028,7 +41404,28 @@ f. Any decision taken by the stewards under Article A3.3.1b.
 
 ---
 
-## CHUNK 1217
+## CHUNK 1513
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 17,
+  "rule_id": "B2.1",
+  "breadcrumb": "Section B > Article B2: FORMAT OF A COMPETITION > B2.1 Free Practice Session(s) > B2.1",
+  "section": "Section B",
+  "article": "Article B2: FORMAT OF A COMPETITION",
+  "sub_article": "B2.1 Free Practice Session(s)"
+}
+```
+
+**Content:**
+[Section B > Article B2: FORMAT OF A COMPETITION > B2.1 Free Practice Session(s) > B2.1]
+**B2.1** ##  Free Practice Session(s)
+
+---
+
+## CHUNK 1514
 **Metadata:**
 ```json
 {
@@ -35059,7 +41456,7 @@ i. If additional specifications of tyres are provided for ICTT, (or if this has 
 
 ---
 
-## CHUNK 1218
+## CHUNK 1515
 **Metadata:**
 ```json
 {
@@ -35084,7 +41481,7 @@ a. One (1) free practice session (“Free Practice 1” or “FP1”), lasting o
 
 ---
 
-## CHUNK 1219
+## CHUNK 1516
 **Metadata:**
 ```json
 {
@@ -35107,7 +41504,28 @@ The classification of all free practice sessions shall be determined based upon 
 
 ---
 
-## CHUNK 1220
+## CHUNK 1517
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 17,
+  "rule_id": "B2.2",
+  "breadcrumb": "Section B > Article B2: FORMAT OF A COMPETITION > B2.2 Sprint Qualifying Session > B2.2",
+  "section": "Section B",
+  "article": "Article B2: FORMAT OF A COMPETITION",
+  "sub_article": "B2.2 Sprint Qualifying Session"
+}
+```
+
+**Content:**
+[Section B > Article B2: FORMAT OF A COMPETITION > B2.2 Sprint Qualifying Session > B2.2]
+**B2.2** ##  Sprint Qualifying Session
+
+---
+
+## CHUNK 1518
 **Metadata:**
 ```json
 {
@@ -35128,7 +41546,7 @@ The classification of all free practice sessions shall be determined based upon 
 
 ---
 
-## CHUNK 1221
+## CHUNK 1519
 **Metadata:**
 ```json
 {
@@ -35161,7 +41579,7 @@ c. After a seven (7) minute break the session will resume for eight 8 minutes (<
 
 ---
 
-## CHUNK 1222
+## CHUNK 1520
 **Metadata:**
 ```json
 {
@@ -35220,7 +41638,7 @@ The participation of unclassified drivers in the remainder of the Competition wi
 
 ---
 
-## CHUNK 1223
+## CHUNK 1521
 **Metadata:**
 ```json
 {
@@ -35242,7 +41660,28 @@ At the end of Sprint Qualifying the times achieved by each driver will be offici
 
 ---
 
-## CHUNK 1224
+## CHUNK 1522
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 19,
+  "rule_id": "B2.3",
+  "breadcrumb": "Section B > Article B2: FORMAT OF A COMPETITION > B2.3 Sprint Session > B2.3",
+  "section": "Section B",
+  "article": "Article B2: FORMAT OF A COMPETITION",
+  "sub_article": "B2.3 Sprint Session"
+}
+```
+
+**Content:**
+[Section B > Article B2: FORMAT OF A COMPETITION > B2.3 Sprint Session > B2.3]
+**B2.3** #  Sprint Session
+
+---
+
+## CHUNK 1523
 **Metadata:**
 ```json
 {
@@ -35263,7 +41702,7 @@ At the end of Sprint Qualifying the times achieved by each driver will be offici
 
 ---
 
-## CHUNK 1225
+## CHUNK 1524
 **Metadata:**
 ```json
 {
@@ -35288,7 +41727,7 @@ a. If the formation lap(s) is started behind the Safety Car (Article B5.10) the 
 
 ---
 
-## CHUNK 1226
+## CHUNK 1525
 **Metadata:**
 ```json
 {
@@ -35317,7 +41756,7 @@ If the formation lap for the Sprint is started behind the Safety Car (Article B5
 
 ---
 
-## CHUNK 1227
+## CHUNK 1526
 **Metadata:**
 ```json
 {
@@ -35356,7 +41795,7 @@ b. Starting from a nominally empty grid, drivers will be allocated their grid po
 
 ---
 
-## CHUNK 1228
+## CHUNK 1527
 **Metadata:**
 ```json
 {
@@ -35384,7 +41823,7 @@ iii. The Grid position of any <mark>F1</mark> Cars withdrawn or unable to start 
 
 ---
 
-## CHUNK 1229
+## CHUNK 1528
 **Metadata:**
 ```json
 {
@@ -35411,7 +41850,28 @@ c. The provisional classification will be published after the Sprint. It will be
 
 ---
 
-## CHUNK 1230
+## CHUNK 1529
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 21,
+  "rule_id": "B2.4",
+  "breadcrumb": "Section B > Article B2: FORMAT OF A COMPETITION > B2.4 Race Qualifying Session > B2.4",
+  "section": "Section B",
+  "article": "Article B2: FORMAT OF A COMPETITION",
+  "sub_article": "B2.4 Race Qualifying Session"
+}
+```
+
+**Content:**
+[Section B > Article B2: FORMAT OF A COMPETITION > B2.4 Race Qualifying Session > B2.4]
+**B2.4** #  Race Qualifying Session
+
+---
+
+## CHUNK 1530
 **Metadata:**
 ```json
 {
@@ -35436,7 +41896,7 @@ b. At each Alternative Format Competition on the second day of track running, st
 
 ---
 
-## CHUNK 1231
+## CHUNK 1531
 **Metadata:**
 ```json
 {
@@ -35469,7 +41929,7 @@ c. After a break the session will resume for <mark>thirteen (13)</mark> minutes 
 
 ---
 
-## CHUNK 1232
+## CHUNK 1532
 **Metadata:**
 ```json
 {
@@ -35507,7 +41967,7 @@ b. Drivers will be considered to be "unclassified" in the following circumstance
 
 ---
 
-## CHUNK 1233
+## CHUNK 1533
 **Metadata:**
 ```json
 {
@@ -35534,7 +41994,28 @@ At the end of Qualifying the times achieved by each driver will be officially pu
 
 ---
 
-## CHUNK 1234
+## CHUNK 1534
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 23,
+  "rule_id": "B2.5",
+  "breadcrumb": "Section B > Article B2: FORMAT OF A COMPETITION > B2.5 Race Session > B2.5",
+  "section": "Section B",
+  "article": "Article B2: FORMAT OF A COMPETITION",
+  "sub_article": "B2.5 Race Session"
+}
+```
+
+**Content:**
+[Section B > Article B2: FORMAT OF A COMPETITION > B2.5 Race Session > B2.5]
+**B2.5** #  Race Session
+
+---
+
+## CHUNK 1535
 **Metadata:**
 ```json
 {
@@ -35555,7 +42036,7 @@ At the end of Qualifying the times achieved by each driver will be officially pu
 
 ---
 
-## CHUNK 1235
+## CHUNK 1536
 **Metadata:**
 ```json
 {
@@ -35582,7 +42063,7 @@ b. The distance of the Race in Monaco shall be equal to the least number of comp
 
 ---
 
-## CHUNK 1236
+## CHUNK 1537
 **Metadata:**
 ```json
 {
@@ -35611,7 +42092,7 @@ If the formation lap for the Race is started behind the Safety Car (Article B5.1
 
 ---
 
-## CHUNK 1237
+## CHUNK 1538
 **Metadata:**
 ```json
 {
@@ -35652,7 +42133,7 @@ v. Unclassified drivers who have been permitted to participate by the Stewards w
 
 ---
 
-## CHUNK 1238
+## CHUNK 1539
 **Metadata:**
 ```json
 {
@@ -35680,7 +42161,7 @@ iii) The Grid position of any <mark>F1</mark> Cars withdrawn or unable to start 
 
 ---
 
-## CHUNK 1239
+## CHUNK 1540
 **Metadata:**
 ```json
 {
@@ -35710,7 +42191,28 @@ c. The provisional classification will be published after the Race. It will be t
 
 ---
 
-## CHUNK 1240
+## CHUNK 1541
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 26,
+  "rule_id": "B3.1",
+  "breadcrumb": "Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.1 Scrutineering > B3.1",
+  "section": "Section B",
+  "article": "Article B3: PROCEDURES DURING A COMPETITION",
+  "sub_article": "B3.1 Scrutineering"
+}
+```
+
+**Content:**
+[Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.1 Scrutineering > B3.1]
+**B3.1** ##  Scrutineering
+
+---
+
+## CHUNK 1542
 **Metadata:**
 ```json
 {
@@ -35731,7 +42233,7 @@ c. The provisional classification will be published after the Race. It will be t
 
 ---
 
-## CHUNK 1241
+## CHUNK 1543
 **Metadata:**
 ```json
 {
@@ -35752,7 +42254,7 @@ c. The provisional classification will be published after the Race. It will be t
 
 ---
 
-## CHUNK 1242
+## CHUNK 1544
 **Metadata:**
 ```json
 {
@@ -35777,7 +42279,7 @@ b. At each Alternative Format Competition, any such F1 Car scrutineered after th
 
 ---
 
-## CHUNK 1243
+## CHUNK 1545
 **Metadata:**
 ```json
 {
@@ -35814,7 +42316,7 @@ iv. The final packaging, anti-tamper features or seals, and delivery schedule mu
 
 ---
 
-## CHUNK 1244
+## CHUNK 1546
 **Metadata:**
 ```json
 {
@@ -35835,7 +42337,7 @@ iv. The final packaging, anti-tamper features or seals, and delivery schedule mu
 
 ---
 
-## CHUNK 1245
+## CHUNK 1547
 **Metadata:**
 ```json
 {
@@ -35856,7 +42358,7 @@ iv. The final packaging, anti-tamper features or seals, and delivery schedule mu
 
 ---
 
-## CHUNK 1246
+## CHUNK 1548
 **Metadata:**
 ```json
 {
@@ -35877,7 +42379,7 @@ iv. The final packaging, anti-tamper features or seals, and delivery schedule mu
 
 ---
 
-## CHUNK 1247
+## CHUNK 1549
 **Metadata:**
 ```json
 {
@@ -35898,7 +42400,28 @@ iv. The final packaging, anti-tamper features or seals, and delivery schedule mu
 
 ---
 
-## CHUNK 1248
+## CHUNK 1550
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 27,
+  "rule_id": "B3.2",
+  "breadcrumb": "Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.2 Weighing > B3.2",
+  "section": "Section B",
+  "article": "Article B3: PROCEDURES DURING A COMPETITION",
+  "sub_article": "B3.2 Weighing"
+}
+```
+
+**Content:**
+[Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.2 Weighing > B3.2]
+**B3.2** ##  Weighing
+
+---
+
+## CHUNK 1551
 **Metadata:**
 ```json
 {
@@ -35929,7 +42452,7 @@ e. If an F1 Car stops on the circuit during Qualifying or Sprint Qualifying and 
 
 ---
 
-## CHUNK 1249
+## CHUNK 1552
 **Metadata:**
 ```json
 {
@@ -35950,7 +42473,7 @@ e. If an F1 Car stops on the circuit during Qualifying or Sprint Qualifying and 
 
 ---
 
-## CHUNK 1250
+## CHUNK 1553
 **Metadata:**
 ```json
 {
@@ -35971,7 +42494,7 @@ e. If an F1 Car stops on the circuit during Qualifying or Sprint Qualifying and 
 
 ---
 
-## CHUNK 1251
+## CHUNK 1554
 **Metadata:**
 ```json
 {
@@ -35992,7 +42515,7 @@ e. If an F1 Car stops on the circuit during Qualifying or Sprint Qualifying and 
 
 ---
 
-## CHUNK 1252
+## CHUNK 1555
 **Metadata:**
 ```json
 {
@@ -36013,7 +42536,28 @@ e. If an F1 Car stops on the circuit during Qualifying or Sprint Qualifying and 
 
 ---
 
-## CHUNK 1253
+## CHUNK 1556
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 28,
+  "rule_id": "B3.3",
+  "breadcrumb": "Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.3 Covering of Components > B3.3",
+  "section": "Section B",
+  "article": "Article B3: PROCEDURES DURING A COMPETITION",
+  "sub_article": "B3.3 Covering of Components"
+}
+```
+
+**Content:**
+[Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.3 Covering of Components > B3.3]
+**B3.3** ##  Covering of Components
+
+---
+
+## CHUNK 1557
 **Metadata:**
 ```json
 {
@@ -36034,7 +42578,7 @@ e. If an F1 Car stops on the circuit during Qualifying or Sprint Qualifying and 
 
 ---
 
-## CHUNK 1254
+## CHUNK 1558
 **Metadata:**
 ```json
 {
@@ -36059,7 +42603,7 @@ e. If an F1 Car stops on the circuit during Qualifying or Sprint Qualifying and 
 
 ---
 
-## CHUNK 1255
+## CHUNK 1559
 **Metadata:**
 ```json
 {
@@ -36089,7 +42633,28 @@ e. If an F1 Car stops on the circuit during Qualifying or Sprint Qualifying and 
 
 ---
 
-## CHUNK 1256
+## CHUNK 1560
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 28,
+  "rule_id": "B3.4",
+  "breadcrumb": "Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.4 Sealing of Cars > B3.4",
+  "section": "Section B",
+  "article": "Article B3: PROCEDURES DURING A COMPETITION",
+  "sub_article": "B3.4 Sealing of Cars"
+}
+```
+
+**Content:**
+[Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.4 Sealing of Cars > B3.4]
+**B3.4** ##  Sealing of Cars
+
+---
+
+## CHUNK 1561
 **Metadata:**
 ```json
 {
@@ -36120,7 +42685,7 @@ b) Three (3) hours before the start of FP3, the FIA seals and covers may be remo
 
 ---
 
-## CHUNK 1257
+## CHUNK 1562
 **Metadata:**
 ```json
 {
@@ -36151,7 +42716,7 @@ b. Three (3) hours before the scheduled start of the formation lap for the sprin
 
 ---
 
-## CHUNK 1258
+## CHUNK 1563
 **Metadata:**
 ```json
 {
@@ -36178,7 +42743,7 @@ b. Five (5) hours before the scheduled start of the formation lap for the Race, 
 
 ---
 
-## CHUNK 1259
+## CHUNK 1564
 **Metadata:**
 ```json
 {
@@ -36199,7 +42764,28 @@ b. Five (5) hours before the scheduled start of the formation lap for the Race, 
 
 ---
 
-## CHUNK 1260
+## CHUNK 1565
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 29,
+  "rule_id": "B3.5",
+  "breadcrumb": "Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.5 Pre-Sprint & Pre-Race Parc Ferm\u00e9 > B3.5",
+  "section": "Section B",
+  "article": "Article B3: PROCEDURES DURING A COMPETITION",
+  "sub_article": "B3.5 Pre-Sprint & Pre-Race Parc Ferm\u00e9"
+}
+```
+
+**Content:**
+[Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.5 Pre-Sprint & Pre-Race Parc Fermé > B3.5]
+**B3.5** Pre-Sprint & Pre-Race Parc Fermé
+
+---
+
+## CHUNK 1566
 **Metadata:**
 ```json
 {
@@ -36226,7 +42812,7 @@ Any F1 Car which fails to leave the Pit Lane during the sprint qualifying sessio
 
 ---
 
-## CHUNK 1261
+## CHUNK 1567
 **Metadata:**
 ```json
 {
@@ -36247,7 +42833,7 @@ Any F1 Car which fails to leave the Pit Lane during the sprint qualifying sessio
 
 ---
 
-## CHUNK 1262
+## CHUNK 1568
 **Metadata:**
 ```json
 {
@@ -36268,7 +42854,7 @@ Any F1 Car which fails to leave the Pit Lane during the sprint qualifying sessio
 
 ---
 
-## CHUNK 1263
+## CHUNK 1569
 **Metadata:**
 ```json
 {
@@ -36293,7 +42879,7 @@ If a Competitor wishes to change a part during the Sprint Qualifying session, Qu
 
 ---
 
-## CHUNK 1264
+## CHUNK 1570
 **Metadata:**
 ```json
 {
@@ -36314,7 +42900,7 @@ If a Competitor wishes to change a part during the Sprint Qualifying session, Qu
 
 ---
 
-## CHUNK 1265
+## CHUNK 1571
 **Metadata:**
 ```json
 {
@@ -36335,7 +42921,7 @@ If a Competitor wishes to change a part during the Sprint Qualifying session, Qu
 
 ---
 
-## CHUNK 1266
+## CHUNK 1572
 **Metadata:**
 ```json
 {
@@ -36362,7 +42948,7 @@ In order that the scrutineers may be completely satisfied that no alterations ha
 
 ---
 
-## CHUNK 1267
+## CHUNK 1573
 **Metadata:**
 ```json
 {
@@ -36383,7 +42969,7 @@ In order that the scrutineers may be completely satisfied that no alterations ha
 
 ---
 
-## CHUNK 1268
+## CHUNK 1574
 **Metadata:**
 ```json
 {
@@ -36404,7 +42990,28 @@ In order that the scrutineers may be completely satisfied that no alterations ha
 
 ---
 
-## CHUNK 1269
+## CHUNK 1575
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 31,
+  "rule_id": "B3.6",
+  "breadcrumb": "Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.6 Post Sprint & Post Race Parc Ferm\u00e9 > B3.6",
+  "section": "Section B",
+  "article": "Article B3: PROCEDURES DURING A COMPETITION",
+  "sub_article": "B3.6 Post Sprint & Post Race Parc Ferm\u00e9"
+}
+```
+
+**Content:**
+[Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.6 Post Sprint & Post Race Parc Fermé > B3.6]
+**B3.6** ##  Post Sprint & Post Race Parc Fermé
+
+---
+
+## CHUNK 1576
 **Metadata:**
 ```json
 {
@@ -36425,7 +43032,7 @@ In order that the scrutineers may be completely satisfied that no alterations ha
 
 ---
 
-## CHUNK 1270
+## CHUNK 1577
 **Metadata:**
 ```json
 {
@@ -36446,7 +43053,7 @@ In order that the scrutineers may be completely satisfied that no alterations ha
 
 ---
 
-## CHUNK 1271
+## CHUNK 1578
 **Metadata:**
 ```json
 {
@@ -36469,7 +43076,7 @@ A maximum of three (3) team personnel per F1 Car will be permitted access to the
 
 ---
 
-## CHUNK 1272
+## CHUNK 1579
 **Metadata:**
 ```json
 {
@@ -36490,7 +43097,7 @@ A maximum of three (3) team personnel per F1 Car will be permitted access to the
 
 ---
 
-## CHUNK 1273
+## CHUNK 1580
 **Metadata:**
 ```json
 {
@@ -36515,7 +43122,28 @@ A maximum of three (3) team personnel per F1 Car will be permitted access to the
 
 ---
 
-## CHUNK 1274
+## CHUNK 1581
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 32,
+  "rule_id": "B4.1",
+  "breadcrumb": "Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.1 General Provisions for LTCS > B4.1",
+  "section": "Section B",
+  "article": "Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS)",
+  "sub_article": "B4.1 General Provisions for LTCS"
+}
+```
+
+**Content:**
+[Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.1 General Provisions for LTCS > B4.1]
+**B4.1** ##  General Provisions for LTCS
+
+---
+
+## CHUNK 1582
 **Metadata:**
 ```json
 {
@@ -36536,7 +43164,7 @@ A maximum of three (3) team personnel per F1 Car will be permitted access to the
 
 ---
 
-## CHUNK 1275
+## CHUNK 1583
 **Metadata:**
 ```json
 {
@@ -36563,7 +43191,7 @@ c. At the end of each LTCS, any period of Qualifying (Q1, Q2, Q3) or any period 
 
 ---
 
-## CHUNK 1276
+## CHUNK 1584
 **Metadata:**
 ```json
 {
@@ -36584,7 +43212,7 @@ c. At the end of each LTCS, any period of Qualifying (Q1, Q2, Q3) or any period 
 
 ---
 
-## CHUNK 1277
+## CHUNK 1585
 **Metadata:**
 ```json
 {
@@ -36620,7 +43248,28 @@ When the Race Director decides it is safe to end the VSC procedure the message �
 
 ---
 
-## CHUNK 1278
+## CHUNK 1586
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 33,
+  "rule_id": "B4.2",
+  "breadcrumb": "Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.2 Specific Provisions for Free Practice Session(s) > B4.2",
+  "section": "Section B",
+  "article": "Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS)",
+  "sub_article": "B4.2 Specific Provisions for Free Practice Session(s)"
+}
+```
+
+**Content:**
+[Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.2 Specific Provisions for Free Practice Session(s) > B4.2]
+**B4.2** #  Specific Provisions for Free Practice Session(s)
+
+---
+
+## CHUNK 1587
 **Metadata:**
 ```json
 {
@@ -36641,7 +43290,7 @@ When the Race Director decides it is safe to end the VSC procedure the message �
 
 ---
 
-## CHUNK 1279
+## CHUNK 1588
 **Metadata:**
 ```json
 {
@@ -36671,7 +43320,28 @@ If the Race Director considers it is necessary to stop the conduct of practice s
 
 ---
 
-## CHUNK 1280
+## CHUNK 1589
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 33,
+  "rule_id": "B4.3",
+  "breadcrumb": "Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.3 Specific Provisions for Sprint Qualifying and Qualifying Session(s) > B4.3",
+  "section": "Section B",
+  "article": "Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS)",
+  "sub_article": "B4.3 Specific Provisions for Sprint Qualifying and Qualifying Session(s)"
+}
+```
+
+**Content:**
+[Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.3 Specific Provisions for Sprint Qualifying and Qualifying Session(s) > B4.3]
+**B4.3** #  Specific Provisions for Sprint Qualifying and Qualifying Session(s)
+
+---
+
+## CHUNK 1590
 **Metadata:**
 ```json
 {
@@ -36696,7 +43366,7 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1281
+## CHUNK 1591
 **Metadata:**
 ```json
 {
@@ -36721,7 +43391,28 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1282
+## CHUNK 1592
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 34,
+  "rule_id": "B5.1",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.1 General Provisions for TTCS > B5.1",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.1 General Provisions for TTCS"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.1 General Provisions for TTCS > B5.1]
+**B5.1** ##  General Provisions for TTCS
+
+---
+
+## CHUNK 1593
 **Metadata:**
 ```json
 {
@@ -36742,7 +43433,7 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1283
+## CHUNK 1594
 **Metadata:**
 ```json
 {
@@ -36763,7 +43454,7 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1284
+## CHUNK 1595
 **Metadata:**
 ```json
 {
@@ -36784,7 +43475,7 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1285
+## CHUNK 1596
 **Metadata:**
 ```json
 {
@@ -36805,7 +43496,7 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1286
+## CHUNK 1597
 **Metadata:**
 ```json
 {
@@ -36826,7 +43517,7 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1287
+## CHUNK 1598
 **Metadata:**
 ```json
 {
@@ -36847,7 +43538,7 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1288
+## CHUNK 1599
 **Metadata:**
 ```json
 {
@@ -36868,7 +43559,7 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1289
+## CHUNK 1600
 **Metadata:**
 ```json
 {
@@ -36889,7 +43580,28 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1290
+## CHUNK 1601
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 34,
+  "rule_id": "B5.2",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.2 Reconnaissance Lap(s) > B5.2",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.2 Reconnaissance Lap(s)"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.2 Reconnaissance Lap(s) > B5.2]
+**B5.2** ##  Reconnaissance Lap(s)
+
+---
+
+## CHUNK 1602
 **Metadata:**
 ```json
 {
@@ -36910,7 +43622,7 @@ b. If any period is interrupted at a point when the Race Director determines tha
 
 ---
 
-## CHUNK 1291
+## CHUNK 1603
 **Metadata:**
 ```json
 {
@@ -36935,7 +43647,7 @@ a. For each Sprint, the pit exit will be opened thirty (30) minutes before the s
 
 ---
 
-## CHUNK 1292
+## CHUNK 1604
 **Metadata:**
 ```json
 {
@@ -36956,7 +43668,7 @@ a. For each Sprint, the pit exit will be opened thirty (30) minutes before the s
 
 ---
 
-## CHUNK 1293
+## CHUNK 1605
 **Metadata:**
 ```json
 {
@@ -36977,7 +43689,7 @@ a. For each Sprint, the pit exit will be opened thirty (30) minutes before the s
 
 ---
 
-## CHUNK 1294
+## CHUNK 1606
 **Metadata:**
 ```json
 {
@@ -36998,7 +43710,28 @@ a. For each Sprint, the pit exit will be opened thirty (30) minutes before the s
 
 ---
 
-## CHUNK 1295
+## CHUNK 1607
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 35,
+  "rule_id": "B5.3",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.3 Pit Lane Starters > B5.3",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.3 Pit Lane Starters"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.3 Pit Lane Starters > B5.3]
+**B5.3** ##  Pit Lane Starters
+
+---
+
+## CHUNK 1608
 **Metadata:**
 ```json
 {
@@ -37019,7 +43752,7 @@ a. For each Sprint, the pit exit will be opened thirty (30) minutes before the s
 
 ---
 
-## CHUNK 1296
+## CHUNK 1609
 **Metadata:**
 ```json
 {
@@ -37040,7 +43773,7 @@ a. For each Sprint, the pit exit will be opened thirty (30) minutes before the s
 
 ---
 
-## CHUNK 1297
+## CHUNK 1610
 **Metadata:**
 ```json
 {
@@ -37073,7 +43806,28 @@ At all times drivers must follow the directions of the marshals.
 
 ---
 
-## CHUNK 1298
+## CHUNK 1611
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 35,
+  "rule_id": "B5.4",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.4 Delayed Start > B5.4",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.4 Delayed Start"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.4 Delayed Start > B5.4]
+**B5.4** ##  Delayed Start
+
+---
+
+## CHUNK 1612
 **Metadata:**
 ```json
 {
@@ -37094,7 +43848,7 @@ At all times drivers must follow the directions of the marshals.
 
 ---
 
-## CHUNK 1299
+## CHUNK 1613
 **Metadata:**
 ```json
 {
@@ -37115,7 +43869,28 @@ At all times drivers must follow the directions of the marshals.
 
 ---
 
-## CHUNK 1300
+## CHUNK 1614
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 36,
+  "rule_id": "B5.5",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.5 Grid Procedure > B5.5",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.5 Grid Procedure"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.5 Grid Procedure > B5.5]
+**B5.5** Grid Procedure
+
+---
+
+## CHUNK 1615
 **Metadata:**
 ```json
 {
@@ -37136,7 +43911,7 @@ At all times drivers must follow the directions of the marshals.
 
 ---
 
-## CHUNK 1301
+## CHUNK 1616
 **Metadata:**
 ```json
 {
@@ -37163,7 +43938,7 @@ ii. The use of wet-weather tyres as specified under Article B6.3.7 is compulsory
 
 ---
 
-## CHUNK 1302
+## CHUNK 1617
 **Metadata:**
 ```json
 {
@@ -37192,7 +43967,7 @@ c. <mark>F1</mark> Team personnel and equipment trolleys must commence leaving t
 
 ---
 
-## CHUNK 1303
+## CHUNK 1618
 **Metadata:**
 ```json
 {
@@ -37215,7 +43990,7 @@ a. No more than sixteen (16) team personnel for each Competitor are permitted on
 
 ---
 
-## CHUNK 1304
+## CHUNK 1619
 **Metadata:**
 ```json
 {
@@ -37248,7 +44023,7 @@ In either of the above cases, marshals with yellow flags will stand beside any F
 
 ---
 
-## CHUNK 1305
+## CHUNK 1620
 **Metadata:**
 ```json
 {
@@ -37269,7 +44044,28 @@ In either of the above cases, marshals with yellow flags will stand beside any F
 
 ---
 
-## CHUNK 1306
+## CHUNK 1621
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 37,
+  "rule_id": "B5.6",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.6 Formation Lap > B5.6",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.6 Formation Lap"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.6 Formation Lap > B5.6]
+**B5.6** #  Formation Lap
+
+---
+
+## CHUNK 1622
 **Metadata:**
 ```json
 {
@@ -37292,7 +44088,7 @@ Once all cars on track have passed the end of the Pit Lane on the formation lap,
 
 ---
 
-## CHUNK 1307
+## CHUNK 1623
 **Metadata:**
 ```json
 {
@@ -37313,7 +44109,7 @@ Once all cars on track have passed the end of the Pit Lane on the formation lap,
 
 ---
 
-## CHUNK 1308
+## CHUNK 1624
 **Metadata:**
 ```json
 {
@@ -37334,7 +44130,7 @@ Once all cars on track have passed the end of the Pit Lane on the formation lap,
 
 ---
 
-## CHUNK 1309
+## CHUNK 1625
 **Metadata:**
 ```json
 {
@@ -37357,7 +44153,28 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to enter the Pit L
 
 ---
 
-## CHUNK 1310
+## CHUNK 1626
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 37,
+  "rule_id": "B5.7",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.7 Start Procedure > B5.7",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.7 Start Procedure"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.7 Start Procedure > B5.7]
+**B5.7** #  Start Procedure
+
+---
+
+## CHUNK 1627
 **Metadata:**
 ```json
 {
@@ -37391,7 +44208,7 @@ The driver and mechanics must follow the instructions of the marshals at all tim
 
 ---
 
-## CHUNK 1311
+## CHUNK 1628
 **Metadata:**
 ```json
 {
@@ -37420,7 +44237,7 @@ The driver and mechanics must follow the instructions of the marshals at all tim
 
 ---
 
-## CHUNK 1312
+## CHUNK 1629
 **Metadata:**
 ```json
 {
@@ -37441,7 +44258,28 @@ The driver and mechanics must follow the instructions of the marshals at all tim
 
 ---
 
-## CHUNK 1313
+## CHUNK 1630
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 38,
+  "rule_id": "B5.8",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.8 Aborted Start > B5.8",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.8 Aborted Start"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.8 Aborted Start > B5.8]
+**B5.8** #  Aborted Start
+
+---
+
+## CHUNK 1631
 **Metadata:**
 ```json
 {
@@ -37468,7 +44306,7 @@ c) When a new start time is known, all Competitors will be informed using the of
 
 ---
 
-## CHUNK 1314
+## CHUNK 1632
 **Metadata:**
 ```json
 {
@@ -37491,7 +44329,7 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1315
+## CHUNK 1633
 **Metadata:**
 ```json
 {
@@ -37512,7 +44350,28 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1316
+## CHUNK 1634
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 39,
+  "rule_id": "B5.9",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.9 Extra Formation Lap(s) > B5.9",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.9 Extra Formation Lap(s)"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.9 Extra Formation Lap(s) > B5.9]
+**B5.9** Extra Formation Lap(s)
+
+---
+
+## CHUNK 1635
 **Metadata:**
 ```json
 {
@@ -37539,7 +44398,7 @@ c. Any cars that were starting the TTCS from the Pit Lane must enter the Pit Lan
 
 ---
 
-## CHUNK 1317
+## CHUNK 1636
 **Metadata:**
 ```json
 {
@@ -37560,7 +44419,7 @@ c. Any cars that were starting the TTCS from the Pit Lane must enter the Pit Lan
 
 ---
 
-## CHUNK 1318
+## CHUNK 1637
 **Metadata:**
 ```json
 {
@@ -37581,7 +44440,7 @@ c. Any cars that were starting the TTCS from the Pit Lane must enter the Pit Lan
 
 ---
 
-## CHUNK 1319
+## CHUNK 1638
 **Metadata:**
 ```json
 {
@@ -37604,7 +44463,7 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1320
+## CHUNK 1639
 **Metadata:**
 ```json
 {
@@ -37625,7 +44484,7 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1321
+## CHUNK 1640
 **Metadata:**
 ```json
 {
@@ -37646,7 +44505,28 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1322
+## CHUNK 1641
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 40,
+  "rule_id": "B5.10",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.10 Formation Lap(s) Behind Safety Car > B5.10",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.10 Formation Lap(s) Behind Safety Car"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.10 Formation Lap(s) Behind Safety Car > B5.10]
+**B5.10** #  Formation Lap(s) Behind Safety Car
+
+---
+
+## CHUNK 1642
 **Metadata:**
 ```json
 {
@@ -37670,7 +44550,7 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1323
+## CHUNK 1643
 **Metadata:**
 ```json
 {
@@ -37691,7 +44571,7 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1324
+## CHUNK 1644
 **Metadata:**
 ```json
 {
@@ -37712,7 +44592,7 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1325
+## CHUNK 1645
 **Metadata:**
 ```json
 {
@@ -37733,7 +44613,7 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1326
+## CHUNK 1646
 **Metadata:**
 ```json
 {
@@ -37754,7 +44634,7 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1327
+## CHUNK 1647
 **Metadata:**
 ```json
 {
@@ -37792,7 +44672,7 @@ start the TTCS from where they are.
 
 ---
 
-## CHUNK 1328
+## CHUNK 1648
 **Metadata:**
 ```json
 {
@@ -37813,7 +44693,7 @@ start the TTCS from where they are.
 
 ---
 
-## CHUNK 1329
+## CHUNK 1649
 **Metadata:**
 ```json
 {
@@ -37844,7 +44724,7 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1330
+## CHUNK 1650
 **Metadata:**
 ```json
 {
@@ -37867,7 +44747,7 @@ a. If after the formation laps behind the Safety Car have commenced, the track c
 
 ---
 
-## CHUNK 1331
+## CHUNK 1651
 **Metadata:**
 ```json
 {
@@ -37898,7 +44778,28 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS 
 
 ---
 
-## CHUNK 1332
+## CHUNK 1652
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 42,
+  "rule_id": "B5.11",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.11 False Start > B5.11",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.11 False Start"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.11 False Start > B5.11]
+**B5.11** #  False Start
+
+---
+
+## CHUNK 1653
 **Metadata:**
 ```json
 {
@@ -37925,11 +44826,32 @@ c. Positioned in their allocated gird position such that no part of the contact 
 
 At the sole discretion of the stewards, a 5-Second Penalty, a 10-Second Penalty, a Drive-Through Penalty or a Stop-and-Go Penalty, will be imposed on any driver who is judged to have breached this article.
 
+---
+
+## CHUNK 1654
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 42,
+  "rule_id": "B5.12",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.12 Virtual Safety Car (VSC) > B5.12",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.12 Virtual Safety Car (VSC)"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.12 Virtual Safety Car (VSC) > B5.12]
+**B5.12** #  Virtual Safety Car (VSC)
+
 The Virtual Safety Car will be used when double waved yellow flags are needed on any section of track and Competitors or officials may be in danger, but the circumstances are not such as to warrant use of the Safety Car.
 
 ---
 
-## CHUNK 1333
+## CHUNK 1655
 **Metadata:**
 ```json
 {
@@ -37952,7 +44874,7 @@ The VSC procedure may be initiated to neutralise a TTCS upon the order of the Ra
 
 ---
 
-## CHUNK 1334
+## CHUNK 1656
 **Metadata:**
 ```json
 {
@@ -37991,7 +44913,7 @@ iv. If any F1 Car slows with an obvious problem.
 
 ---
 
-## CHUNK 1335
+## CHUNK 1657
 **Metadata:**
 ```json
 {
@@ -38014,7 +44936,7 @@ When initiated during a TTCS, no F1 Car may enter the pits whilst the VSC proced
 
 ---
 
-## CHUNK 1336
+## CHUNK 1658
 **Metadata:**
 ```json
 {
@@ -38037,7 +44959,7 @@ When the Race Director decides it is safe to end the VSC procedure the message �
 
 ---
 
-## CHUNK 1337
+## CHUNK 1659
 **Metadata:**
 ```json
 {
@@ -38056,11 +44978,32 @@ When the Race Director decides it is safe to end the VSC procedure the message �
 [Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.12 Virtual Safety Car (VSC) > B5.12.5]
 **B5.12.5** ##  Each lap completed whilst the VSC procedure is in use during a TTCS will be counted as a lap.
 
+---
+
+## CHUNK 1660
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 43,
+  "rule_id": "B5.13",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.13 Safety Car (SC) > B5.13",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.13 Safety Car (SC)"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.13 Safety Car (SC) > B5.13]
+**B5.13** ##  Safety Car (SC)
+
 The Safety Car will be used only if Competitors or officials are in immediate physical danger on or near the track, but the circumstances are not such as to necessitate suspending the TTCS.
 
 ---
 
-## CHUNK 1338
+## CHUNK 1661
 **Metadata:**
 ```json
 {
@@ -38083,7 +45026,7 @@ The Safety Car may be brought into operation to neutralise a TTCS upon the order
 
 ---
 
-## CHUNK 1339
+## CHUNK 1662
 **Metadata:**
 ```json
 {
@@ -38130,7 +45073,7 @@ vi. Subject to the provisions of Article B5.13.3, whilst in the Pit Entry Road, 
 
 ---
 
-## CHUNK 1340
+## CHUNK 1663
 **Metadata:**
 ```json
 {
@@ -38154,7 +45097,7 @@ viii. If any <mark>F1</mark> Car slows with an obvious problem.
 
 ---
 
-## CHUNK 1341
+## CHUNK 1664
 **Metadata:**
 ```json
 {
@@ -38183,7 +45126,7 @@ Other than when the F1 Cars and the Safety Car are required to use the Pit Lane,
 
 ---
 
-## CHUNK 1342
+## CHUNK 1665
 **Metadata:**
 ```json
 {
@@ -38222,7 +45165,7 @@ Whilst such cars are proceeding around the track to rejoin the line of cars behi
 
 ---
 
-## CHUNK 1343
+## CHUNK 1666
 **Metadata:**
 ```json
 {
@@ -38247,7 +45190,7 @@ b. Unless the Race Director considers the presence of the Safety Car remains nec
 
 ---
 
-## CHUNK 1344
+## CHUNK 1667
 **Metadata:**
 ```json
 {
@@ -38276,7 +45219,7 @@ As the Safety Car is approaching the Pit Entry Road the SC boards will be withdr
 
 ---
 
-## CHUNK 1345
+## CHUNK 1668
 **Metadata:**
 ```json
 {
@@ -38297,7 +45240,7 @@ As the Safety Car is approaching the Pit Entry Road the SC boards will be withdr
 
 ---
 
-## CHUNK 1346
+## CHUNK 1669
 **Metadata:**
 ```json
 {
@@ -38322,7 +45265,28 @@ If the Race Director deems the continued presence of the Safety Car after the en
 
 ---
 
-## CHUNK 1347
+## CHUNK 1670
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 47,
+  "rule_id": "B5.14",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.14 Suspension Procedure(s) > B5.14",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.14 Suspension Procedure(s)"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.14 Suspension Procedure(s) > B5.14]
+**B5.14** #  Suspension Procedure(s)
+
+---
+
+## CHUNK 1671
 **Metadata:**
 ```json
 {
@@ -38349,7 +45313,7 @@ The procedures described in Articles B5.15 must then be followed.
 
 ---
 
-## CHUNK 1348
+## CHUNK 1672
 **Metadata:**
 ```json
 {
@@ -38384,7 +45348,7 @@ If the TTCS cannot be resumed the results will be taken at the end of the penult
 
 ---
 
-## CHUNK 1349
+## CHUNK 1673
 **Metadata:**
 ```json
 {
@@ -38413,7 +45377,7 @@ The procedures set out in Articles B5.15 must then be followed.
 
 ---
 
-## CHUNK 1350
+## CHUNK 1674
 **Metadata:**
 ```json
 {
@@ -38462,7 +45426,28 @@ c. Unless asked to do so by the FIA, F1 Cars may not be moved from the Fast Lane
 
 ---
 
-## CHUNK 1351
+## CHUNK 1675
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 49,
+  "rule_id": "B5.15",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.15 Resumption Procedure > B5.15",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.15 Resumption Procedure"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.15 Resumption Procedure > B5.15]
+**B5.15** #  Resumption Procedure
+
+---
+
+## CHUNK 1676
 **Metadata:**
 ```json
 {
@@ -38507,7 +45492,7 @@ In all cases described in a) to c) above, any F1 Cars that were in their garage 
 
 ---
 
-## CHUNK 1352
+## CHUNK 1677
 **Metadata:**
 ```json
 {
@@ -38542,7 +45527,7 @@ e. All team personnel must leave the Fast Lane by the time the fifteen (15) seco
 
 ---
 
-## CHUNK 1353
+## CHUNK 1678
 **Metadata:**
 ```json
 {
@@ -38574,7 +45559,7 @@ h. With the exception of entering the Pit Lane to follow the Safety Car, should 
 
 ---
 
-## CHUNK 1354
+## CHUNK 1679
 **Metadata:**
 ```json
 {
@@ -38611,7 +45596,7 @@ A Drive-Through Penalty or a Stop-and-Go Penalty will be imposed on any driver w
 
 ---
 
-## CHUNK 1355
+## CHUNK 1680
 **Metadata:**
 ```json
 {
@@ -38646,7 +45631,7 @@ All other cars must go to the grid, take up their grid positions, and follow the
 
 ---
 
-## CHUNK 1356
+## CHUNK 1681
 **Metadata:**
 ```json
 {
@@ -38683,7 +45668,28 @@ No driver may overtake another <mark>F1</mark> Car on the track until they pass 
 
 ---
 
-## CHUNK 1357
+## CHUNK 1682
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 53,
+  "rule_id": "B5.16",
+  "breadcrumb": "Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.16 Finishing Procedure > B5.16",
+  "section": "Section B",
+  "article": "Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS)",
+  "sub_article": "B5.16 Finishing Procedure"
+}
+```
+
+**Content:**
+[Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.16 Finishing Procedure > B5.16]
+**B5.16** #  Finishing Procedure
+
+---
+
+## CHUNK 1683
 **Metadata:**
 ```json
 {
@@ -38704,7 +45710,7 @@ No driver may overtake another <mark>F1</mark> Car on the track until they pass 
 
 ---
 
-## CHUNK 1358
+## CHUNK 1684
 **Metadata:**
 ```json
 {
@@ -38727,7 +45733,7 @@ Should the end-of-session signal be delayed for any reason, the TTCS will be dee
 
 ---
 
-## CHUNK 1359
+## CHUNK 1685
 **Metadata:**
 ```json
 {
@@ -38762,7 +45768,28 @@ Any classified <mark>F1</mark> Car which cannot reach the parc fermé under its 
 
 ---
 
-## CHUNK 1360
+## CHUNK 1686
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 54,
+  "rule_id": "B6.1",
+  "breadcrumb": "Section B > Article B6: TYRE LIMITATIONS > B6.1 Supply Of Tyres > B6.1",
+  "section": "Section B",
+  "article": "Article B6: TYRE LIMITATIONS",
+  "sub_article": "B6.1 Supply Of Tyres"
+}
+```
+
+**Content:**
+[Section B > Article B6: TYRE LIMITATIONS > B6.1 Supply Of Tyres > B6.1]
+**B6.1** Supply Of Tyres
+
+---
+
+## CHUNK 1687
 **Metadata:**
 ```json
 {
@@ -38789,7 +45816,7 @@ c. At a maximum of two Standard Format Competitions, additional specifications o
 
 ---
 
-## CHUNK 1361
+## CHUNK 1688
 **Metadata:**
 ```json
 {
@@ -38830,7 +45857,7 @@ c. One (1) week prior to the relevant Competition, whether an additional specifi
 
 ---
 
-## CHUNK 1362
+## CHUNK 1689
 **Metadata:**
 ```json
 {
@@ -38861,7 +45888,28 @@ c. Tyres supplied to any Competitor at any time may not be used on any rig or ve
 
 ---
 
-## CHUNK 1363
+## CHUNK 1690
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 55,
+  "rule_id": "B6.2",
+  "breadcrumb": "Section B > Article B6: TYRE LIMITATIONS > B6.2 Control & Allocation of Tyres > B6.2",
+  "section": "Section B",
+  "article": "Article B6: TYRE LIMITATIONS",
+  "sub_article": "B6.2 Control & Allocation of Tyres"
+}
+```
+
+**Content:**
+[Section B > Article B6: TYRE LIMITATIONS > B6.2 Control & Allocation of Tyres > B6.2]
+**B6.2** ##  Control & Allocation of Tyres
+
+---
+
+## CHUNK 1691
 **Metadata:**
 ```json
 {
@@ -38882,7 +45930,7 @@ c. Tyres supplied to any Competitor at any time may not be used on any rig or ve
 
 ---
 
-## CHUNK 1364
+## CHUNK 1692
 **Metadata:**
 ```json
 {
@@ -38903,7 +45951,7 @@ c. Tyres supplied to any Competitor at any time may not be used on any rig or ve
 
 ---
 
-## CHUNK 1365
+## CHUNK 1693
 **Metadata:**
 ```json
 {
@@ -38924,7 +45972,7 @@ c. Tyres supplied to any Competitor at any time may not be used on any rig or ve
 
 ---
 
-## CHUNK 1366
+## CHUNK 1694
 **Metadata:**
 ```json
 {
@@ -38955,7 +46003,7 @@ c. Tyres supplied to any Competitor at any time may not be used on any rig or ve
 
 ---
 
-## CHUNK 1367
+## CHUNK 1695
 **Metadata:**
 ```json
 {
@@ -38976,7 +46024,7 @@ c. Tyres supplied to any Competitor at any time may not be used on any rig or ve
 
 ---
 
-## CHUNK 1368
+## CHUNK 1696
 **Metadata:**
 ```json
 {
@@ -38999,7 +46047,7 @@ select alternative tyres to be used by any Competitor or driver from among the s
 
 ---
 
-## CHUNK 1369
+## CHUNK 1697
 **Metadata:**
 ```json
 {
@@ -39022,7 +46070,28 @@ both tyres to the Technical Delegate.
 
 ---
 
-## CHUNK 1370
+## CHUNK 1698
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 56,
+  "rule_id": "B6.3",
+  "breadcrumb": "Section B > Article B6: TYRE LIMITATIONS > B6.3 Use & Return of Tyres > B6.3",
+  "section": "Section B",
+  "article": "Article B6: TYRE LIMITATIONS",
+  "sub_article": "B6.3 Use & Return of Tyres"
+}
+```
+
+**Content:**
+[Section B > Article B6: TYRE LIMITATIONS > B6.3 Use & Return of Tyres > B6.3]
+**B6.3** Use & Return of Tyres
+
+---
+
+## CHUNK 1699
 **Metadata:**
 ```json
 {
@@ -39049,7 +46118,7 @@ A Stop-and-Go Penalty will be imposed on any driver who does not change tyres as
 
 ---
 
-## CHUNK 1371
+## CHUNK 1700
 **Metadata:**
 ```json
 {
@@ -39070,7 +46139,7 @@ A Stop-and-Go Penalty will be imposed on any driver who does not change tyres as
 
 ---
 
-## CHUNK 1372
+## CHUNK 1701
 **Metadata:**
 ```json
 {
@@ -39091,7 +46160,7 @@ A Stop-and-Go Penalty will be imposed on any driver who does not change tyres as
 
 ---
 
-## CHUNK 1373
+## CHUNK 1702
 **Metadata:**
 ```json
 {
@@ -39128,7 +46197,7 @@ If an additional driver is used (Articles B1.7.3 and B1.7.4) they must use the t
 
 ---
 
-## CHUNK 1374
+## CHUNK 1703
 **Metadata:**
 ```json
 {
@@ -39149,7 +46218,7 @@ If an additional driver is used (Articles B1.7.3 and B1.7.4) they must use the t
 
 ---
 
-## CHUNK 1375
+## CHUNK 1704
 **Metadata:**
 ```json
 {
@@ -39172,7 +46241,7 @@ Unless the Race is suspended and cannot be re-started, failure to comply with th
 
 ---
 
-## CHUNK 1376
+## CHUNK 1705
 **Metadata:**
 ```json
 {
@@ -39195,7 +46264,7 @@ A Stop-and-Go Penalty will be imposed on any driver whose tyre(s) are changed fo
 
 ---
 
-## CHUNK 1377
+## CHUNK 1706
 **Metadata:**
 ```json
 {
@@ -39236,7 +46305,7 @@ i. if FP1, FP2 or FP3 is declared wet, one (1) set of intermediate tyres must be
 
 ---
 
-## CHUNK 1378
+## CHUNK 1707
 **Metadata:**
 ```json
 {
@@ -39281,7 +46350,7 @@ i. A maximum of one (1) additional set of intermediate tyres will be made availa
 
 ---
 
-## CHUNK 1379
+## CHUNK 1708
 **Metadata:**
 ```json
 {
@@ -39322,7 +46391,28 @@ i. if FP1, FP2 or FP3 is declared wet, one (1) set of intermediate tyres must be
 
 ---
 
-## CHUNK 1380
+## CHUNK 1709
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 59,
+  "rule_id": "B6.4",
+  "breadcrumb": "Section B > Article B6: TYRE LIMITATIONS > B6.4 Tyre Return Procedure > B6.4",
+  "section": "Section B",
+  "article": "Article B6: TYRE LIMITATIONS",
+  "sub_article": "B6.4 Tyre Return Procedure"
+}
+```
+
+**Content:**
+[Section B > Article B6: TYRE LIMITATIONS > B6.4 Tyre Return Procedure > B6.4]
+**B6.4** Tyre Return Procedure
+
+---
+
+## CHUNK 1710
 **Metadata:**
 ```json
 {
@@ -39343,7 +46433,7 @@ i. if FP1, FP2 or FP3 is declared wet, one (1) set of intermediate tyres must be
 
 ---
 
-## CHUNK 1381
+## CHUNK 1711
 **Metadata:**
 ```json
 {
@@ -39364,7 +46454,7 @@ i. if FP1, FP2 or FP3 is declared wet, one (1) set of intermediate tyres must be
 
 ---
 
-## CHUNK 1382
+## CHUNK 1712
 **Metadata:**
 ```json
 {
@@ -39385,7 +46475,28 @@ i. if FP1, FP2 or FP3 is declared wet, one (1) set of intermediate tyres must be
 
 ---
 
-## CHUNK 1383
+## CHUNK 1713
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 60,
+  "rule_id": "B6.5",
+  "breadcrumb": "Section B > Article B6: TYRE LIMITATIONS > B6.5 Specific Provisions for ICTE > B6.5",
+  "section": "Section B",
+  "article": "Article B6: TYRE LIMITATIONS",
+  "sub_article": "B6.5 Specific Provisions for ICTE"
+}
+```
+
+**Content:**
+[Section B > Article B6: TYRE LIMITATIONS > B6.5 Specific Provisions for ICTE > B6.5]
+**B6.5** #  Specific Provisions for ICTE
+
+---
+
+## CHUNK 1714
 **Metadata:**
 ```json
 {
@@ -39406,7 +46517,7 @@ i. if FP1, FP2 or FP3 is declared wet, one (1) set of intermediate tyres must be
 
 ---
 
-## CHUNK 1384
+## CHUNK 1715
 **Metadata:**
 ```json
 {
@@ -39427,7 +46538,7 @@ i. if FP1, FP2 or FP3 is declared wet, one (1) set of intermediate tyres must be
 
 ---
 
-## CHUNK 1385
+## CHUNK 1716
 **Metadata:**
 ```json
 {
@@ -39448,7 +46559,28 @@ i. if FP1, FP2 or FP3 is declared wet, one (1) set of intermediate tyres must be
 
 ---
 
-## CHUNK 1386
+## CHUNK 1717
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 60,
+  "rule_id": "B6.6",
+  "breadcrumb": "Section B > Article B6: TYRE LIMITATIONS > B6.6 Specific Provisions for ICTT > B6.6",
+  "section": "Section B",
+  "article": "Article B6: TYRE LIMITATIONS",
+  "sub_article": "B6.6 Specific Provisions for ICTT"
+}
+```
+
+**Content:**
+[Section B > Article B6: TYRE LIMITATIONS > B6.6 Specific Provisions for ICTT > B6.6]
+**B6.6** #  Specific Provisions for ICTT
+
+---
+
+## CHUNK 1718
 **Metadata:**
 ```json
 {
@@ -39469,7 +46601,7 @@ i. if FP1, FP2 or FP3 is declared wet, one (1) set of intermediate tyres must be
 
 ---
 
-## CHUNK 1387
+## CHUNK 1719
 **Metadata:**
 ```json
 {
@@ -39492,7 +46624,7 @@ If FP2 is unsuitable for the evaluation of these tyres (such as due to poor weat
 
 ---
 
-## CHUNK 1388
+## CHUNK 1720
 **Metadata:**
 ```json
 {
@@ -39513,7 +46645,7 @@ If FP2 is unsuitable for the evaluation of these tyres (such as due to poor weat
 
 ---
 
-## CHUNK 1389
+## CHUNK 1721
 **Metadata:**
 ```json
 {
@@ -39534,7 +46666,7 @@ If FP2 is unsuitable for the evaluation of these tyres (such as due to poor weat
 
 ---
 
-## CHUNK 1390
+## CHUNK 1722
 **Metadata:**
 ```json
 {
@@ -39557,7 +46689,7 @@ Test parts and test software are permitted. However, the F1 Car must remain in a
 
 ---
 
-## CHUNK 1391
+## CHUNK 1723
 **Metadata:**
 ```json
 {
@@ -39580,7 +46712,7 @@ Additional sensors may be fitted on the F1 Car to measure tyre state and or perf
 
 ---
 
-## CHUNK 1392
+## CHUNK 1724
 **Metadata:**
 ```json
 {
@@ -39605,7 +46737,28 @@ Additional sensors may be fitted on the F1 Car to measure tyre state and or perf
 
 ---
 
-## CHUNK 1393
+## CHUNK 1725
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 61,
+  "rule_id": "B7.1",
+  "breadcrumb": "Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS > B7.1 Driver Adjustable Bodywork > B7.1",
+  "section": "Section B",
+  "article": "Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS",
+  "sub_article": "B7.1 Driver Adjustable Bodywork"
+}
+```
+
+**Content:**
+[Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS > B7.1 Driver Adjustable Bodywork > B7.1]
+**B7.1** Driver Adjustable Bodywork
+
+---
+
+## CHUNK 1726
 **Metadata:**
 ```json
 {
@@ -39638,7 +46791,7 @@ f. The start of each defined Activation Zone shall be marked by signage on at le
 
 ---
 
-## CHUNK 1394
+## CHUNK 1727
 **Metadata:**
 ```json
 {
@@ -39667,7 +46820,28 @@ i.
 
 ---
 
-## CHUNK 1395
+## CHUNK 1728
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 62,
+  "rule_id": "B7.2",
+  "breadcrumb": "Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS > B7.2 Energy Deployment Limitations > B7.2",
+  "section": "Section B",
+  "article": "Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS",
+  "sub_article": "B7.2 Energy Deployment Limitations"
+}
+```
+
+**Content:**
+[Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS > B7.2 Energy Deployment Limitations > B7.2]
+**B7.2** #  **Energy Deployment Limitations
+
+---
+
+## CHUNK 1729
 **Metadata:**
 ```json
 {
@@ -39716,7 +46890,7 @@ c. The number of Competitions in which Article C5.2.10ii may apply will be limit
 
 ---
 
-## CHUNK 1396
+## CHUNK 1730
 **Metadata:**
 ```json
 {
@@ -39750,7 +46924,7 @@ crossing the circuit and by signage on at least one (1) side of the circuit adja
 
 ---
 
-## CHUNK 1397
+## CHUNK 1731
 **Metadata:**
 ```json
 {
@@ -39779,7 +46953,7 @@ d. <mark>For reasons of safety, the Race Director may, at any time and at their 
 
 ---
 
-## CHUNK 1398
+## CHUNK 1732
 **Metadata:**
 ```json
 {
@@ -39812,7 +46986,7 @@ ii. <mark>Overtake Override Mode</mark> will be deactivated when the driver cros
 
 ---
 
-## CHUNK 1399
+## CHUNK 1733
 **Metadata:**
 ```json
 {
@@ -39837,7 +47011,28 @@ In the event of a failure in the system which notifies the driver that <mark>Ove
 
 ---
 
-## CHUNK 1400
+## CHUNK 1734
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 65,
+  "rule_id": "B8.1",
+  "breadcrumb": "Section B > Article B8: CAR & COMPONENT LIMITATIONS > B8.1 Car Limitations & Usage > B8.1",
+  "section": "Section B",
+  "article": "Article B8: CAR & COMPONENT LIMITATIONS",
+  "sub_article": "B8.1 Car Limitations & Usage"
+}
+```
+
+**Content:**
+[Section B > Article B8: CAR & COMPONENT LIMITATIONS > B8.1 Car Limitations & Usage > B8.1]
+**B8.1** ##  Car Limitations & Usage
+
+---
+
+## CHUNK 1735
 **Metadata:**
 ```json
 {
@@ -39864,7 +47059,7 @@ c. There are no more than two (2) <mark>F1</mark> Cars available for one driver 
 
 ---
 
-## CHUNK 1401
+## CHUNK 1736
 **Metadata:**
 ```json
 {
@@ -39885,7 +47080,28 @@ c. There are no more than two (2) <mark>F1</mark> Cars available for one driver 
 
 ---
 
-## CHUNK 1402
+## CHUNK 1737
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 65,
+  "rule_id": "B8.2",
+  "breadcrumb": "Section B > Article B8: CAR & COMPONENT LIMITATIONS > B8.2 Power Unit Limitations & Usage > B8.2",
+  "section": "Section B",
+  "article": "Article B8: CAR & COMPONENT LIMITATIONS",
+  "sub_article": "B8.2 Power Unit Limitations & Usage"
+}
+```
+
+**Content:**
+[Section B > Article B8: CAR & COMPONENT LIMITATIONS > B8.2 Power Unit Limitations & Usage > B8.2]
+**B8.2** ##  Power Unit Limitations & Usage
+
+---
+
+## CHUNK 1738
 **Metadata:**
 ```json
 {
@@ -39906,7 +47122,7 @@ c. There are no more than two (2) <mark>F1</mark> Cars available for one driver 
 
 ---
 
-## CHUNK 1403
+## CHUNK 1739
 **Metadata:**
 ```json
 {
@@ -39939,7 +47155,7 @@ d. 2 energy store units (ES) : an energy store, for the purposes of this Article
 
 ---
 
-## CHUNK 1404
+## CHUNK 1740
 **Metadata:**
 ```json
 {
@@ -39963,7 +47179,7 @@ d. 2 energy store units (ES) : an energy store, for the purposes of this Article
 
 ---
 
-## CHUNK 1405
+## CHUNK 1741
 **Metadata:**
 ```json
 {
@@ -39985,7 +47201,7 @@ Details regarding the means of sealing these components or, if this is deemed no
 
 ---
 
-## CHUNK 1406
+## CHUNK 1742
 **Metadata:**
 ```json
 {
@@ -40006,7 +47222,7 @@ Details regarding the means of sealing these components or, if this is deemed no
 
 ---
 
-## CHUNK 1407
+## CHUNK 1743
 **Metadata:**
 ```json
 {
@@ -40027,7 +47243,7 @@ Details regarding the means of sealing these components or, if this is deemed no
 
 ---
 
-## CHUNK 1408
+## CHUNK 1744
 **Metadata:**
 ```json
 {
@@ -40048,7 +47264,7 @@ Details regarding the means of sealing these components or, if this is deemed no
 
 ---
 
-## CHUNK 1409
+## CHUNK 1745
 **Metadata:**
 ```json
 {
@@ -40077,7 +47293,7 @@ During any single Competition, if a driver introduces more than one of the same 
 
 ---
 
-## CHUNK 1410
+## CHUNK 1746
 **Metadata:**
 ```json
 {
@@ -40112,7 +47328,7 @@ If any of the FIA seals are damaged or removed from the relevant components with
 
 ---
 
-## CHUNK 1411
+## CHUNK 1747
 **Metadata:**
 ```json
 {
@@ -40133,7 +47349,7 @@ If any of the FIA seals are damaged or removed from the relevant components with
 
 ---
 
-## CHUNK 1412
+## CHUNK 1748
 **Metadata:**
 ```json
 {
@@ -40158,7 +47374,28 @@ If any of the FIA seals are damaged or removed from the relevant components with
 
 ---
 
-## CHUNK 1413
+## CHUNK 1749
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 68,
+  "rule_id": "B9.1",
+  "breadcrumb": "Section B > Article B9: PERSONNEL LIMITATIONS > B9.1 General Provisions > B9.1",
+  "section": "Section B",
+  "article": "Article B9: PERSONNEL LIMITATIONS",
+  "sub_article": "B9.1 General Provisions"
+}
+```
+
+**Content:**
+[Section B > Article B9: PERSONNEL LIMITATIONS > B9.1 General Provisions > B9.1]
+**B9.1** ##  General Provisions
+
+---
+
+## CHUNK 1750
 **Metadata:**
 ```json
 {
@@ -40179,7 +47416,28 @@ If any of the FIA seals are damaged or removed from the relevant components with
 
 ---
 
-## CHUNK 1414
+## CHUNK 1751
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 68,
+  "rule_id": "B9.2",
+  "breadcrumb": "Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2",
+  "section": "Section B",
+  "article": "Article B9: PERSONNEL LIMITATIONS",
+  "sub_article": "B9.2 Operational Personnel"
+}
+```
+
+**Content:**
+[Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2]
+**B9.2** ##  Operational Personnel
+
+---
+
+## CHUNK 1752
 **Metadata:**
 ```json
 {
@@ -40202,7 +47460,7 @@ However, during the period starting forty-five (45) minutes before the start of 
 
 ---
 
-## CHUNK 1415
+## CHUNK 1753
 **Metadata:**
 ```json
 {
@@ -40223,7 +47481,28 @@ However, during the period starting forty-five (45) minutes before the start of 
 
 ---
 
-## CHUNK 1416
+## CHUNK 1754
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 68,
+  "rule_id": "B9.3",
+  "breadcrumb": "Section B > Article B9: PERSONNEL LIMITATIONS > B9.3 Trainee Personnel > B9.3",
+  "section": "Section B",
+  "article": "Article B9: PERSONNEL LIMITATIONS",
+  "sub_article": "B9.3 Trainee Personnel"
+}
+```
+
+**Content:**
+[Section B > Article B9: PERSONNEL LIMITATIONS > B9.3 Trainee Personnel > B9.3]
+**B9.3** ##  Trainee Personnel
+
+---
+
+## CHUNK 1755
 **Metadata:**
 ```json
 {
@@ -40244,7 +47523,28 @@ However, during the period starting forty-five (45) minutes before the start of 
 
 ---
 
-## CHUNK 1417
+## CHUNK 1756
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 68,
+  "rule_id": "B9.4",
+  "breadcrumb": "Section B > Article B9: PERSONNEL LIMITATIONS > B9.4 Declaration of Personnel > B9.4",
+  "section": "Section B",
+  "article": "Article B9: PERSONNEL LIMITATIONS",
+  "sub_article": "B9.4 Declaration of Personnel"
+}
+```
+
+**Content:**
+[Section B > Article B9: PERSONNEL LIMITATIONS > B9.4 Declaration of Personnel > B9.4]
+**B9.4** ##  Declaration of Personnel
+
+---
+
+## CHUNK 1757
 **Metadata:**
 ```json
 {
@@ -40269,7 +47569,28 @@ A list of all personnel exempt from the provisions of Article B9.2 or B9.3 who h
 
 ---
 
-## CHUNK 1418
+## CHUNK 1758
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 68,
+  "rule_id": "B9.5",
+  "breadcrumb": "Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5",
+  "section": "Section B",
+  "article": "Article B9: PERSONNEL LIMITATIONS",
+  "sub_article": "B9.5 Restricted Period(s)"
+}
+```
+
+**Content:**
+[Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5]
+**B9.5** ##  Restricted Period(s)
+
+---
+
+## CHUNK 1759
 **Metadata:**
 ```json
 {
@@ -40301,7 +47622,7 @@ c. **“Restricted Period Three”**:
 
 ---
 
-## CHUNK 1419
+## CHUNK 1760
 **Metadata:**
 ```json
 {
@@ -40330,7 +47651,7 @@ During these periods these personnel must not conduct operational activities. Th
 
 ---
 
-## CHUNK 1420
+## CHUNK 1761
 **Metadata:**
 ```json
 {
@@ -40361,7 +47682,7 @@ In the case of a breach of this article both drivers must start the Race from th
 
 ---
 
-## CHUNK 1421
+## CHUNK 1762
 **Metadata:**
 ```json
 {
@@ -40385,7 +47706,7 @@ c. Prepare the presentation of garages for display
 
 ---
 
-## CHUNK 1422
+## CHUNK 1763
 **Metadata:**
 ```json
 {
@@ -40406,7 +47727,7 @@ c. Prepare the presentation of garages for display
 
 ---
 
-## CHUNK 1423
+## CHUNK 1764
 **Metadata:**
 ```json
 {
@@ -40431,7 +47752,28 @@ c. Prepare the presentation of garages for display
 
 ---
 
-## CHUNK 1424
+## CHUNK 1765
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 71,
+  "rule_id": "B10.1",
+  "breadcrumb": "Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES > B10.1 Media Activities > B10.1",
+  "section": "Section B",
+  "article": "Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES",
+  "sub_article": "B10.1 Media Activities"
+}
+```
+
+**Content:**
+[Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES > B10.1 Media Activities > B10.1]
+**B10.1** ##  Media Activities
+
+---
+
+## CHUNK 1766
 **Metadata:**
 ```json
 {
@@ -40464,7 +47806,7 @@ The contents of this document will remain with the FIA and the Commercial Rights
 
 ---
 
-## CHUNK 1425
+## CHUNK 1767
 **Metadata:**
 ```json
 {
@@ -40503,7 +47845,7 @@ e. At each Alternative Format Competition, all drivers who participate in Sprint
 
 ---
 
-## CHUNK 1426
+## CHUNK 1768
 **Metadata:**
 ```json
 {
@@ -40530,7 +47872,7 @@ ii. Each Competitor must have at least four (4) senior Competitor representative
 
 ---
 
-## CHUNK 1427
+## CHUNK 1769
 **Metadata:**
 ```json
 {
@@ -40564,7 +47906,7 @@ ii. Each Competitor must have at least four (4) senior Competitor representative
 
 ---
 
-## CHUNK 1428
+## CHUNK 1770
 **Metadata:**
 ```json
 {
@@ -40603,7 +47945,28 @@ g. Commencing one (1) and ending two (2) hours after the end of the Race, each C
 
 ---
 
-## CHUNK 1429
+## CHUNK 1771
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 74,
+  "rule_id": "B10.2",
+  "breadcrumb": "Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES > B10.2 Podium Ceremony > B10.2",
+  "section": "Section B",
+  "article": "Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES",
+  "sub_article": "B10.2 Podium Ceremony"
+}
+```
+
+**Content:**
+[Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES > B10.2 Podium Ceremony > B10.2]
+**B10.2** # **** Podium Ceremony
+
+---
+
+## CHUNK 1772
 **Metadata:**
 ```json
 {
@@ -40624,7 +47987,7 @@ g. Commencing one (1) and ending two (2) hours after the end of the Race, each C
 
 ---
 
-## CHUNK 1430
+## CHUNK 1773
 **Metadata:**
 ```json
 {
@@ -40645,7 +48008,7 @@ g. Commencing one (1) and ending two (2) hours after the end of the Race, each C
 
 ---
 
-## CHUNK 1431
+## CHUNK 1774
 **Metadata:**
 ```json
 {
@@ -40666,7 +48029,7 @@ g. Commencing one (1) and ending two (2) hours after the end of the Race, each C
 
 ---
 
-## CHUNK 1432
+## CHUNK 1775
 **Metadata:**
 ```json
 {
@@ -40691,7 +48054,28 @@ g. Commencing one (1) and ending two (2) hours after the end of the Race, each C
 
 ---
 
-## CHUNK 1433
+## CHUNK 1776
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 76,
+  "rule_id": "B11.1",
+  "breadcrumb": "Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.1 General Provisions for Track Running Outside a Competition > B11.1",
+  "section": "Section B",
+  "article": "Article B11: TRACK RUNNING OUTSIDE A COMPETITION",
+  "sub_article": "B11.1 General Provisions for Track Running Outside a Competition"
+}
+```
+
+**Content:**
+[Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.1 General Provisions for Track Running Outside a Competition > B11.1]
+**B11.1** ##  General Provisions for Track Running Outside a Competition
+
+---
+
+## CHUNK 1777
 **Metadata:**
 ```json
 {
@@ -40724,7 +48108,7 @@ f. The circuit or venue, as applicable for TPC, PE or DE, at which the activity 
 
 ---
 
-## CHUNK 1434
+## CHUNK 1778
 **Metadata:**
 ```json
 {
@@ -40745,7 +48129,28 @@ f. The circuit or venue, as applicable for TPC, PE or DE, at which the activity 
 
 ---
 
-## CHUNK 1435
+## CHUNK 1779
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 76,
+  "rule_id": "B11.2",
+  "breadcrumb": "Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.2 Provisions for TCC > B11.2",
+  "section": "Section B",
+  "article": "Article B11: TRACK RUNNING OUTSIDE A COMPETITION",
+  "sub_article": "B11.2 Provisions for TCC"
+}
+```
+
+**Content:**
+[Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.2 Provisions for TCC > B11.2]
+**B11.2** ##  Provisions for TCC
+
+---
+
+## CHUNK 1780
 **Metadata:**
 ```json
 {
@@ -40772,7 +48177,7 @@ c. Whilst a Championship Competition is not taking place.
 
 ---
 
-## CHUNK 1436
+## CHUNK 1781
 **Metadata:**
 ```json
 {
@@ -40793,7 +48198,7 @@ c. Whilst a Championship Competition is not taking place.
 
 ---
 
-## CHUNK 1437
+## CHUNK 1782
 **Metadata:**
 ```json
 {
@@ -40814,7 +48219,7 @@ c. Whilst a Championship Competition is not taking place.
 
 ---
 
-## CHUNK 1438
+## CHUNK 1783
 **Metadata:**
 ```json
 {
@@ -40835,7 +48240,7 @@ c. Whilst a Championship Competition is not taking place.
 
 ---
 
-## CHUNK 1439
+## CHUNK 1784
 **Metadata:**
 ```json
 {
@@ -40856,7 +48261,7 @@ c. Whilst a Championship Competition is not taking place.
 
 ---
 
-## CHUNK 1440
+## CHUNK 1785
 **Metadata:**
 ```json
 {
@@ -40877,7 +48282,7 @@ c. Whilst a Championship Competition is not taking place.
 
 ---
 
-## CHUNK 1441
+## CHUNK 1786
 **Metadata:**
 ```json
 {
@@ -40928,7 +48333,7 @@ ii. One (1) <mark>F1</mark> Car must be driven by drivers who are in possession 
 
 ---
 
-## CHUNK 1442
+## CHUNK 1787
 **Metadata:**
 ```json
 {
@@ -40968,7 +48373,7 @@ ii. Any such day may only take place within a period fourteen (14) days prior to
 
 ---
 
-## CHUNK 1443
+## CHUNK 1788
 **Metadata:**
 ```json
 {
@@ -40992,7 +48397,28 @@ iv. Only one (1) F1 Car may be used.
 
 ---
 
-## CHUNK 1444
+## CHUNK 1789
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 78,
+  "rule_id": "B11.3",
+  "breadcrumb": "Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.3 Provisions for TPC > B11.3",
+  "section": "Section B",
+  "article": "Article B11: TRACK RUNNING OUTSIDE A COMPETITION",
+  "sub_article": "B11.3 Provisions for TPC"
+}
+```
+
+**Content:**
+[Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.3 Provisions for TPC > B11.3]
+**B11.3** #  Provisions for TPC
+
+---
+
+## CHUNK 1790
 **Metadata:**
 ```json
 {
@@ -41013,7 +48439,7 @@ iv. Only one (1) F1 Car may be used.
 
 ---
 
-## CHUNK 1445
+## CHUNK 1791
 **Metadata:**
 ```json
 {
@@ -41034,7 +48460,7 @@ iv. Only one (1) F1 Car may be used.
 
 ---
 
-## CHUNK 1446
+## CHUNK 1792
 **Metadata:**
 ```json
 {
@@ -41055,7 +48481,7 @@ iv. Only one (1) F1 Car may be used.
 
 ---
 
-## CHUNK 1447
+## CHUNK 1793
 **Metadata:**
 ```json
 {
@@ -41076,7 +48502,7 @@ iv. Only one (1) F1 Car may be used.
 
 ---
 
-## CHUNK 1448
+## CHUNK 1794
 **Metadata:**
 ```json
 {
@@ -41103,7 +48529,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1449
+## CHUNK 1795
 **Metadata:**
 ```json
 {
@@ -41124,7 +48550,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1450
+## CHUNK 1796
 **Metadata:**
 ```json
 {
@@ -41145,7 +48571,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1451
+## CHUNK 1797
 **Metadata:**
 ```json
 {
@@ -41166,7 +48592,28 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1452
+## CHUNK 1798
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 79,
+  "rule_id": "B11.4",
+  "breadcrumb": "Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.4 Provisions for TMC > B11.4",
+  "section": "Section B",
+  "article": "Article B11: TRACK RUNNING OUTSIDE A COMPETITION",
+  "sub_article": "B11.4 Provisions for TMC"
+}
+```
+
+**Content:**
+[Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.4 Provisions for TMC > B11.4]
+**B11.4** ##  Provisions for TMC
+
+---
+
+## CHUNK 1799
 **Metadata:**
 ```json
 {
@@ -41187,7 +48634,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1453
+## CHUNK 1800
 **Metadata:**
 ```json
 {
@@ -41208,7 +48655,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1454
+## CHUNK 1801
 **Metadata:**
 ```json
 {
@@ -41229,7 +48676,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1455
+## CHUNK 1802
 **Metadata:**
 ```json
 {
@@ -41250,7 +48697,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1456
+## CHUNK 1803
 **Metadata:**
 ```json
 {
@@ -41271,7 +48718,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1457
+## CHUNK 1804
 **Metadata:**
 ```json
 {
@@ -41292,7 +48739,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1458
+## CHUNK 1805
 **Metadata:**
 ```json
 {
@@ -41313,7 +48760,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1459
+## CHUNK 1806
 **Metadata:**
 ```json
 {
@@ -41334,7 +48781,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1460
+## CHUNK 1807
 **Metadata:**
 ```json
 {
@@ -41355,7 +48802,7 @@ b. if the circuit is deemed, at the sole discretion of the FIA, to have undergon
 
 ---
 
-## CHUNK 1461
+## CHUNK 1808
 **Metadata:**
 ```json
 {
@@ -41392,7 +48839,7 @@ ii. Be a suitably modified car designed and constructed in order to comply with 
 
 ---
 
-## CHUNK 1462
+## CHUNK 1809
 **Metadata:**
 ```json
 {
@@ -41412,7 +48859,7 @@ d. Tests carried out between 1 January and the end of the first Competition of t
 
 ---
 
-## CHUNK 1463
+## CHUNK 1810
 **Metadata:**
 ```json
 {
@@ -41439,7 +48886,28 @@ c. Additional sensors may only be fitted on the Mule Car to measure tyre state a
 
 ---
 
-## CHUNK 1464
+## CHUNK 1811
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 81,
+  "rule_id": "B11.5",
+  "breadcrumb": "Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.5 Provisions for THC > B11.5",
+  "section": "Section B",
+  "article": "Article B11: TRACK RUNNING OUTSIDE A COMPETITION",
+  "sub_article": "B11.5 Provisions for THC"
+}
+```
+
+**Content:**
+[Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.5 Provisions for THC > B11.5]
+**B11.5** Provisions for THC
+
+---
+
+## CHUNK 1812
 **Metadata:**
 ```json
 {
@@ -41460,7 +48928,7 @@ c. Additional sensors may only be fitted on the Mule Car to measure tyre state a
 
 ---
 
-## CHUNK 1465
+## CHUNK 1813
 **Metadata:**
 ```json
 {
@@ -41481,7 +48949,28 @@ c. Additional sensors may only be fitted on the Mule Car to measure tyre state a
 
 ---
 
-## CHUNK 1466
+## CHUNK 1814
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 81,
+  "rule_id": "B11.6",
+  "breadcrumb": "Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.6 Provisions for PE > B11.6",
+  "section": "Section B",
+  "article": "Article B11: TRACK RUNNING OUTSIDE A COMPETITION",
+  "sub_article": "B11.6 Provisions for PE"
+}
+```
+
+**Content:**
+[Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.6 Provisions for PE > B11.6]
+**B11.6** Provisions for PE
+
+---
+
+## CHUNK 1815
 **Metadata:**
 ```json
 {
@@ -41502,7 +48991,7 @@ c. Additional sensors may only be fitted on the Mule Car to measure tyre state a
 
 ---
 
-## CHUNK 1467
+## CHUNK 1816
 **Metadata:**
 ```json
 {
@@ -41523,7 +49012,7 @@ c. Additional sensors may only be fitted on the Mule Car to measure tyre state a
 
 ---
 
-## CHUNK 1468
+## CHUNK 1817
 **Metadata:**
 ```json
 {
@@ -41544,7 +49033,28 @@ c. Additional sensors may only be fitted on the Mule Car to measure tyre state a
 
 ---
 
-## CHUNK 1469
+## CHUNK 1818
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 82,
+  "rule_id": "B11.7",
+  "breadcrumb": "Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.7 Provisions for DE > B11.7",
+  "section": "Section B",
+  "article": "Article B11: TRACK RUNNING OUTSIDE A COMPETITION",
+  "sub_article": "B11.7 Provisions for DE"
+}
+```
+
+**Content:**
+[Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.7 Provisions for DE > B11.7]
+**B11.7** Provisions for DE
+
+---
+
+## CHUNK 1819
 **Metadata:**
 ```json
 {
@@ -41568,7 +49078,7 @@ b. DE’s organised by the Commercial Rights Holder with a Current Car, which wi
 
 ---
 
-## CHUNK 1470
+## CHUNK 1820
 **Metadata:**
 ```json
 {
@@ -41589,7 +49099,7 @@ b. DE’s organised by the Commercial Rights Holder with a Current Car, which wi
 
 ---
 
-## CHUNK 1471
+## CHUNK 1821
 **Metadata:**
 ```json
 {
@@ -41610,7 +49120,7 @@ b. DE’s organised by the Commercial Rights Holder with a Current Car, which wi
 
 ---
 
-## CHUNK 1472
+## CHUNK 1822
 **Metadata:**
 ```json
 {
@@ -41631,7 +49141,7 @@ b. DE’s organised by the Commercial Rights Holder with a Current Car, which wi
 
 ---
 
-## CHUNK 1473
+## CHUNK 1823
 **Metadata:**
 ```json
 {
@@ -41652,7 +49162,28 @@ b. DE’s organised by the Commercial Rights Holder with a Current Car, which wi
 
 ---
 
-## CHUNK 1474
+## CHUNK 1824
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 82,
+  "rule_id": "B11.8",
+  "breadcrumb": "Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.8 Safety Requirements, Technical Requirements & Car Limitations > B11.8",
+  "section": "Section B",
+  "article": "Article B11: TRACK RUNNING OUTSIDE A COMPETITION",
+  "sub_article": "B11.8 Safety Requirements, Technical Requirements & Car Limitations"
+}
+```
+
+**Content:**
+[Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.8 Safety Requirements, Technical Requirements & Car Limitations > B11.8]
+**B11.8** Safety Requirements, Technical Requirements & Car Limitations
+
+---
+
+## CHUNK 1825
 **Metadata:**
 ```json
 {
@@ -41680,7 +49211,7 @@ c. Are fitted with the FIA ECU required by Article C8.3.
 
 ---
 
-## CHUNK 1475
+## CHUNK 1826
 **Metadata:**
 ```json
 {
@@ -41701,7 +49232,7 @@ c. Are fitted with the FIA ECU required by Article C8.3.
 
 ---
 
-## CHUNK 1476
+## CHUNK 1827
 **Metadata:**
 ```json
 {
@@ -41731,7 +49262,7 @@ No test parts, sensors, instrumentation, test software, component changes, opera
 
 ---
 
-## CHUNK 1477
+## CHUNK 1828
 **Metadata:**
 ```json
 {
@@ -41758,7 +49289,7 @@ Mechanical set-up changes and driver control changes are only permitted if they 
 
 ---
 
-## CHUNK 1478
+## CHUNK 1829
 **Metadata:**
 ```json
 {
@@ -41806,7 +49337,7 @@ Additional sensors may only be fitted on the F1 Car to measure tyre state and or
 
 ---
 
-## CHUNK 1479
+## CHUNK 1830
 **Metadata:**
 ```json
 {
@@ -41844,7 +49375,7 @@ Additional sensors may only be fitted on the F1 Car to measure tyre state and or
 
 ---
 
-## CHUNK 1480
+## CHUNK 1831
 **Metadata:**
 ```json
 {
@@ -41903,7 +49434,7 @@ If the Technical Delegate is satisfied that changes in climatic conditions neces
 
 ---
 
-## CHUNK 1481
+## CHUNK 1832
 **Metadata:**
 ```json
 {
@@ -41947,7 +49478,7 @@ If the Technical Delegate is satisfied that changes in climatic conditions neces
 
 ---
 
-## CHUNK 1482
+## CHUNK 1833
 **Metadata:**
 ```json
 {
@@ -42019,7 +49550,7 @@ If the Technical Delegate is satisfied that changes in climatic conditions neces
 
 ---
 
-## CHUNK 1483
+## CHUNK 1834
 **Metadata:**
 ```json
 {
@@ -42150,7 +49681,7 @@ a. ROSTRUM AND DAIS
 
 ---
 
-## CHUNK 1484
+## CHUNK 1835
 **Metadata:**
 ```json
 {
@@ -42236,7 +49767,7 @@ c. The master of ceremonies will inform the TV and public address commentator of
 
 ---
 
-## CHUNK 1485
+## CHUNK 1836
 **Metadata:**
 ```json
 {
@@ -42300,7 +49831,7 @@ will select a suitable person.
 
 ---
 
-## CHUNK 1486
+## CHUNK 1837
 **Metadata:**
 ```json
 {
@@ -42333,7 +49864,28 @@ An invitation will be issued to each person attending the podium ceremony, with 
 
 ---
 
-## CHUNK 1487
+## CHUNK 1838
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 94,
+  "rule_id": "B9.2",
+  "breadcrumb": "Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2",
+  "section": "Section B",
+  "article": "Article B9: PERSONNEL LIMITATIONS",
+  "sub_article": "B9.2 Operational Personnel"
+}
+```
+
+**Content:**
+[Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2]
+**B9.2** Operational Personnel
+
+---
+
+## CHUNK 1839
 **Metadata:**
 ```json
 {
@@ -42356,7 +49908,28 @@ However, during the period starting forty-five (45) minutes before the start of 
 
 ---
 
-## CHUNK 1488
+## CHUNK 1840
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 94,
+  "rule_id": "B9.5",
+  "breadcrumb": "Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5",
+  "section": "Section B",
+  "article": "Article B9: PERSONNEL LIMITATIONS",
+  "sub_article": "B9.5 Restricted Period(s)"
+}
+```
+
+**Content:**
+[Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5]
+**B9.5** Restricted Period(s)
+
+---
+
+## CHUNK 1841
 **Metadata:**
 ```json
 {
@@ -42385,7 +49958,7 @@ In the case of a breach of this article both drivers must start the Race from th
 
 ---
 
-## CHUNK 1489
+## CHUNK 1842
 **Metadata:**
 ```json
 {
@@ -42437,7 +50010,7 @@ b. Be designed and constructed in order to comply with Section C of the FIA F1 R
 
 ---
 
-## CHUNK 1490
+## CHUNK 1843
 **Metadata:**
 ```json
 {
@@ -42459,11 +50032,32 @@ iv. Tests arranged by the Tyre Supplier may be carried out between 1 January and
 
 .../...
 
+---
+
+## CHUNK 1844
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 95,
+  "rule_id": "B9.2",
+  "breadcrumb": "Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2",
+  "section": "Section B",
+  "article": "Article B9: PERSONNEL LIMITATIONS",
+  "sub_article": "B9.2 Operational Personnel"
+}
+```
+
+**Content:**
+[Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2]
+**B9.2** Operational Personnel
+
 .../...
 
 ---
 
-## CHUNK 1491
+## CHUNK 1845
 **Metadata:**
 ```json
 {
@@ -42486,11 +50080,32 @@ However, during the period starting forty-five (45) minutes before the start of 
 
 .../...
 
+---
+
+## CHUNK 1846
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_b.pdf",
+  "regulatory_year": 2026,
+  "page_number": 96,
+  "rule_id": "B9.5",
+  "breadcrumb": "Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5",
+  "section": "Section B",
+  "article": "Article B9: PERSONNEL LIMITATIONS",
+  "sub_article": "B9.5 Restricted Period(s)"
+}
+```
+
+**Content:**
+[Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5]
+**B9.5** ##  Restricted Period(s)
+
 .../...
 
 ---
 
-## CHUNK 1492
+## CHUNK 1847
 **Metadata:**
 ```json
 {
@@ -42537,14 +50152,14 @@ In the case of a breach of this article both drivers must start the Race from th
 
 ---
 
-## CHUNK 1493
+## CHUNK 1848
 **Metadata:**
 ```json
 {
   "source_pdf": "2026_f1_regulations_section_f_processed.md",
   "regulatory_year": 2026,
   "page_number": null,
-  "rule_id": "F3.2.1",
+  "rule_id": "Unknown",
   "breadcrumb": "# SECTION F: OPERATIONAL REGULATIONS"
 }
 ```
@@ -42560,9 +50175,78 @@ In the case of a breach of this article both drivers must start the Race from th
 
 **Black Text:** Text unchanged from 2026 FIA F1 Regulations - Section F \[Operational] – Iss 05 <span style="color: #ff00ff">Pink Text:</span> Changes relative to 2026 FIA F1 Regulations - Section F \[Operational] – Iss 05, approved by the WMSC on 27/02/2026 <span style="color: #ff0000">\[Red Text]:</span> Information on applicable Governance and relevant Advisory Committee <span style="color: #ffa500">\[Orange Text]:</span> Reference information on relevant FIA F1 Documents <span style="color: #008000">\[Green Text]:</span> Comments / explanations / indication of further work: non-binding and non-regulatory
 
-* **F3.1** F1 Team Factory Shutdown Periods 5
+---
+
+## CHUNK 1849
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 1,
+  "rule_id": "F3.1",
+  "breadcrumb": "Section F > Article F3: COMPETITORS\u2019 SHUTDOWN PERIOD 5 > None > F3.1",
+  "section": "Section F",
+  "article": "Article F3: COMPETITORS\u2019 SHUTDOWN PERIOD 5",
+  "sub_article": "None"
+}
+```
+
+**Content:**
+[Section F > Article F3: COMPETITORS’ SHUTDOWN PERIOD 5 > None > F3.1]
+**F3.1** F1 Team Factory Shutdown Periods 5
 * **F3.2** Power Unit Manufacturer Factory Shutdown Periods 6
 * **F3.2.1** All PU Manufacturers must observe two shutdown periods: 6
+
+---
+
+## CHUNK 1850
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 1,
+  "rule_id": "F4.1",
+  "breadcrumb": "Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) 8 > F4.1 General conditions 8 > F4.1",
+  "section": "Section F",
+  "article": "Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) 8",
+  "sub_article": "F4.1 General conditions 8"
+}
+```
+
+**Content:**
+[Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) 8 > F4.1 General conditions 8 > F4.1]
+**F4.1** General conditions 8
+* **F4.2** Restricted Wind Tunnel Testing (RWTT) 9
+* **F4.3** RWTT Permitted technology 10
+* **F4.4** Restricted CFD (RCFD) simulations 12
+* **F4.5** Exceptions to the Aerodynamic Testing Restrictions (ATR) 15
+* **F4.6** Limits, Reporting, Inspection and Audit 16
+* **F4.7** Movement of Personnel 18
+
+---
+
+## CHUNK 1851
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 1,
+  "rule_id": "F5.1",
+  "breadcrumb": "Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS 19 > F5.1 Power Units Test Benches 19 > F5.1",
+  "section": "Section F",
+  "article": "Article F5: POWER UNIT TEST BENCH RESTRICTIONS 19",
+  "sub_article": "F5.1 Power Units Test Benches 19"
+}
+```
+
+**Content:**
+[Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS 19 > F5.1 Power Units Test Benches 19 > F5.1]
+**F5.1** Power Units Test Benches 19
+* **F5.2** Power Unit Test Benches Operational Restrictions 23
+* **F5.3** Power Unit Test Bench activities affecting PU Manufacturers and F1 Teams 26
 
 **APPENDIX F1: DEFINITIONS** **31**
 
@@ -42576,13 +50260,34 @@ Changes for 2027 32
 Changes for 2028 32
 Changes for 2029 32
 
+---
+
+## CHUNK 1852
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "F3.1",
+  "breadcrumb": "Section F > Article F3: COMPETITORS\u2019 SHUTDOWN PERIOD > F3.1 F1 Team Factory Shutdown Periods > F3.1",
+  "section": "Section F",
+  "article": "Article F3: COMPETITORS\u2019 SHUTDOWN PERIOD",
+  "sub_article": "F3.1 F1 Team Factory Shutdown Periods"
+}
+```
+
+**Content:**
+[Section F > Article F3: COMPETITORS’ SHUTDOWN PERIOD > F3.1 F1 Team Factory Shutdown Periods > F3.1]
+**F3.1** ##  F1 Team Factory Shutdown Periods
+
 <mark>Advisory Committee: TAC</mark>
 
 <mark>Governance: F1 Commission / WMSC</mark>
 
 ---
 
-## CHUNK 1494
+## CHUNK 1853
 **Metadata:**
 ```json
 {
@@ -42607,7 +50312,7 @@ b. The second period of nine (9) consecutive calendar days starting on the 24 De
 
 ---
 
-## CHUNK 1495
+## CHUNK 1854
 **Metadata:**
 ```json
 {
@@ -42638,7 +50343,7 @@ e. Any work activity by any employee, consultant or sub-contractor engaged in de
 
 ---
 
-## CHUNK 1496
+## CHUNK 1855
 **Metadata:**
 ```json
 {
@@ -42659,7 +50364,7 @@ e. Any work activity by any employee, consultant or sub-contractor engaged in de
 
 ---
 
-## CHUNK 1497
+## CHUNK 1856
 **Metadata:**
 ```json
 {
@@ -42698,13 +50403,34 @@ i. Any activity the sole purpose of which is staff wellbeing or entertainment.
 
 j. During the shutdown period described by F3.1.1.b. only, any activity the sole purpose of which is to obtain accurate inventory quantities for financial purposes through a process of counting items of inventory and where such items return to the same physical location after the process as they were in prior to the start of the shutdown.
 
+---
+
+## CHUNK 1857
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 6,
+  "rule_id": "F3.2",
+  "breadcrumb": "Section F > Article F3: COMPETITORS\u2019 SHUTDOWN PERIOD > F3.2 Power Unit Manufacturer Factory Shutdown Periods > F3.2",
+  "section": "Section F",
+  "article": "Article F3: COMPETITORS\u2019 SHUTDOWN PERIOD",
+  "sub_article": "F3.2 Power Unit Manufacturer Factory Shutdown Periods"
+}
+```
+
+**Content:**
+[Section F > Article F3: COMPETITORS’ SHUTDOWN PERIOD > F3.2 Power Unit Manufacturer Factory Shutdown Periods > F3.2]
+**F3.2** #  Power Unit Manufacturer Factory Shutdown Periods
+
 *Advisory Committee: PUAC*
 
 *Governance: PU Manufacturers’ Governance Agreement / WMSC*
 
 ---
 
-## CHUNK 1498
+## CHUNK 1858
 **Metadata:**
 ```json
 {
@@ -42729,7 +50455,7 @@ b. The second period, only from 2023, of nine (9) consecutive calendar days star
 
 ---
 
-## CHUNK 1499
+## CHUNK 1859
 **Metadata:**
 ```json
 {
@@ -42750,7 +50476,7 @@ b. The second period, only from 2023, of nine (9) consecutive calendar days star
 
 ---
 
-## CHUNK 1500
+## CHUNK 1860
 **Metadata:**
 ```json
 {
@@ -42771,7 +50497,7 @@ b. The second period, only from 2023, of nine (9) consecutive calendar days star
 
 ---
 
-## CHUNK 1501
+## CHUNK 1861
 **Metadata:**
 ```json
 {
@@ -42792,7 +50518,7 @@ b. The second period, only from 2023, of nine (9) consecutive calendar days star
 
 ---
 
-## CHUNK 1502
+## CHUNK 1862
 **Metadata:**
 ```json
 {
@@ -42823,7 +50549,7 @@ e. Sub-assembly of Power Unit parts or assembly of Power Units.
 
 ---
 
-## CHUNK 1503
+## CHUNK 1863
 **Metadata:**
 ```json
 {
@@ -42862,7 +50588,7 @@ i. During the shutdown period described by F3.2.1.b. only, any activity the sole
 
 ---
 
-## CHUNK 1504
+## CHUNK 1864
 **Metadata:**
 ```json
 {
@@ -42883,7 +50609,7 @@ i. During the shutdown period described by F3.2.1.b. only, any activity the sole
 
 ---
 
-## CHUNK 1505
+## CHUNK 1865
 **Metadata:**
 ```json
 {
@@ -42907,7 +50633,28 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1506
+## CHUNK 1866
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 8,
+  "rule_id": "F4.1",
+  "breadcrumb": "Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.1 General conditions > F4.1",
+  "section": "Section F",
+  "article": "Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR)",
+  "sub_article": "F4.1 General conditions"
+}
+```
+
+**Content:**
+[Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.1 General conditions > F4.1]
+**F4.1** ##  General conditions
+
+---
+
+## CHUNK 1867
 **Metadata:**
 ```json
 {
@@ -42928,7 +50675,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1507
+## CHUNK 1868
 **Metadata:**
 ```json
 {
@@ -42949,7 +50696,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1508
+## CHUNK 1869
 **Metadata:**
 ```json
 {
@@ -42978,7 +50725,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1509
+## CHUNK 1870
 **Metadata:**
 ```json
 {
@@ -43002,7 +50749,7 @@ g. A baseline RATG is defined as a reference chosen from time to time that serve
 
 ---
 
-## CHUNK 1510
+## CHUNK 1871
 **Metadata:**
 ```json
 {
@@ -43037,7 +50784,7 @@ In exceptional circumstances the FIA may revise these ATP at its absolute discre
 
 ---
 
-## CHUNK 1511
+## CHUNK 1872
 **Metadata:**
 ```json
 {
@@ -43060,7 +50807,28 @@ Any data acquired during Restricted Aerodynamic testing may only be available to
 
 ---
 
-## CHUNK 1512
+## CHUNK 1873
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 9,
+  "rule_id": "F4.2",
+  "breadcrumb": "Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.2 Restricted Wind Tunnel Testing (RWTT) > F4.2",
+  "section": "Section F",
+  "article": "Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR)",
+  "sub_article": "F4.2 Restricted Wind Tunnel Testing (RWTT)"
+}
+```
+
+**Content:**
+[Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.2 Restricted Wind Tunnel Testing (RWTT) > F4.2]
+**F4.2** Restricted Wind Tunnel Testing (RWTT)
+
+---
+
+## CHUNK 1874
 **Metadata:**
 ```json
 {
@@ -43085,7 +50853,7 @@ For the avoidance of doubt, any RWTT carried out on behalf of or for the benefit
 
 ---
 
-## CHUNK 1513
+## CHUNK 1875
 **Metadata:**
 ```json
 {
@@ -43112,7 +50880,7 @@ c. Between runs of RWTT detail changes to the RATG and model are permitted.
 
 ---
 
-## CHUNK 1514
+## CHUNK 1876
 **Metadata:**
 ```json
 {
@@ -43133,7 +50901,7 @@ c. Between runs of RWTT detail changes to the RATG and model are permitted.
 
 ---
 
-## CHUNK 1515
+## CHUNK 1877
 **Metadata:**
 ```json
 {
@@ -43154,7 +50922,7 @@ c. Between runs of RWTT detail changes to the RATG and model are permitted.
 
 ---
 
-## CHUNK 1516
+## CHUNK 1878
 **Metadata:**
 ```json
 {
@@ -43175,7 +50943,7 @@ c. Between runs of RWTT detail changes to the RATG and model are permitted.
 
 ---
 
-## CHUNK 1517
+## CHUNK 1879
 **Metadata:**
 ```json
 {
@@ -43194,11 +50962,32 @@ c. Between runs of RWTT detail changes to the RATG and model are permitted.
 [Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.2 Restricted Wind Tunnel Testing (RWTT) > F4.2.6]
 **F4.2.6** For the avoidance of doubt any RWTT performed for the F1 Team by any Associate of the F1 Team and/or by any contracted party of the F1 Team or of any Associate of the F1 Team or any external entity working on behalf of the F1 Team or for its own purposes and subsequently providing the results of its work to the F1 Team during an ATP will be subject to these same limits as if the tests were performed by the F1 Team.
 
+---
+
+## CHUNK 1880
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 10,
+  "rule_id": "F4.3",
+  "breadcrumb": "Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.3 RWTT Permitted technology > F4.3",
+  "section": "Section F",
+  "article": "Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR)",
+  "sub_article": "F4.3 RWTT Permitted technology"
+}
+```
+
+**Content:**
+[Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.3 RWTT Permitted technology > F4.3]
+**F4.3** RWTT Permitted technology
+
 The following restrictions apply during RWTT:
 
 ---
 
-## CHUNK 1518
+## CHUNK 1881
 **Metadata:**
 ```json
 {
@@ -43221,7 +51010,7 @@ image velocimetry systems where the wind tunnel air transports a flow visualisat
 
 ---
 
-## CHUNK 1519
+## CHUNK 1882
 **Metadata:**
 ```json
 {
@@ -43242,7 +51031,7 @@ image velocimetry systems where the wind tunnel air transports a flow visualisat
 
 ---
 
-## CHUNK 1520
+## CHUNK 1883
 **Metadata:**
 ```json
 {
@@ -43263,7 +51052,7 @@ image velocimetry systems where the wind tunnel air transports a flow visualisat
 
 ---
 
-## CHUNK 1521
+## CHUNK 1884
 **Metadata:**
 ```json
 {
@@ -43304,7 +51093,7 @@ j. Application of flow visualisation liquids
 
 ---
 
-## CHUNK 1522
+## CHUNK 1885
 **Metadata:**
 ```json
 {
@@ -43325,7 +51114,7 @@ j. Application of flow visualisation liquids
 
 ---
 
-## CHUNK 1523
+## CHUNK 1886
 **Metadata:**
 ```json
 {
@@ -43344,13 +51133,34 @@ j. Application of flow visualisation liquids
 [Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.3 RWTT Permitted technology > F4.3.6]
 **F4.3.6** Where non-rigid wind tunnel tyres are used for RWTT these may only be produced by the appointed tyre supplier. Furthermore, devices that actively modify the shape of the tyre during RWTT other than as a result of vertical and lateral loads reacted at the contact patch are not permitted. Tyre pressure control is permitted but the complete wheel must contain only a single fixed internal gas volume. Systems which apply lubricant directly or indirectly to the wind tunnel tyres in order to reduce friction at the contact patches are permitted.
 
+---
+
+## CHUNK 1887
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 12,
+  "rule_id": "F4.4",
+  "breadcrumb": "Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.4 Restricted CFD (RCFD) simulations > F4.4",
+  "section": "Section F",
+  "article": "Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR)",
+  "sub_article": "F4.4 Restricted CFD (RCFD) simulations"
+}
+```
+
+**Content:**
+[Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.4 Restricted CFD (RCFD) simulations > F4.4]
+**F4.4** #  Restricted CFD (RCFD) simulations
+
 RCFDs are Computational Fluid Dynamics (CFD) simulations by a F1 Team or any Associate of a F1 Team and/or by any contracted party of a F1 Team or of any Associate of a F1 Team or any external entity working on behalf of a F1 Team or for its own purposes and subsequently providing the results of its work to a F1 Team of flows that are gaseous in the case of a F1 car and are not classified as power unit simulations. Any simulation of flows contained within the power unit cooling or lubrication systems, air, air/fuel mixtures, combustion process or products of combustion from a boundary commencing at the power unit’s atmospheric air intake ducts, passing through the power unit and finishing at the exit of the exhaust tailpipe will be classified as a power unit simulation.
 
 For the avoidance of doubt, if any CFD simulation (other than the power unit simulation defined above) reveals information to a F1 Team or to an Associate of the F1 Team whether directly, via a contracted party or via an external entity working on behalf of a F1 Team or for its own purposes and subsequently providing the results of its work to a F1 Team, about flows that are gaseous on a F1 car then it is a RCFD simulation. For example, any CFD simulations conducted at scales other than 1:1 or using non-gaseous fluids are still RCFDs as they reveal information about flows that are gaseous on the full size F1 car.
 
 ---
 
-## CHUNK 1524
+## CHUNK 1888
 **Metadata:**
 ```json
 {
@@ -43385,7 +51195,7 @@ None of these modifications may be exploited to circumvent the requirements of t
 
 ---
 
-## CHUNK 1525
+## CHUNK 1889
 **Metadata:**
 ```json
 {
@@ -43415,7 +51225,7 @@ The solver part or parts of all RCFDs must only be carried out using a compute r
 
 ---
 
-## CHUNK 1526
+## CHUNK 1890
 **Metadata:**
 ```json
 {
@@ -43446,7 +51256,7 @@ Any specification of compute resource declared must be available on a non-exclus
 
 ---
 
-## CHUNK 1527
+## CHUNK 1891
 **Metadata:**
 ```json
 {
@@ -43467,7 +51277,7 @@ Any specification of compute resource declared must be available on a non-exclus
 
 ---
 
-## CHUNK 1528
+## CHUNK 1892
 **Metadata:**
 ```json
 {
@@ -43508,7 +51318,7 @@ All information required for auditing of this calculation must be present in the
 
 ---
 
-## CHUNK 1529
+## CHUNK 1893
 **Metadata:**
 ```json
 {
@@ -43547,7 +51357,7 @@ entity working on behalf of the F1 Team or for its own purposes and subsequently
 
 ---
 
-## CHUNK 1530
+## CHUNK 1894
 **Metadata:**
 ```json
 {
@@ -43568,7 +51378,7 @@ entity working on behalf of the F1 Team or for its own purposes and subsequently
 
 ---
 
-## CHUNK 1531
+## CHUNK 1895
 **Metadata:**
 ```json
 {
@@ -43589,7 +51399,7 @@ entity working on behalf of the F1 Team or for its own purposes and subsequently
 
 ---
 
-## CHUNK 1532
+## CHUNK 1896
 **Metadata:**
 ```json
 {
@@ -43610,7 +51420,28 @@ entity working on behalf of the F1 Team or for its own purposes and subsequently
 
 ---
 
-## CHUNK 1533
+## CHUNK 1897
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 15,
+  "rule_id": "F4.5",
+  "breadcrumb": "Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.5 Exceptions to the Aerodynamic Testing Restrictions (ATR) > F4.5",
+  "section": "Section F",
+  "article": "Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR)",
+  "sub_article": "F4.5 Exceptions to the Aerodynamic Testing Restrictions (ATR)"
+}
+```
+
+**Content:**
+[Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.5 Exceptions to the Aerodynamic Testing Restrictions (ATR) > F4.5]
+**F4.5** ##  Exceptions to the Aerodynamic Testing Restrictions (ATR)
+
+---
+
+## CHUNK 1898
 **Metadata:**
 ```json
 {
@@ -43631,7 +51462,7 @@ entity working on behalf of the F1 Team or for its own purposes and subsequently
 
 ---
 
-## CHUNK 1534
+## CHUNK 1899
 **Metadata:**
 ```json
 {
@@ -43652,7 +51483,7 @@ entity working on behalf of the F1 Team or for its own purposes and subsequently
 
 ---
 
-## CHUNK 1535
+## CHUNK 1900
 **Metadata:**
 ```json
 {
@@ -43681,7 +51512,7 @@ d. The gas flow exiting from the exhaust system is ducted away from the testing 
 
 ---
 
-## CHUNK 1536
+## CHUNK 1901
 **Metadata:**
 ```json
 {
@@ -43702,7 +51533,7 @@ d. The gas flow exiting from the exhaust system is ducted away from the testing 
 
 ---
 
-## CHUNK 1537
+## CHUNK 1902
 **Metadata:**
 ```json
 {
@@ -43731,7 +51562,28 @@ For the avoidance of doubt, any wind tunnel testing to develop bodywork parts ot
 
 ---
 
-## CHUNK 1538
+## CHUNK 1903
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 16,
+  "rule_id": "F4.6",
+  "breadcrumb": "Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.6 Limits, Reporting, Inspection and Audit > F4.6",
+  "section": "Section F",
+  "article": "Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR)",
+  "sub_article": "F4.6 Limits, Reporting, Inspection and Audit"
+}
+```
+
+**Content:**
+[Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.6 Limits, Reporting, Inspection and Audit > F4.6]
+**F4.6** #  Limits, Reporting, Inspection and Audit
+
+---
+
+## CHUNK 1904
 **Metadata:**
 ```json
 {
@@ -43789,7 +51641,7 @@ b. C is the coefficient (expressed in percentage form) by which the various para
 
 ---
 
-## CHUNK 1539
+## CHUNK 1905
 **Metadata:**
 ```json
 {
@@ -43810,7 +51662,7 @@ b. C is the coefficient (expressed in percentage form) by which the various para
 
 ---
 
-## CHUNK 1540
+## CHUNK 1906
 **Metadata:**
 ```json
 {
@@ -43831,7 +51683,7 @@ b. C is the coefficient (expressed in percentage form) by which the various para
 
 ---
 
-## CHUNK 1541
+## CHUNK 1907
 **Metadata:**
 ```json
 {
@@ -43852,7 +51704,7 @@ b. C is the coefficient (expressed in percentage form) by which the various para
 
 ---
 
-## CHUNK 1542
+## CHUNK 1908
 **Metadata:**
 ```json
 {
@@ -43875,7 +51727,7 @@ Should the FIA wish to access the images for inspection at any time they must be
 
 ---
 
-## CHUNK 1543
+## CHUNK 1909
 **Metadata:**
 ```json
 {
@@ -43896,7 +51748,7 @@ Should the FIA wish to access the images for inspection at any time they must be
 
 ---
 
-## CHUNK 1544
+## CHUNK 1910
 **Metadata:**
 ```json
 {
@@ -43917,7 +51769,7 @@ Should the FIA wish to access the images for inspection at any time they must be
 
 ---
 
-## CHUNK 1545
+## CHUNK 1911
 **Metadata:**
 ```json
 {
@@ -43938,7 +51790,7 @@ Should the FIA wish to access the images for inspection at any time they must be
 
 ---
 
-## CHUNK 1546
+## CHUNK 1912
 **Metadata:**
 ```json
 {
@@ -43959,7 +51811,7 @@ Should the FIA wish to access the images for inspection at any time they must be
 
 ---
 
-## CHUNK 1547
+## CHUNK 1913
 **Metadata:**
 ```json
 {
@@ -43978,13 +51830,55 @@ Should the FIA wish to access the images for inspection at any time they must be
 [Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.6 Limits, Reporting, Inspection and Audit > F4.6.10]
 **F4.6.10** Failure to comply with the limits of the ATR by a F1 Team will result in a reduction of the limits that will apply to subsequent ATP or ATPs for that F1 Team at the FIA’s absolute discretion but by a minimum reduction equivalent to 10 multiples of the amount by which the relevant limit or limits were exceeded without prejudice to further appropriate action. (For example, if a F1 Team carries out 325 restricted wind tunnel runs against a maximum of 320 in an ATP, that F1 Team shall only be permitted to make 270 restricted wind tunnel runs during the next ATP).
 
+---
+
+## CHUNK 1914
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 18,
+  "rule_id": "F4.7",
+  "breadcrumb": "Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.7 Movement of Personnel > F4.7",
+  "section": "Section F",
+  "article": "Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR)",
+  "sub_article": "F4.7 Movement of Personnel"
+}
+```
+
+**Content:**
+[Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.7 Movement of Personnel > F4.7]
+**F4.7** Movement of Personnel
+
 No F1 Team may use movement of personnel involved in the development, design or testing of aerodynamic surfaces (whether employee, consultant, contractor, secondee or any other type of permanent or temporary personnel) with another F1 Team, either directly or via an external entity, for the purpose of circumventing the requirements of this Article. In order that the FIA may be satisfied that any such movement of staff is compliant with this Article, each F1 Team must inform the FIA of all relevant staff movements at the end of each ATP using the template which may be found in the Guidance Documents (GD’s) and must demonstrate that they have implemented all reasonable measures to avoid the disclosure of information, data or designs between the F1 Teams involved.
 
 <mark>Advisory Committee: PUAC</mark> <mark>Governance: PU Manufacturers’ Governance Agreement / WMSC</mark>
 
 ---
 
-## CHUNK 1548
+## CHUNK 1915
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 19,
+  "rule_id": "F5.1",
+  "breadcrumb": "Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.1 Power Units Test Benches > F5.1",
+  "section": "Section F",
+  "article": "Article F5: POWER UNIT TEST BENCH RESTRICTIONS",
+  "sub_article": "F5.1 Power Units Test Benches"
+}
+```
+
+**Content:**
+[Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.1 Power Units Test Benches > F5.1]
+**F5.1** ##  Power Units Test Benches
+
+---
+
+## CHUNK 1916
 **Metadata:**
 ```json
 {
@@ -44005,7 +51899,7 @@ No F1 Team may use movement of personnel involved in the development, design or 
 
 ---
 
-## CHUNK 1549
+## CHUNK 1917
 **Metadata:**
 ```json
 {
@@ -44040,7 +51934,7 @@ A Single-Cylinder Dynamometer must consist of a single mechanical input motor/ab
 
 ---
 
-## CHUNK 1550
+## CHUNK 1918
 **Metadata:**
 ```json
 {
@@ -44093,7 +51987,7 @@ A pair of identical single mechanical input motors/absorbers coupled by means of
 
 ---
 
-## CHUNK 1551
+## CHUNK 1919
 **Metadata:**
 ```json
 {
@@ -44148,7 +52042,7 @@ A Power Train Dynamometer may also be owned by the “Works” F1 Team supplied 
 
 ---
 
-## CHUNK 1552
+## CHUNK 1920
 **Metadata:**
 ```json
 {
@@ -44179,7 +52073,7 @@ Dynamometer already declared by the respective PU Manufacturer under Article F5.
 
 ---
 
-## CHUNK 1553
+## CHUNK 1921
 **Metadata:**
 ```json
 {
@@ -44202,7 +52096,7 @@ An ES Test bench is a test facility cell which can electrically test only the ES
 
 ---
 
-## CHUNK 1554
+## CHUNK 1922
 **Metadata:**
 ```json
 {
@@ -44239,7 +52133,7 @@ A PU Manufacturer may also have one additional Test Bench to test the Energy Sto
 
 ---
 
-## CHUNK 1555
+## CHUNK 1923
 **Metadata:**
 ```json
 {
@@ -44270,7 +52164,7 @@ Any Test Bench facility designed to emulate one of the PUTBs listed in this Arti
 
 ---
 
-## CHUNK 1556
+## CHUNK 1924
 **Metadata:**
 ```json
 {
@@ -44333,7 +52227,7 @@ Any other Test Benches, which may be deemed to offer similar benefits, must also
 
 ---
 
-## CHUNK 1557
+## CHUNK 1925
 **Metadata:**
 ```json
 {
@@ -44359,7 +52253,28 @@ Details of the process for Declaration of PUTBs may be found in the Guidance Doc
 
 ---
 
-## CHUNK 1558
+## CHUNK 1926
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 23,
+  "rule_id": "F5.2",
+  "breadcrumb": "Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.2 Power Unit Test Benches Operational Restrictions > F5.2",
+  "section": "Section F",
+  "article": "Article F5: POWER UNIT TEST BENCH RESTRICTIONS",
+  "sub_article": "F5.2 Power Unit Test Benches Operational Restrictions"
+}
+```
+
+**Content:**
+[Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.2 Power Unit Test Benches Operational Restrictions > F5.2]
+**F5.2** #  Power Unit Test Benches Operational Restrictions
+
+---
+
+## CHUNK 1927
 **Metadata:**
 ```json
 {
@@ -44384,7 +52299,7 @@ The performance of each PU Manufacturer’s ICE will be measured during Competit
 
 ---
 
-## CHUNK 1559
+## CHUNK 1928
 **Metadata:**
 ```json
 {
@@ -44417,7 +52332,7 @@ PUTB activity records for year N must be retained until the end of year N+2.
 
 ---
 
-## CHUNK 1560
+## CHUNK 1929
 **Metadata:**
 ```json
 {
@@ -44444,7 +52359,7 @@ Details about these declaration formats, and any information that needs to be su
 
 ---
 
-## CHUNK 1561
+## CHUNK 1930
 **Metadata:**
 ```json
 {
@@ -44469,7 +52384,7 @@ Restricted PUTB Testing is limited by PUTB Operation Hours and PUTB Occupancy Ho
 
 ---
 
-## CHUNK 1562
+## CHUNK 1931
 **Metadata:**
 ```json
 {
@@ -44499,7 +52414,7 @@ For the avoidance of doubt, the following will not count towards the ICE Operati
 
 ---
 
-## CHUNK 1563
+## CHUNK 1932
 **Metadata:**
 ```json
 {
@@ -44530,7 +52445,7 @@ If a PUTB test crosses midnight Test Bench Occupancy hours will both stop and st
 
 ---
 
-## CHUNK 1564
+## CHUNK 1933
 **Metadata:**
 ```json
 {
@@ -44593,7 +52508,7 @@ f. From the beginning of year N onwards, each Reporting Period, as defined in Ar
 
 ---
 
-## CHUNK 1565
+## CHUNK 1934
 **Metadata:**
 ```json
 {
@@ -44618,7 +52533,7 @@ FIA project: Activity on a Power Unit Dynamometer or a Power Train Dynamometer s
 
 ---
 
-## CHUNK 1566
+## CHUNK 1935
 **Metadata:**
 ```json
 {
@@ -44641,11 +52556,32 @@ Further to the provisions of Article F5.2.2, and for the avoidance of doubt, PUT
 
 However, it remains the responsibility of the PU Manufacturer to satisfy the FIA that any 2022 PU work does not in any way contribute to the 2026 PU program.
 
+---
+
+## CHUNK 1936
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_f.pdf",
+  "regulatory_year": 2026,
+  "page_number": 26,
+  "rule_id": "F5.3",
+  "breadcrumb": "Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.3 Power Unit Test Bench activities affecting PU Manufacturers and F1 Teams > F5.3",
+  "section": "Section F",
+  "article": "Article F5: POWER UNIT TEST BENCH RESTRICTIONS",
+  "sub_article": "F5.3 Power Unit Test Bench activities affecting PU Manufacturers and F1 Teams"
+}
+```
+
+**Content:**
+[Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.3 Power Unit Test Bench activities affecting PU Manufacturers and F1 Teams > F5.3]
+**F5.3** #  Power Unit Test Bench activities affecting PU Manufacturers and F1 Teams
+
 General Principles
 
 ---
 
-## CHUNK 1567
+## CHUNK 1937
 **Metadata:**
 ```json
 {
@@ -44678,7 +52614,7 @@ It is acknowledged that perfect achievement of the above objectives may not be p
 
 ---
 
-## CHUNK 1568
+## CHUNK 1938
 **Metadata:**
 ```json
 {
@@ -44717,7 +52653,7 @@ for the purpose of this subclause (c) only, the criterion of "Sole Purpose of Te
 
 ---
 
-## CHUNK 1569
+## CHUNK 1939
 **Metadata:**
 ```json
 {
@@ -44740,7 +52676,7 @@ For the avoidance of doubt, the provisions of this Article F5.3.3 regard Competi
 
 ---
 
-## CHUNK 1570
+## CHUNK 1940
 **Metadata:**
 ```json
 {
@@ -44777,7 +52713,7 @@ For any PUTB testing performed under the provisions of this Article to not count
 
 ---
 
-## CHUNK 1571
+## CHUNK 1941
 **Metadata:**
 ```json
 {
@@ -44833,7 +52769,7 @@ f. For the avoidance of doubt, should the “works/factory” F1 Team of the PU 
 
 ---
 
-## CHUNK 1572
+## CHUNK 1942
 **Metadata:**
 ```json
 {
@@ -44884,7 +52820,7 @@ f. For the avoidance of doubt, should the “works/factory” F1 Team of the PU 
 
 ---
 
-## CHUNK 1573
+## CHUNK 1943
 **Metadata:**
 ```json
 {
@@ -44906,6 +52842,169 @@ f. For the avoidance of doubt, should the “works/factory” F1 Team of the PU 
 **CONVENTION:**
 
 **Black Text:** Text unchanged from 2026 FIA F1 Regulations – Section A \[General Regulatory Provisions] – Iss 01 <span style="color: #FF00FF">Pink Text:</span> Changes relative to 2026 FIA F1 Regulations - Section A \[General Regulatory Provisions] – Iss 01, approved by the WMSC on 27/02/26 <span style="color: red">\[Red Text]:</span> Information on applicable Governance and relevant Advisory Committee <span style="color: orange">\[Orange Text]:</span> Reference information on relevant FIA F1 Document(s) <span style="color: green">\[Green Text]:</span> Comments / explanations / indication of further work: non-binding and non-regulatory
+
+---
+
+## CHUNK 1944
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "A4.1",
+  "breadcrumb": "Section A > Article A4: INTEGRITY REQUIREMENTS 17 > A4.1 Fit and Proper Persons Test 17 > A4.1",
+  "section": "Section A",
+  "article": "Article A4: INTEGRITY REQUIREMENTS 17",
+  "sub_article": "A4.1 Fit and Proper Persons Test 17"
+}
+```
+
+**Content:**
+[Section A > Article A4: INTEGRITY REQUIREMENTS 17 > A4.1 Fit and Proper Persons Test 17 > A4.1]
+**A4.1** Fit and Proper Persons Test 17
+A4.2 Anti-doping 17
+A4.3 Prevention of Competition manipulation 18
+A4.4 Safeguarding 18
+A4.5 Anti-alcohol 18
+
+---
+
+## CHUNK 1945
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "A5.1",
+  "breadcrumb": "Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS 19 > A5.1 General obligations applicable to all 19 > A5.1",
+  "section": "Section A",
+  "article": "Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS 19",
+  "sub_article": "A5.1 General obligations applicable to all 19"
+}
+```
+
+**Content:**
+[Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS 19 > A5.1 General obligations applicable to all 19 > A5.1]
+**A5.1** General obligations applicable to all 19
+A5.2 FIA 20
+A5.3 Promoters and Organisers 20
+A5.4 ASNs 21
+A5.5 Circuit Operators 22
+A5.6 Officials 22
+A5.7 F1 Teams and PU Manufacturers 22
+A5.8 F1 Drivers and Other Racing Drivers 25
+A5.9 Other Covered Persons 25
+
+---
+
+## CHUNK 1946
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "A6.1",
+  "breadcrumb": "Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES 26 > A6.1 Investigations 26 > A6.1",
+  "section": "Section A",
+  "article": "Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES 26",
+  "sub_article": "A6.1 Investigations 26"
+}
+```
+
+**Content:**
+[Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES 26 > A6.1 Investigations 26 > A6.1]
+**A6.1** Investigations 26
+A6.2 FIA Ethics and Compliance Hotline 28
+A6.3 FIA requests for information/access and Demands 28
+A6.4 Notification of apparent or alleged breaches 28
+
+---
+
+## CHUNK 1947
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 2,
+  "rule_id": "A7.1",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS 30 > A7.1 Case resolution without a hearing 30 > A7.1",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS 30",
+  "sub_article": "A7.1 Case resolution without a hearing 30"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS 30 > A7.1 Case resolution without a hearing 30 > A7.1]
+**A7.1** Case resolution without a hearing 30
+A7.2 Adjudication – first instance 30
+A7.3 Adjudication – appeal 31
+A7.4 Referral of first instance matters 32
+A7.5 Appeals to the ICA 32
+A7.6 Protests 33
+A7.7 Right of Review 33
+A7.8 FIA representation in proceedings 33
+A7.9 Limitation period 33
+A7.10 Burden and standard of proof 34
+A7.11 Evidence 34
+A7.12 Sanctions 34
+A7.13 Costs 36
+A7.14 Immunity 36
+
+---
+
+## CHUNK 1948
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "A8.1",
+  "breadcrumb": "Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY 38 > A8.1 Confidentiality 38 > A8.1",
+  "section": "Section A",
+  "article": "Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY 38",
+  "sub_article": "A8.1 Confidentiality 38"
+}
+```
+
+**Content:**
+[Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY 38 > A8.1 Confidentiality 38 > A8.1]
+**A8.1** Confidentiality 38
+A8.2 Public reporting 38
+A8.3 Data privacy 39
+
+---
+
+## CHUNK 1949
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 3,
+  "rule_id": "A9.1",
+  "breadcrumb": "Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS 40 > A9.1 Effective period of the FIA F1 Regulations 40 > A9.1",
+  "section": "Section A",
+  "article": "Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS 40",
+  "sub_article": "A9.1 Effective period of the FIA F1 Regulations 40"
+}
+```
+
+**Content:**
+[Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS 40 > A9.1 Effective period of the FIA F1 Regulations 40 > A9.1]
+**A9.1** Effective period of the FIA F1 Regulations 40
+A9.2 Effective period of FIA F1 Documents 40
+A9.3 Amendments 40
+A9.4 Interpretation 41
+A9.5 Requests for clarification and FIA feedback 43
+A9.6 Language of communication with the FIA 43
+A9.7 Reliance on FIA communications 43
+A9.8 Transitional provisions 43
 
 **APPENDIX A1: DEFINITIONS** **45**
 
@@ -44954,7 +53053,28 @@ h. preserve the unique technology, innovation, and engineering challenge of Form
 
 ---
 
-## CHUNK 1574
+## CHUNK 1950
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "A1.1",
+  "breadcrumb": "Section A > Article A1: GENERAL PRINCIPLES > A1.1 Overview > A1.1",
+  "section": "Section A",
+  "article": "Article A1: GENERAL PRINCIPLES",
+  "sub_article": "A1.1 Overview"
+}
+```
+
+**Content:**
+[Section A > Article A1: GENERAL PRINCIPLES > A1.1 Overview > A1.1]
+**A1.1** ##  Overview
+
+---
+
+## CHUNK 1951
 **Metadata:**
 ```json
 {
@@ -44975,7 +53095,7 @@ h. preserve the unique technology, innovation, and engineering challenge of Form
 
 ---
 
-## CHUNK 1575
+## CHUNK 1952
 **Metadata:**
 ```json
 {
@@ -44996,7 +53116,7 @@ h. preserve the unique technology, innovation, and engineering challenge of Form
 
 ---
 
-## CHUNK 1576
+## CHUNK 1953
 **Metadata:**
 ```json
 {
@@ -45017,7 +53137,28 @@ h. preserve the unique technology, innovation, and engineering challenge of Form
 
 ---
 
-## CHUNK 1577
+## CHUNK 1954
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 5,
+  "rule_id": "A1.2",
+  "breadcrumb": "Section A > Article A1: GENERAL PRINCIPLES > A1.2 Applicable regulations > A1.2",
+  "section": "Section A",
+  "article": "Article A1: GENERAL PRINCIPLES",
+  "sub_article": "A1.2 Applicable regulations"
+}
+```
+
+**Content:**
+[Section A > Article A1: GENERAL PRINCIPLES > A1.2 Applicable regulations > A1.2]
+**A1.2** ##  Applicable regulations
+
+---
+
+## CHUNK 1955
 **Metadata:**
 ```json
 {
@@ -45038,7 +53179,7 @@ h. preserve the unique technology, innovation, and engineering challenge of Form
 
 ---
 
-## CHUNK 1578
+## CHUNK 1956
 **Metadata:**
 ```json
 {
@@ -45071,7 +53212,7 @@ h. preserve the unique technology, innovation, and engineering challenge of Form
 
 ---
 
-## CHUNK 1579
+## CHUNK 1957
 **Metadata:**
 ```json
 {
@@ -45108,7 +53249,7 @@ iv. defining any urgent action(s) that the FIA considers necessary to protect th
 
 ---
 
-## CHUNK 1580
+## CHUNK 1958
 **Metadata:**
 ```json
 {
@@ -45140,7 +53281,7 @@ v. providing operational instructions or information.
 
 ---
 
-## CHUNK 1581
+## CHUNK 1959
 **Metadata:**
 ```json
 {
@@ -45167,7 +53308,28 @@ Where Applicable Laws may conflict with the obligations of a Covered Person, as 
 
 ---
 
-## CHUNK 1582
+## CHUNK 1960
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 7,
+  "rule_id": "A1.3",
+  "breadcrumb": "Section A > Article A1: GENERAL PRINCIPLES > A1.3 Application > A1.3",
+  "section": "Section A",
+  "article": "Article A1: GENERAL PRINCIPLES",
+  "sub_article": "A1.3 Application"
+}
+```
+
+**Content:**
+[Section A > Article A1: GENERAL PRINCIPLES > A1.3 Application > A1.3]
+**A1.3** #  Application
+
+---
+
+## CHUNK 1961
 **Metadata:**
 ```json
 {
@@ -45188,7 +53350,7 @@ Where Applicable Laws may conflict with the obligations of a Covered Person, as 
 
 ---
 
-## CHUNK 1583
+## CHUNK 1962
 **Metadata:**
 ```json
 {
@@ -45235,7 +53397,7 @@ m. any other Person who agrees in writing to be bound by the FIA Rules and Regul
 
 ---
 
-## CHUNK 1584
+## CHUNK 1963
 **Metadata:**
 ```json
 {
@@ -45256,7 +53418,28 @@ m. any other Person who agrees in writing to be bound by the FIA Rules and Regul
 
 ---
 
-## CHUNK 1585
+## CHUNK 1964
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 7,
+  "rule_id": "A1.4",
+  "breadcrumb": "Section A > Article A1: GENERAL PRINCIPLES > A1.4 General responsibility for breaches > A1.4",
+  "section": "Section A",
+  "article": "Article A1: GENERAL PRINCIPLES",
+  "sub_article": "A1.4 General responsibility for breaches"
+}
+```
+
+**Content:**
+[Section A > Article A1: GENERAL PRINCIPLES > A1.4 General responsibility for breaches > A1.4]
+**A1.4** #  General responsibility for breaches
+
+---
+
+## CHUNK 1965
 **Metadata:**
 ```json
 {
@@ -45279,7 +53462,7 @@ its behalf or on behalf of any entity in its Legal Group. Without limiting the g
 
 ---
 
-## CHUNK 1586
+## CHUNK 1966
 **Metadata:**
 ```json
 {
@@ -45300,7 +53483,7 @@ its behalf or on behalf of any entity in its Legal Group. Without limiting the g
 
 ---
 
-## CHUNK 1587
+## CHUNK 1967
 **Metadata:**
 ```json
 {
@@ -45327,7 +53510,7 @@ In all other cases, where a Financial Penalty is applicable for the specific act
 
 ---
 
-## CHUNK 1588
+## CHUNK 1968
 **Metadata:**
 ```json
 {
@@ -45351,7 +53534,28 @@ In all other cases, where a Financial Penalty is applicable for the specific act
 
 ---
 
-## CHUNK 1589
+## CHUNK 1969
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 9,
+  "rule_id": "A2.1",
+  "breadcrumb": "Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.1 Format of the Championship > A2.1",
+  "section": "Section A",
+  "article": "Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP",
+  "sub_article": "A2.1 Format of the Championship"
+}
+```
+
+**Content:**
+[Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.1 Format of the Championship > A2.1]
+**A2.1** ##  Format of the Championship
+
+---
+
+## CHUNK 1970
 **Metadata:**
 ```json
 {
@@ -45372,7 +53576,7 @@ In all other cases, where a Financial Penalty is applicable for the specific act
 
 ---
 
-## CHUNK 1590
+## CHUNK 1971
 **Metadata:**
 ```json
 {
@@ -45393,7 +53597,7 @@ In all other cases, where a Financial Penalty is applicable for the specific act
 
 ---
 
-## CHUNK 1591
+## CHUNK 1972
 **Metadata:**
 ```json
 {
@@ -45414,7 +53618,7 @@ In all other cases, where a Financial Penalty is applicable for the specific act
 
 ---
 
-## CHUNK 1592
+## CHUNK 1973
 **Metadata:**
 ```json
 {
@@ -45449,7 +53653,28 @@ iv. If this procedure fails to produce a result, the same criteria as above will
 
 ---
 
-## CHUNK 1593
+## CHUNK 1974
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 9,
+  "rule_id": "A2.2",
+  "breadcrumb": "Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.2 Championship points system > A2.2",
+  "section": "Section A",
+  "article": "Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP",
+  "sub_article": "A2.2 Championship points system"
+}
+```
+
+**Content:**
+[Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.2 Championship points system > A2.2]
+**A2.2** ##  Championship points system
+
+---
+
+## CHUNK 1975
 **Metadata:**
 ```json
 {
@@ -45495,7 +53720,7 @@ d. If the leader has completed 75% or more of the Scheduled Race Distance, point
 
 ---
 
-## CHUNK 1594
+## CHUNK 1976
 **Metadata:**
 ```json
 {
@@ -45536,7 +53761,7 @@ b. If the leader has completed 50% or more of the Scheduled Sprint Distance, poi
 
 ---
 
-## CHUNK 1595
+## CHUNK 1977
 **Metadata:**
 ```json
 {
@@ -45561,7 +53786,28 @@ Prizes and points awarded for F1 Cars that are tied for the same position will b
 
 ---
 
-## CHUNK 1596
+## CHUNK 1978
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 11,
+  "rule_id": "A2.3",
+  "breadcrumb": "Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.3 F1 Car livery > A2.3",
+  "section": "Section A",
+  "article": "Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP",
+  "sub_article": "A2.3 F1 Car livery"
+}
+```
+
+**Content:**
+[Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.3 F1 Car livery > A2.3]
+**A2.3** #  F1 Car livery
+
+---
+
+## CHUNK 1979
 **Metadata:**
 ```json
 {
@@ -45584,7 +53830,7 @@ The provisions of the ISC relating to F1 Car livery shall not apply to the Champ
 
 ---
 
-## CHUNK 1597
+## CHUNK 1980
 **Metadata:**
 ```json
 {
@@ -45607,7 +53853,7 @@ Both F1 Cars entered by an F1 Team must be presented in substantially the same l
 
 ---
 
-## CHUNK 1598
+## CHUNK 1981
 **Metadata:**
 ```json
 {
@@ -45633,7 +53879,7 @@ Both F1 Cars entered by an F1 Team must be presented in substantially the same l
 
 ---
 
-## CHUNK 1599
+## CHUNK 1982
 **Metadata:**
 ```json
 {
@@ -45663,7 +53909,28 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1600
+## CHUNK 1983
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 12,
+  "rule_id": "A2.4",
+  "breadcrumb": "Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.4 Competition Numbers > A2.4",
+  "section": "Section A",
+  "article": "Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP",
+  "sub_article": "A2.4 Competition Numbers"
+}
+```
+
+**Content:**
+[Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.4 Competition Numbers > A2.4]
+**A2.4** #  Competition Numbers
+
+---
+
+## CHUNK 1984
 **Metadata:**
 ```json
 {
@@ -45684,7 +53951,7 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1601
+## CHUNK 1985
 **Metadata:**
 ```json
 {
@@ -45705,7 +53972,7 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1602
+## CHUNK 1986
 **Metadata:**
 ```json
 {
@@ -45726,7 +53993,7 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1603
+## CHUNK 1987
 **Metadata:**
 ```json
 {
@@ -45747,7 +54014,7 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1604
+## CHUNK 1988
 **Metadata:**
 ```json
 {
@@ -45768,7 +54035,7 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1605
+## CHUNK 1989
 **Metadata:**
 ```json
 {
@@ -45789,7 +54056,28 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1606
+## CHUNK 1990
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 12,
+  "rule_id": "A2.5",
+  "breadcrumb": "Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.5 Postponement or cancellation of a Competition > A2.5",
+  "section": "Section A",
+  "article": "Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP",
+  "sub_article": "A2.5 Postponement or cancellation of a Competition"
+}
+```
+
+**Content:**
+[Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.5 Postponement or cancellation of a Competition > A2.5]
+**A2.5** #  Postponement or cancellation of a Competition
+
+---
+
+## CHUNK 1991
 **Metadata:**
 ```json
 {
@@ -45810,7 +54098,7 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1607
+## CHUNK 1992
 **Metadata:**
 ```json
 {
@@ -45831,7 +54119,28 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1608
+## CHUNK 1993
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 12,
+  "rule_id": "A2.6",
+  "breadcrumb": "Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.6 FIA Prize Giving Ceremony and Gala Dinner > A2.6",
+  "section": "Section A",
+  "article": "Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP",
+  "sub_article": "A2.6 FIA Prize Giving Ceremony and Gala Dinner"
+}
+```
+
+**Content:**
+[Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.6 FIA Prize Giving Ceremony and Gala Dinner > A2.6]
+**A2.6** #  FIA Prize Giving Ceremony and Gala Dinner
+
+---
+
+## CHUNK 1994
 **Metadata:**
 ```json
 {
@@ -45852,7 +54161,7 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1609
+## CHUNK 1995
 **Metadata:**
 ```json
 {
@@ -45876,7 +54185,28 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1610
+## CHUNK 1996
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 13,
+  "rule_id": "A3.1",
+  "breadcrumb": "Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.1 F1 Team entry applications > A3.1",
+  "section": "Section A",
+  "article": "Article A3: ENTRIES, LICENCES AND REGISTRATION",
+  "sub_article": "A3.1 F1 Team entry applications"
+}
+```
+
+**Content:**
+[Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.1 F1 Team entry applications > A3.1]
+**A3.1** ##  F1 Team entry applications
+
+---
+
+## CHUNK 1997
 **Metadata:**
 ```json
 {
@@ -45897,7 +54227,7 @@ e. Livery may not protrude beyond the bodywork of the F1 Car and must be substan
 
 ---
 
-## CHUNK 1611
+## CHUNK 1998
 **Metadata:**
 ```json
 {
@@ -45922,7 +54252,7 @@ If any of the information submitted with the entry application (including in the
 
 ---
 
-## CHUNK 1612
+## CHUNK 1999
 **Metadata:**
 ```json
 {
@@ -45959,7 +54289,7 @@ active competition with other F1 Teams in order to achieve the highest position 
 
 ---
 
-## CHUNK 1613
+## CHUNK 2000
 **Metadata:**
 ```json
 {
@@ -45982,7 +54312,7 @@ requirements will not be accepted by the FIA. The FIA will publish the list of F
 
 ---
 
-## CHUNK 1614
+## CHUNK 2001
 **Metadata:**
 ```json
 {
@@ -46001,13 +54331,55 @@ requirements will not be accepted by the FIA. The FIA will publish the list of F
 [Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.1 F1 Team entry applications > A3.1.5]
 **A3.1.5** Successful applicants are automatically entered in all Competitions of the Championship. An F1 Team may not participate in the Championship or any Competition unless its entry application has been accepted by the FIA.
 
+---
+
+## CHUNK 2002
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 14,
+  "rule_id": "A3.2",
+  "breadcrumb": "Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.2 Power Unit Manufacturer entry applications > A3.2",
+  "section": "Section A",
+  "article": "Article A3: ENTRIES, LICENCES AND REGISTRATION",
+  "sub_article": "A3.2 Power Unit Manufacturer entry applications"
+}
+```
+
+**Content:**
+[Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.2 Power Unit Manufacturer entry applications > A3.2]
+**A3.2** Power Unit Manufacturer entry applications
+
 *Governance: PU Manufacturers’ Governance Agreement / WMSC*
 
 Any PU Manufacturer registered in accordance with the procedures set out in Article 1 of Appendix A7 to supply Power Units for use by one or more F1 Teams in the 2026 to 2030 Championships must submit to the FIA a Power Unit homologation dossier before 1 March of the first year in which it intends to supply such power unit for use during the Championship period indicated, in accordance with the requirements of Appendix C5. The homologation granted will be valid until the end of the 2030 Championship, unless there is a substantive change to the PU Regulations necessitating a new homologation dossier to be submitted. The homologation dossier may be updated from time to time in accordance with the process defined in <mark>the Appendix C5 of Section C</mark>.
 
 ---
 
-## CHUNK 1615
+## CHUNK 2003
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 14,
+  "rule_id": "A3.3",
+  "breadcrumb": "Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.3 Licences > A3.3",
+  "section": "Section A",
+  "article": "Article A3: ENTRIES, LICENCES AND REGISTRATION",
+  "sub_article": "A3.3 Licences"
+}
+```
+
+**Content:**
+[Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.3 Licences > A3.3]
+**A3.3** Licences
+
+---
+
+## CHUNK 2004
 **Metadata:**
 ```json
 {
@@ -46032,7 +54404,7 @@ b. When a penalty other than a reprimand or fine, is imposed under the ISC or Ar
 
 ---
 
-## CHUNK 1616
+## CHUNK 2005
 **Metadata:**
 ```json
 {
@@ -46053,7 +54425,7 @@ b. When a penalty other than a reprimand or fine, is imposed under the ISC or Ar
 
 ---
 
-## CHUNK 1617
+## CHUNK 2006
 **Metadata:**
 ```json
 {
@@ -46072,6 +54444,27 @@ b. When a penalty other than a reprimand or fine, is imposed under the ISC or Ar
 [Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.3 Licences > A3.3.3]
 **A3.3.3** Organisers and the following Officials must each hold a valid Super Licence: Stewards, race directors, clerks of the course, medical delegates, deputy medical delegates, technical delegates, media delegates, timekeepers, Safety Car drivers, masters of ceremonies, and any other Officials specified by the FIA. Such Super Licences must be renewed annually.
 
+---
+
+## CHUNK 2007
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 15,
+  "rule_id": "A3.4",
+  "breadcrumb": "Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.4 Certificate of registration for key Personnel of F1 Teams and PU Manufacturers > A3.4",
+  "section": "Section A",
+  "article": "Article A3: ENTRIES, LICENCES AND REGISTRATION",
+  "sub_article": "A3.4 Certificate of registration for key Personnel of F1 Teams and PU Manufacturers"
+}
+```
+
+**Content:**
+[Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.4 Certificate of registration for key Personnel of F1 Teams and PU Manufacturers > A3.4]
+**A3.4** #  Certificate of registration for key Personnel of F1 Teams and PU Manufacturers
+
 <mark>Advisory Committee: RGAC</mark>
 
 <mark>Governance: F1 Commission / PU Manufacturers’ Governance Agreement / WMSC</mark>
@@ -46080,7 +54473,28 @@ In accordance with ISC Articles 2.6.4 and 2.6.5, F1 Teams and PU Manufacturers m
 
 ---
 
-## CHUNK 1618
+## CHUNK 2008
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 15,
+  "rule_id": "A3.5",
+  "breadcrumb": "Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.5 New Entrant Teams > A3.5",
+  "section": "Section A",
+  "article": "Article A3: ENTRIES, LICENCES AND REGISTRATION",
+  "sub_article": "A3.5 New Entrant Teams"
+}
+```
+
+**Content:**
+[Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.5 New Entrant Teams > A3.5]
+**A3.5** #  New Entrant Teams
+
+---
+
+## CHUNK 2009
 **Metadata:**
 ```json
 {
@@ -46113,7 +54527,7 @@ In the event the confirmation of the New Entrant Team occurs at a time after the
 
 ---
 
-## CHUNK 1619
+## CHUNK 2010
 **Metadata:**
 ```json
 {
@@ -46132,11 +54546,32 @@ In the event the confirmation of the New Entrant Team occurs at a time after the
 [Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.5 New Entrant Teams > A3.5.2]
 **A3.5.2** New Entrant Teams must comply with the Fit and Proper Persons Test (see Article A4.1) set out as an Appendix to the ISC.
 
+---
+
+## CHUNK 2011
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 15,
+  "rule_id": "A3.6",
+  "breadcrumb": "Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.6 New Entrant PU Manufacturers > A3.6",
+  "section": "Section A",
+  "article": "Article A3: ENTRIES, LICENCES AND REGISTRATION",
+  "sub_article": "A3.6 New Entrant PU Manufacturers"
+}
+```
+
+**Content:**
+[Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.6 New Entrant PU Manufacturers > A3.6]
+**A3.6** #  New Entrant PU Manufacturers
+
 <mark>Governance: PU Manufacturers’ Governance Agreement / WMSC</mark>
 
 ---
 
-## CHUNK 1620
+## CHUNK 2012
 **Metadata:**
 ```json
 {
@@ -46157,7 +54592,7 @@ In the event the confirmation of the New Entrant Team occurs at a time after the
 
 ---
 
-## CHUNK 1621
+## CHUNK 2013
 **Metadata:**
 ```json
 {
@@ -46178,7 +54613,7 @@ In the event the confirmation of the New Entrant Team occurs at a time after the
 
 ---
 
-## CHUNK 1622
+## CHUNK 2014
 **Metadata:**
 ```json
 {
@@ -46201,7 +54636,7 @@ The FIA may accept the registration of a PU Manufacturer who has failed to compl
 
 ---
 
-## CHUNK 1623
+## CHUNK 2015
 **Metadata:**
 ```json
 {
@@ -46222,7 +54657,7 @@ The FIA may accept the registration of a PU Manufacturer who has failed to compl
 
 ---
 
-## CHUNK 1624
+## CHUNK 2016
 **Metadata:**
 ```json
 {
@@ -46254,7 +54689,7 @@ As a condition of registration for the Championship, the prospective New Entrant
 
 ---
 
-## CHUNK 1625
+## CHUNK 2017
 **Metadata:**
 ```json
 {
@@ -46277,7 +54712,28 @@ As a condition of registration for the Championship, the prospective New Entrant
 
 ---
 
-## CHUNK 1626
+## CHUNK 2018
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 17,
+  "rule_id": "A4.1",
+  "breadcrumb": "Section A > Article A4: INTEGRITY REQUIREMENTS > A4.1 Fit and Proper Persons Test > A4.1",
+  "section": "Section A",
+  "article": "Article A4: INTEGRITY REQUIREMENTS",
+  "sub_article": "A4.1 Fit and Proper Persons Test"
+}
+```
+
+**Content:**
+[Section A > Article A4: INTEGRITY REQUIREMENTS > A4.1 Fit and Proper Persons Test > A4.1]
+**A4.1** ##  Fit and Proper Persons Test
+
+---
+
+## CHUNK 2019
 **Metadata:**
 ```json
 {
@@ -46298,7 +54754,7 @@ As a condition of registration for the Championship, the prospective New Entrant
 
 ---
 
-## CHUNK 1627
+## CHUNK 2020
 **Metadata:**
 ```json
 {
@@ -46322,7 +54778,7 @@ As a condition of registration for the Championship, the prospective New Entrant
 
 ---
 
-## CHUNK 1628
+## CHUNK 2021
 **Metadata:**
 ```json
 {
@@ -46346,7 +54802,7 @@ As a condition of registration for the Championship, the prospective New Entrant
 
 ---
 
-## CHUNK 1629
+## CHUNK 2022
 **Metadata:**
 ```json
 {
@@ -46367,7 +54823,7 @@ As a condition of registration for the Championship, the prospective New Entrant
 
 ---
 
-## CHUNK 1630
+## CHUNK 2023
 **Metadata:**
 ```json
 {
@@ -46388,7 +54844,28 @@ As a condition of registration for the Championship, the prospective New Entrant
 
 ---
 
-## CHUNK 1631
+## CHUNK 2024
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 17,
+  "rule_id": "A4.2",
+  "breadcrumb": "Section A > Article A4: INTEGRITY REQUIREMENTS > A4.2 Anti-doping > A4.2",
+  "section": "Section A",
+  "article": "Article A4: INTEGRITY REQUIREMENTS",
+  "sub_article": "A4.2 Anti-doping"
+}
+```
+
+**Content:**
+[Section A > Article A4: INTEGRITY REQUIREMENTS > A4.2 Anti-doping > A4.2]
+**A4.2** ##  Anti-doping
+
+---
+
+## CHUNK 2025
 **Metadata:**
 ```json
 {
@@ -46409,7 +54886,7 @@ As a condition of registration for the Championship, the prospective New Entrant
 
 ---
 
-## CHUNK 1632
+## CHUNK 2026
 **Metadata:**
 ```json
 {
@@ -46432,7 +54909,28 @@ comply with the FIA Anti-Doping Regulations as a condition of their participatio
 
 ---
 
-## CHUNK 1633
+## CHUNK 2027
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 18,
+  "rule_id": "A4.3",
+  "breadcrumb": "Section A > Article A4: INTEGRITY REQUIREMENTS > A4.3 Prevention of Competition manipulation > A4.3",
+  "section": "Section A",
+  "article": "Article A4: INTEGRITY REQUIREMENTS",
+  "sub_article": "A4.3 Prevention of Competition manipulation"
+}
+```
+
+**Content:**
+[Section A > Article A4: INTEGRITY REQUIREMENTS > A4.3 Prevention of Competition manipulation > A4.3]
+**A4.3** #  Prevention of Competition manipulation
+
+---
+
+## CHUNK 2028
 **Metadata:**
 ```json
 {
@@ -46453,7 +54951,7 @@ comply with the FIA Anti-Doping Regulations as a condition of their participatio
 
 ---
 
-## CHUNK 1634
+## CHUNK 2029
 **Metadata:**
 ```json
 {
@@ -46474,7 +54972,28 @@ comply with the FIA Anti-Doping Regulations as a condition of their participatio
 
 ---
 
-## CHUNK 1635
+## CHUNK 2030
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 18,
+  "rule_id": "A4.4",
+  "breadcrumb": "Section A > Article A4: INTEGRITY REQUIREMENTS > A4.4 Safeguarding > A4.4",
+  "section": "Section A",
+  "article": "Article A4: INTEGRITY REQUIREMENTS",
+  "sub_article": "A4.4 Safeguarding"
+}
+```
+
+**Content:**
+[Section A > Article A4: INTEGRITY REQUIREMENTS > A4.4 Safeguarding > A4.4]
+**A4.4** #  Safeguarding
+
+---
+
+## CHUNK 2031
 **Metadata:**
 ```json
 {
@@ -46495,7 +55014,7 @@ comply with the FIA Anti-Doping Regulations as a condition of their participatio
 
 ---
 
-## CHUNK 1636
+## CHUNK 2032
 **Metadata:**
 ```json
 {
@@ -46516,7 +55035,28 @@ comply with the FIA Anti-Doping Regulations as a condition of their participatio
 
 ---
 
-## CHUNK 1637
+## CHUNK 2033
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 18,
+  "rule_id": "A4.5",
+  "breadcrumb": "Section A > Article A4: INTEGRITY REQUIREMENTS > A4.5 Anti-alcohol > A4.5",
+  "section": "Section A",
+  "article": "Article A4: INTEGRITY REQUIREMENTS",
+  "sub_article": "A4.5 Anti-alcohol"
+}
+```
+
+**Content:**
+[Section A > Article A4: INTEGRITY REQUIREMENTS > A4.5 Anti-alcohol > A4.5]
+**A4.5** #  Anti-alcohol
+
+---
+
+## CHUNK 2034
 **Metadata:**
 ```json
 {
@@ -46537,7 +55077,7 @@ comply with the FIA Anti-Doping Regulations as a condition of their participatio
 
 ---
 
-## CHUNK 1638
+## CHUNK 2035
 **Metadata:**
 ```json
 {
@@ -46561,7 +55101,28 @@ comply with the FIA Anti-Doping Regulations as a condition of their participatio
 
 ---
 
-## CHUNK 1639
+## CHUNK 2036
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 19,
+  "rule_id": "A5.1",
+  "breadcrumb": "Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.1 General obligations applicable to all > A5.1",
+  "section": "Section A",
+  "article": "Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS",
+  "sub_article": "A5.1 General obligations applicable to all"
+}
+```
+
+**Content:**
+[Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.1 General obligations applicable to all > A5.1]
+**A5.1** ##  General obligations applicable to all
+
+---
+
+## CHUNK 2037
 **Metadata:**
 ```json
 {
@@ -46608,7 +55169,7 @@ m. comply with any other obligations applicable to them under other Sections of 
 
 ---
 
-## CHUNK 1640
+## CHUNK 2038
 **Metadata:**
 ```json
 {
@@ -46629,7 +55190,28 @@ m. comply with any other obligations applicable to them under other Sections of 
 
 ---
 
-## CHUNK 1641
+## CHUNK 2039
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 20,
+  "rule_id": "A5.2",
+  "breadcrumb": "Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.2 FIA > A5.2",
+  "section": "Section A",
+  "article": "Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS",
+  "sub_article": "A5.2 FIA"
+}
+```
+
+**Content:**
+[Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.2 FIA > A5.2]
+**A5.2** #  FIA
+
+---
+
+## CHUNK 2040
 **Metadata:**
 ```json
 {
@@ -46650,7 +55232,7 @@ m. comply with any other obligations applicable to them under other Sections of 
 
 ---
 
-## CHUNK 1642
+## CHUNK 2041
 **Metadata:**
 ```json
 {
@@ -46671,7 +55253,7 @@ m. comply with any other obligations applicable to them under other Sections of 
 
 ---
 
-## CHUNK 1643
+## CHUNK 2042
 **Metadata:**
 ```json
 {
@@ -46700,7 +55282,7 @@ d. For the avoidance of doubt, unless specifically stated, references to the “
 
 ---
 
-## CHUNK 1644
+## CHUNK 2043
 **Metadata:**
 ```json
 {
@@ -46721,7 +55303,28 @@ d. For the avoidance of doubt, unless specifically stated, references to the “
 
 ---
 
-## CHUNK 1645
+## CHUNK 2044
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 20,
+  "rule_id": "A5.3",
+  "breadcrumb": "Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.3 Promoters and Organisers > A5.3",
+  "section": "Section A",
+  "article": "Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS",
+  "sub_article": "A5.3 Promoters and Organisers"
+}
+```
+
+**Content:**
+[Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.3 Promoters and Organisers > A5.3]
+**A5.3** ##  Promoters and Organisers
+
+---
+
+## CHUNK 2045
 **Metadata:**
 ```json
 {
@@ -46758,7 +55361,7 @@ d) Drivers taking part in the Competition are not third parties with respect to 
 
 ---
 
-## CHUNK 1646
+## CHUNK 2046
 **Metadata:**
 ```json
 {
@@ -46783,7 +55386,7 @@ The Organiser will have general responsibility for the organisation of the Compe
 
 ---
 
-## CHUNK 1647
+## CHUNK 2047
 **Metadata:**
 ```json
 {
@@ -46812,17 +55415,101 @@ a. To ensure that no F1 Team gains a competitive advantage, subject to paragraph
 
 b. Nothing in this provision shall prevent (i) an independently managed affiliate of an F1 Team from being a Promoter or Circuit Operator, or (ii) an F1 Team, any holding company or subsidiary of an F1 Team, or any subsidiary of any holding company of an F1 Team from being the sponsor of a Competition or Circuit.
 
+---
+
+## CHUNK 2048
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 21,
+  "rule_id": "A5.4",
+  "breadcrumb": "Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.4 ASNs > A5.4",
+  "section": "Section A",
+  "article": "Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS",
+  "sub_article": "A5.4 ASNs"
+}
+```
+
+**Content:**
+[Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.4 ASNs > A5.4]
+**A5.4** ##  ASNs
+
 ASNs are members of the FIA responsible for exercising Sporting Power across one national territory. The roles and responsibilities of ASNs are outlined in the FIA Statutes and ISC. In respect of the Championship and within their respective territories, ASNs have authority for (among other things) the issuance of International Licences, the homologation of Circuits, and payment of the Calendar Fee.
+
+---
+
+## CHUNK 2049
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 22,
+  "rule_id": "A5.5",
+  "breadcrumb": "Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.5 Circuit Operators > A5.5",
+  "section": "Section A",
+  "article": "Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS",
+  "sub_article": "A5.5 Circuit Operators"
+}
+```
+
+**Content:**
+[Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.5 Circuit Operators > A5.5]
+**A5.5** #  Circuit Operators
 
 Circuit Operators are responsible for the Circuit where a Competition takes place. Circuit Operators must comply with the terms and conditions of the Circuit licence issued by the FIA and any requirements set out in ISC Appendix O.
 
+---
+
+## CHUNK 2050
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 22,
+  "rule_id": "A5.6",
+  "breadcrumb": "Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.6 Officials > A5.6",
+  "section": "Section A",
+  "article": "Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS",
+  "sub_article": "A5.6 Officials"
+}
+```
+
+**Content:**
+[Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.6 Officials > A5.6]
+**A5.6** #  Officials
+
 Officials have the duties and powers set out in the ISC and Appendix V thereto.
+
+---
+
+## CHUNK 2051
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 22,
+  "rule_id": "A5.7",
+  "breadcrumb": "Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.7 F1 Teams and PU Manufacturers > A5.7",
+  "section": "Section A",
+  "article": "Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS",
+  "sub_article": "A5.7 F1 Teams and PU Manufacturers"
+}
+```
+
+**Content:**
+[Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.7 F1 Teams and PU Manufacturers > A5.7]
+**A5.7** #  F1 Teams and PU Manufacturers
 
 \| *Governance: F1 Commission / PU Manufacturers’ Governance Agreement / WMSC*
 
 ---
 
-## CHUNK 1648
+## CHUNK 2052
 **Metadata:**
 ```json
 {
@@ -46843,7 +55530,7 @@ Officials have the duties and powers set out in the ISC and Appendix V thereto.
 
 ---
 
-## CHUNK 1649
+## CHUNK 2053
 **Metadata:**
 ```json
 {
@@ -46870,7 +55557,7 @@ Officials have the duties and powers set out in the ISC and Appendix V thereto.
 
 ---
 
-## CHUNK 1650
+## CHUNK 2054
 **Metadata:**
 ```json
 {
@@ -46911,7 +55598,7 @@ For the purposes of this Article, **“Employment Regulations”** means any app
 
 ---
 
-## CHUNK 1651
+## CHUNK 2055
 **Metadata:**
 ```json
 {
@@ -46935,7 +55622,7 @@ d. Where: (i) two F1 Teams (team A and team B) share some level of cooperation (
 
 ---
 
-## CHUNK 1652
+## CHUNK 2056
 **Metadata:**
 ```json
 {
@@ -46957,7 +55644,7 @@ e. If any personnel fail to comply with the requirements set out in this Article
 
 ---
 
-## CHUNK 1653
+## CHUNK 2057
 **Metadata:**
 ```json
 {
@@ -46989,9 +55676,51 @@ The above list is not exhaustive, and the FIA retains the right to expand the li
 
 b. In order that the FIA may be satisfied that any such movement of personnel is not designed to circumvent the requirement to prevent the disclosure of Confidential Information to any existing or prospective fuel/oil supplier or to another PU Manufacturer, each PU Manufacturer must inform the FIA of all relevant personnel movements at the end of each calendar quarter using the template at Appendix A6.
 
+---
+
+## CHUNK 2058
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 25,
+  "rule_id": "A5.8",
+  "breadcrumb": "Section A > Article A5: .7.3: > A5.8 F1 Drivers and Other Racing Drivers > A5.8",
+  "section": "Section A",
+  "article": "Article A5: .7.3:",
+  "sub_article": "A5.8 F1 Drivers and Other Racing Drivers"
+}
+```
+
+**Content:**
+[Section A > Article A5: .7.3: > A5.8 F1 Drivers and Other Racing Drivers > A5.8]
+**A5.8** #  **F1 Drivers and Other Racing Drivers
+
 F1 Drivers and Other Racing Drivers must comply with the FIA Rules and Regulations at all times, and hold required licences in accordance with Article A3.3.
 
 <mark>\[driver definitions to be reviewed]</mark>
+
+---
+
+## CHUNK 2059
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 25,
+  "rule_id": "A5.9",
+  "breadcrumb": "Section A > Article A5: .7.3: > A5.9 Other Covered Persons > A5.9",
+  "section": "Section A",
+  "article": "Article A5: .7.3:",
+  "sub_article": "A5.9 Other Covered Persons"
+}
+```
+
+**Content:**
+[Section A > Article A5: .7.3: > A5.9 Other Covered Persons > A5.9]
+**A5.9** #  **Other Covered Persons
 
 All Covered Persons may be individually responsible for breaches of the FIA F1 Regulations (subject to A1.4.2) if so, specified in the FIA F1 Regulations. Without limiting the generality of the foregoing, Declaration Signatories are individually responsible for breaches under the Financial Regulations, as specified in those regulations.
 
@@ -47000,7 +55729,28 @@ All Covered Persons may be individually responsible for breaches of the FIA F1 R
 
 ---
 
-## CHUNK 1654
+## CHUNK 2060
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 26,
+  "rule_id": "A6.1",
+  "breadcrumb": "Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.1 Investigations > A6.1",
+  "section": "Section A",
+  "article": "Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES",
+  "sub_article": "A6.1 Investigations"
+}
+```
+
+**Content:**
+[Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.1 Investigations > A6.1]
+**A6.1** ##  Investigations
+
+---
+
+## CHUNK 2061
 **Metadata:**
 ```json
 {
@@ -47029,7 +55779,7 @@ d. Nothing in this Article A6 shall limit the powers of the Prosecuting Body to 
 
 ---
 
-## CHUNK 1655
+## CHUNK 2062
 **Metadata:**
 ```json
 {
@@ -47068,7 +55818,7 @@ c. The Complainant must keep their report to the FIA confidential.
 
 ---
 
-## CHUNK 1656
+## CHUNK 2063
 **Metadata:**
 ```json
 {
@@ -47097,7 +55847,7 @@ ii. provide a copy of the written report submitted by the Complainant or a summa
 
 ---
 
-## CHUNK 1657
+## CHUNK 2064
 **Metadata:**
 ```json
 {
@@ -47120,7 +55870,7 @@ For the purposes of the investigation, the FIA may require any person likely to 
 
 ---
 
-## CHUNK 1658
+## CHUNK 2065
 **Metadata:**
 ```json
 {
@@ -47143,7 +55893,7 @@ Upon completion of an investigation, any decision by the FIA as to whether or no
 
 ---
 
-## CHUNK 1659
+## CHUNK 2066
 **Metadata:**
 ```json
 {
@@ -47172,7 +55922,7 @@ but the Complainant shall not be entitled to receive a copy of the Final Notice.
 
 ---
 
-## CHUNK 1660
+## CHUNK 2067
 **Metadata:**
 ```json
 {
@@ -47195,7 +55945,7 @@ There shall be no right of appeal against a decision by the FIA to open (or not 
 
 ---
 
-## CHUNK 1661
+## CHUNK 2068
 **Metadata:**
 ```json
 {
@@ -47222,11 +55972,53 @@ investigation under the FIA F1 Regulations and the outcome thereof in accordance
 
 b. F1 Teams and PU Manufacturers shall not by any means prevent any of their Personnel (current or former) or other persons from disclosing to the FIA any Confidential Information that might be relevant to their compliance with the FIA Rules and Regulations.
 
+---
+
+## CHUNK 2069
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 28,
+  "rule_id": "A6.2",
+  "breadcrumb": "Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.2 FIA Ethics and Compliance Hotline > A6.2",
+  "section": "Section A",
+  "article": "Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES",
+  "sub_article": "A6.2 FIA Ethics and Compliance Hotline"
+}
+```
+
+**Content:**
+[Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.2 FIA Ethics and Compliance Hotline > A6.2]
+**A6.2** ##  FIA Ethics and Compliance Hotline
+
 The FIA ethics and compliance hotline available on the FIA website enables individual whistleblowers to raise confidentially any issues or concerns about alleged breaches of the FIA Rules and Regulations. The FIA will consider any information submitted through the hotline and determine whether or not to open an investigation in accordance with Article A6 and the FIA Judicial and Disciplinary Rules.
 
 ---
 
-## CHUNK 1662
+## CHUNK 2070
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 28,
+  "rule_id": "A6.3",
+  "breadcrumb": "Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.3 FIA requests for information/access and Demands > A6.3",
+  "section": "Section A",
+  "article": "Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES",
+  "sub_article": "A6.3 FIA requests for information/access and Demands"
+}
+```
+
+**Content:**
+[Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.3 FIA requests for information/access and Demands > A6.3]
+**A6.3** ##  FIA requests for information/access and Demands
+
+---
+
+## CHUNK 2071
 **Metadata:**
 ```json
 {
@@ -47251,7 +56043,7 @@ b. the FIA may, in the context of an investigation, where it has reasonable grou
 
 ---
 
-## CHUNK 1663
+## CHUNK 2072
 **Metadata:**
 ```json
 {
@@ -47272,7 +56064,28 @@ b. the FIA may, in the context of an investigation, where it has reasonable grou
 
 ---
 
-## CHUNK 1664
+## CHUNK 2073
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 28,
+  "rule_id": "A6.4",
+  "breadcrumb": "Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.4 Notification of apparent or alleged breaches > A6.4",
+  "section": "Section A",
+  "article": "Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES",
+  "sub_article": "A6.4 Notification of apparent or alleged breaches"
+}
+```
+
+**Content:**
+[Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.4 Notification of apparent or alleged breaches > A6.4]
+**A6.4** ##  Notification of apparent or alleged breaches
+
+---
+
+## CHUNK 2074
 **Metadata:**
 ```json
 {
@@ -47293,7 +56106,7 @@ b. the FIA may, in the context of an investigation, where it has reasonable grou
 
 ---
 
-## CHUNK 1665
+## CHUNK 2075
 **Metadata:**
 ```json
 {
@@ -47318,7 +56131,28 @@ If, after considering the response to the Initial Notice and subsequent correspo
 
 ---
 
-## CHUNK 1666
+## CHUNK 2076
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 30,
+  "rule_id": "A7.1",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.1 Case resolution without a hearing > A7.1",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.1 Case resolution without a hearing"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.1 Case resolution without a hearing > A7.1]
+**A7.1** ##  Case resolution without a hearing
+
+---
+
+## CHUNK 2077
 **Metadata:**
 ```json
 {
@@ -47340,7 +56174,7 @@ The Prosecuting Body may enter into a settlement agreement to terminate the proc
 
 ---
 
-## CHUNK 1667
+## CHUNK 2078
 **Metadata:**
 ```json
 {
@@ -47362,7 +56196,28 @@ The Cost Cap Administration may at any time during proceedings for an alleged br
 
 ---
 
-## CHUNK 1668
+## CHUNK 2079
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 30,
+  "rule_id": "A7.2",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.2 Adjudication \u2013 first instance > A7.2",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.2 Adjudication \u2013 first instance"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.2 Adjudication – first instance > A7.2]
+**A7.2** ##  Adjudication – first instance
+
+---
+
+## CHUNK 2080
 **Metadata:**
 ```json
 {
@@ -47398,7 +56253,7 @@ c. In accordance with ISC Article 11.9, the Stewards appointed to the Out-of-Com
 
 ---
 
-## CHUNK 1669
+## CHUNK 2081
 **Metadata:**
 ```json
 {
@@ -47421,7 +56276,7 @@ In accordance with Article 26.1 of the FIA Statutes and Article 5 of the FIA Jud
 
 ---
 
-## CHUNK 1670
+## CHUNK 2082
 **Metadata:**
 ```json
 {
@@ -47444,7 +56299,7 @@ In accordance with Article 31 of the FIA Statutes, the Cost Cap Adjudication Pan
 
 ---
 
-## CHUNK 1671
+## CHUNK 2083
 **Metadata:**
 ```json
 {
@@ -47467,7 +56322,28 @@ In accordance with Article 30.2 of the FIA Statutes and ISC Article 11.9.6a, all
 
 ---
 
-## CHUNK 1672
+## CHUNK 2084
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 31,
+  "rule_id": "A7.3",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.3 Adjudication \u2013 appeal > A7.3",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.3 Adjudication \u2013 appeal"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.3 Adjudication – appeal > A7.3]
+**A7.3** #  Adjudication – appeal
+
+---
+
+## CHUNK 2085
 **Metadata:**
 ```json
 {
@@ -47490,7 +56366,7 @@ In accordance with Article 27 of the FIA Statutes and Article 9.1 of the FIA Jud
 
 ---
 
-## CHUNK 1673
+## CHUNK 2086
 **Metadata:**
 ```json
 {
@@ -47513,7 +56389,28 @@ In accordance with Article 30.4 of the FIA Statutes and ISC Article 15.10, the C
 
 ---
 
-## CHUNK 1674
+## CHUNK 2087
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 32,
+  "rule_id": "A7.4",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.4 Referral of first instance matters > A7.4",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.4 Referral of first instance matters"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.4 Referral of first instance matters > A7.4]
+**A7.4** Referral of first instance matters
+
+---
+
+## CHUNK 2088
 **Metadata:**
 ```json
 {
@@ -47534,7 +56431,7 @@ In accordance with Article 30.4 of the FIA Statutes and ISC Article 15.10, the C
 
 ---
 
-## CHUNK 1675
+## CHUNK 2089
 **Metadata:**
 ```json
 {
@@ -47555,7 +56452,7 @@ In accordance with Article 30.4 of the FIA Statutes and ISC Article 15.10, the C
 
 ---
 
-## CHUNK 1676
+## CHUNK 2090
 **Metadata:**
 ```json
 {
@@ -47576,7 +56473,28 @@ In accordance with Article 30.4 of the FIA Statutes and ISC Article 15.10, the C
 
 ---
 
-## CHUNK 1677
+## CHUNK 2091
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 32,
+  "rule_id": "A7.5",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.5 Appeals to the ICA > A7.5",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.5 Appeals to the ICA"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.5 Appeals to the ICA > A7.5]
+**A7.5** Appeals to the ICA
+
+---
+
+## CHUNK 2092
 **Metadata:**
 ```json
 {
@@ -47597,7 +56515,7 @@ In accordance with Article 30.4 of the FIA Statutes and ISC Article 15.10, the C
 
 ---
 
-## CHUNK 1678
+## CHUNK 2093
 **Metadata:**
 ```json
 {
@@ -47618,7 +56536,7 @@ In accordance with Article 30.4 of the FIA Statutes and ISC Article 15.10, the C
 
 ---
 
-## CHUNK 1679
+## CHUNK 2094
 **Metadata:**
 ```json
 {
@@ -47641,7 +56559,7 @@ The appellant must comply with the applicable deadlines for the notice of intent
 
 ---
 
-## CHUNK 1680
+## CHUNK 2095
 **Metadata:**
 ```json
 {
@@ -47664,7 +56582,7 @@ In order for the filing of an appeal to be valid, the notice of appeal must be a
 
 ---
 
-## CHUNK 1681
+## CHUNK 2096
 **Metadata:**
 ```json
 {
@@ -47689,7 +56607,7 @@ outcome of the appeal unless the International Court of Appeal orders otherwise 
 
 ---
 
-## CHUNK 1682
+## CHUNK 2097
 **Metadata:**
 ```json
 {
@@ -47708,15 +56626,99 @@ outcome of the appeal unless the International Court of Appeal orders otherwise 
 [Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.5 Appeals to the ICA > A7.5.6]
 **A7.5.6** Certain decisions are not subject to appeal in accordance with ISC Article 12.3.4 and as specified in the FIA F1 Regulations. In addition, procedural and interim decisions are not subject to appeal.
 
+---
+
+## CHUNK 2098
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 33,
+  "rule_id": "A7.6",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.6 Protests > A7.6",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.6 Protests"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.6 Protests > A7.6]
+**A7.6** Protests
+
 Protests shall be made and determined in accordance with the ISC and Sporting Regulations and accompanied by a deposit of €20,000 (in accordance with ISC Article 13.4.2) and any additional deposit that may be required pursuant to ISC Article 13.4.3. Deposits may be returned in accordance with ISC Article 13.4.2.
 
+---
+
+## CHUNK 2099
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 33,
+  "rule_id": "A7.7",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.7 Right of Review > A7.7",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.7 Right of Review"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.7 Right of Review > A7.7]
+**A7.7** Right of Review
+
 Petitions for Review shall be made in accordance with the ISC and Sporting Regulations and accompanied by a deposit of €20,000 (in accordance with ISC Article 14.4.3). Deposits may be returned in accordance with ISC Article 14.4.3.
+
+---
+
+## CHUNK 2100
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 33,
+  "rule_id": "A7.8",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.8 FIA representation in proceedings > A7.8",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.8 FIA representation in proceedings"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.8 FIA representation in proceedings > A7.8]
+**A7.8** FIA representation in proceedings
 
 Where a case is referred to the International Tribunal or Cost Cap Adjudication Panel, or appealed to the International Court of Appeal or CAS, FIA Legal shall take over conduct of the matter on behalf of the FIA, assisted as necessary by the FIA Single Seater Department, the Cost Cap Administration, and/or relevant FIA external advisors.
 
 ---
 
-## CHUNK 1683
+## CHUNK 2101
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 33,
+  "rule_id": "A7.9",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.9 Limitation period > A7.9",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.9 Limitation period"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.9 Limitation period > A7.9]
+**A7.9** Limitation period
+
+---
+
+## CHUNK 2102
 **Metadata:**
 ```json
 {
@@ -47737,7 +56739,7 @@ Where a case is referred to the International Tribunal or Cost Cap Adjudication 
 
 ---
 
-## CHUNK 1684
+## CHUNK 2103
 **Metadata:**
 ```json
 {
@@ -47764,7 +56766,7 @@ Specific types of breaches may also be deemed to have occurred on a specific dat
 
 ---
 
-## CHUNK 1685
+## CHUNK 2104
 **Metadata:**
 ```json
 {
@@ -47785,7 +56787,7 @@ Specific types of breaches may also be deemed to have occurred on a specific dat
 
 ---
 
-## CHUNK 1686
+## CHUNK 2105
 **Metadata:**
 ```json
 {
@@ -47806,7 +56808,7 @@ Specific types of breaches may also be deemed to have occurred on a specific dat
 
 ---
 
-## CHUNK 1687
+## CHUNK 2106
 **Metadata:**
 ```json
 {
@@ -47827,7 +56829,28 @@ Specific types of breaches may also be deemed to have occurred on a specific dat
 
 ---
 
-## CHUNK 1688
+## CHUNK 2107
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 34,
+  "rule_id": "A7.10",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.10 Burden and standard of proof > A7.10",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.10 Burden and standard of proof"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.10 Burden and standard of proof > A7.10]
+**A7.10** ##  Burden and standard of proof
+
+---
+
+## CHUNK 2108
 **Metadata:**
 ```json
 {
@@ -47848,7 +56871,7 @@ Specific types of breaches may also be deemed to have occurred on a specific dat
 
 ---
 
-## CHUNK 1689
+## CHUNK 2109
 **Metadata:**
 ```json
 {
@@ -47869,7 +56892,7 @@ Specific types of breaches may also be deemed to have occurred on a specific dat
 
 ---
 
-## CHUNK 1690
+## CHUNK 2110
 **Metadata:**
 ```json
 {
@@ -47890,7 +56913,28 @@ Specific types of breaches may also be deemed to have occurred on a specific dat
 
 ---
 
-## CHUNK 1691
+## CHUNK 2111
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 34,
+  "rule_id": "A7.11",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.11 Evidence > A7.11",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.11 Evidence"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.11 Evidence > A7.11]
+**A7.11** ##  Evidence
+
+---
+
+## CHUNK 2112
 **Metadata:**
 ```json
 {
@@ -47911,7 +56955,7 @@ Specific types of breaches may also be deemed to have occurred on a specific dat
 
 ---
 
-## CHUNK 1692
+## CHUNK 2113
 **Metadata:**
 ```json
 {
@@ -47932,7 +56976,7 @@ Specific types of breaches may also be deemed to have occurred on a specific dat
 
 ---
 
-## CHUNK 1693
+## CHUNK 2114
 **Metadata:**
 ```json
 {
@@ -47959,7 +57003,28 @@ the FIA or the relevant Judging Panel may infer that the document or other infor
 
 ---
 
-## CHUNK 1694
+## CHUNK 2115
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 34,
+  "rule_id": "A7.12",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.12 Sanctions > A7.12",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.12 Sanctions"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.12 Sanctions > A7.12]
+**A7.12** ##  Sanctions
+
+---
+
+## CHUNK 2116
 **Metadata:**
 ```json
 {
@@ -47980,7 +57045,7 @@ the FIA or the relevant Judging Panel may infer that the document or other infor
 
 ---
 
-## CHUNK 1695
+## CHUNK 2117
 **Metadata:**
 ```json
 {
@@ -48001,7 +57066,7 @@ the FIA or the relevant Judging Panel may infer that the document or other infor
 
 ---
 
-## CHUNK 1696
+## CHUNK 2118
 **Metadata:**
 ```json
 {
@@ -48027,7 +57092,7 @@ the FIA or the relevant Judging Panel may infer that the document or other infor
 
 ---
 
-## CHUNK 1697
+## CHUNK 2119
 **Metadata:**
 ```json
 {
@@ -48050,7 +57115,7 @@ The application of any sanction may be suspended, in whole or in part, for a spe
 
 ---
 
-## CHUNK 1698
+## CHUNK 2120
 **Metadata:**
 ```json
 {
@@ -48073,7 +57138,7 @@ Provisional suspensions may be imposed on any Covered Persons in accordance with
 
 ---
 
-## CHUNK 1699
+## CHUNK 2121
 **Metadata:**
 ```json
 {
@@ -48096,7 +57161,7 @@ The FIA may publish sanctioning guidelines from time to time to inform Covered P
 
 ---
 
-## CHUNK 1700
+## CHUNK 2122
 **Metadata:**
 ```json
 {
@@ -48139,7 +57204,7 @@ d. full and unfettered cooperation with the FIA and any persons assisting it.
 
 ---
 
-## CHUNK 1701
+## CHUNK 2123
 **Metadata:**
 ```json
 {
@@ -48162,11 +57227,53 @@ a. Payment of all Financial Penalties under the FIA F1 Regulations shall be made
 
 b. Subject to paragraph a, any delay in the payment of fines under the FIA F1 Regulations automatically divests the Covered Person concerned of the right to participate in the Championship until that payment has been made. Late payments shall accrue an interest of 2% above the US Federal Reserve System federal funds rate on the relevant due date.
 
+---
+
+## CHUNK 2124
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 36,
+  "rule_id": "A7.13",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.13 Costs > A7.13",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.13 Costs"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.13 Costs > A7.13]
+**A7.13** Costs
+
 Unless specified otherwise in the FIA F1 Regulations, the costs of the investigation, proceedings, and legal costs will be determined by the Judging Panel in accordance with the FIA Judicial and Disciplinary Rules.
 
 ---
 
-## CHUNK 1702
+## CHUNK 2125
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 36,
+  "rule_id": "A7.14",
+  "breadcrumb": "Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.14 Immunity > A7.14",
+  "section": "Section A",
+  "article": "Article A7: ADJUDICATION OF BREACHES AND SANCTIONS",
+  "sub_article": "A7.14 Immunity"
+}
+```
+
+**Content:**
+[Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.14 Immunity > A7.14]
+**A7.14** Immunity
+
+---
+
+## CHUNK 2126
 **Metadata:**
 ```json
 {
@@ -48187,7 +57294,7 @@ Unless specified otherwise in the FIA F1 Regulations, the costs of the investiga
 
 ---
 
-## CHUNK 1703
+## CHUNK 2127
 **Metadata:**
 ```json
 {
@@ -48208,7 +57315,7 @@ Unless specified otherwise in the FIA F1 Regulations, the costs of the investiga
 
 ---
 
-## CHUNK 1704
+## CHUNK 2128
 **Metadata:**
 ```json
 {
@@ -48233,7 +57340,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1705
+## CHUNK 2129
 **Metadata:**
 ```json
 {
@@ -48254,7 +57361,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1706
+## CHUNK 2130
 **Metadata:**
 ```json
 {
@@ -48275,7 +57382,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1707
+## CHUNK 2131
 **Metadata:**
 ```json
 {
@@ -48299,7 +57406,28 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1708
+## CHUNK 2132
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 38,
+  "rule_id": "A8.1",
+  "breadcrumb": "Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.1 Confidentiality > A8.1",
+  "section": "Section A",
+  "article": "Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY",
+  "sub_article": "A8.1 Confidentiality"
+}
+```
+
+**Content:**
+[Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.1 Confidentiality > A8.1]
+**A8.1** ##  Confidentiality
+
+---
+
+## CHUNK 2133
 **Metadata:**
 ```json
 {
@@ -48320,7 +57448,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1709
+## CHUNK 2134
 **Metadata:**
 ```json
 {
@@ -48341,7 +57469,28 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1710
+## CHUNK 2135
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 38,
+  "rule_id": "A8.2",
+  "breadcrumb": "Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.2 Public reporting > A8.2",
+  "section": "Section A",
+  "article": "Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY",
+  "sub_article": "A8.2 Public reporting"
+}
+```
+
+**Content:**
+[Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.2 Public reporting > A8.2]
+**A8.2** ##  Public reporting
+
+---
+
+## CHUNK 2136
 **Metadata:**
 ```json
 {
@@ -48380,7 +57529,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1711
+## CHUNK 2137
 **Metadata:**
 ```json
 {
@@ -48401,7 +57550,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1712
+## CHUNK 2138
 **Metadata:**
 ```json
 {
@@ -48422,7 +57571,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1713
+## CHUNK 2139
 **Metadata:**
 ```json
 {
@@ -48443,7 +57592,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1714
+## CHUNK 2140
 **Metadata:**
 ```json
 {
@@ -48464,7 +57613,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1715
+## CHUNK 2141
 **Metadata:**
 ```json
 {
@@ -48485,7 +57634,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1716
+## CHUNK 2142
 **Metadata:**
 ```json
 {
@@ -48506,7 +57655,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1717
+## CHUNK 2143
 **Metadata:**
 ```json
 {
@@ -48527,7 +57676,7 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 
 ---
 
-## CHUNK 1718
+## CHUNK 2144
 **Metadata:**
 ```json
 {
@@ -48546,6 +57695,27 @@ b. providing the FIA with genuine and complete cooperation throughout the entire
 [Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.2 Public reporting > A8.2.9]
 **A8.2.9** Any breach of confidentiality that is attributed to an F1 Team or a PU Manufacturer (including based on comments made by their respective Personnel, representatives, or Legal Groups) or other Covered Person charged with a breach (or their representatives) shall constitute a breach of this Section A (or, for purposes of the Financial Regulations, a Procedural Breach).
 
+---
+
+## CHUNK 2145
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 39,
+  "rule_id": "A8.3",
+  "breadcrumb": "Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.3 Data privacy > A8.3",
+  "section": "Section A",
+  "article": "Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY",
+  "sub_article": "A8.3 Data privacy"
+}
+```
+
+**Content:**
+[Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.3 Data privacy > A8.3]
+**A8.3** ##  Data privacy
+
 The FIA, as data controller, will process personal information for the purpose of exercising the regulatory functions under the FIA F1 Regulations. The details on how the FIA will process personal data, manage data subject rights, and how such rights may be exercised can be found at
 
 [www.fia.com/motorsport-privacy-notice](http://www.fia.com/motorsport-privacy-notice)
@@ -48557,7 +57727,28 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1719
+## CHUNK 2146
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 40,
+  "rule_id": "A9.1",
+  "breadcrumb": "Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.1 Effective period of the FIA F1 Regulations > A9.1",
+  "section": "Section A",
+  "article": "Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS",
+  "sub_article": "A9.1 Effective period of the FIA F1 Regulations"
+}
+```
+
+**Content:**
+[Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.1 Effective period of the FIA F1 Regulations > A9.1]
+**A9.1** ##  Effective period of the FIA F1 Regulations
+
+---
+
+## CHUNK 2147
 **Metadata:**
 ```json
 {
@@ -48578,7 +57769,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1720
+## CHUNK 2148
 **Metadata:**
 ```json
 {
@@ -48606,7 +57797,28 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1721
+## CHUNK 2149
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 40,
+  "rule_id": "A9.2",
+  "breadcrumb": "Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.2 Effective period of FIA F1 Documents > A9.2",
+  "section": "Section A",
+  "article": "Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS",
+  "sub_article": "A9.2 Effective period of FIA F1 Documents"
+}
+```
+
+**Content:**
+[Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.2 Effective period of FIA F1 Documents > A9.2]
+**A9.2** ##  Effective period of FIA F1 Documents
+
+---
+
+## CHUNK 2150
 **Metadata:**
 ```json
 {
@@ -48627,7 +57839,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1722
+## CHUNK 2151
 **Metadata:**
 ```json
 {
@@ -48648,7 +57860,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1723
+## CHUNK 2152
 **Metadata:**
 ```json
 {
@@ -48669,7 +57881,28 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1724
+## CHUNK 2153
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 40,
+  "rule_id": "A9.3",
+  "breadcrumb": "Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.3 Amendments > A9.3",
+  "section": "Section A",
+  "article": "Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS",
+  "sub_article": "A9.3 Amendments"
+}
+```
+
+**Content:**
+[Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.3 Amendments > A9.3]
+**A9.3** ##  Amendments
+
+---
+
+## CHUNK 2154
 **Metadata:**
 ```json
 {
@@ -48690,7 +57923,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1725
+## CHUNK 2155
 **Metadata:**
 ```json
 {
@@ -48716,7 +57949,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1726
+## CHUNK 2156
 **Metadata:**
 ```json
 {
@@ -48737,7 +57970,28 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1727
+## CHUNK 2157
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 41,
+  "rule_id": "A9.4",
+  "breadcrumb": "Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.4 Interpretation > A9.4",
+  "section": "Section A",
+  "article": "Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS",
+  "sub_article": "A9.4 Interpretation"
+}
+```
+
+**Content:**
+[Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.4 Interpretation > A9.4]
+**A9.4** ##  Interpretation
+
+---
+
+## CHUNK 2158
 **Metadata:**
 ```json
 {
@@ -48758,7 +58012,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1728
+## CHUNK 2159
 **Metadata:**
 ```json
 {
@@ -48779,7 +58033,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1729
+## CHUNK 2160
 **Metadata:**
 ```json
 {
@@ -48800,7 +58054,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1730
+## CHUNK 2161
 **Metadata:**
 ```json
 {
@@ -48821,7 +58075,7 @@ Governance: F1 Commission / WMSC
 
 ---
 
-## CHUNK 1731
+## CHUNK 2162
 **Metadata:**
 ```json
 {
@@ -48863,7 +58117,7 @@ m. a reference to a ‘person’ (with no initial capital letter) means a natura
 
 ---
 
-## CHUNK 1732
+## CHUNK 2163
 **Metadata:**
 ```json
 {
@@ -48884,7 +58138,7 @@ m. a reference to a ‘person’ (with no initial capital letter) means a natura
 
 ---
 
-## CHUNK 1733
+## CHUNK 2164
 **Metadata:**
 ```json
 {
@@ -48905,7 +58159,7 @@ m. a reference to a ‘person’ (with no initial capital letter) means a natura
 
 ---
 
-## CHUNK 1734
+## CHUNK 2165
 **Metadata:**
 ```json
 {
@@ -48932,7 +58186,28 @@ c. Any text displayed in green (e.g. <mark>**\[abcde]**</mark>) provides context
 
 ---
 
-## CHUNK 1735
+## CHUNK 2166
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 43,
+  "rule_id": "A9.5",
+  "breadcrumb": "Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.5 Requests for clarification and FIA feedback > A9.5",
+  "section": "Section A",
+  "article": "Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS",
+  "sub_article": "A9.5 Requests for clarification and FIA feedback"
+}
+```
+
+**Content:**
+[Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.5 Requests for clarification and FIA feedback > A9.5]
+**A9.5** #  Requests for clarification and FIA feedback
+
+---
+
+## CHUNK 2167
 **Metadata:**
 ```json
 {
@@ -48959,7 +58234,7 @@ c. the precise way in which it considers the proposed interpretation will impact
 
 ---
 
-## CHUNK 1736
+## CHUNK 2168
 **Metadata:**
 ```json
 {
@@ -48980,7 +58255,7 @@ c. the precise way in which it considers the proposed interpretation will impact
 
 ---
 
-## CHUNK 1737
+## CHUNK 2169
 **Metadata:**
 ```json
 {
@@ -49001,7 +58276,7 @@ c. the precise way in which it considers the proposed interpretation will impact
 
 ---
 
-## CHUNK 1738
+## CHUNK 2170
 **Metadata:**
 ```json
 {
@@ -49022,7 +58297,7 @@ c. the precise way in which it considers the proposed interpretation will impact
 
 ---
 
-## CHUNK 1739
+## CHUNK 2171
 **Metadata:**
 ```json
 {
@@ -49043,7 +58318,7 @@ c. the precise way in which it considers the proposed interpretation will impact
 
 ---
 
-## CHUNK 1740
+## CHUNK 2172
 **Metadata:**
 ```json
 {
@@ -49062,13 +58337,76 @@ c. the precise way in which it considers the proposed interpretation will impact
 [Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.5 Requests for clarification and FIA feedback > A9.5.6]
 **A9.5.6** Any clarifications or feedback provided by the FIA shall be advisory only and shall not constitute part of the FIA F1 Regulations.
 
+---
+
+## CHUNK 2173
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 43,
+  "rule_id": "A9.6",
+  "breadcrumb": "Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.6 Language of communication with the FIA > A9.6",
+  "section": "Section A",
+  "article": "Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS",
+  "sub_article": "A9.6 Language of communication with the FIA"
+}
+```
+
+**Content:**
+[Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.6 Language of communication with the FIA > A9.6]
+**A9.6** #  Language of communication with the FIA
+
 All correspondence, documentation, and information submitted to the FIA shall be in English. The FIA may require an F1 Team or PU Manufacturer or other Covered Person to provide (at their own expense) a certified translation into English of any document relied upon in connection with their compliance with the FIA F1 Regulations.
+
+---
+
+## CHUNK 2174
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 43,
+  "rule_id": "A9.7",
+  "breadcrumb": "Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.7 Reliance on FIA communications > A9.7",
+  "section": "Section A",
+  "article": "Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS",
+  "sub_article": "A9.7 Reliance on FIA communications"
+}
+```
+
+**Content:**
+[Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.7 Reliance on FIA communications > A9.7]
+**A9.7** #  Reliance on FIA communications
 
 Any communication from the FIA that is not in writing, either by letter or email, cannot be relied upon by F1 Teams, PU Manufacturers, or other Covered Persons as representing the definitive position of the FIA.
 
 ---
 
-## CHUNK 1741
+## CHUNK 2175
+**Metadata:**
+```json
+{
+  "source_pdf": "2026_f1_regulations_section_a.pdf",
+  "regulatory_year": 2026,
+  "page_number": 43,
+  "rule_id": "A9.8",
+  "breadcrumb": "Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.8 Transitional provisions > A9.8",
+  "section": "Section A",
+  "article": "Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS",
+  "sub_article": "A9.8 Transitional provisions"
+}
+```
+
+**Content:**
+[Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.8 Transitional provisions > A9.8]
+**A9.8** #  Transitional provisions
+
+---
+
+## CHUNK 2176
 **Metadata:**
 ```json
 {
@@ -49089,7 +58427,7 @@ Any communication from the FIA that is not in writing, either by letter or email
 
 ---
 
-## CHUNK 1742
+## CHUNK 2177
 **Metadata:**
 ```json
 {
@@ -49110,7 +58448,7 @@ Any communication from the FIA that is not in writing, either by letter or email
 
 ---
 
-## CHUNK 1743
+## CHUNK 2178
 **Metadata:**
 ```json
 {
@@ -49159,7 +58497,7 @@ Unless specified otherwise, the definitions set out in this Appendix apply to al
 
 ---
 
-## CHUNK 1744
+## CHUNK 2179
 **Metadata:**
 ```json
 {
@@ -49197,7 +58535,7 @@ Unless specified otherwise, the definitions set out in this Appendix apply to al
 
 ---
 
-## CHUNK 1745
+## CHUNK 2180
 **Metadata:**
 ```json
 {
@@ -49239,7 +58577,7 @@ Unless specified otherwise, the definitions set out in this Appendix apply to al
 
 ---
 
-## CHUNK 1746
+## CHUNK 2181
 **Metadata:**
 ```json
 {
@@ -49275,7 +58613,7 @@ Unless specified otherwise, the definitions set out in this Appendix apply to al
 
 ---
 
-## CHUNK 1747
+## CHUNK 2182
 **Metadata:**
 ```json
 {
@@ -49337,7 +58675,7 @@ Unless specified otherwise, the definitions set out in this Appendix apply to al
 
 ---
 
-## CHUNK 1748
+## CHUNK 2183
 **Metadata:**
 ```json
 {
@@ -49389,7 +58727,7 @@ Unless specified otherwise, the definitions set out in this Appendix apply to al
 
 ---
 
-## CHUNK 1749
+## CHUNK 2184
 **Metadata:**
 ```json
 {
@@ -49435,7 +58773,7 @@ Unless specified otherwise, the definitions set out in this Appendix apply to al
 
 ---
 
-## CHUNK 1750
+## CHUNK 2185
 **Metadata:**
 ```json
 {
@@ -49481,7 +58819,7 @@ Unless specified otherwise, the definitions set out in this Appendix apply to al
 
 ---
 
-## CHUNK 1751
+## CHUNK 2186
 **Metadata:**
 ```json
 {
@@ -49539,7 +58877,7 @@ zones that are barred to the public, Race Control, the control zones, the zones 
 
 ---
 
-## CHUNK 1752
+## CHUNK 2187
 **Metadata:**
 ```json
 {
@@ -49593,7 +58931,7 @@ zones that are barred to the public, Race Control, the control zones, the zones 
 
 ---
 
-## CHUNK 1753
+## CHUNK 2188
 **Metadata:**
 ```json
 {
@@ -49653,7 +58991,7 @@ The Table below summarises the Advisory Committees and indicates the range of to
 
 ---
 
-## CHUNK 1754
+## CHUNK 2189
 **Metadata:**
 ```json
 {
@@ -49685,7 +59023,7 @@ The Table below summarises the Advisory Committees and indicates the range of to
 
 ---
 
-## CHUNK 1755
+## CHUNK 2190
 **Metadata:**
 ```json
 {
@@ -49725,7 +59063,7 @@ c. that are subject to Legal Professional Privilege.
 
 ---
 
-## CHUNK 1756
+## CHUNK 2191
 **Metadata:**
 ```json
 {
@@ -49759,7 +59097,7 @@ appropriate steps must be taken to ensure that the integrity of the Electronic D
 
 ---
 
-## CHUNK 1757
+## CHUNK 2192
 **Metadata:**
 ```json
 {
@@ -49807,7 +59145,7 @@ Defined terms denoted by an initial capital letter have the meaning given to the
 
 ---
 
-## CHUNK 1758
+## CHUNK 2193
 **Metadata:**
 ```json
 {
@@ -49905,7 +59243,7 @@ We declare the following company as a Technical Partner:
 
 ---
 
-## CHUNK 1759
+## CHUNK 2194
 **Metadata:**
 ```json
 {
@@ -49983,7 +59321,7 @@ The following people are nominated and accept to be nominated for the purpose of
 
 ---
 
-## CHUNK 1760
+## CHUNK 2195
 **Metadata:**
 ```json
 {
@@ -50040,7 +59378,7 @@ The FIA, as controller, processes your personal data to fulfil its commercial an
 
 ---
 
-## CHUNK 1761
+## CHUNK 2196
 **Metadata:**
 ```json
 {
@@ -50154,7 +59492,7 @@ The following people are nominated and accept to be nominated for the purpose of
 
 ---
 
-## CHUNK 1762
+## CHUNK 2197
 **Metadata:**
 ```json
 {
@@ -50254,7 +59592,7 @@ The following people are nominated and accept to be nominated for the purpose of
 
 ---
 
-## CHUNK 1763
+## CHUNK 2198
 **Metadata:**
 ```json
 {
@@ -50358,7 +59696,7 @@ in accordance with Article A5.7.3 and A5.7.4 of the FIA F1 Regulations
 
 ---
 
-## CHUNK 1764
+## CHUNK 2199
 **Metadata:**
 ```json
 {
@@ -50394,7 +59732,7 @@ Save for exceptional circumstances, as determined in the FIA’s absolute discre
 
 ---
 
-## CHUNK 1765
+## CHUNK 2200
 **Metadata:**
 ```json
 {
@@ -50440,7 +59778,7 @@ A New PU Manufacturer will not be required to comply with the obligation of supp
 
 ---
 
-## CHUNK 1766
+## CHUNK 2201
 **Metadata:**
 ```json
 {
@@ -50478,7 +59816,7 @@ The Competitors and the PU Manufacturers remain free to negotiate the terms of t
 
 ---
 
-## CHUNK 1767
+## CHUNK 2202
 **Metadata:**
 ```json
 {
@@ -50514,7 +59852,7 @@ c In the event that the white label/unbranded supply is requested by the New Cus
 
 ---
 
-## CHUNK 1768
+## CHUNK 2203
 **Metadata:**
 ```json
 {
@@ -50546,7 +59884,7 @@ The supply of additional goods or services not listed in Appendix C4 (which shal
 
 ---
 
-## CHUNK 1769
+## CHUNK 2204
 **Metadata:**
 ```json
 {
@@ -50584,7 +59922,7 @@ b. In case of breach of the obligation to deliver the PUs and/or to supply addit
 
 ---
 
-## CHUNK 1770
+## CHUNK 2205
 **Metadata:**
 ```json
 {
@@ -50616,7 +59954,7 @@ The PU supply perimeter listed in the corresponding column of Appendix C4 shall 
 
 ---
 
-## CHUNK 1771
+## CHUNK 2206
 **Metadata:**
 ```json
 {
@@ -50652,7 +59990,7 @@ ii. the setting of the Technical Regulations or any activities arising therefrom
 
 ---
 
-## CHUNK 1772
+## CHUNK 2207
 **Metadata:**
 ```json
 {
@@ -50688,7 +60026,7 @@ Following the nomination of the Prospective Supplier(s), the FIA will invite Pro
 
 ---
 
-## CHUNK 1773
+## CHUNK 2208
 **Metadata:**
 ```json
 {
@@ -50723,7 +60061,7 @@ No PU Manufacturer may use the movement of personnel (whether employee, consulta
 
 ---
 
-## CHUNK 1774
+## CHUNK 2209
 **Metadata:**
 ```json
 {
@@ -50761,7 +60099,7 @@ The existence of: (i) patents; (ii) pending patent applications; or (iii) any li
 
 ---
 
-## CHUNK 1775
+## CHUNK 2210
 **Metadata:**
 ```json
 {
@@ -50793,7 +60131,7 @@ Property Rights” means: (i) patents, rights to inventions, designs, copyright 
 
 ---
 
-## CHUNK 1776
+## CHUNK 2211
 **Metadata:**
 ```json
 {
@@ -50839,7 +60177,7 @@ b. ICE status: the prior experience of the PU Manufacturer in Formula 1 Internal
 
 ---
 
-## CHUNK 1777
+## CHUNK 2212
 **Metadata:**
 ```json
 {
@@ -50896,7 +60234,7 @@ detailed report on such status. The report will include the two percentage score
 
 ---
 
-## CHUNK 1778
+## CHUNK 2213
 **Metadata:**
 ```json
 {
@@ -50945,7 +60283,7 @@ PU Manufacturers shall have no right of appeal against any decision by the FIA i
 
 ---
 
-## CHUNK 1779
+## CHUNK 2214
 **Metadata:**
 ```json
 {

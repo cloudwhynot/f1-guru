@@ -9,6 +9,97 @@
 
 **Black Text:** Text unchanged from 2026 FIA F1 Regulations - Section B \[Sporting] – Iss 04 <mark>Pink Text:</mark> <mark>Changes relative to 2026 FIA F1 Regulations - Section B \[Sporting] – Iss 04, approved by the WMSC on 27/02/26</mark> <mark>\[Red Text]:</mark> <mark>Information on applicable Governance and relevant Advisory Committee</mark> <mark>\[Orange Text]:</mark> <mark>Reference information on relevant FIA F1 Documents</mark> <mark>\[Green Text]:</mark> <mark>Comments / explanations / indication of further work: non-binding and non-regulatory</mark>
 
+
+### Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) 32 > B4.1 General Provisions for LTCS 32 > B4.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 2
+
+**B4.1** General Provisions for LTCS 32
+B4.2 Specific Provisions for Free Practice Session(s) 33
+B4.3 Specific Provisions for Sprint Qualifying and Qualifying Session(s) 33
+
+
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) 34 > B5.1 General Provisions for TTCS 34 > B5.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 2
+
+**B5.1** General Provisions for TTCS 34
+B5.2 Reconnaissance Lap(s) 34
+B5.3 Pit Lane Starters 35
+B5.4 Delayed Start 35
+B5.5 Grid Procedure 36
+B5.6 Formation Lap 37
+B5.7 Start Procedure 37
+B5.8 Aborted Start 38
+B5.9 Extra Formation Lap(s) 39
+B5.10 Formation Lap(s) Behind Safety Car 40
+B5.11 False Start 42
+B5.12 Virtual Safety Car (VSC) 42
+B5.13 Safety Car (SC) 43
+B5.14 Suspension Procedure(s) 47
+B5.15 Resumption Procedure 49
+B5.16 Finishing Procedure 53
+
+
+### Section B > Article B6: TYRE LIMITATIONS 54 > B6.1 Supply Of Tyres 54 > B6.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 2
+
+**B6.1** Supply Of Tyres 54
+B6.2 Control & Allocation of Tyres 55
+B6.3 Use & Return of Tyres 56
+B6.4 Tyre Return Procedure 59
+B6.5 Specific Provisions for ICTE 60
+B6.6 Specific Provisions for ICTT 60
+
+
+### Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS 61 > B7.1 Driver Adjustable Bodywork 61 > B7.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 2
+
+**B7.1** Driver Adjustable Bodywork 61
+B7.2 Energy Deployment Limitations 62
+
+
+### Section B > Article B8: CAR & COMPONENT LIMITATIONS 65 > B8.1 Car Limitations & Usage 65 > B8.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 2
+
+**B8.1** Car Limitations & Usage 65
+B8.2 Power Unit Limitations & Usage 65
+
+
+### Section B > Article B9: PERSONNEL LIMITATIONS 68 > B9.1 General Provisions 68 > B9.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 3
+
+**B9.1** General Provisions 68
+B9.2 Operational Personnel 68
+B9.3 Trainee Personnel 68
+B9.4 Declaration of Personnel 68
+B9.5 Restricted Period(s) 68
+
+
+### Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES 71 > B10.1 Media Activities 71 > B10.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 3
+
+**B10.1** Media Activities 71
+B10.2 Podium Ceremony 74
+
+
+### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION 76 > B11.1 General Provisions for Track Running Outside a Competition 76 > B11.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 3
+
+**B11.1** General Provisions for Track Running Outside a Competition 76
+B11.2 Provisions for TCC 76
+B11.3 Provisions for TPC 78
+B11.5 Provisions for THC 81
+B11.6 Provisions for PE 81
+B11.7 Provisions for DE 82
+B11.8 Safety Requirements, Technical Requirements & Car Limitations 82
+
 # APPENDIX B1: DEFINITIONS **84**
 
 # APPENDIX B2: PARC FERME PERMITTED WORKS **86**
@@ -26,6 +117,13 @@ Changes for 2029 96
 *Advisory Committee: SAC*
 
 *Governance: F1 Commission / WMSC*
+
+
+### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.1 General Principles & Provisions > B1.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 4
+
+**B1.1** ##  General Principles & Provisions
 
 
 ### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.1 General Principles & Provisions > B1.1.1
@@ -67,6 +165,13 @@ SOURCE_PAGE: 4
 If, after an incident, the Impact Warning Light is activated the driver may, at the discretion of the Race Director, the Chief Medical Officer (CMO) or the Medical Delegate, be required to be examined by the Competition medical service without delay. The Medical Delegate will determine the most appropriate time and place for this examination.
 
 
+### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.2 FIA Delegates > B1.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 4
+
+**B1.2** ##  FIA Delegates
+
+
 ### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.2 FIA Delegates > B1.2.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 4
@@ -101,6 +206,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 5
 
 **B1.2.3** The Technical Delegate nominated by the FIA is responsible for scrutineering. In this respect the Technical Delegate may carry out, or have carried out by scrutineers, at their discretion, any checks to verify the compliance of the <mark>F1</mark> Cars entered in the Competition, at any time until the end of the Competition, without prior request from the stewards or clerk of the course. The Technical Delegate has full authority over the national scrutineers.
+
+
+### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.3 Officials > B1.3
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 5
+
+**B1.3** #  Officials
 
 
 ### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.3 Officials > B1.3.1
@@ -165,6 +277,13 @@ SOURCE_PAGE: 6
 **B1.3.7** The Stewards may use any video or electronic means to assist them in reaching a decision. The Stewards may overrule judges of fact.
 
 
+### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.4 Official Meetings > B1.4
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 6
+
+**B1.4** ##  Official Meetings
+
+
 ### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.4 Official Meetings > B1.4.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 6
@@ -184,6 +303,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 6
 
 **B1.4.3** Should the Race Director consider another meeting necessary it will take place three <mark>(3)</mark> hours before the start of the Race. Competitors will be informed no later than five (5) hours before the start of the Race. All drivers and team managers must attend.
+
+
+### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.5 General Safety > B1.5
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 6
+
+**B1.5** ##  General Safety
 
 
 ### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.5 General Safety > B1.5.1
@@ -308,6 +434,13 @@ SOURCE_PAGE: 8
 <mark>When an F1 Car is deemed to be in parc fermé whilst a Rain Hazard is in force, other than when the F1 Cars are sealed in accordance with Article B3.4.2 or B3.4.3, the work described in</mark> <mark>FIA-F1-DOC-080</mark> <mark>may be carried out.</mark>
 
 
+### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.6 Pit Entry Road, Pit Lane And Pit Exit Road > B1.6
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 9
+
+**B1.6** # **** **Pit Entry Road, Pit Lane And Pit Exit Road
+
+
 ### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.6 Pit Entry Road, Pit Lane And Pit Exit Road > B1.6.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 9
@@ -396,6 +529,13 @@ a. <mark>During a LTCS, a penalty in accordance with Article B1.9.4 may be impos
 b. <mark>During a TTCS,</mark> a Stop-and-Go Penalty will be imposed on any driver who, in the opinion of the stewards, entered the Pit Lane for any other reason whilst it was closed.
 
 
+### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.7 Changes Of Driver > B1.7
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 11
+
+**B1.7** #  Changes Of Driver
+
+
 ### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.7 Changes Of Driver > B1.7.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 11
@@ -444,6 +584,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 12
 
 **B1.7.4** If one of the Competitor’s nominated drivers is unable to drive at some stage after the end of initial scrutineering, and the stewards consent to a change of driver, the replacement driver must use the Power Unit and tyres which were allocated to the original driver (Articles B8.2, and B6.2).
+
+
+### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.8 Driving > B1.8
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 12
+
+**B1.8** #  Driving
 
 
 ### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.8 Driving > B1.8.1
@@ -519,6 +666,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 13
 
 **B1.8.9** Except during the suspension of a TTCS, any F1 Car abandoned on the circuit by its driver, even temporarily, shall be considered as withdrawn from the session. In exceptional circumstances, F1 Cars abandoned on the circuit during the suspension of a TTCS may be allowed to participate when that session resumes, provided they were not abandoned because of a mechanical issue, F1 Car damage or in order to gain an advantage.
+
+
+### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.9 Incidents, Infringements & Penalties > B1.9
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 13
+
+**B1.9** ##  Incidents, Infringements & Penalties
 
 
 ### Section B > Article B1: ORGANISATION OF A COMPETITION > B1.9 Incidents, Infringements & Penalties > B1.9.1
@@ -659,6 +813,13 @@ f. Any decision taken by the stewards under Article A3.3.1b.
 *Governance: F1 Commission / WMSC*
 
 
+### Section B > Article B2: FORMAT OF A COMPETITION > B2.1 Free Practice Session(s) > B2.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 17
+
+**B2.1** ##  Free Practice Session(s)
+
+
 ### Section B > Article B2: FORMAT OF A COMPETITION > B2.1 Free Practice Session(s) > B2.1.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 17
@@ -694,6 +855,13 @@ SOURCE_PAGE: 17
 **B2.1.3** ###  Free Practice Session Classification
 
 The classification of all free practice sessions shall be determined based upon fastest lap time set by each driver during the session, with the driver with the fastest lap time in first position, the driver with the second fastest lap time in second position, and so on and so forth.
+
+
+### Section B > Article B2: FORMAT OF A COMPETITION > B2.2 Sprint Qualifying Session > B2.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 17
+
+**B2.2** ##  Sprint Qualifying Session
 
 
 ### Section B > Article B2: FORMAT OF A COMPETITION > B2.2 Sprint Qualifying Session > B2.2.1
@@ -769,6 +937,13 @@ The participation of unclassified drivers in the remainder of the Competition wi
 The procedures detailed in Articles B2.2.2 and B2.2.3 are based upon twenty-two (22) F1 Cars being eligible to take part in the Competition. If twenty (20) F1 Cars are eligible, five (5) F1 Cars will be eliminated after SQ1 and SQ2. If twenty-four (24) F1 Cars are eligible, seven (7) F1 Cars will be eliminated after SQ1 and SQ2, and so on if more F1 Cars are eligible.
 
 At the end of Sprint Qualifying the times achieved by each driver will be officially published.
+
+
+### Section B > Article B2: FORMAT OF A COMPETITION > B2.3 Sprint Session > B2.3
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 19
+
+**B2.3** #  Sprint Session
 
 
 ### Section B > Article B2: FORMAT OF A COMPETITION > B2.3 Sprint Session > B2.3.1
@@ -850,6 +1025,13 @@ b. <mark>F1</mark> Cars having covered less than 90% of the number of laps cover
 c. The provisional classification will be published after the Sprint. It will be the only valid result subject to any amendments which may be made under the ISC and these <mark>Sporting FIA F1</mark> Regulations.
 
 
+### Section B > Article B2: FORMAT OF A COMPETITION > B2.4 Race Qualifying Session > B2.4
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 21
+
+**B2.4** #  Race Qualifying Session
+
+
 ### Section B > Article B2: FORMAT OF A COMPETITION > B2.4 Race Qualifying Session > B2.4.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 21
@@ -909,6 +1091,13 @@ b. Drivers will be considered to be "unclassified" in the following circumstance
 The procedures detailed in Articles B2.4.2 and B2.4.3 are based upon twenty-two (22) Cars being eligible to take part in the Competition. If twenty (20) Cars are eligible, five (5) Cars will be eliminated after Q1 and Q2. If twenty-four (24) Cars are eligible, seven (7) Cars will be eliminated after Q1 and Q2, and so on if more Cars are eligible.
 
 At the end of Qualifying the times achieved by each driver will be officially published.
+
+
+### Section B > Article B2: FORMAT OF A COMPETITION > B2.5 Race Session > B2.5
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 23
+
+**B2.5** #  Race Session
 
 
 ### Section B > Article B2: FORMAT OF A COMPETITION > B2.5 Race Session > B2.5.1
@@ -997,6 +1186,13 @@ c. The provisional classification will be published after the Race. It will be t
 *Governance: F1 Commission / WMSC*
 
 
+### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.1 Scrutineering > B3.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 26
+
+**B3.1** ##  Scrutineering
+
+
 ### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.1 Scrutineering > B3.1.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 26
@@ -1073,6 +1269,13 @@ SOURCE_PAGE: 27
 **B3.1.8** The stewards will publish the findings of the scrutineers each time F1 Cars are checked during the Competition. These results will not include any specific figure except when an F1 Car is found to be in breach of the FIA F1 Regulations.
 
 
+### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.2 Weighing > B3.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 27
+
+**B3.2** ##  Weighing
+
+
 ### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.2 Weighing > B3.2.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 27
@@ -1118,6 +1321,13 @@ SOURCE_PAGE: 28
 **B3.2.5** In the event of any breach of these provisions for the weighing of <mark>F1</mark> Cars the stewards may drop the driver such number of grid positions as they consider appropriate or disqualify them from the TTCS.
 
 
+### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.3 Covering of Components > B3.3
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 28
+
+**B3.3** ##  Covering of Components
+
+
 ### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.3 Covering of Components > B3.3.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 28
@@ -1150,6 +1360,13 @@ SOURCE_PAGE: 28
 * f. A cover over the <mark>F1</mark> Car in the parc fermé overnight.
 * g. A cover over the <mark>F1</mark> Car in the Pit Lane or grid if it is raining.
 * h. Tyre heating blankets as described in Article <mark>C10.8.4</mark> .
+
+
+### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.4 Sealing of Cars > B3.4
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 28
+
+**B3.4** ##  Sealing of Cars
 
 
 ### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.4 Sealing of Cars > B3.4.1
@@ -1204,6 +1421,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 29
 
 **B3.4.4** Whilst F1 Cars are covered and sealed, they may be fitted with devices to keep them warm.
+
+
+### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.5 Pre-Sprint & Pre-Race Parc Fermé > B3.5
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 29
+
+**B3.5** Pre-Sprint & Pre-Race Parc Fermé
 
 
 ### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.5 Pre-Sprint & Pre-Race Parc Fermé > B3.5.1
@@ -1285,6 +1509,13 @@ SOURCE_PAGE: 31
 **B3.5.9** A list of parts replaced with the specific agreement of the Technical Delegate whilst F1 Cars are being held under parc fermé conditions will be published and distributed to all Competitors prior to the Race.
 
 
+### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.6 Post Sprint & Post Race Parc Fermé > B3.6
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 31
+
+**B3.6** ##  Post Sprint & Post Race Parc Fermé
+
+
 ### Section B > Article B3: PROCEDURES DURING A COMPETITION > B3.6 Post Sprint & Post Race Parc Fermé > B3.6.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 31
@@ -1324,6 +1555,13 @@ SOURCE_PAGE: 31
 *Advisory Committee: SAC*
 
 *Governance: F1 Commission / WMSC*
+
+
+### Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.1 General Provisions for LTCS > B4.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 32
+
+**B4.1** ##  General Provisions for LTCS
 
 
 ### Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.1 General Provisions for LTCS > B4.1.1
@@ -1375,6 +1613,13 @@ iv. If any F1 Car slows with an obvious problem.
 When the Race Director decides it is safe to end the VSC procedure the message “VSC ENDING” will be sent to all Competitors and, at any time between 10 and 15 seconds later, “VSC” on the FIA light panels will change to green and drivers may continue the session or continue racing immediately. After 30 seconds the green lights will be extinguished.
 
 
+### Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.2 Specific Provisions for Free Practice Session(s) > B4.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 33
+
+**B4.2** #  Specific Provisions for Free Practice Session(s)
+
+
 ### Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.2 Specific Provisions for Free Practice Session(s) > B4.2.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 33
@@ -1398,6 +1643,13 @@ c. Under no circumstances perform a practice start if another F1 Car remains sta
 If the Race Director considers it is necessary to stop the conduct of practice starts, a red flag will be displayed, and the orange lights on the start gantry will be illuminated at the Line. In the event of a red flag any driver remaining on the grid must move away slowly and all F1 Cars remaining on track must proceed slowly into the Pit Lane.
 
 
+### Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.3 Specific Provisions for Sprint Qualifying and Qualifying Session(s) > B4.3
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 33
+
+**B4.3** #  Specific Provisions for Sprint Qualifying and Qualifying Session(s)
+
+
 ### Section B > Article B4: LAP TIME CLASSIFIED SESSIONS (LTCS) > B4.3 Specific Provisions for Sprint Qualifying and Qualifying Session(s) > B4.3.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 33
@@ -1418,6 +1670,13 @@ SOURCE_PAGE: 33
 *Advisory Committee: SAC*
 
 *Governance: F1 Commission / WMSC*
+
+
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.1 General Provisions for TTCS > B5.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 34
+
+**B5.1** ##  General Provisions for TTCS
 
 
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.1 General Provisions for TTCS > B5.1.1
@@ -1476,6 +1735,13 @@ SOURCE_PAGE: 34
 **B5.1.8** Unless specifically authorised by the Race Director, during the start of any TTCS the pit wall must be kept free of all persons with the exception of the team personnel permitted under Article B1.5.8, officials and fire marshals.
 
 
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.2 Reconnaissance Lap(s) > B5.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 34
+
+**B5.2** ##  Reconnaissance Lap(s)
+
+
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.2 Reconnaissance Lap(s) > B5.2.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 34
@@ -1515,6 +1781,13 @@ SOURCE_PAGE: 35
 **B5.2.5** Any F1 Car which is still in the Pit Lane when the pit exit is closed after the reconnaissance laps can start the TTCS from the end of the Pit Lane provided it got there under its own power.
 
 
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.3 Pit Lane Starters > B5.3
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 35
+
+**B5.3** ##  Pit Lane Starters
+
+
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.3 Pit Lane Starters > B5.3.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 35
@@ -1548,6 +1821,13 @@ SOURCE_PAGE: 35
 At all times drivers must follow the directions of the marshals.
 
 
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.4 Delayed Start > B5.4
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 35
+
+**B5.4** ##  Delayed Start
+
+
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.4 Delayed Start > B5.4.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 35
@@ -1560,6 +1840,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 36
 
 **B5.4.2** The starting procedure will begin again at the ten (10) minute signal.
+
+
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.5 Grid Procedure > B5.5
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 36
+
+**B5.5** Grid Procedure
 
 
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.5 Grid Procedure > B5.5.1
@@ -1632,6 +1919,13 @@ SOURCE_PAGE: 37
 **B5.5.6** Any car, having stopped on the grid in accordance with Article B5.2.3, that is moved from the grid to the Pit Lane Inner Lane or to the Competitors Designated Garage Area prior to the start of the formation lap may not be returned to the grid prior to the start of the TTCS. Any such car, able to do so, will be required to start the TTCS from the Pit Lane. The order of cars starting from the Pit Lane, including any such cars moved from the grid, shall be determined in accordance with Article B5.3.2.
 
 
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.6 Formation Lap > B5.6
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 37
+
+**B5.6** #  Formation Lap
+
+
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.6 Formation Lap > B5.6.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 37
@@ -1662,6 +1956,13 @@ SOURCE_PAGE: 37
 **B5.6.4** Overtaking during the formation lap is only permitted if an F1 Car is delayed and F1 Cars behind cannot avoid passing it without unduly delaying the remainder of the field. In this case, drivers may only overtake to re-establish the original starting order. Any driver delayed in this way, and who is unable to re-establish the original starting order before they reach the first safety F1 Car line, must enter the Pit Lane and start the TTCS from the end of the Pit Lane.
 
 A Stop-and-Go Penalty will be imposed on any driver who fails to enter the Pit Lane if they have not re-established the original starting order before they reach the first safety F1 Car line.
+
+
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.7 Start Procedure > B5.7
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 37
+
+**B5.7** #  Start Procedure
 
 
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.7 Start Procedure > B5.7.1
@@ -1706,6 +2007,13 @@ SOURCE_PAGE: 38
 **B5.7.3** When the cars required to start from the Pit Lane return to the Pit Lane at the end of the formation lap or laps, they must proceed to pit exit at a constant speed and with constant throttle and stop in a line in the Fast Lane in the order in which they arrive, keeping their engines running. Once all cars on track have passed the end of the Pit Lane for the first time after the start, the pit exit will be opened and all cars starting from the Pit Lane may then join the TTCS.
 
 
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.8 Aborted Start > B5.8
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 38
+
+**B5.8** #  Aborted Start
+
+
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.8 Aborted Start > B5.8.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 38
@@ -1733,6 +2041,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 39
 
 **B5.8.3** For each Aborted Start procedure completed the TTCS will be shortened by one (1) lap.
+
+
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.9 Extra Formation Lap(s) > B5.9
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 39
+
+**B5.9** Extra Formation Lap(s)
 
 
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.9 Extra Formation Lap(s) > B5.9.1
@@ -1783,6 +2098,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 40
 
 **B5.9.6** Should Article B5.9 apply, the TTCS will nevertheless count for the Championship no matter how often the procedure is repeated, or how much the TTCS is shortened as a result.
+
+
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.10 Formation Lap(s) Behind Safety Car > B5.10
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 40
+
+**B5.10** #  Formation Lap(s) Behind Safety Car
 
 
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.10 Formation Lap(s) Behind Safety Car > B5.10.1
@@ -1897,6 +2219,13 @@ In accordance with Article B5.10.4, F1 Cars that were required to start the TTCS
 A Stop-and-Go Penalty will be imposed on any driver who fails to start the TTCS from the Pit Lane.
 
 
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.11 False Start > B5.11
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 42
+
+**B5.11** #  False Start
+
+
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.11 False Start > B5.11.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 42
@@ -1910,6 +2239,13 @@ b. Positioned in their allocated grid position on the starting grid in such a wa
 c. Positioned in their allocated gird position such that no part of the contact patch of their front tyres are outside of the lines (front and sides) at the time of the start signal.
 
 At the sole discretion of the stewards, a 5-Second Penalty, a 10-Second Penalty, a Drive-Through Penalty or a Stop-and-Go Penalty, will be imposed on any driver who is judged to have breached this article.
+
+
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.12 Virtual Safety Car (VSC) > B5.12
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 42
+
+**B5.12** #  Virtual Safety Car (VSC)
 
 The Virtual Safety Car will be used when double waved yellow flags are needed on any section of track and Competitors or officials may be in danger, but the circumstances are not such as to warrant use of the Safety Car.
 
@@ -1971,6 +2307,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 43
 
 **B5.12.5** ##  Each lap completed whilst the VSC procedure is in use during a TTCS will be counted as a lap.
+
+
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.13 Safety Car (SC) > B5.13
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 43
+
+**B5.13** ##  Safety Car (SC)
 
 The Safety Car will be used only if Competitors or officials are in immediate physical danger on or near the track, but the circumstances are not such as to necessitate suspending the TTCS.
 
@@ -2105,6 +2448,13 @@ In such circumstance, the SC boards and the yellow flags will not be withdrawn b
 If the Race Director deems the continued presence of the Safety Car after the end-of-session signal is required the orange lights on the Safety Car will remain illuminated, this being the signal to all drivers that they must follow the Safety Car. The Safety Car will lead all cars across the Line, either on track or in the pit lane as instructed by the Race Director. The chequered flag will be shown at the Line in accordance with Article B5.16.1. The Safety Car will subsequently lead all cars into the pit lane, and into the designated Parc Fermé area, at the end of the following lap.
 
 
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.14 Suspension Procedure(s) > B5.14
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 47
+
+**B5.14** #  Suspension Procedure(s)
+
+
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.14 Suspension Procedure(s) > B5.14.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 47
@@ -2187,6 +2537,13 @@ a. F1 Cars may be worked on once they have stopped in the Fast Lane, but any suc
 b. Only team members, officials and accredited television cameramen will be permitted in the Pit Lane.
 
 c. Unless asked to do so by the FIA, F1 Cars may not be moved from the Fast Lane during a suspension. Any driver whose F1 Car is moved from the Fast Lane to any other part of the Pit Lane will be arranged at the back of the line of F1 Cars in the Fast Lane in the order they got there.
+
+
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.15 Resumption Procedure > B5.15
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 49
+
+**B5.15** #  Resumption Procedure
 
 
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.15 Resumption Procedure > B5.15.1
@@ -2322,6 +2679,13 @@ A Stop-and-Go Penalty will be imposed on any driver who fails to resume the TTCS
 No driver may overtake another <mark>F1</mark> Car on the track until they pass the Line for the first time after the Safety Car has returned to the Pit Lane.
 
 
+### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.16 Finishing Procedure > B5.16
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 53
+
+**B5.16** #  Finishing Procedure
+
+
 ### Section B > Article B5: TOTAL TIME CLASSIFIED SESSIONS (TTCS) > B5.16 Finishing Procedure > B5.16.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 53
@@ -2357,6 +2721,13 @@ Any classified <mark>F1</mark> Car which cannot reach the parc fermé under its 
 *Advisory Committee: SAC*
 
 *Governance: F1 Commission / WMSC*
+
+
+### Section B > Article B6: TYRE LIMITATIONS > B6.1 Supply Of Tyres > B6.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 54
+
+**B6.1** Supply Of Tyres
 
 
 ### Section B > Article B6: TYRE LIMITATIONS > B6.1 Supply Of Tyres > B6.1.1
@@ -2414,6 +2785,13 @@ set out in the document FIA-F1-DOC-062 or as communicated directly by the FIA an
 b. From the time at which each Competitor receives fitted tyres from the Tyre Supplier at or before a Competition these may not be used on any rig, simulator or vehicle, other than the F1 Car for which they were intended.
 
 c. Tyres supplied to any Competitor at any time may not be used on any rig or vehicle (other than a Formula One car on an FIA Grade 1 or FIA Grade 1T Circuit, at the exclusion of any kind of road simulator, either Competitor owned or rented, providing measurements of forces and/or moments produced by a rotating full size Formula One tyre, other than forces acting within 10° of Zw, tyre rolling resistance and aerodynamic drag. Tyres may be used on a test rig providing forces control and monitoring by Formula One rim manufacturers for the sole purpose of proof testing their products.
+
+
+### Section B > Article B6: TYRE LIMITATIONS > B6.2 Control & Allocation of Tyres > B6.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 55
+
+**B6.2** ##  Control & Allocation of Tyres
 
 
 ### Section B > Article B6: TYRE LIMITATIONS > B6.2 Control & Allocation of Tyres > B6.2.1
@@ -2478,6 +2856,13 @@ SOURCE_PAGE: 56
 **B6.2.7** A Competitor wishing to replace one unused tyre by another identical unused one must present
 
 both tyres to the Technical Delegate.
+
+
+### Section B > Article B6: TYRE LIMITATIONS > B6.3 Use & Return of Tyres > B6.3
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 56
+
+**B6.3** Use & Return of Tyres
 
 
 ### Section B > Article B6: TYRE LIMITATIONS > B6.3 Use & Return of Tyres > B6.3.1
@@ -2640,6 +3025,13 @@ In regards to the number of sets of Intermediate and wet-weather tyres that may 
 i. if FP1, FP2 or FP3 is declared wet, one (1) set of intermediate tyres must be electronically returned no later than two (2) hours after the end of FP3.
 
 
+### Section B > Article B6: TYRE LIMITATIONS > B6.4 Tyre Return Procedure > B6.4
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 59
+
+**B6.4** Tyre Return Procedure
+
+
 ### Section B > Article B6: TYRE LIMITATIONS > B6.4 Tyre Return Procedure > B6.4.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 59
@@ -2661,6 +3053,13 @@ SOURCE_PAGE: 59
 **B6.4.3** Once all tyres have been returned electronically after the end of each day of on track activity the Tyre Supplier will publish a list of the tyres which each driver has available to them for the remainder of the Competition.
 
 
+### Section B > Article B6: TYRE LIMITATIONS > B6.5 Specific Provisions for ICTE > B6.5
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 60
+
+**B6.5** #  Specific Provisions for ICTE
+
+
 ### Section B > Article B6: TYRE LIMITATIONS > B6.5 Specific Provisions for ICTE > B6.5.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 60
@@ -2680,6 +3079,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 60
 
 **B6.5.3** All additional tyres allocated for ICTE must be electronically returned no later than two (2) hours after the end of FP2.
+
+
+### Section B > Article B6: TYRE LIMITATIONS > B6.6 Specific Provisions for ICTT > B6.6
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 60
+
+**B6.6** #  Specific Provisions for ICTT
 
 
 ### Section B > Article B6: TYRE LIMITATIONS > B6.6 Specific Provisions for ICTT > B6.6.1
@@ -2741,6 +3147,13 @@ SOURCE_PAGE: 60
 *Governance: F1 Commission / WMSC*
 
 
+### Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS > B7.1 Driver Adjustable Bodywork > B7.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 61
+
+**B7.1** Driver Adjustable Bodywork
+
+
 ### Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS > B7.1 Driver Adjustable Bodywork > B7.1.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 61
@@ -2773,6 +3186,13 @@ b. <mark>In low grip conditions</mark>  the Race Director may, <mark>at any time
 i.
 
 <mark>The use of full activation of the Driver Adjustable Bodywork may only be re-enabled during any of the three periods of Sprint Qualifying or Qualifying when there is more than five (5) minutes remaining in the relevant period.</mark>
+
+
+### Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS > B7.2 Energy Deployment Limitations > B7.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 62
+
+**B7.2** #  **Energy Deployment Limitations
 
 
 ### Section B > Article B7: DRIVER ADJUSTABLE BODYWORK & ENERGY DEPLOYMENT LIMITATIONS > B7.2 Energy Deployment Limitations > B7.2.1
@@ -2867,6 +3287,13 @@ In the event of a failure in the system which notifies the driver that <mark>Ove
 <mark>Advisory Committee: SAC</mark> <mark>Governance: F1 Commission / WMSC</mark>
 
 
+### Section B > Article B8: CAR & COMPONENT LIMITATIONS > B8.1 Car Limitations & Usage > B8.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 65
+
+**B8.1** ##  Car Limitations & Usage
+
+
 ### Section B > Article B8: CAR & COMPONENT LIMITATIONS > B8.1 Car Limitations & Usage > B8.1.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 65
@@ -2885,6 +3312,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 65
 
 **B8.1.2** In the context of this article, an <mark>F1</mark> Car is defined as an assembly consisting of a survival cell, with a Power Unit or components of a Power Unit installed or partially installed. (A Power Unit is as defined in Article <mark>C1(Part B)</mark> and Appendix C4 column three (titled ‘Art.5.1.2 Defin.’)), and any other <mark>F1</mark> Car components fitted or installed.
+
+
+### Section B > Article B8: CAR & COMPONENT LIMITATIONS > B8.2 Power Unit Limitations & Usage > B8.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 65
+
+**B8.2** ##  Power Unit Limitations & Usage
 
 
 ### Section B > Article B8: CAR & COMPONENT LIMITATIONS > B8.2 Power Unit Limitations & Usage > B8.2.1
@@ -3006,11 +3440,25 @@ SOURCE_PAGE: 67
 <mark>Governance: F1 Commission / WMSC</mark>
 
 
+### Section B > Article B9: PERSONNEL LIMITATIONS > B9.1 General Provisions > B9.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 68
+
+**B9.1** ##  General Provisions
+
+
 ### Section B > Article B9: PERSONNEL LIMITATIONS > B9.1 General Provisions > B9.1.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 68
 
 **B9.1.1** All persons concerned in any way with an entered F1 Car or present in any other capacity whatsoever in the paddock, Pit Lane, or track during a Competition must always wear an appropriate pass. No pass may be issued or used other than with the agreement of the FIA. A pass may be used only by the person and for the purpose for which it was issued.
+
+
+### Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 68
+
+**B9.2** ##  Operational Personnel
 
 
 ### Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2.1
@@ -3029,11 +3477,25 @@ SOURCE_PAGE: 68
 **B9.2.2** For the avoidance of doubt Race drivers and staff whose duties are solely connected with hospitality, marketing, media, security or driving trucks to or from the Competition are not considered Operational Personnel.
 
 
+### Section B > Article B9: PERSONNEL LIMITATIONS > B9.3 Trainee Personnel > B9.3
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 68
+
+**B9.3** ##  Trainee Personnel
+
+
 ### Section B > Article B9: PERSONNEL LIMITATIONS > B9.3 Trainee Personnel > B9.3.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 68
 
 **B9.3.1** In addition to the sixty (60) personnel described in Article B9.2.1, each Competitor will be permitted sixteen (16) individual exceptions during a Championship for **“Trainee Personnel”**. However, no individual trainee may attend more than three (3) Competitions in this capacity.
+
+
+### Section B > Article B9: PERSONNEL LIMITATIONS > B9.4 Declaration of Personnel > B9.4
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 68
+
+**B9.4** ##  Declaration of Personnel
 
 
 ### Section B > Article B9: PERSONNEL LIMITATIONS > B9.4 Declaration of Personnel > B9.4.1
@@ -3045,6 +3507,13 @@ SOURCE_PAGE: 68
 Amendments to the submitted list of all operational, trainee, shared, and employee guest personnel after the start of Restricted Period One shall be permitted at the sole discretion of the FIA.
 
 A list of all personnel exempt from the provisions of Article B9.2 or B9.3 who have been working on behalf of the Competitor within the restricted areas of the circuit during the Competition must be submitted to the FIA prior to the end of the Competition, using the DMS and the official template provided by the FIA. For the avoidance of doubt the restricted areas of the circuit include the paddock, the competitors Designated Garage Area, the pit lane or the signalling area.
+
+
+### Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 68
+
+**B9.5** ##  Restricted Period(s)
 
 
 ### Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5.1
@@ -3123,6 +3592,13 @@ SOURCE_PAGE: 70
 *Advisory Committee: SAC*
 
 *Governance: F1 Commission / WMSC*
+
+
+### Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES > B10.1 Media Activities > B10.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 71
+
+**B10.1** ##  Media Activities
 
 
 ### Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES > B10.1 Media Activities > B10.1.1
@@ -3223,6 +3699,13 @@ f. During the Race, each Competitor must make at least one (1) senior spokespers
 g. Commencing one (1) and ending two (2) hours after the end of the Race, each Competitor must make one (1) senior spokesperson available to media at their team’s hospitality for a minimum of five (5) minutes.
 
 
+### Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES > B10.2 Podium Ceremony > B10.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 74
+
+**B10.2** # **** Podium Ceremony
+
+
 ### Section B > Article B10: MEDIA ACTIVITIES & OFFICIAL CEREMONIES > B10.2 Podium Ceremony > B10.2.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 74
@@ -3255,6 +3738,13 @@ SOURCE_PAGE: 75
 *Governance: F1 Commission / WMSC*
 
 
+### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.1 General Provisions for Track Running Outside a Competition > B11.1
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 76
+
+**B11.1** ##  General Provisions for Track Running Outside a Competition
+
+
 ### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.1 General Provisions for Track Running Outside a Competition > B11.1.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 76
@@ -3279,6 +3769,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 76
 
 **B11.1.2** An FIA Observer may be appointed and may attend any TPC, PE or DE. Once notified of the attendance of an FIA Observer, the Competitor organising the TPC, PE or DE is required to make relevant arrangements to facilitate access to the circuit or venue.
+
+
+### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.2 Provisions for TCC > B11.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 76
+
+**B11.2** ##  Provisions for TCC
 
 
 ### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.2 Provisions for TCC > B11.2.1
@@ -3392,6 +3889,13 @@ iii. If a Competitor, having declared the driver’s substitution and performed 
 iv. Only one (1) F1 Car may be used.
 
 
+### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.3 Provisions for TPC > B11.3
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 78
+
+**B11.3** #  Provisions for TPC
+
+
 ### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.3 Provisions for TPC > B11.3.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 78
@@ -3452,6 +3956,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 79
 
 **B11.3.8** Only tyres manufactured specifically for this purpose by the Tyre Supplier may be used.
+
+
+### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.4 Provisions for TMC > B11.4
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 79
+
+**B11.4** ##  Provisions for TMC
 
 
 ### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.4 Provisions for TMC > B11.4.1
@@ -3555,6 +4066,13 @@ b. Mechanical set-up changes and driver control changes are only permitted if th
 c. Additional sensors may only be fitted on the Mule Car to measure tyre state and or performance or if requested by the FIA and must be agreed with the Tyre Supplier when tyre testing is to be carried out and the FIA in advance. When tyre testing is carried out data collected from such sensors must be shared with the Tyre Supplier in due time after the test session, and processed data from such sensors (having removed any team-specific or FIA confidential information) may be shared by the Tyre Supplier with the other Competitors.
 
 
+### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.5 Provisions for THC > B11.5
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 81
+
+**B11.5** Provisions for THC
+
+
 ### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.5 Provisions for THC > B11.5.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 81
@@ -3567,6 +4085,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 81
 
 **B11.5.2** Only tyres manufactured specifically for this purpose by the Tyre Supplier, or tyres of the period, may be used.
+
+
+### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.6 Provisions for PE > B11.6
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 81
+
+**B11.6** Provisions for PE
 
 
 ### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.6 Provisions for PE > B11.6.1
@@ -3588,6 +4113,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 82
 
 **B11.6.3** Only tyres manufactured specifically for this purpose by the Tyre Supplier may be used.
+
+
+### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.7 Provisions for DE > B11.7
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 82
+
+**B11.7** Provisions for DE
 
 
 ### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.7 Provisions for DE > B11.7.1
@@ -3626,6 +4158,13 @@ SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 82
 
 **B11.7.5** During any DE, only tyres manufactured specifically for this purpose by the Tyre Supplier may be used.
+
+
+### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.8 Safety Requirements, Technical Requirements & Car Limitations > B11.8
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 82
+
+**B11.8** Safety Requirements, Technical Requirements & Car Limitations
 
 
 ### Section B > Article B11: TRACK RUNNING OUTSIDE A COMPETITION > B11.8 Safety Requirements, Technical Requirements & Car Limitations > B11.8.1
@@ -4075,6 +4614,13 @@ An invitation will be issued to each person attending the podium ceremony, with 
 **Changes for 2027**
 
 
+### Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 94
+
+**B9.2** Operational Personnel
+
+
 ### Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2.1
 SOURCE_FILE: 2026_f1_regulations_section_b.pdf
 SOURCE_PAGE: 94
@@ -4082,6 +4628,13 @@ SOURCE_PAGE: 94
 **B9.2.1** At each Competition during the period beginning twenty-nine (29) hours before the scheduled start of FP1 and ending two (2) hours after the start of the Race, each Competitor may not have more than a total of fifty-nine (59) Operational Personnel who are associated in any way with the operation of the F1 Cars within the confines of the circuit.
 
 However, during the period starting forty-five (45) minutes before the start of the first formation lap until fifteen (15) minutes after the scheduled start of the Race the number of such Operational Personnel is unlimited.
+
+
+### Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 94
+
+**B9.5** Restricted Period(s)
 
 
 ### Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5.3
@@ -4142,6 +4695,13 @@ iv. Tests arranged by the Tyre Supplier may be carried out between 1 January and
 
 .../...
 
+
+### Section B > Article B9: PERSONNEL LIMITATIONS > B9.2 Operational Personnel > B9.2
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 95
+
+**B9.2** Operational Personnel
+
 .../...
 
 
@@ -4154,6 +4714,13 @@ SOURCE_PAGE: 95
 However, during the period starting forty-five (45) minutes before the start of the first formation lap until fifteen (15) minutes after the scheduled start of the Race the number of such Operational Personnel is unlimited.
 
 .../...
+
+
+### Section B > Article B9: PERSONNEL LIMITATIONS > B9.5 Restricted Period(s) > B9.5
+SOURCE_FILE: 2026_f1_regulations_section_b.pdf
+SOURCE_PAGE: 96
+
+**B9.5** ##  Restricted Period(s)
 
 .../...
 

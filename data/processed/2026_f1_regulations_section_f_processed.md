@@ -9,9 +9,36 @@
 
 **Black Text:** Text unchanged from 2026 FIA F1 Regulations - Section F \[Operational] – Iss 05 <span style="color: #ff00ff">Pink Text:</span> Changes relative to 2026 FIA F1 Regulations - Section F \[Operational] – Iss 05, approved by the WMSC on 27/02/2026 <span style="color: #ff0000">\[Red Text]:</span> Information on applicable Governance and relevant Advisory Committee <span style="color: #ffa500">\[Orange Text]:</span> Reference information on relevant FIA F1 Documents <span style="color: #008000">\[Green Text]:</span> Comments / explanations / indication of further work: non-binding and non-regulatory
 
-* **F3.1** F1 Team Factory Shutdown Periods 5
+
+### Section F > Article F3: COMPETITORS’ SHUTDOWN PERIOD 5 > None > F3.1
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 1
+
+**F3.1** F1 Team Factory Shutdown Periods 5
 * **F3.2** Power Unit Manufacturer Factory Shutdown Periods 6
 * **F3.2.1** All PU Manufacturers must observe two shutdown periods: 6
+
+
+### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) 8 > F4.1 General conditions 8 > F4.1
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 1
+
+**F4.1** General conditions 8
+* **F4.2** Restricted Wind Tunnel Testing (RWTT) 9
+* **F4.3** RWTT Permitted technology 10
+* **F4.4** Restricted CFD (RCFD) simulations 12
+* **F4.5** Exceptions to the Aerodynamic Testing Restrictions (ATR) 15
+* **F4.6** Limits, Reporting, Inspection and Audit 16
+* **F4.7** Movement of Personnel 18
+
+
+### Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS 19 > F5.1 Power Units Test Benches 19 > F5.1
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 1
+
+**F5.1** Power Units Test Benches 19
+* **F5.2** Power Unit Test Benches Operational Restrictions 23
+* **F5.3** Power Unit Test Bench activities affecting PU Manufacturers and F1 Teams 26
 
 **APPENDIX F1: DEFINITIONS** **31**
 
@@ -24,6 +51,13 @@ Changes for 2027 32
 
 Changes for 2028 32
 Changes for 2029 32
+
+
+### Section F > Article F3: COMPETITORS’ SHUTDOWN PERIOD > F3.1 F1 Team Factory Shutdown Periods > F3.1
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 5
+
+**F3.1** ##  F1 Team Factory Shutdown Periods
 
 <mark>Advisory Committee: TAC</mark>
 
@@ -90,6 +124,13 @@ h. Any activity relating to the loading, unloading, and preparation of sea freig
 i. Any activity the sole purpose of which is staff wellbeing or entertainment.
 
 j. During the shutdown period described by F3.1.1.b. only, any activity the sole purpose of which is to obtain accurate inventory quantities for financial purposes through a process of counting items of inventory and where such items return to the same physical location after the process as they were in prior to the start of the shutdown.
+
+
+### Section F > Article F3: COMPETITORS’ SHUTDOWN PERIOD > F3.2 Power Unit Manufacturer Factory Shutdown Periods > F3.2
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 6
+
+**F3.2** #  Power Unit Manufacturer Factory Shutdown Periods
 
 *Advisory Committee: PUAC*
 
@@ -187,6 +228,13 @@ Advisory Committee: TAC
 Governance: F1 Commission / WMSC
 
 
+### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.1 General conditions > F4.1
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 8
+
+**F4.1** ##  General conditions
+
+
 ### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.1 General conditions > F4.1.1
 SOURCE_FILE: 2026_f1_regulations_section_f.pdf
 SOURCE_PAGE: 8
@@ -252,6 +300,13 @@ SOURCE_PAGE: 9
 Any data acquired during Restricted Aerodynamic testing may only be available to the F1 Team that acquired it through use of the restricted aerodynamic testing available to it in accordance with the limits in this Article.
 
 
+### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.2 Restricted Wind Tunnel Testing (RWTT) > F4.2
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 9
+
+**F4.2** Restricted Wind Tunnel Testing (RWTT)
+
+
 ### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.2 Restricted Wind Tunnel Testing (RWTT) > F4.2.1
 SOURCE_FILE: 2026_f1_regulations_section_f.pdf
 SOURCE_PAGE: 9
@@ -302,6 +357,13 @@ SOURCE_FILE: 2026_f1_regulations_section_f.pdf
 SOURCE_PAGE: 10
 
 **F4.2.6** For the avoidance of doubt any RWTT performed for the F1 Team by any Associate of the F1 Team and/or by any contracted party of the F1 Team or of any Associate of the F1 Team or any external entity working on behalf of the F1 Team or for its own purposes and subsequently providing the results of its work to the F1 Team during an ATP will be subject to these same limits as if the tests were performed by the F1 Team.
+
+
+### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.3 RWTT Permitted technology > F4.3
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 10
+
+**F4.3** RWTT Permitted technology
 
 The following restrictions apply during RWTT:
 
@@ -368,6 +430,13 @@ SOURCE_FILE: 2026_f1_regulations_section_f.pdf
 SOURCE_PAGE: 11
 
 **F4.3.6** Where non-rigid wind tunnel tyres are used for RWTT these may only be produced by the appointed tyre supplier. Furthermore, devices that actively modify the shape of the tyre during RWTT other than as a result of vertical and lateral loads reacted at the contact patch are not permitted. Tyre pressure control is permitted but the complete wheel must contain only a single fixed internal gas volume. Systems which apply lubricant directly or indirectly to the wind tunnel tyres in order to reduce friction at the contact patches are permitted.
+
+
+### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.4 Restricted CFD (RCFD) simulations > F4.4
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 12
+
+**F4.4** #  Restricted CFD (RCFD) simulations
 
 RCFDs are Computational Fluid Dynamics (CFD) simulations by a F1 Team or any Associate of a F1 Team and/or by any contracted party of a F1 Team or of any Associate of a F1 Team or any external entity working on behalf of a F1 Team or for its own purposes and subsequently providing the results of its work to a F1 Team of flows that are gaseous in the case of a F1 car and are not classified as power unit simulations. Any simulation of flows contained within the power unit cooling or lubrication systems, air, air/fuel mixtures, combustion process or products of combustion from a boundary commencing at the power unit’s atmospheric air intake ducts, passing through the power unit and finishing at the exit of the exhaust tailpipe will be classified as a power unit simulation.
 
@@ -502,6 +571,13 @@ SOURCE_PAGE: 15
 **F4.4.8** The limits for RCFDs will be revised periodically, to take account of advances in CFD simulations.
 
 
+### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.5 Exceptions to the Aerodynamic Testing Restrictions (ATR) > F4.5
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 15
+
+**F4.5** ##  Exceptions to the Aerodynamic Testing Restrictions (ATR)
+
+
 ### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.5 Exceptions to the Aerodynamic Testing Restrictions (ATR) > F4.5.1
 SOURCE_FILE: 2026_f1_regulations_section_f.pdf
 SOURCE_PAGE: 15
@@ -551,6 +627,13 @@ b. A RATG is used which is more than 12 months old, or represents an FIA approve
 During audit F1 Teams may be requested to demonstrate compliance of any such testing through the production of supporting data.
 
 For the avoidance of doubt, any wind tunnel testing to develop bodywork parts other than as referred to above even without aerodynamic force measurement is within the definition of Restricted Aerodynamic testing.
+
+
+### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.6 Limits, Reporting, Inspection and Audit > F4.6
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 16
+
+**F4.6** #  Limits, Reporting, Inspection and Audit
 
 
 ### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.6 Limits, Reporting, Inspection and Audit > F4.6.1
@@ -662,9 +745,23 @@ SOURCE_PAGE: 18
 
 **F4.6.10** Failure to comply with the limits of the ATR by a F1 Team will result in a reduction of the limits that will apply to subsequent ATP or ATPs for that F1 Team at the FIA’s absolute discretion but by a minimum reduction equivalent to 10 multiples of the amount by which the relevant limit or limits were exceeded without prejudice to further appropriate action. (For example, if a F1 Team carries out 325 restricted wind tunnel runs against a maximum of 320 in an ATP, that F1 Team shall only be permitted to make 270 restricted wind tunnel runs during the next ATP).
 
+
+### Section F > Article F4: AERODYNAMIC TESTING RESTRICTIONS (ATR) > F4.7 Movement of Personnel > F4.7
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 18
+
+**F4.7** Movement of Personnel
+
 No F1 Team may use movement of personnel involved in the development, design or testing of aerodynamic surfaces (whether employee, consultant, contractor, secondee or any other type of permanent or temporary personnel) with another F1 Team, either directly or via an external entity, for the purpose of circumventing the requirements of this Article. In order that the FIA may be satisfied that any such movement of staff is compliant with this Article, each F1 Team must inform the FIA of all relevant staff movements at the end of each ATP using the template which may be found in the Guidance Documents (GD’s) and must demonstrate that they have implemented all reasonable measures to avoid the disclosure of information, data or designs between the F1 Teams involved.
 
 <mark>Advisory Committee: PUAC</mark> <mark>Governance: PU Manufacturers’ Governance Agreement / WMSC</mark>
+
+
+### Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.1 Power Units Test Benches > F5.1
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 19
+
+**F5.1** ##  Power Units Test Benches
 
 
 ### Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.1 Power Units Test Benches > F5.1.1
@@ -896,6 +993,13 @@ are not circumvented.
 Details of the process for Declaration of PUTBs may be found in the Guidance Documents (GD’s).
 
 
+### Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.2 Power Unit Test Benches Operational Restrictions > F5.2
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 23
+
+**F5.2** #  Power Unit Test Benches Operational Restrictions
+
+
 ### Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.2 Power Unit Test Benches Operational Restrictions > F5.2.1
 SOURCE_FILE: 2026_f1_regulations_section_f.pdf
 SOURCE_PAGE: 23
@@ -1052,6 +1156,13 @@ SOURCE_PAGE: 26
 Further to the provisions of Article F5.2.2, and for the avoidance of doubt, PUTB testing restrictions for the 2022 PU are provided by the 2022-2025 Sporting Regulations, and any definitions, criteria and guidance given in those Sporting Regulations do not apply to the 2026 PU if they contradict definitions given herein.
 
 However, it remains the responsibility of the PU Manufacturer to satisfy the FIA that any 2022 PU work does not in any way contribute to the 2026 PU program.
+
+
+### Section F > Article F5: POWER UNIT TEST BENCH RESTRICTIONS > F5.3 Power Unit Test Bench activities affecting PU Manufacturers and F1 Teams > F5.3
+SOURCE_FILE: 2026_f1_regulations_section_f.pdf
+SOURCE_PAGE: 26
+
+**F5.3** #  Power Unit Test Bench activities affecting PU Manufacturers and F1 Teams
 
 General Principles
 

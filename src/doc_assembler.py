@@ -54,7 +54,11 @@ def assemble_markdown_from_json(
 
     article_pattern = rf"(?i)^#*\s*ARTICLE ({section_letter}\d+):?\s*(.*)"
     sub_article_pattern = rf"^#*\s*({section_letter}\d+\.\d+)\s*(.*)"
-    rule_pattern = rf"^(?:#+\s*|\*\*)?({section_letter}\d+\.\d+\.\d+[a-z]?)(?:\*\*|:)?"
+    # Locate this line in reconstruct_markdown (or assemble_markdown_from_json)
+    # Change it to:
+    rule_pattern = (
+        rf"^(?:#+\s*|\*\*)?({section_letter}\d+\.\d+(?:\.\d+)?[a-z]?)(?:\*\*|:)?"
+    )
 
     for i, page in enumerate(pages, start=1):
         page_num = i
@@ -116,7 +120,6 @@ def assemble_markdown_from_json(
                 current_sub_article = (
                     f"{sub_article_match.group(1)} {sub_article_match.group(2).strip()}"
                 )
-                continue
 
             # Identify specific Rules and inject assembly metadata
             rule_match = re.search(rule_pattern, clean_text)

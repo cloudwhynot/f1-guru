@@ -55,7 +55,7 @@ def create_f1_rule_chunks() -> list[Document]:
             clean_rule_text = re.sub(r"SOURCE_FILE:.*\n?", "", remaining_text)
             clean_rule_text = re.sub(r"SOURCE_PAGE:.*\n?", "", clean_rule_text).strip()
 
-            rule_id_match = re.search(r"\*\*([A-Z]\d+\.\d+\.\d+[a-z]?)\*\*", chunk)
+            rule_id_match = re.search(r"\*\*([A-Z]\d+\.\d+(?:\.\d+)?[a-z]?)\*\*", chunk)
             rule_id_val = rule_id_match.group(1) if rule_id_match else "Unknown"
 
             parts = [p.strip() for p in breadcrumb_line.split(">")]

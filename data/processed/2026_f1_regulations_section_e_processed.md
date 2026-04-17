@@ -9,9 +9,60 @@
 
 **Black Text:** Text unchanged from FIA 2026 F1 Regulations – Section E \[Financial Regulations – Power Unit Manufacturers] – Iss 2 – 25-10-16 <mark>**\[Pink Text]:** Changes relative to FIA 2026 F1 Regulations – Section E \[Financial Regulations – Power Unit Manufacturers] – Issue 02</mark> <mark>**\[Red Text]:** Information on applicable Governance and relevant Advisory Committee</mark> <mark>**\[Orange Text]:** Reference information on relevant FIA F1 Document(s)</mark> <mark>**\[Green Text]:** Comments / explanations / indication of further work: non-binding and non-regulatory</mark>
 
+
+### Section E > Article E6: COST CAP ADMINISTRATION 21 > E6.1 General 21 > E6.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 2
+
+**E6.1** General **21**
+* E6.2 Clarification of the Power Unit Financial Regulations **21**
+* E6.3 Review of Reporting Documentation **21**
+* E6.4 Regulatory function **22**
+* E6.5 Investigations **22**
+* E6.6 Complaints procedure **24**
+* E6.7 Accepted Breach Agreement **25
+
+
+### Section E > Article E7: COST CAP ADJUDICATION PANEL 27 > E7.1 Cost Cap Adjudication Panel 27 > E7.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 2
+
+**E7.1** Cost Cap Adjudication Panel **27**
+* E7.2 Hearings before the Cost Cap Adjudication Panel **28**
+* E7.3 Decision **29**
+* E7.4 Appeals **30
+
+
+### Section E > Article E8: CATEGORIES OF BREACH 31 > E8.1 Procedural Breach 31 > E8.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 2
+
+**E8.1** Procedural Breach **31**
+* E8.2 Late and Non-Submission of Full Year Reporting Documentation **31**
+* E8.3 Minor Overspend Breach **32**
+* E8.4 Material Overspend Breach **32**
+* E8.5 Aggravating or mitigating factors **33
+
+
+### Section E > Article E9: SANCTIONS FOR BREACH 34 > E9.1 Sanctions 34 > E9.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 2
+
+**E9.1** Sanctions **34**
+* E9.2 Enhanced monitoring and suspended sanctions **35**
+* E9.3 Payment of a Financial Penalty **35**
+* E9.4 Individual responsibility **35
+
 # APPENDIX E1: DEFINITIONS AND INTERPRETATION **36**
 
 # APPENDIX E2: RELIABILITY ALLOWANCE **56**
+
+
+### Section E > Article E1: GENERAL PRINCIPLES > E1.1 Scope > E1.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 3
+
+**E1.1** ##  Scope
 
 
 ### Section E > Article E1: GENERAL PRINCIPLES > E1.1 Scope > E1.1.1
@@ -19,6 +70,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 3
 
 **E1.1.1** These Power Unit Financial Regulations will come into force on 1 January 2026 in respect of Reporting Periods commencing on or after that date. They form part of the terms and conditions for the homologation of Power Units to be supplied to F1 Teams for participation in the Championship from 2026 onwards. Each Power Unit Manufacturer intending to homologate Power Units for supply to an F1 Team(s) for participation in the Championship from 2026 onwards agrees to be bound by, and undertakes to comply with, these Power Unit Financial Regulations from the start of its N-3 Full Year Reporting Period.
+
+
+### Section E > Article E1: GENERAL PRINCIPLES > E1.2 Objectives > E1.2
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 3
+
+**E1.2** ##  Objectives
 
 
 ### Section E > Article E1: GENERAL PRINCIPLES > E1.2 Objectives > E1.2.1
@@ -71,6 +129,13 @@ SOURCE_PAGE: 4
 **E1.2.6** The Cost Cap Administration shall periodically review these Power Unit Financial Regulations. These Power Unit Financial Regulations may be amended and/or supplemented by the FIA World Motor Sport Council from time to time.
 
 
+### Section E > Article E1: GENERAL PRINCIPLES > E1.3 Accountability > E1.3
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 4
+
+**E1.3** #  Accountability
+
+
 ### Section E > Article E1: GENERAL PRINCIPLES > E1.3 Accountability > E1.3.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 4
@@ -95,6 +160,13 @@ SOURCE_PAGE: 4
 **E1.3.3** Each Power Unit Manufacturer must ensure that the FIA ethics and compliance policy in force from time to time with respect to these Power Unit Financial Regulations is clearly communicated to all Personnel.
 
 
+### Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.1 Power Unit Manufacturer Obligations > E2.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 5
+
+**E2.1** ##  Power Unit Manufacturer Obligations
+
+
 ### Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.1 Power Unit Manufacturer Obligations > E2.1.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 5
@@ -110,6 +182,13 @@ c. provide any information and documentation requested by or on behalf of the Co
 d. faithfully execute its obligations under these Power Unit Financial Regulations and act at all times in a spirit of Good Faith and cooperation.
 
 
+### Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.2 Cap on Relevant Costs > E2.2
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 5
+
+**E2.2** ##  Cap on Relevant Costs
+
+
 ### Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.2 Cap on Relevant Costs > E2.2.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 5
@@ -119,6 +198,13 @@ SOURCE_PAGE: 5
 a. determine and report its Relevant Costs against the Power Unit Cost Cap in the Power Unit Manufacturer’s Presentation Currency; and
 
 b. not have Relevant Costs in excess of the Power Unit Cost Cap in the applicable Full Year Reporting Period.
+
+
+### Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.3 The Power Unit Cost Cap > E2.3
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 5
+
+**E2.3** ##  The Power Unit Cost Cap
 
 
 ### Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.3 The Power Unit Cost Cap > E2.3.1
@@ -144,6 +230,13 @@ SOURCE_PAGE: 5
 |-|-|-|-|
 |190,000|152,918|180,420|24,967,900|
 
+
+
+### Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.4 Reporting Group > E2.4
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 6
+
+**E2.4** #  Reporting Group
 
 
 ### Section E > Article E2: POWER UNIT MANUFACTURER OBLIGATIONS > E2.4 Reporting Group > E2.4.1
@@ -196,6 +289,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 7
 
 **E2.4.6** The Power Unit Manufacturer should seek clarification from the Cost Cap Administration if it is uncertain whether an entity should be included in its Reporting Group.
+
+
+### Section E > Article E3: EXCLUSIONS > E3.1 Exclusions > E3.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 8
+
+**E3.1** ##  Exclusions
 
 
 ### Section E > Article E3: EXCLUSIONS > E3.1 Exclusions > E3.1.1
@@ -330,6 +430,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 11
 
 **E3.1.3** For the purposes of this Article E3, where a Power Unit Manufacturer has a Presentation Currency other than US Dollars, amounts expressed in US Dollars shall be converted into that Power Unit Manufacturer’s Presentation Currency at the Initial Applicable Rate.
+
+
+### Section E > Article E4: ADJUSTMENTS > E4.1 Adjustments > E4.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 12
+
+**E4.1** ##  Adjustments
 
 
 ### Section E > Article E4: ADJUSTMENTS > E4.1 Adjustments > E4.1.1
@@ -515,6 +622,13 @@ SOURCE_PAGE: 18
 **E4.1.3** For the purposes of this Article E4, where a Power Unit Manufacturer has a Presentation Currency other than US Dollars, amounts expressed in US Dollars shall be converted into that Power Unit Manufacturer’s Presentation Currency at the Initial Applicable Rate.
 
 
+### Section E > Article E5: REPORTING REQUIREMENTS > E5.1 Full Year Reporting Documentation > E5.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 19
+
+**E5.1** ##  Full Year Reporting Documentation
+
+
 ### Section E > Article E5: REPORTING REQUIREMENTS > E5.1 Full Year Reporting Documentation > E5.1.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 19
@@ -530,6 +644,13 @@ c. the Declarations; and
 d. an assessment report provided by the same Independent Audit Firm that signs the Power Unit Manufacturer’s Audited Annual Financial Statements, in the format prescribed by the Cost Cap Administration from time to time via a Determination, in respect of the completeness and accuracy of the Full Year Reporting Documentation submitted by the Power Unit Manufacturer.
 
 
+### Section E > Article E5: REPORTING REQUIREMENTS > E5.2 Interim Reporting Documentation > E5.2
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 19
+
+**E5.2** ##  Interim Reporting Documentation
+
+
 ### Section E > Article E5: REPORTING REQUIREMENTS > E5.2 Interim Reporting Documentation > E5.2.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 19
@@ -541,6 +662,13 @@ a. the Reporting Group Documentation;
 b. the Interim Financial Reporting Documentation; and
 
 c. the Declarations.
+
+
+### Section E > Article E5: REPORTING REQUIREMENTS > E5.3 Approval of a Power Unit Manufacturer’s Registration Form > E5.3
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 19
+
+**E5.3** ##  Approval of a Power Unit Manufacturer’s Registration Form
 
 
 ### Section E > Article E5: REPORTING REQUIREMENTS > E5.3 Approval of a Power Unit Manufacturer’s Registration Form > E5.3.1
@@ -564,6 +692,13 @@ SOURCE_PAGE: 19
 **E5.3.3** If a Power Unit Manufacturer’s Registration Form in respect of its Inaugural Season is not approved by FIA until after 31 December of its N-2 Full Year Reporting Period, the Cost Cap Administration
 
 will grant the Power Unit Manufacturer an extension to its Full Year Reporting Deadline in respect of both its N-3 Full Year Reporting Period and its N-2 Full Year Reporting Period, an extension to its Interim Reporting Deadline in respect of its N-1 Interim Reporting Period, and the Power Unit Manufacturer is not required to comply with Article E5.2.1 in respect of either its N-3 Interim Reporting Period or its N-2 Interim Reporting Period. Enhanced review procedures will be put in place by the Cost Cap Administration concerning the Power Unit Manufacturer’s compliance with these Power Unit Financial Regulations in respect of its N-3 Full Year Reporting Period, its N-2 Full Year Reporting Period and its N-1 Full Year Reporting Period.
+
+
+### Section E > Article E6: COST CAP ADMINISTRATION > E6.1 General > E6.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 21
+
+**E6.1** ##  General
 
 
 ### Section E > Article E6: COST CAP ADMINISTRATION > E6.1 General > E6.1.1
@@ -601,11 +736,25 @@ SOURCE_PAGE: 21
 **E6.1.5** The Cost Cap Administration may issue guidance notes from time to time to assist the Power Unit Manufacturers in complying with these Power Unit Financial Regulations. Such guidance notes shall be advisory only and shall not constitute Power Unit Financial Regulations.
 
 
+### Section E > Article E6: COST CAP ADMINISTRATION > E6.2 Clarification of the Power Unit Financial Regulations > E6.2
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 21
+
+**E6.2** ##  Clarification of the Power Unit Financial Regulations
+
+
 ### Section E > Article E6: COST CAP ADMINISTRATION > E6.2 Clarification of the Power Unit Financial Regulations > E6.2.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 21
 
 **E6.2.1** The CFO of a Power Unit Manufacturer may submit a written request to the Cost Cap Administration in order to clarify the operation or interpretation of these Power Unit Financial Regulations. The Cost Cap Administration will respond in writing to any such request and will make available to the CFOs of all other Power Unit Manufacturers a summary of the written request along with the response, omitting any Confidential Information. Such clarifications shall be advisory only and shall not constitute Power Unit Financial Regulations.
+
+
+### Section E > Article E6: COST CAP ADMINISTRATION > E6.3 Review of Reporting Documentation > E6.3
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 21
+
+**E6.3** ##  Review of Reporting Documentation
 
 
 ### Section E > Article E6: COST CAP ADMINISTRATION > E6.3 Review of Reporting Documentation > E6.3.1
@@ -651,6 +800,13 @@ SOURCE_PAGE: 22
 **E6.3.5** There shall be no right of appeal against any decision by the Cost Cap Administration to issue a compliance certificate to a Power Unit Manufacturer.
 
 
+### Section E > Article E6: COST CAP ADMINISTRATION > E6.4 Regulatory function > E6.4
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 22
+
+**E6.4** ##  Regulatory function
+
+
 ### Section E > Article E6: COST CAP ADMINISTRATION > E6.4 Regulatory function > E6.4.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 22
@@ -678,6 +834,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 22
 
 **E6.4.3** Following any request pursuant to Article E6.4.1, the Cost Cap Administration may issue feedback to the relevant Power Unit Manufacturer in order to assist that Power Unit Manufacturer in complying with these Power Unit Financial Regulations. Such feedback shall be advisory only and shall not constitute Power Unit Financial Regulations.
+
+
+### Section E > Article E6: COST CAP ADMINISTRATION > E6.5 Investigations > E6.5
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 22
+
+**E6.5** ##  Investigations
 
 
 ### Section E > Article E6: COST CAP ADMINISTRATION > E6.5 Investigations > E6.5.1
@@ -772,6 +935,13 @@ SOURCE_PAGE: 24
 **E6.5.9** Each Power Unit Manufacturer must retain and preserve its accounting books and records in a manner that shall enable the Cost Cap Administration, the Independent Audit Firm appointed by the Cost Cap Administration, the Cost Cap Adjudication Panel and/or the ICA, on inspection pursuant to Article E6.5.8, to understand to its satisfaction, the content of the Full Year Financial Reporting Documentation submitted by that Power Unit Manufacturer in respect of the previous five Full Year Reporting Periods.
 
 
+### Section E > Article E6: COST CAP ADMINISTRATION > E6.6 Complaints procedure > E6.6
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 24
+
+**E6.6** #  Complaints procedure
+
+
 ### Section E > Article E6: COST CAP ADMINISTRATION > E6.6 Complaints procedure > E6.6.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 24
@@ -811,6 +981,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 25
 
 **E6.6.4** Upon completion of an investigation of a complaint reported pursuant to Article E6.6.1, the Cost Cap Administration shall prepare a recommendation report, which shall be submitted to the Cost Cap Adjudication Panel for consideration. The Cost Cap Administration shall inform the Complainant Manufacturer in writing of the submission of the report to the Cost Cap Adjudication Panel. The Cost Cap Adjudication Panel shall conduct a hearing and reach a decision in accordance with the provisions of Article E7.1.3.
+
+
+### Section E > Article E6: COST CAP ADMINISTRATION > E6.7 Accepted Breach Agreement > E6.7
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 25
+
+**E6.7** #  Accepted Breach Agreement
 
 
 ### Section E > Article E6: COST CAP ADMINISTRATION > E6.7 Accepted Breach Agreement > E6.7.1
@@ -862,6 +1039,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 26
 
 **E6.7.5** The Cost Cap Administration will publish a summary of the terms of the ABA, detailing the breach, any sanctions, and any enhanced monitoring procedures, omitting any Confidential Information.
+
+
+### Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.1 Cost Cap Adjudication Panel > E7.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 27
+
+**E7.1** ##  Cost Cap Adjudication Panel
 
 
 ### Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.1 Cost Cap Adjudication Panel > E7.1.1
@@ -951,6 +1135,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 28
 
 **E7.1.11** If a member of the relevant judging panel is unable, unwilling or unfit to hear the matter (whether because of a conflict of interest, as described in Article E.7.1.10, or otherwise) the President of the Cost Cap Adjudication Panel shall appoint a replacement member to the judging panel.
+
+
+### Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.2 Hearings before the Cost Cap Adjudication Panel > E7.2
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 28
+
+**E7.2** ##  Hearings before the Cost Cap Adjudication Panel
 
 
 ### Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.2 Hearings before the Cost Cap Adjudication Panel > E7.2.1
@@ -1065,6 +1256,13 @@ SOURCE_PAGE: 29
 **E7.2.14** The judging panel may decide to re-open the hearing at any point in its deliberation, for instance if it becomes aware of any new fact. In this case, each of the FIA and the Respondent shall be informed by a new notification for the further hearing.
 
 
+### Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.3 Decision > E7.3
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 29
+
+**E7.3** #  Decision
+
+
 ### Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.3 Decision > E7.3.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 29
@@ -1104,6 +1302,13 @@ SOURCE_PAGE: 30
 **E7.3.3** If, within three months of the date of notification of a decision by the Cost Cap Adjudication Panel, any important new evidence is discovered which was unknown during the case before the Cost Cap Adjudication Panel and which could call into question, or cause the Cost Cap Adjudication Panel to modify, its decision, the Cost Cap Adjudication Panel may, within three months from the date of it being notified of such important new evidence, choose to re-examine its decision, following a process that respects both the rights of the Parties and the terms of these Power Unit Financial Regulations.
 
 
+### Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.4 Appeals > E7.4
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 30
+
+**E7.4** ##  Appeals
+
+
 ### Section E > Article E7: COST CAP ADJUDICATION PANEL > E7.4 Appeals > E7.4.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 30
@@ -1116,6 +1321,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 30
 
 **E7.4.2** An appeal of a decision by the Cost Cap Adjudication Panel can be made by either the Power Unit Manufacturer in question, the FIA or those individuals listed in Article E9.4.1.b. of these Power Unit Financial Regulations who are the subject of a decision by the Cost Cap Adjudication Panel, and shall be heard by the ICA in accordance with the FIA Judicial and Disciplinary Rules.
+
+
+### Section E > Article E8: CATEGORIES OF BREACH > E8.1 Procedural Breach > E8.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 31
+
+**E8.1** ##  Procedural Breach
 
 
 ### Section E > Article E8: CATEGORIES OF BREACH > E8.1 Procedural Breach > E8.1.1
@@ -1150,6 +1362,13 @@ SOURCE_PAGE: 31
 
 * a. the Cost Cap Adjudication Panel determines that sufficient mitigating factors exist to justify taking no further action; or
 * b. the Cost Cap Adjudication Panel determines that a sufficient aggravating factor(s) exist, in which case it shall impose a Minor Sporting Penalty in addition to the Financial Penalty, or in lieu of the Financial Penalty.
+
+
+### Section E > Article E8: CATEGORIES OF BREACH > E8.2 Late and Non-Submission of Full Year Reporting Documentation > E8.2
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 31
+
+**E8.2** ##  Late and Non-Submission of Full Year Reporting Documentation
 
 
 ### Section E > Article E8: CATEGORIES OF BREACH > E8.2 Late and Non-Submission of Full Year Reporting Documentation > E8.2.1
@@ -1199,6 +1418,13 @@ SOURCE_PAGE: 32
 **E8.2.6** In the event the Cost Cap Adjudication Panel determines that a Power Unit Manufacturer has committed a Non-Submission Breach, the Cost Cap Adjudication Panel shall impose a Constructors’ Championship points deduction in accordance with Article E9.1.1.c.i. and additionally may impose a Financial Penalty and/or any other Material Sporting Penalties.
 
 
+### Section E > Article E8: CATEGORIES OF BREACH > E8.3 Minor Overspend Breach > E8.3
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 32
+
+**E8.3** Minor Overspend Breach
+
+
 ### Section E > Article E8: CATEGORIES OF BREACH > E8.3 Minor Overspend Breach > E8.3.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 32
@@ -1214,6 +1440,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 32
 
 **E8.3.2** In the event the Cost Cap Adjudication Panel determines that a Power Unit Manufacturer has committed a Minor Overspend Breach, the Cost Cap Adjudication Panel may impose a Financial Penalty and/or any Minor Sporting Penalties.
+
+
+### Section E > Article E8: CATEGORIES OF BREACH > E8.4 Material Overspend Breach > E8.4
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 32
+
+**E8.4** Material Overspend Breach
 
 
 ### Section E > Article E8: CATEGORIES OF BREACH > E8.4 Material Overspend Breach > E8.4.1
@@ -1232,6 +1465,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 33
 
 **E8.4.2** In the event the Cost Cap Adjudication Panel determines that a Power Unit Manufacturer has committed a Material Overspend Breach, the Cost Cap Adjudication Panel shall impose a Constructors’ Championship points deduction in accordance with Article E9.1.1.c.i. and additionally may impose a Financial Penalty and/or any other Material Sporting Penalties.
+
+
+### Section E > Article E8: CATEGORIES OF BREACH > E8.5 Aggravating or mitigating factors > E8.5
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 33
+
+**E8.5** #  Aggravating or mitigating factors
 
 
 ### Section E > Article E8: CATEGORIES OF BREACH > E8.5 Aggravating or mitigating factors > E8.5.1
@@ -1271,6 +1511,13 @@ b. track record of compliance with these Power Unit Financial Regulations in pre
 c. unforeseen Force Majeure Events; and
 
 d. full and unfettered co-operation with the Cost Cap Administration and/or the Independent Audit Firm appointed by the Cost Cap Administration.
+
+
+### Section E > Article E9: SANCTIONS FOR BREACH > E9.1 Sanctions > E9.1
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 34
+
+**E9.1** ##  Sanctions
 
 
 ### Section E > Article E9: SANCTIONS FOR BREACH > E9.1 Sanctions > E9.1.1
@@ -1316,6 +1563,13 @@ provided that the penalty specified in Article E9.1.1.c.vi. shall only be applie
 provided that the penalties specified in Articles E9.1.1.c.i., E9.1.1.c.ii. and E9.1.1.c.iv. cannot be applied prior to 1 January of the Power Unit Manufacturer’s Inaugural Season.
 
 
+### Section E > Article E9: SANCTIONS FOR BREACH > E9.2 Enhanced monitoring and suspended sanctions > E9.2
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 35
+
+**E9.2** ##  Enhanced monitoring and suspended sanctions
+
+
 ### Section E > Article E9: SANCTIONS FOR BREACH > E9.2 Enhanced monitoring and suspended sanctions > E9.2.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 35
@@ -1337,6 +1591,13 @@ SOURCE_PAGE: 35
 **E9.2.3** For the avoidance of doubt, in the event of an appeal of any decision, the application of all imposed sanctions shall be suspended until final decision is made by the ICA.
 
 
+### Section E > Article E9: SANCTIONS FOR BREACH > E9.3 Payment of a Financial Penalty > E9.3
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 35
+
+**E9.3** ##  Payment of a Financial Penalty
+
+
 ### Section E > Article E9: SANCTIONS FOR BREACH > E9.3 Payment of a Financial Penalty > E9.3.1
 SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 35
@@ -1356,6 +1617,13 @@ SOURCE_FILE: 2026_f1_regulations_section_e.pdf
 SOURCE_PAGE: 35
 
 **E9.3.3** Without prejudice to Article E9.3.2, interest shall be payable by the Power Unit Manufacturer to the FIA in respect of any fines not paid by the due date, accruing daily on the principal amount outstanding from the due date until the date of actual payment, at a rate of 2% above the US Federal Reserve System federal funds rate on the relevant due date.
+
+
+### Section E > Article E9: SANCTIONS FOR BREACH > E9.4 Individual responsibility > E9.4
+SOURCE_FILE: 2026_f1_regulations_section_e.pdf
+SOURCE_PAGE: 35
+
+**E9.4** ##  Individual responsibility
 
 
 ### Section E > Article E9: SANCTIONS FOR BREACH > E9.4 Individual responsibility > E9.4.1

@@ -9,6 +9,85 @@
 
 **Black Text:** Text unchanged from 2026 FIA F1 Regulations – Section A \[General Regulatory Provisions] – Iss 01 <span style="color: #FF00FF">Pink Text:</span> Changes relative to 2026 FIA F1 Regulations - Section A \[General Regulatory Provisions] – Iss 01, approved by the WMSC on 27/02/26 <span style="color: red">\[Red Text]:</span> Information on applicable Governance and relevant Advisory Committee <span style="color: orange">\[Orange Text]:</span> Reference information on relevant FIA F1 Document(s) <span style="color: green">\[Green Text]:</span> Comments / explanations / indication of further work: non-binding and non-regulatory
 
+
+### Section A > Article A4: INTEGRITY REQUIREMENTS 17 > A4.1 Fit and Proper Persons Test 17 > A4.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 2
+
+**A4.1** Fit and Proper Persons Test 17
+A4.2 Anti-doping 17
+A4.3 Prevention of Competition manipulation 18
+A4.4 Safeguarding 18
+A4.5 Anti-alcohol 18
+
+
+### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS 19 > A5.1 General obligations applicable to all 19 > A5.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 2
+
+**A5.1** General obligations applicable to all 19
+A5.2 FIA 20
+A5.3 Promoters and Organisers 20
+A5.4 ASNs 21
+A5.5 Circuit Operators 22
+A5.6 Officials 22
+A5.7 F1 Teams and PU Manufacturers 22
+A5.8 F1 Drivers and Other Racing Drivers 25
+A5.9 Other Covered Persons 25
+
+
+### Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES 26 > A6.1 Investigations 26 > A6.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 2
+
+**A6.1** Investigations 26
+A6.2 FIA Ethics and Compliance Hotline 28
+A6.3 FIA requests for information/access and Demands 28
+A6.4 Notification of apparent or alleged breaches 28
+
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS 30 > A7.1 Case resolution without a hearing 30 > A7.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 2
+
+**A7.1** Case resolution without a hearing 30
+A7.2 Adjudication – first instance 30
+A7.3 Adjudication – appeal 31
+A7.4 Referral of first instance matters 32
+A7.5 Appeals to the ICA 32
+A7.6 Protests 33
+A7.7 Right of Review 33
+A7.8 FIA representation in proceedings 33
+A7.9 Limitation period 33
+A7.10 Burden and standard of proof 34
+A7.11 Evidence 34
+A7.12 Sanctions 34
+A7.13 Costs 36
+A7.14 Immunity 36
+
+
+### Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY 38 > A8.1 Confidentiality 38 > A8.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 3
+
+**A8.1** Confidentiality 38
+A8.2 Public reporting 38
+A8.3 Data privacy 39
+
+
+### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS 40 > A9.1 Effective period of the FIA F1 Regulations 40 > A9.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 3
+
+**A9.1** Effective period of the FIA F1 Regulations 40
+A9.2 Effective period of FIA F1 Documents 40
+A9.3 Amendments 40
+A9.4 Interpretation 41
+A9.5 Requests for clarification and FIA feedback 43
+A9.6 Language of communication with the FIA 43
+A9.7 Reliance on FIA communications 43
+A9.8 Transitional provisions 43
+
 **APPENDIX A1: DEFINITIONS** **45**
 
 **APPENDIX A2: SUMMARY OF ADVISORY COMMITTEES** **54**
@@ -55,6 +134,13 @@ h. preserve the unique technology, innovation, and engineering challenge of Form
 <mark>*Advisory Committee: RGAC*</mark> <mark>*Governance: F1 Commission / WMSC*</mark>
 
 
+### Section A > Article A1: GENERAL PRINCIPLES > A1.1 Overview > A1.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 5
+
+**A1.1** ##  Overview
+
+
 ### Section A > Article A1: GENERAL PRINCIPLES > A1.1 Overview > A1.1.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 5
@@ -74,6 +160,13 @@ SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 5
 
 **A1.1.3** This Section A (General Regulatory Provisions) and its appendices include provisions that are of general application to the Championship and that apply to all other sections of the FIA F1 Regulations unless stated otherwise.
+
+
+### Section A > Article A1: GENERAL PRINCIPLES > A1.2 Applicable regulations > A1.2
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 5
+
+**A1.2** ##  Applicable regulations
 
 
 ### Section A > Article A1: GENERAL PRINCIPLES > A1.2 Applicable regulations > A1.2.1
@@ -150,6 +243,13 @@ and the FIA makes no representation or warranty that the information contained i
 Where Applicable Laws may conflict with the obligations of a Covered Person, as defined in Article A1.5.2, under the FIA Rules and Regulations, the Applicable Laws shall take precedence and there will be no breach of the FIA Rules and Regulations.
 
 
+### Section A > Article A1: GENERAL PRINCIPLES > A1.3 Application > A1.3
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 7
+
+**A1.3** #  Application
+
+
 ### Section A > Article A1: GENERAL PRINCIPLES > A1.3 Application > A1.3.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 7
@@ -197,6 +297,13 @@ SOURCE_PAGE: 7
 **A1.3.3** For the avoidance of doubt, given that Covered Persons are bound by all FIA Rules and Regulations, if a Covered Person is found to be in breach of FIA Rules and Regulations other than the FIA F1 Regulations, such breach will be pursued under the specific FIA Rules and Regulations breached, unless specified otherwise in the FIA F1 Regulations.
 
 
+### Section A > Article A1: GENERAL PRINCIPLES > A1.4 General responsibility for breaches > A1.4
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 7
+
+**A1.4** #  General responsibility for breaches
+
+
 ### Section A > Article A1: GENERAL PRINCIPLES > A1.4 General responsibility for breaches > A1.4.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 7
@@ -234,6 +341,13 @@ SOURCE_PAGE: 8
 
 *Advisory Committee: RGAC*
 *Governance: F1 Commission / WMSC*
+
+
+### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.1 Format of the Championship > A2.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 9
+
+**A2.1** ##  Format of the Championship
 
 
 ### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.1 Format of the Championship > A2.1.1
@@ -276,6 +390,13 @@ ii. If the number of first places is the same, the holder of the greatest number
 iii. If the number of second places is the same, the holder of the greatest number of third places in a race and so on until a winner emerges.
 
 iv. If this procedure fails to produce a result, the same criteria as above will apply to the qualifying results of the F1 Drivers during the season.
+
+
+### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.2 Championship points system > A2.2
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 9
+
+**A2.2** ##  Championship points system
 
 
 ### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.2 Championship points system > A2.2.1
@@ -350,6 +471,13 @@ SOURCE_PAGE: 11
 Prizes and points awarded for F1 Cars that are tied for the same position will be added together and shared equally.
 
 
+### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.3 F1 Car livery > A2.3
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 11
+
+**A2.3** #  F1 Car livery
+
+
 ### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.3 F1 Car livery > A2.3.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 11
@@ -396,6 +524,13 @@ SOURCE_PAGE: 11
 e. Livery may not protrude beyond the bodywork of the F1 Car and must be substantially similar on both sides of the F1 Car.
 
 
+### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.4 Competition Numbers > A2.4
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 12
+
+**A2.4** #  Competition Numbers
+
+
 ### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.4 Competition Numbers > A2.4.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 12
@@ -438,6 +573,13 @@ SOURCE_PAGE: 12
 **A2.4.6** Each F1 Car must carry the Competition Number of its driver as published by the FIA at the beginning of the Championship or the Competition Number that has been allocated to their replacement. The Competition Number must be clearly visible from the front of the F1 Car, and must have a minimum height of 160mm and a minimum stroke thickness of 25mm.
 
 
+### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.5 Postponement or cancellation of a Competition > A2.5
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 12
+
+**A2.5** #  Postponement or cancellation of a Competition
+
+
 ### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.5 Postponement or cancellation of a Competition > A2.5.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 12
@@ -450,6 +592,13 @@ SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 12
 
 **A2.5.2** A Competition may also be postponed or cancelled if fewer than 12 F1 Cars are available for it.
+
+
+### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.6 FIA Prize Giving Ceremony and Gala Dinner > A2.6
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 12
+
+**A2.6** #  FIA Prize Giving Ceremony and Gala Dinner
 
 
 ### Section A > Article A2: FIA FORMULA ONE WORLD CHAMPIONSHIP > A2.6 FIA Prize Giving Ceremony and Gala Dinner > A2.6.1
@@ -467,6 +616,13 @@ SOURCE_PAGE: 12
 
 *Advisory Committee: RGAC, unless otherwise stated*
 *<span style="color: red">Governance: F1 Commission / WMSC, unless otherwise stated</span>*
+
+
+### Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.1 F1 Team entry applications > A3.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 13
+
+**A3.1** ##  F1 Team entry applications
 
 
 ### Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.1 F1 Team entry applications > A3.1.1
@@ -525,9 +681,23 @@ SOURCE_PAGE: 14
 
 **A3.1.5** Successful applicants are automatically entered in all Competitions of the Championship. An F1 Team may not participate in the Championship or any Competition unless its entry application has been accepted by the FIA.
 
+
+### Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.2 Power Unit Manufacturer entry applications > A3.2
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 14
+
+**A3.2** Power Unit Manufacturer entry applications
+
 *Governance: PU Manufacturers’ Governance Agreement / WMSC*
 
 Any PU Manufacturer registered in accordance with the procedures set out in Article 1 of Appendix A7 to supply Power Units for use by one or more F1 Teams in the 2026 to 2030 Championships must submit to the FIA a Power Unit homologation dossier before 1 March of the first year in which it intends to supply such power unit for use during the Championship period indicated, in accordance with the requirements of Appendix C5. The homologation granted will be valid until the end of the 2030 Championship, unless there is a substantive change to the PU Regulations necessitating a new homologation dossier to be submitted. The homologation dossier may be updated from time to time in accordance with the process defined in <mark>the Appendix C5 of Section C</mark>.
+
+
+### Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.3 Licences > A3.3
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 14
+
+**A3.3** Licences
 
 
 ### Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.3 Licences > A3.3.1
@@ -554,11 +724,25 @@ SOURCE_PAGE: 14
 
 **A3.3.3** Organisers and the following Officials must each hold a valid Super Licence: Stewards, race directors, clerks of the course, medical delegates, deputy medical delegates, technical delegates, media delegates, timekeepers, Safety Car drivers, masters of ceremonies, and any other Officials specified by the FIA. Such Super Licences must be renewed annually.
 
+
+### Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.4 Certificate of registration for key Personnel of F1 Teams and PU Manufacturers > A3.4
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 15
+
+**A3.4** #  Certificate of registration for key Personnel of F1 Teams and PU Manufacturers
+
 <mark>Advisory Committee: RGAC</mark>
 
 <mark>Governance: F1 Commission / PU Manufacturers’ Governance Agreement / WMSC</mark>
 
 In accordance with ISC Articles 2.6.4 and 2.6.5, F1 Teams and PU Manufacturers must register with the FIA the Personnel listed in those provisions and any other Personnel required to be registered by Appendix A4B and Appendix A5.
+
+
+### Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.5 New Entrant Teams > A3.5
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 15
+
+**A3.5** #  New Entrant Teams
 
 
 ### Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.5 New Entrant Teams > A3.5.1
@@ -585,6 +769,13 @@ SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 15
 
 **A3.5.2** New Entrant Teams must comply with the Fit and Proper Persons Test (see Article A4.1) set out as an Appendix to the ISC.
+
+
+### Section A > Article A3: ENTRIES, LICENCES AND REGISTRATION > A3.6 New Entrant PU Manufacturers > A3.6
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 15
+
+**A3.6** #  New Entrant PU Manufacturers
 
 <mark>Governance: PU Manufacturers’ Governance Agreement / WMSC</mark>
 
@@ -646,6 +837,13 @@ SOURCE_PAGE: 16
 <mark>Advisory Committee: RGAC</mark> <mark>Governance: F1 Commission / WMSC</mark>
 
 
+### Section A > Article A4: INTEGRITY REQUIREMENTS > A4.1 Fit and Proper Persons Test > A4.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 17
+
+**A4.1** ##  Fit and Proper Persons Test
+
+
 ### Section A > Article A4: INTEGRITY REQUIREMENTS > A4.1 Fit and Proper Persons Test > A4.1.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 17
@@ -687,6 +885,13 @@ SOURCE_PAGE: 17
 **A4.1.5** Covered Entities shall not be required to pass the FPP Test but shall comply with certain obligations to facilitate FP Relevant Persons satisfying the requirements of the FPP Test and maintaining their status as an FP Person, as outlined in Appendix F of the ISC.
 
 
+### Section A > Article A4: INTEGRITY REQUIREMENTS > A4.2 Anti-doping > A4.2
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 17
+
+**A4.2** ##  Anti-doping
+
+
 ### Section A > Article A4: INTEGRITY REQUIREMENTS > A4.2 Anti-doping > A4.2.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 17
@@ -703,6 +908,13 @@ SOURCE_PAGE: 17
 comply with the FIA Anti-Doping Regulations as a condition of their participation in the Championship.
 
 
+### Section A > Article A4: INTEGRITY REQUIREMENTS > A4.3 Prevention of Competition manipulation > A4.3
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 18
+
+**A4.3** #  Prevention of Competition manipulation
+
+
 ### Section A > Article A4: INTEGRITY REQUIREMENTS > A4.3 Prevention of Competition manipulation > A4.3.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 18
@@ -717,6 +929,13 @@ SOURCE_PAGE: 18
 **A4.3.2** The Persons defined as "Competition Stakeholders" in the FIA Manipulation of Competition Regulations, set out at Appendix M of the ISC, agree to be bound by and to comply with the FIA Manipulation of Competition Regulations as a condition of their participation in the Championship.
 
 
+### Section A > Article A4: INTEGRITY REQUIREMENTS > A4.4 Safeguarding > A4.4
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 18
+
+**A4.4** #  Safeguarding
+
+
 ### Section A > Article A4: INTEGRITY REQUIREMENTS > A4.4 Safeguarding > A4.4.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 18
@@ -729,6 +948,13 @@ SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 18
 
 **A4.4.2** The Persons defined as "Covered Persons" in the FIA Safeguarding Policy and Regulations, set out at Appendix S of the ISC, agree to be bound by and to comply with the FIA Safeguarding Policy and Regulations as a condition of their participation in the Championship.
+
+
+### Section A > Article A4: INTEGRITY REQUIREMENTS > A4.5 Anti-alcohol > A4.5
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 18
+
+**A4.5** #  Anti-alcohol
 
 
 ### Section A > Article A4: INTEGRITY REQUIREMENTS > A4.5 Anti-alcohol > A4.5.1
@@ -746,6 +972,13 @@ SOURCE_PAGE: 18
 
 *Advisory Committee: RGAC, unless otherwise stated*
 *Governance: F1 Commission / WMSC, unless otherwise stated*
+
+
+### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.1 General obligations applicable to all > A5.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 19
+
+**A5.1** ##  General obligations applicable to all
 
 
 ### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.1 General obligations applicable to all > A5.1.1
@@ -788,6 +1021,13 @@ SOURCE_PAGE: 20
 **A5.1.2** Subject to Articles 3.1 and 3.3 of Appendix A3, nothing in this Article A5.1 shall constitute a waiver of legal rights by the F1 Team or PU Manufacturer (including in relation to Legal Professional Privilege).
 
 
+### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.2 FIA > A5.2
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 20
+
+**A5.2** #  FIA
+
+
 ### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.2 FIA > A5.2.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 20
@@ -822,6 +1062,13 @@ SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 20
 
 **A5.2.4** The FIA may engage an Independent Audit Firm, Stewards, external control bodies, experts, external legal advisors, or other specialists or service providers to assist it in carrying out its functions. These persons may receive remuneration from the FIA for their services and are bound by an obligation of confidentiality.
+
+
+### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.3 Promoters and Organisers > A5.3
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 20
+
+**A5.3** ##  Promoters and Organisers
 
 
 ### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.3 Promoters and Organisers > A5.3.1
@@ -874,11 +1121,39 @@ a. To ensure that no F1 Team gains a competitive advantage, subject to paragraph
 
 b. Nothing in this provision shall prevent (i) an independently managed affiliate of an F1 Team from being a Promoter or Circuit Operator, or (ii) an F1 Team, any holding company or subsidiary of an F1 Team, or any subsidiary of any holding company of an F1 Team from being the sponsor of a Competition or Circuit.
 
+
+### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.4 ASNs > A5.4
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 21
+
+**A5.4** ##  ASNs
+
 ASNs are members of the FIA responsible for exercising Sporting Power across one national territory. The roles and responsibilities of ASNs are outlined in the FIA Statutes and ISC. In respect of the Championship and within their respective territories, ASNs have authority for (among other things) the issuance of International Licences, the homologation of Circuits, and payment of the Calendar Fee.
+
+
+### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.5 Circuit Operators > A5.5
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 22
+
+**A5.5** #  Circuit Operators
 
 Circuit Operators are responsible for the Circuit where a Competition takes place. Circuit Operators must comply with the terms and conditions of the Circuit licence issued by the FIA and any requirements set out in ISC Appendix O.
 
+
+### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.6 Officials > A5.6
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 22
+
+**A5.6** #  Officials
+
 Officials have the duties and powers set out in the ISC and Appendix V thereto.
+
+
+### Section A > Article A5: GENERAL ROLES AND RESPONSIBILITIES OF KEY STAKEHOLDERS > A5.7 F1 Teams and PU Manufacturers > A5.7
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 22
+
+**A5.7** #  F1 Teams and PU Manufacturers
 
 \| *Governance: F1 Commission / PU Manufacturers’ Governance Agreement / WMSC*
 
@@ -959,14 +1234,35 @@ The above list is not exhaustive, and the FIA retains the right to expand the li
 
 b. In order that the FIA may be satisfied that any such movement of personnel is not designed to circumvent the requirement to prevent the disclosure of Confidential Information to any existing or prospective fuel/oil supplier or to another PU Manufacturer, each PU Manufacturer must inform the FIA of all relevant personnel movements at the end of each calendar quarter using the template at Appendix A6.
 
+
+### Section A > Article A5: .7.3: > A5.8 F1 Drivers and Other Racing Drivers > A5.8
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 25
+
+**A5.8** #  **F1 Drivers and Other Racing Drivers
+
 F1 Drivers and Other Racing Drivers must comply with the FIA Rules and Regulations at all times, and hold required licences in accordance with Article A3.3.
 
 <mark>\[driver definitions to be reviewed]</mark>
+
+
+### Section A > Article A5: .7.3: > A5.9 Other Covered Persons > A5.9
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 25
+
+**A5.9** #  **Other Covered Persons
 
 All Covered Persons may be individually responsible for breaches of the FIA F1 Regulations (subject to A1.4.2) if so, specified in the FIA F1 Regulations. Without limiting the generality of the foregoing, Declaration Signatories are individually responsible for breaches under the Financial Regulations, as specified in those regulations.
 
 *Advisory Committee: RGAC*
 *Governance: F1 Commission / WMSC*
+
+
+### Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.1 Investigations > A6.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 26
+
+**A6.1** ##  Investigations
 
 
 ### Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.1 Investigations > A6.1.1
@@ -1080,7 +1376,21 @@ investigation under the FIA F1 Regulations and the outcome thereof in accordance
 
 b. F1 Teams and PU Manufacturers shall not by any means prevent any of their Personnel (current or former) or other persons from disclosing to the FIA any Confidential Information that might be relevant to their compliance with the FIA Rules and Regulations.
 
+
+### Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.2 FIA Ethics and Compliance Hotline > A6.2
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 28
+
+**A6.2** ##  FIA Ethics and Compliance Hotline
+
 The FIA ethics and compliance hotline available on the FIA website enables individual whistleblowers to raise confidentially any issues or concerns about alleged breaches of the FIA Rules and Regulations. The FIA will consider any information submitted through the hotline and determine whether or not to open an investigation in accordance with Article A6 and the FIA Judicial and Disciplinary Rules.
+
+
+### Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.3 FIA requests for information/access and Demands > A6.3
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 28
+
+**A6.3** ##  FIA requests for information/access and Demands
 
 
 ### Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.3 FIA requests for information/access and Demands > A6.3.1
@@ -1101,6 +1411,13 @@ SOURCE_PAGE: 28
 **A6.3.2** ###  Failure to comply with a request from the FIA pursuant to Article A6.3.1 will constitute a breach of this Section A (or, for purposes of the Financial Regulations, a Procedural Breach) by the F1 Team or PU Manufacturer (which are strictly liable for its Personnel and the members of its Legal Group and their respective Personnel), save where Applicable Laws may prevent the F1 Team or PU Manufacturer from compliance.
 
 
+### Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.4 Notification of apparent or alleged breaches > A6.4
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 28
+
+**A6.4** ##  Notification of apparent or alleged breaches
+
+
 ### Section A > Article A6: INVESTIGATIONS, RIGHT OF INQUIRY, AND NOTIFICATION OF BREACHES > A6.4 Notification of apparent or alleged breaches > A6.4.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 28
@@ -1119,6 +1436,13 @@ If, after considering the response to the Initial Notice and subsequent correspo
 <mark>*Advisory Committee: RGAC*</mark> <mark>*Governance: F1 Commission / WMSC*</mark>
 
 
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.1 Case resolution without a hearing > A7.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 30
+
+**A7.1** ##  Case resolution without a hearing
+
+
 ### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.1 Case resolution without a hearing > A7.1.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 30
@@ -1133,6 +1457,13 @@ SOURCE_PAGE: 30
 
 **A7.1.2** Accepted Breach Agreement – Financial Regulations**
 The Cost Cap Administration may at any time during proceedings for an alleged breach of the Financial Regulations enter into an Accepted Breach Agreement (“**ABA**”) with the F1 Team, PU Manufacturer, or Declaration Signatory concerned to resolve the matter without a hearing, provided that the requirements and procedure set out in the Financial Regulations are met and followed. There shall be no right of appeal in respect of any decision by the Cost Cap Administration as to whether or not to offer or enter into an ABA.
+
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.2 Adjudication – first instance > A7.2
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 30
+
+**A7.2** ##  Adjudication – first instance
 
 
 ### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.2 Adjudication – first instance > A7.2.1
@@ -1184,6 +1515,13 @@ SOURCE_PAGE: 31
 In accordance with Article 30.2 of the FIA Statutes and ISC Article 11.9.6a, all matters relating to the FIA Anti-Doping Regulations fall within the exclusive competence of the FIA Anti-Doping Disciplinary Committee. The powers and procedures of the Anti-Doping Disciplinary Committee are set out in the FIA Anti-Doping Regulations.
 
 
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.3 Adjudication – appeal > A7.3
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 31
+
+**A7.3** #  Adjudication – appeal
+
+
 ### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.3 Adjudication – appeal > A7.3.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 31
@@ -1200,6 +1538,13 @@ SOURCE_PAGE: 32
 **A7.3.2** Court of Arbitration for Sport (CAS)
 
 In accordance with Article 30.4 of the FIA Statutes and ISC Article 15.10, the Court of Arbitration for Sport is exclusively competent to resolve definitively appeals against the decisions of the Anti-Doping Disciplinary Committee. The powers and procedures of the Court of Arbitration for Sport are set out in the FIA Anti-Doping Regulations (Appendix A to the ISC) and the CAS Code of Sports-related Arbitration.
+
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.4 Referral of first instance matters > A7.4
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 32
+
+**A7.4** Referral of first instance matters
 
 
 ### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.4 Referral of first instance matters > A7.4.1
@@ -1221,6 +1566,13 @@ SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 32
 
 **A7.4.3** Once a matter has been referred to the International Tribunal or (in cases involving the Financial Regulations) to the Cost Cap Adjudication Panel, a Judging Panel will be appointed to hear and determine the case.
+
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.5 Appeals to the ICA > A7.5
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 32
+
+**A7.5** Appeals to the ICA
 
 
 ### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.5 Appeals to the ICA > A7.5.1
@@ -1272,11 +1624,39 @@ SOURCE_PAGE: 33
 
 **A7.5.6** Certain decisions are not subject to appeal in accordance with ISC Article 12.3.4 and as specified in the FIA F1 Regulations. In addition, procedural and interim decisions are not subject to appeal.
 
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.6 Protests > A7.6
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 33
+
+**A7.6** Protests
+
 Protests shall be made and determined in accordance with the ISC and Sporting Regulations and accompanied by a deposit of €20,000 (in accordance with ISC Article 13.4.2) and any additional deposit that may be required pursuant to ISC Article 13.4.3. Deposits may be returned in accordance with ISC Article 13.4.2.
+
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.7 Right of Review > A7.7
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 33
+
+**A7.7** Right of Review
 
 Petitions for Review shall be made in accordance with the ISC and Sporting Regulations and accompanied by a deposit of €20,000 (in accordance with ISC Article 14.4.3). Deposits may be returned in accordance with ISC Article 14.4.3.
 
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.8 FIA representation in proceedings > A7.8
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 33
+
+**A7.8** FIA representation in proceedings
+
 Where a case is referred to the International Tribunal or Cost Cap Adjudication Panel, or appealed to the International Court of Appeal or CAS, FIA Legal shall take over conduct of the matter on behalf of the FIA, assisted as necessary by the FIA Single Seater Department, the Cost Cap Administration, and/or relevant FIA external advisors.
+
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.9 Limitation period > A7.9
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 33
+
+**A7.9** Limitation period
 
 
 ### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.9 Limitation period > A7.9.1
@@ -1320,6 +1700,13 @@ SOURCE_PAGE: 34
 **A7.9.5** The limitation period rules set out above do not apply to anti-doping rule violations, which are subject to the provisions of Appendix A.
 
 
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.10 Burden and standard of proof > A7.10
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 34
+
+**A7.10** ##  Burden and standard of proof
+
+
 ### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.10 Burden and standard of proof > A7.10.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 34
@@ -1339,6 +1726,13 @@ SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 34
 
 **A7.10.3** Unless specified otherwise, liability for compliance with the FIA F1 Regulations is strict, i.e. the FIA is not required to prove that the relevant party committed the alleged breach intentionally, recklessly, negligently, or knowingly.
+
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.11 Evidence > A7.11
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 34
+
+**A7.11** ##  Evidence
 
 
 ### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.11 Evidence > A7.11.1
@@ -1366,6 +1760,13 @@ SOURCE_PAGE: 34
 * c. appears at a hearing but refuses or fails to respond to any question put to them by or with the permission of the Judging Panel,
 
 the FIA or the relevant Judging Panel may infer that the document or other information or answer(s) (as applicable) would be adverse to the interests of that party.
+
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.12 Sanctions > A7.12
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 34
+
+**A7.12** ##  Sanctions
 
 
 ### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.12 Sanctions > A7.12.1
@@ -1460,7 +1861,21 @@ a. Payment of all Financial Penalties under the FIA F1 Regulations shall be made
 
 b. Subject to paragraph a, any delay in the payment of fines under the FIA F1 Regulations automatically divests the Covered Person concerned of the right to participate in the Championship until that payment has been made. Late payments shall accrue an interest of 2% above the US Federal Reserve System federal funds rate on the relevant due date.
 
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.13 Costs > A7.13
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 36
+
+**A7.13** Costs
+
 Unless specified otherwise in the FIA F1 Regulations, the costs of the investigation, proceedings, and legal costs will be determined by the Judging Panel in accordance with the FIA Judicial and Disciplinary Rules.
+
+
+### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.14 Immunity > A7.14
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 36
+
+**A7.14** Immunity
 
 
 ### Section A > Article A7: ADJUDICATION OF BREACHES AND SANCTIONS > A7.14 Immunity > A7.14.1
@@ -1512,6 +1927,13 @@ SOURCE_PAGE: 37
 *Governance: F1 Commission / WMSC*
 
 
+### Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.1 Confidentiality > A8.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 38
+
+**A8.1** ##  Confidentiality
+
+
 ### Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.1 Confidentiality > A8.1.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 38
@@ -1524,6 +1946,13 @@ SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 38
 
 **A8.1.2** The FIA, the Stewards, and the FIA Courts will have appropriate procedures in place to maintain the confidentiality of any Confidential Information provided to them in the exercise of their respective regulatory functions.
+
+
+### Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.2 Public reporting > A8.2
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 38
+
+**A8.2** ##  Public reporting
 
 
 ### Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.2 Public reporting > A8.2.1
@@ -1606,6 +2035,13 @@ SOURCE_PAGE: 39
 
 **A8.2.9** Any breach of confidentiality that is attributed to an F1 Team or a PU Manufacturer (including based on comments made by their respective Personnel, representatives, or Legal Groups) or other Covered Person charged with a breach (or their representatives) shall constitute a breach of this Section A (or, for purposes of the Financial Regulations, a Procedural Breach).
 
+
+### Section A > Article A8: CONFIDENTIALITY, PUBLIC REPORTING, AND DATA PRIVACY > A8.3 Data privacy > A8.3
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 39
+
+**A8.3** ##  Data privacy
+
 The FIA, as data controller, will process personal information for the purpose of exercising the regulatory functions under the FIA F1 Regulations. The details on how the FIA will process personal data, manage data subject rights, and how such rights may be exercised can be found at
 
 [www.fia.com/motorsport-privacy-notice](http://www.fia.com/motorsport-privacy-notice)
@@ -1614,6 +2050,13 @@ The FIA, as data controller, will process personal information for the purpose o
 
 Advisory Committee: RGAC
 Governance: F1 Commission / WMSC
+
+
+### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.1 Effective period of the FIA F1 Regulations > A9.1
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 40
+
+**A9.1** ##  Effective period of the FIA F1 Regulations
 
 
 ### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.1 Effective period of the FIA F1 Regulations > A9.1.1
@@ -1637,6 +2080,13 @@ SOURCE_PAGE: 40
 * f. the requirement to comply with specific sections of the FIA F1 Regulations for a certain period before the first entry into the Championship or the first homologation of a Power Unit as specified in the relevant Sections of the FIA F1 Regulations (including Articles A3.5.2 and A3.6.5).
 
 
+### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.2 Effective period of FIA F1 Documents > A9.2
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 40
+
+**A9.2** ##  Effective period of FIA F1 Documents
+
+
 ### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.2 Effective period of FIA F1 Documents > A9.2.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 40
@@ -1656,6 +2106,13 @@ SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 40
 
 **A9.2.3** The FIA may circulate an FIA F1 Document in draft form to seek feedback from the F1 Teams or PU Manufacturers before its formal issuing. Such feedback may be used by the FIA to update the draft FIA F1 Document before its issuance.
+
+
+### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.3 Amendments > A9.3
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 40
+
+**A9.3** ##  Amendments
 
 
 ### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.3 Amendments > A9.3.1
@@ -1682,6 +2139,13 @@ SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 41
 
 **A9.3.3** Subject to this Article A9.3, the FIA F1 Regulations for each calendar year will be assumed to be identical to those of the previous calendar year.
+
+
+### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.4 Interpretation > A9.4
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 41
+
+**A9.4** ##  Interpretation
 
 
 ### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.4 Interpretation > A9.4.1
@@ -1767,6 +2231,13 @@ b. Any text displayed in orange (e.g. <mark>**\[FIA-F1-DOCxxx]**</mark>) provide
 c. Any text displayed in green (e.g. <mark>**\[abcde]**</mark>) provides context for the provision or intended regulatory developments.
 
 
+### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.5 Requests for clarification and FIA feedback > A9.5
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 43
+
+**A9.5** #  Requests for clarification and FIA feedback
+
+
 ### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.5 Requests for clarification and FIA feedback > A9.5.1
 SOURCE_FILE: 2026_f1_regulations_section_a.pdf
 SOURCE_PAGE: 43
@@ -1814,9 +2285,30 @@ SOURCE_PAGE: 43
 
 **A9.5.6** Any clarifications or feedback provided by the FIA shall be advisory only and shall not constitute part of the FIA F1 Regulations.
 
+
+### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.6 Language of communication with the FIA > A9.6
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 43
+
+**A9.6** #  Language of communication with the FIA
+
 All correspondence, documentation, and information submitted to the FIA shall be in English. The FIA may require an F1 Team or PU Manufacturer or other Covered Person to provide (at their own expense) a certified translation into English of any document relied upon in connection with their compliance with the FIA F1 Regulations.
 
+
+### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.7 Reliance on FIA communications > A9.7
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 43
+
+**A9.7** #  Reliance on FIA communications
+
 Any communication from the FIA that is not in writing, either by letter or email, cannot be relied upon by F1 Teams, PU Manufacturers, or other Covered Persons as representing the definitive position of the FIA.
+
+
+### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.8 Transitional provisions > A9.8
+SOURCE_FILE: 2026_f1_regulations_section_a.pdf
+SOURCE_PAGE: 43
+
+**A9.8** #  Transitional provisions
 
 
 ### Section A > Article A9: EFFECTIVE PERIOD, AMENDMENTS, INTERPRETATION, AND MISCELLANEOUS > A9.8 Transitional provisions > A9.8.1
