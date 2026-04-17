@@ -30,6 +30,16 @@ def run_guru():
             for node, state in event.items():
                 print(f"--- Finished executing: {node} ---")
 
+                if node == "cross_reference_node":
+                    fetched_ids = set(
+                        [
+                            m.get("rule_id")
+                            for m in state.get("metadatas", [])
+                            if m.get("rule_id")
+                        ]
+                    )
+                    print(f"    > Context now contains rules: {list(fetched_ids)}")
+
         final_state = app.get_state(config)
         print(f"\n[GURU]: {final_state.values['answer']}")
 

@@ -1,21 +1,15 @@
+import re
 import torch
-import chromadb
-from pathlib import Path
 from ollama import chat
 from langgraph.types import Command
 from sentence_transformers import CrossEncoder
-from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
 from .state import AgentState
 
-BASE_DIR = Path(__file__).parent.parent.parent
-DB_PATH = str(BASE_DIR / "db")
+from ..db_client import get_collection, fetch_full_rule
 
 
-def get_device() -> str:
-    """
-    Detects the best available hardware accelerator.
-    Logic: CUDA (Nvidia) > MPS (Apple Silicon) > CPU
-    """
+def get_device():
+    """Detects hardware accelerator: CUDA > MPS > CPU."""
     if torch.cuda.is_available():
         return "cuda"
     elif hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
@@ -25,42 +19,38 @@ def get_device() -> str:
 
 DEVICE = get_device()
 
+_RERANKER = None
+
+
+def get_reranker():
+    global _RERANKER
+    if _RERANKER is None:
+        print("DEBUG: Initializing BGE-Reranker into MPS Memory...")
+        _RERANKER = CrossEncoder("BAAI/bge-reranker-v2-m3", device=DEVICE)
+    return _RERANKER
+
 
 def retrieve_node(state: AgentState):
-    """
-    NODE: Retriever
-    Fetches chunks from ChromaDB. Includes 'Pivot Boosting' for loops.
-    """
+    """NODE: Retriever - High-recall semantic search followed by precision reranking."""
     print(f"\n--- NODE: RETRIEVER (Loop: {state['loop_count']}) ---")
 
     search_term = state.get("transformed_query") or state["query"]
-
-    if state["loop_count"] > 0:
-        search_term = f"FIA sanctions penalties breach non-compliance technical regulation {search_term}"
-        print(f"DEBUG: Boosted search term: {search_term}")
-
-    client = chromadb.PersistentClient(path=DB_PATH)
-    embedding_func = SentenceTransformerEmbeddingFunction(
-        model_name="BAAI/bge-m3", device=DEVICE
-    )
-    collection = client.get_collection(
-        name="f1_2026_regulations", embedding_function=embedding_func
-    )
+    collection = get_collection()
 
     n_recall = 15 if state["loop_count"] == 0 else 25
     results = collection.query(query_texts=[search_term], n_results=n_recall)
 
-    chunks = results["documents"][0]
-    metadatas = results["metadatas"][0]
-
-    reranker = CrossEncoder("BAAI/bge-reranker-v2-m3", device=DEVICE)
-    pairs = [[state["query"], chunk] for chunk in chunks]
+    reranker = get_reranker()
+    pairs = [[state["query"], chunk] for chunk in results["documents"][0]]
     scores = reranker.predict(pairs)
 
     scored_results = sorted(
-        zip(scores, chunks, metadatas), key=lambda x: x[0], reverse=True
+        zip(scores, results["documents"][0], results["metadatas"][0]),
+        key=lambda x: x[0],
+        reverse=True,
     )
-    top_results = scored_results[:4]
+
+    top_results = scored_results[:5]
 
     return {
         "context": [item[1] for item in top_results],
@@ -69,83 +59,88 @@ def retrieve_node(state: AgentState):
     }
 
 
-def transform_query_node(state: AgentState) -> Command:
-    """
-    NODE: Transform Query
-    Rethinks the search strategy based on the 'Grade' of previous results.
-    """
-    print("--- NODE: TRANSFORM QUERY ---")
+def cross_reference_node(state: AgentState):
+    """NODE: Cross-Referencer - Deterministic enrichment via explicit regulatory citations."""
+    print("--- NODE: CROSS-REFERENCER ---")
 
-    strategy_hint = ""
-    if state["grade"] == "partial":
-        strategy_hint = (
-            "CRITICAL HINT: You have the technical limit but are missing the PENALTY. "
-            "STOP searching for specific car parts. Search for GENERAL SANCTIONS, "
-            "DISQUALIFICATION rules, or Section A/B Breach consequences."
-        )
+    chunks_to_scan = state["context"][:3]
+    existing_rule_ids = {
+        str(m.get("rule_id")) for m in state["metadatas"] if m.get("rule_id")
+    }
 
-    prompt = (
-        f"Original User Query: {state['query']}\n"
-        f"Last Search Result Grade: {state['grade']}\n\n"
-        f"{strategy_hint}\n\n"
-        "Generate a high-precision search query for the 2026 FIA regulations. "
-        "Output ONLY the query string, no explanation or quotes."
-    )
+    new_context, new_metadatas = [], []
 
-    response = chat(model="gemma4:e4b", messages=[{"role": "user", "content": prompt}])
-    new_query = response.message.content.strip().replace('"', "")
+    pattern = r"Article\s+([A-F]?\d+(?:\.\d+)*)"
 
-    print(f"DEBUG: Pivoting search strategy to: {new_query}")
+    for text in chunks_to_scan:
+        matches = re.findall(pattern, text, re.IGNORECASE)
+        for match in matches:
+            clean_match = match.strip().upper()
 
-    return Command(update={"transformed_query": new_query}, goto="retrieve_node")
+            if any(clean_match in eid for eid in existing_rule_ids):
+                continue
+
+            fetched_data = fetch_full_rule(clean_match)
+            if fetched_data:
+                print(
+                    f"SUCCESS: Enriching context with referenced Article {clean_match}"
+                )
+                for doc, meta in fetched_data:
+                    new_context.append(doc)
+                    new_metadatas.append(meta)
+                    existing_rule_ids.add(str(meta.get("rule_id")))
+            else:
+                existing_rule_ids.add(clean_match)
+
+    return {"context": new_context, "metadatas": new_metadatas}
 
 
 def grader_node(state: AgentState) -> Command:
-    """
-    NODE: Grader
-    Evaluates context. Fixed to handle 'Chatty LLM' responses and substring traps.
-    """
+    """NODE: Grader - Verifies evidentiary sufficiency."""
     print("--- NODE: GRADER ---")
 
     context_str = "\n".join(state["context"])
     prompt = (
         f"Query: {state['query']}\n"
         f"Context: {context_str}\n\n"
-        "Critically evaluate if the context allows for a complete answer:\n"
-        "1. If it has BOTH the rule AND the specific penalties, reply 'RELEVANT'.\n"
-        "2. If it has only one part, reply 'PARTIAL'.\n"
-        "3. If it has neither, reply 'IRRELEVANT'.\n"
-        "Reply ONLY with the word."
+        "Evaluate if the provided context contains the necessary regulatory evidence to answer the query.\n"
+        "1. RELEVANT: The context contains the specific articles, rules, or definitions requested.\n"
+        "2. PARTIAL: The context is related but lacks specific referenced details.\n"
+        "3. IRRELEVANT: The context does not address the query.\n"
+        "Respond ONLY with one word: RELEVANT, PARTIAL, or IRRELEVANT."
     )
 
     response = chat(model="gemma4:e4b", messages=[{"role": "user", "content": prompt}])
-    grade_raw = response.message.content.strip().upper()
+    grade = response.message.content.strip().upper()
+    print(f"DEBUG: Evidence Grade -> {grade}")
 
-    print(f"DEBUG: Raw Grader Output: {grade_raw}")
-
-    if "RELEVANT" in grade_raw and "IRRELEVANT" not in grade_raw:
-        print("DEBUG: Logic Gate -> GENERATE")
-        return Command(update={"grade": "relevant"}, goto="generate_node")
-
+    if "RELEVANT" in grade and "IRRELEVANT" not in grade:
+        return Command(goto="generate_node")
     elif state["loop_count"] < 3:
-        determined_grade = (
-            "partial"
-            if "PARTIAL" in grade_raw or "MISSING" in grade_raw
-            else "irrelevant"
-        )
-        print(f"DEBUG: Logic Gate -> TRANSFORM ({determined_grade})")
-        return Command(update={"grade": determined_grade}, goto="transform_query_node")
+        return Command(update={"grade": grade.lower()}, goto="transform_query_node")
 
-    else:
-        print("DEBUG: Logic Gate -> FORCE GENERATE (Max Loops)")
-        return Command(update={"grade": "failed"}, goto="generate_node")
+    return Command(goto="generate_node")
+
+
+def transform_query_node(state: AgentState) -> Command:
+    """NODE: Transform Query - Multi-perspective re-searching."""
+    print("--- NODE: TRANSFORM QUERY ---")
+
+    prompt = (
+        f"Query: {state['query']}\n"
+        f"Context Sufficiency: {state['grade']}\n\n"
+        "Generate a high-precision search query for FIA regs. Output ONLY the query string."
+    )
+
+    response = chat(model="gemma4:e4b", messages=[{"role": "user", "content": prompt}])
+    return Command(
+        update={"transformed_query": response.message.content.strip()},
+        goto="retrieve_node",
+    )
 
 
 def generate_node(state: AgentState):
-    """
-    NODE: Generator
-    Synthesizes the answer by connecting technical limits to legal sanctions.
-    """
+    """NODE: Generator - Synthesis of regulatory evidence with breadcrumb footer."""
     print("--- NODE: GENERATOR ---")
 
     formatted_context = ""
@@ -153,12 +148,13 @@ def generate_node(state: AgentState):
         formatted_context += f"--- RULE {meta.get('rule_id')} ---\n{doc}\n\n"
 
     system_prompt = (
-        "You are an expert F1 Technical Delegate. Connect technical limits with legal consequences.\n\n"
-        "INSTRUCTIONS:\n"
-        "1. Cross-reference technical limits (Section C) with general penalties (Section A/B).\n"
-        "2. Cite specific Rule IDs for both the limit and the penalty.\n"
-        "3. If the context is still missing the penalty, admit it clearly.\n\n"
-        f"REGULATORY CONTEXT:\n{formatted_context}"
+        "You are the FIA Regulatory Intelligence System. Answer with extreme brevity and precision.\n\n"
+        "STRICT CONSTRAINTS:\n"
+        "1. Provide ONLY the direct, technical answer. No introductions or disclaimers.\n"
+        "2. Use ONLY the provided context. If data is missing, state 'Information not found in regulations.'\n"
+        "3. Cite every Rule ID used (e.g., [C4.1]).\n"
+        "4. Avoid indirect or speculative data.\n\n"
+        f"CONTEXT:\n{formatted_context}"
     )
 
     response = chat(
@@ -169,4 +165,14 @@ def generate_node(state: AgentState):
         ],
     )
 
-    return {"answer": response.message.content}
+    footer = "\n\n---\n**Sources used:**"
+    seen_breadcrumbs = set()
+    for meta in state["metadatas"]:
+        bc = meta.get("breadcrumb")
+        src = meta.get("source_pdf")
+        pg = meta.get("page_number")
+        if bc and bc not in seen_breadcrumbs:
+            footer += f"\n* {bc} (Source: {src}, Page: {pg})"
+            seen_breadcrumbs.add(bc)
+
+    return {"answer": response.message.content + footer}
