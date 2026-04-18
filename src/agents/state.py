@@ -12,9 +12,13 @@ def unique_add(left: list, right: list) -> list:
 
 class AgentState(TypedDict):
     query: str
+    summary: str
+    plan: List[str]
+    tasks_done: int
     transformed_query: str
     context: Annotated[List[str], unique_add]
     metadatas: Annotated[List[dict], unique_add]
     answer: str
+    sources_footer: str
     grade: str
     loop_count: int
